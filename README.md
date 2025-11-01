@@ -191,30 +191,3 @@ The evaluation process begins by selecting a specific level from the input and p
 ## Summary
 
 ProjectEvalPlus introduces automated evaluation tools and heterogeneous software verification systems, enabling fine-grained comparison of model outputs across semantically equivalent input formats. This provides deeper insight into a model understanding of end-to-end software development.
-
-
-# 🖊Citation
-
-```
-@misc{liu2025projectevalbenchmarkprogrammingagents,
-      title={ProjectEval: A Benchmark for Programming Agents Automated Evaluation on Project-Level Code Generation}, 
-      author={Kaiyuan Liu and Youcheng Pan and Yang Xiang and Daojing He and Jing Li and Yexing Du and Tianrun Gao},
-      year={2025},
-      eprint={2503.07010},
-      archivePrefix={arXiv},
-      primaryClass={cs.SE},
-      url={https://arxiv.org/abs/2503.07010}, 
-}
-```
-
-# ❗Known Issues
-
-- [ ] There is a request made during the execution evaluation. We are working on removing it.
-
-# ☘Feature in Future
-
-- [ ] Full explanation about the ProjectEval projects.
-
-- [ ] Java Version Canonical Answer
-
-- [ ] Leaderboard Update
