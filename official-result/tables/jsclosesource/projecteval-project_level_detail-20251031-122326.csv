@@ -1,0 +1,724 @@
+date,model,mode,timestamp,level,project_id,pass,total,reason
+js-closesources,gpt-3.5-turbo,cascade,20251029-103141,1,1,0,11,The process was never started.
+js-closesources,gpt-3.5-turbo,cascade,20251029-103141,1,2,0,9,"  File ""C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\2\start.py"", line 1
+    This file is used for starting the Java project. Do not solve the problem in it.
+         ^^^^
+SyntaxError: invalid syntax
+  File ""C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\2\start.py"", line 1
+    This file is used for starting the Java project. Do not solve the problem in it.
+         ^^^^
+SyntaxError: invalid syntax
+"
+js-closesources,gpt-3.5-turbo,cascade,20251029-103141,1,3,0,16,The process was never started.
+js-closesources,gpt-3.5-turbo,cascade,20251029-103141,1,4,0,17,The process was never started.
+js-closesources,gpt-3.5-turbo,cascade,20251029-103141,1,5,0,13,The process was never started.
+js-closesources,gpt-3.5-turbo,cascade,20251029-103141,1,6,0,20,The process was never started.
+js-closesources,gpt-3.5-turbo,cascade,20251029-103141,1,7,0,24,The process was never started.
+js-closesources,gpt-3.5-turbo,cascade,20251029-103141,1,8,0,18,"  File ""C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\8\start.py"", line 1
+    Start script for the NodeJS project
+          ^^^^^^
+SyntaxError: invalid syntax
+  File ""C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\8\start.py"", line 1
+    Start script for the NodeJS project
+          ^^^^^^
+SyntaxError: invalid syntax
+"
+js-closesources,gpt-3.5-turbo,cascade,20251029-103141,1,9,0,13,"  File ""C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\9\start.py"", line 1
+    // This file is used to start the NodeJS project
+    ^^
+SyntaxError: invalid syntax
+  File ""C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\9\start.py"", line 1
+    // This file is used to start the NodeJS project
+    ^^
+SyntaxError: invalid syntax
+"
+js-closesources,gpt-3.5-turbo,cascade,20251029-103141,1,10,0,21,The process was never started.
+js-closesources,gpt-3.5-turbo,cascade,20251029-103141,1,11,0,8,The process was never started.
+js-closesources,gpt-3.5-turbo,cascade,20251029-103141,1,12,0,18,"python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\12\\somepath\\start.py': [Errno 2] No such file or directory
+python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\12\\somepath\\start.py': [Errno 2] No such file or directory
+"
+js-closesources,gpt-3.5-turbo,cascade,20251029-103141,1,13,0,25,"python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\13\\somepath\\start.py': [Errno 2] No such file or directory
+python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\13\\somepath\\start.py': [Errno 2] No such file or directory
+"
+js-closesources,gpt-3.5-turbo,cascade,20251029-103141,1,14,0,5,"python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\14\\somepath\\start.py': [Errno 2] No such file or directory
+python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\14\\somepath\\start.py': [Errno 2] No such file or directory
+"
+js-closesources,gpt-3.5-turbo,cascade,20251029-103141,1,15,0,3,The process was never started.
+js-closesources,gpt-3.5-turbo,cascade,20251029-103141,1,16,3,9,N/A
+js-closesources,gpt-3.5-turbo,cascade,20251029-103141,1,17,2,6,N/A
+js-closesources,gpt-3.5-turbo,cascade,20251029-103141,1,18,1,14,N/A
+js-closesources,gpt-3.5-turbo,cascade,20251029-103141,1,19,1,8,N/A
+js-closesources,gpt-3.5-turbo,cascade,20251029-103141,1,20,0,26,"  File ""C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\start.py"", line 1
+    This file is used for starting the NodeJS project. If third party packages are used, 'npm install <sth>' command should be added.
+         ^^^^
+SyntaxError: invalid syntax
+  File ""C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\start.py"", line 1
+    This file is used for starting the NodeJS project. If third party packages are used, 'npm install <sth>' command should be added.
+         ^^^^
+SyntaxError: invalid syntax
+"
+js-closesources,gpt-3.5-turbo,cascade,20251029-103801,2,1,0,11,"python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\1\\somepath\\start.py': [Errno 2] No such file or directory
+python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\1\\somepath\\start.py': [Errno 2] No such file or directory
+"
+js-closesources,gpt-3.5-turbo,cascade,20251029-103801,2,2,0,9,The process was never started.
+js-closesources,gpt-3.5-turbo,cascade,20251029-103801,2,3,0,16,"python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\3\\src\\start.py': [Errno 2] No such file or directory
+python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\3\\src\\start.py': [Errno 2] No such file or directory
+"
+js-closesources,gpt-3.5-turbo,cascade,20251029-103801,2,4,0,17,The process was never started.
+js-closesources,gpt-3.5-turbo,cascade,20251029-103801,2,5,0,13,"  File ""C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\5\start.py"", line 1
+    // This file is used to start the NodeJS project. Add necessary commands here.
+    ^^
+SyntaxError: invalid syntax
+  File ""C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\5\start.py"", line 1
+    // This file is used to start the NodeJS project. Add necessary commands here.
+    ^^
+SyntaxError: invalid syntax
+"
+js-closesources,gpt-3.5-turbo,cascade,20251029-103801,2,6,0,20,The process was never started.
+js-closesources,gpt-3.5-turbo,cascade,20251029-103801,2,7,0,24,The process was never started.
+js-closesources,gpt-3.5-turbo,cascade,20251029-103801,2,8,0,18,"python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\8\\somepath\\start.py': [Errno 2] No such file or directory
+python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\8\\somepath\\start.py': [Errno 2] No such file or directory
+"
+js-closesources,gpt-3.5-turbo,cascade,20251029-103801,2,9,0,13,The process was never started.
+js-closesources,gpt-3.5-turbo,cascade,20251029-103801,2,10,0,21,The process was never started.
+js-closesources,gpt-3.5-turbo,cascade,20251029-103801,2,11,0,8,The process was never started.
+js-closesources,gpt-3.5-turbo,cascade,20251029-103801,2,12,0,18,The process was never started.
+js-closesources,gpt-3.5-turbo,cascade,20251029-103801,2,13,0,25,The process was never started.
+js-closesources,gpt-3.5-turbo,cascade,20251029-103801,2,14,0,5,"python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\14\\somepath\\start.py': [Errno 2] No such file or directory
+python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\14\\somepath\\start.py': [Errno 2] No such file or directory
+"
+js-closesources,gpt-3.5-turbo,cascade,20251029-103801,2,15,0,3,The process was never started.
+js-closesources,gpt-3.5-turbo,cascade,20251029-103801,2,16,3,9,N/A
+js-closesources,gpt-3.5-turbo,cascade,20251029-103801,2,17,2,6,N/A
+js-closesources,gpt-3.5-turbo,cascade,20251029-103801,2,18,1,14,N/A
+js-closesources,gpt-3.5-turbo,cascade,20251029-103801,2,19,1,8,N/A
+js-closesources,gpt-3.5-turbo,cascade,20251029-103801,2,20,0,26,"  File ""C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\start.py"", line 1
+    Python script to start the project
+           ^^^^^^
+SyntaxError: invalid syntax
+  File ""C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\start.py"", line 1
+    Python script to start the project
+           ^^^^^^
+SyntaxError: invalid syntax
+"
+js-closesources,gpt-3.5-turbo,direct,20251029-104251,1,1,0,11,The process was never started.
+js-closesources,gpt-3.5-turbo,direct,20251029-104251,1,2,0,9,"python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\2\\somepath\\start.py': [Errno 2] No such file or directory
+python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\2\\somepath\\start.py': [Errno 2] No such file or directory
+"
+js-closesources,gpt-3.5-turbo,direct,20251029-104251,1,3,0,16,The process was never started.
+js-closesources,gpt-3.5-turbo,direct,20251029-104251,1,4,0,17,"npm error code EJSONPARSE
+npm error JSON.parse Invalid package.json: JSONParseError: Expected property name or '}' in JSON at position 2 (line 1 column 3) while parsing ""{ ... }""
+npm error JSON.parse Failed to parse JSON data.
+npm error JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+npm error A complete log of this run can be found in: C:\Users\13468\AppData\Local\npm-cache\_logs\2025-10-31T05_07_54_844Z-debug-0.log
+npm error code EJSONPARSE
+npm error JSON.parse Invalid package.json: JSONParseError: Expected property name or '}' in JSON at position 2 (line 1 column 3) while parsing ""{ ... }""
+npm error JSON.parse Failed to parse JSON data.
+npm error JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+npm error A complete log of this run can be found in: C:\Users\13468\AppData\Local\npm-cache\_logs\2025-10-31T05_07_56_982Z-debug-0.log
+npm error code EJSONPARSE
+npm error JSON.parse Invalid package.json: JSONParseError: Expected property name or '}' in JSON at position 2 (line 1 column 3) while parsing ""{ ... }""
+npm error JSON.parse Failed to parse JSON data.
+npm error JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+npm error A complete log of this run can be found in: C:\Users\13468\AppData\Local\npm-cache\_logs\2025-10-31T05_07_57_727Z-debug-0.log
+"
+js-closesources,gpt-3.5-turbo,direct,20251029-104251,1,5,0,13,N/A
+js-closesources,gpt-3.5-turbo,direct,20251029-104251,1,6,0,20,"
+added 70 packages, and audited 71 packages in 15s
+
+14 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+"
+js-closesources,gpt-3.5-turbo,direct,20251029-104251,1,7,0,24,The process was never started.
+js-closesources,gpt-3.5-turbo,direct,20251029-104251,1,8,0,18,"
+added 69 packages, and audited 70 packages in 6s
+
+14 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+"
+js-closesources,gpt-3.5-turbo,direct,20251029-104251,1,9,0,13,N/A
+js-closesources,gpt-3.5-turbo,direct,20251029-104251,1,10,0,21,"python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\10\\start.py': [Errno 2] No such file or directory
+"
+js-closesources,gpt-3.5-turbo,direct,20251029-104251,1,11,0,8,"npm error code EJSONPARSE
+npm error JSON.parse Invalid package.json: JSONParseError: Unexpected token ""/"" (0x2F), ""/* Your pa""... is not valid JSON while parsing '/* Your package.json content here */'
+npm error JSON.parse Failed to parse JSON data.
+npm error JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+npm error A complete log of this run can be found in: C:\Users\13468\AppData\Local\npm-cache\_logs\2025-10-31T05_14_06_108Z-debug-0.log
+python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\11\\project\\start.py': [Errno 2] No such file or directory
+"
+js-closesources,gpt-3.5-turbo,direct,20251029-104251,1,12,0,18,"npm error code EJSONPARSE
+npm error JSON.parse Invalid package.json: JSONParseError: Unexpected token ""/"" (0x2F), ""/* NodeJS ""... is not valid JSON while parsing '/* NodeJS project dependencies */'
+npm error JSON.parse Failed to parse JSON data.
+npm error JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+npm error A complete log of this run can be found in: C:\Users\13468\AppData\Local\npm-cache\_logs\2025-10-31T05_15_13_896Z-debug-0.log
+python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\12\\project\\start.py': [Errno 2] No such file or directory
+"
+js-closesources,gpt-3.5-turbo,direct,20251029-104251,1,13,0,25,"npm error code EJSONPARSE
+npm error JSON.parse Invalid package.json: JSONParseError: Unexpected token ""/"" (0x2F), ""/* Project""... is not valid JSON while parsing '/* Project dependencies and scripts */'
+npm error JSON.parse Failed to parse JSON data.
+npm error JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+npm error A complete log of this run can be found in: C:\Users\13468\AppData\Local\npm-cache\_logs\2025-10-31T05_16_20_837Z-debug-0.log
+"
+js-closesources,gpt-3.5-turbo,direct,20251029-104251,1,14,0,5,"npm error code EJSONPARSE
+npm error JSON.parse Invalid package.json: JSONParseError: Expected double-quoted property name in JSON at position 29 (line 1 column 30) while parsing near ""...helloworld_website\"",...""
+npm error JSON.parse Failed to parse JSON data.
+npm error JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+npm error A complete log of this run can be found in: C:\Users\13468\AppData\Local\npm-cache\_logs\2025-10-31T05_17_28_048Z-debug-0.log
+The syntax of the command is incorrect.
+"
+js-closesources,gpt-3.5-turbo,direct,20251029-104251,1,15,0,3,"
+up to date, audited 1 package in 405ms
+
+found 0 vulnerabilities
+"
+js-closesources,gpt-3.5-turbo,direct,20251029-104251,1,16,3,9,N/A
+js-closesources,gpt-3.5-turbo,direct,20251029-104251,1,17,2,6,N/A
+js-closesources,gpt-3.5-turbo,direct,20251029-104251,1,18,0,14,N/A
+js-closesources,gpt-3.5-turbo,direct,20251029-104251,1,19,1,8,N/A
+js-closesources,gpt-3.5-turbo,direct,20251029-104251,1,20,0,26,"python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\20\\src\\start.py': [Errno 2] No such file or directory
+python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\20\\src\\start.py': [Errno 2] No such file or directory
+"
+js-closesources,gpt-3.5-turbo,direct,20251029-104710,2,1,0,11,The process was never started.
+js-closesources,gpt-3.5-turbo,direct,20251029-104710,2,2,0,9,The process was never started.
+js-closesources,gpt-3.5-turbo,direct,20251029-104710,2,3,0,16,The process was never started.
+js-closesources,gpt-3.5-turbo,direct,20251029-104710,2,4,0,17,"
+added 69 packages, and audited 70 packages in 12s
+
+14 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+"
+js-closesources,gpt-3.5-turbo,direct,20251029-104710,2,5,0,13,"python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\5\\src\\start.py': [Errno 2] No such file or directory
+python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\5\\src\\start.py': [Errno 2] No such file or directory
+"
+js-closesources,gpt-3.5-turbo,direct,20251029-104710,2,6,0,20,"python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\6\\nodejs-project\\start.py': [Errno 2] No such file or directory
+"
+js-closesources,gpt-3.5-turbo,direct,20251029-104710,2,7,0,24,"python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\7\\nodejs-project\\start.py': [Errno 2] No such file or directory
+"
+js-closesources,gpt-3.5-turbo,direct,20251029-104710,2,8,0,18,"
+up to date, audited 1 package in 419ms
+
+found 0 vulnerabilities
+"
+js-closesources,gpt-3.5-turbo,direct,20251029-104710,2,9,0,13,The process was never started.
+js-closesources,gpt-3.5-turbo,direct,20251029-104710,2,10,0,21,"python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\10\\nodejs-project\\start.py': [Errno 2] No such file or directory
+python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\10\\nodejs-project\\start.py': [Errno 2] No such file or directory
+"
+js-closesources,gpt-3.5-turbo,direct,20251029-104710,2,11,0,8,"python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\11\\src\\start.py': [Errno 2] No such file or directory
+python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\11\\src\\start.py': [Errno 2] No such file or directory
+"
+js-closesources,gpt-3.5-turbo,direct,20251029-104710,2,12,0,18,"
+up to date, audited 1 package in 458ms
+
+found 0 vulnerabilities
+"
+js-closesources,gpt-3.5-turbo,direct,20251029-104710,2,13,0,25,"
+up to date, audited 1 package in 428ms
+
+found 0 vulnerabilities
+"
+js-closesources,gpt-3.5-turbo,direct,20251029-104710,2,14,0,5,"python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\14\\start.py': [Errno 2] No such file or directory
+"
+js-closesources,gpt-3.5-turbo,direct,20251029-104710,2,15,0,3,The process was never started.
+js-closesources,gpt-3.5-turbo,direct,20251029-104710,2,16,3,9,N/A
+js-closesources,gpt-3.5-turbo,direct,20251029-104710,2,17,2,6,N/A
+js-closesources,gpt-3.5-turbo,direct,20251029-104710,2,18,1,14,N/A
+js-closesources,gpt-3.5-turbo,direct,20251029-104710,2,19,1,8,N/A
+js-closesources,gpt-3.5-turbo,direct,20251029-104710,2,20,0,26,"
+added 69 packages, and audited 70 packages in 13s
+
+14 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+"
+js-closesources,gpt-3.5-turbo,direct,20251029-105119,3,1,0,11,"  File ""C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\1\start.py"", line 8
+    /**
+    ^
+SyntaxError: invalid syntax
+"
+js-closesources,gpt-3.5-turbo,direct,20251029-105119,3,2,0,9,"
+added 77 packages, and audited 78 packages in 6s
+
+14 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+up to date, audited 78 packages in 6s
+
+14 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+"
+js-closesources,gpt-3.5-turbo,direct,20251029-105119,3,3,1,16,N/A
+js-closesources,gpt-3.5-turbo,direct,20251029-105119,3,4,0,17,"  File ""C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\4\start.py"", line 9
+    /**
+    ^
+SyntaxError: invalid syntax
+  File ""C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\4\start.py"", line 9
+    /**
+    ^
+SyntaxError: invalid syntax
+"
+js-closesources,gpt-3.5-turbo,direct,20251029-105119,3,5,1,13,N/A
+js-closesources,gpt-3.5-turbo,direct,20251029-105119,3,6,0,20,The process was never started.
+js-closesources,gpt-3.5-turbo,direct,20251029-105119,3,7,0,24,"
+added 83 packages, and audited 84 packages in 18s
+
+14 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+up to date, audited 84 packages in 6s
+
+14 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+Server started
+"
+js-closesources,gpt-3.5-turbo,direct,20251029-105119,3,8,0,18,"
+added 77 packages, and audited 78 packages in 6s
+
+14 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+up to date, audited 78 packages in 6s
+
+14 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+up to date, audited 78 packages in 6s
+
+14 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+"
+js-closesources,gpt-3.5-turbo,direct,20251029-105119,3,9,0,13,"
+added 77 packages, and audited 78 packages in 6s
+
+14 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+up to date, audited 78 packages in 6s
+
+14 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+up to date, audited 78 packages in 6s
+
+14 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+Server starting...
+"
+js-closesources,gpt-3.5-turbo,direct,20251029-105119,3,10,0,21,"
+added 83 packages, and audited 84 packages in 13s
+
+14 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+up to date, audited 84 packages in 6s
+
+14 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+"
+js-closesources,gpt-3.5-turbo,direct,20251029-105119,3,11,0,8,N/A
+js-closesources,gpt-3.5-turbo,direct,20251029-105119,3,12,0,18,N/A
+js-closesources,gpt-3.5-turbo,direct,20251029-105119,3,13,0,25,"
+added 77 packages, and audited 78 packages in 13s
+
+14 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+"
+js-closesources,gpt-3.5-turbo,direct,20251029-105119,3,14,0,5,"
+added 69 packages, and audited 70 packages in 6s
+
+14 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+up to date, audited 70 packages in 6s
+
+14 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+up to date, audited 70 packages in 5s
+
+14 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+"
+js-closesources,gpt-3.5-turbo,direct,20251029-105119,3,15,2,3,N/A
+js-closesources,gpt-3.5-turbo,direct,20251029-105119,3,16,3,9,N/A
+js-closesources,gpt-3.5-turbo,direct,20251029-105119,3,17,2,6,N/A
+js-closesources,gpt-3.5-turbo,direct,20251029-105119,3,18,1,14,N/A
+js-closesources,gpt-3.5-turbo,direct,20251029-105119,3,19,1,8,N/A
+js-closesources,gpt-3.5-turbo,direct,20251029-105119,3,20,0,26,"
+up to date, audited 1 package in 390ms
+
+found 0 vulnerabilities
+
+added 84 packages, and audited 85 packages in 15s
+
+16 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+Started node server
+"
+js-closesources,gpt-5,cascade,20251029-060314,1,1,8,11,N/A
+js-closesources,gpt-5,cascade,20251029-060314,1,2,0,9,N/A
+js-closesources,gpt-5,cascade,20251029-060314,1,3,1,16,N/A
+js-closesources,gpt-5,cascade,20251029-060314,1,4,10,17,N/A
+js-closesources,gpt-5,cascade,20251029-060314,1,5,4,13,N/A
+js-closesources,gpt-5,cascade,20251029-060314,1,6,1,20,N/A
+js-closesources,gpt-5,cascade,20251029-060314,1,7,6,24,N/A
+js-closesources,gpt-5,cascade,20251029-060314,1,8,0,18,"npm warn deprecated multer@1.4.5-lts.2: Multer 1.x is impacted by a number of vulnerabilities, which have been patched in 2.x. You should upgrade to the latest 2.x version.
+"
+js-closesources,gpt-5,cascade,20251029-060314,1,9,6,13,N/A
+js-closesources,gpt-5,cascade,20251029-060314,1,10,0,21,"C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\10\node_modules\mongoose\lib\connection.js:1169
+    err = new ServerSelectionError();
+          ^
+
+MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017, connect ECONNREFUSED ::1:27017
+    at _handleConnectionErrors (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\10\node_modules\mongoose\lib\connection.js:1169:11)
+    at NativeConnection.openUri (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\10\node_modules\mongoose\lib\connection.js:1100:11)
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at listOnTimeout (node:internal/timers:569:9)
+    at process.processTimers (node:internal/timers:543:7)
+    at async connectDB (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\10\src\config\db.js:6:3) {
+  errorLabelSet: Set(0) {},
+  reason: TopologyDescription {
+    type: 'Unknown',
+    servers: Map(1) {
+      'localhost:27017' => ServerDescription {
+        address: 'localhost:27017',
+        type: 'Unknown',
+        hosts: [],
+        passives: [],
+        arbiters: [],
+        tags: {},
+        minWireVersion: 0,
+        maxWireVersion: 0,
+        roundTripTime: -1,
+        minRoundTripTime: 0,
+        lastUpdateTime: 265464842,
+        lastWriteDate: 0,
+        error: MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017, connect ECONNREFUSED ::1:27017
+            at Socket.<anonymous> (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\10\node_modules\mongodb\lib\cmap\connect.js:286:44)
+            at Object.onceWrapper (node:events:623:26)
+            at Socket.emit (node:events:508:28)
+            at emitErrorNT (node:internal/streams/destroy:170:8)
+            at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+            at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+          errorLabelSet: Set(1) { 'ResetPool' },
+          beforeHandshake: false,
+          [cause]: AggregateError [ECONNREFUSED]: 
+              at internalConnectMultiple (node:net:1134:18)
+              at afterConnectMultiple (node:net:1715:7) {
+            code: 'ECONNREFUSED',
+            [errors]: [Array]
+          }
+        },
+        topologyVersion: null,
+        setName: null,
+        setVersion: null,
+        electionId: null,
+        logicalSessionTimeoutMinutes: null,
+        maxMessageSizeBytes: null,
+        maxWriteBatchSize: null,
+        maxBsonObjectSize: null,
+        primary: null,
+        me: null,
+        '$clusterTime': null,
+        iscryptd: false
+      }
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: null,
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined,
+  cause: TopologyDescription {
+    type: 'Unknown',
+    servers: Map(1) {
+      'localhost:27017' => ServerDescription {
+        address: 'localhost:27017',
+        type: 'Unknown',
+        hosts: [],
+        passives: [],
+        arbiters: [],
+        tags: {},
+        minWireVersion: 0,
+        maxWireVersion: 0,
+        roundTripTime: -1,
+        minRoundTripTime: 0,
+        lastUpdateTime: 265464842,
+        lastWriteDate: 0,
+        error: MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017, connect ECONNREFUSED ::1:27017
+            at Socket.<anonymous> (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\10\node_modules\mongodb\lib\cmap\connect.js:286:44)
+            at Object.onceWrapper (node:events:623:26)
+            at Socket.emit (node:events:508:28)
+            at emitErrorNT (node:internal/streams/destroy:170:8)
+            at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+            at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+          errorLabelSet: Set(1) { 'ResetPool' },
+          beforeHandshake: false,
+          [cause]: AggregateError [ECONNREFUSED]: 
+              at internalConnectMultiple (node:net:1134:18)
+              at afterConnectMultiple (node:net:1715:7) {
+            code: 'ECONNREFUSED',
+            [errors]: [Array]
+          }
+        },
+        topologyVersion: null,
+        setName: null,
+        setVersion: null,
+        electionId: null,
+        logicalSessionTimeoutMinutes: null,
+        maxMessageSizeBytes: null,
+        maxWriteBatchSize: null,
+        maxBsonObjectSize: null,
+        primary: null,
+        me: null,
+        '$clusterTime': null,
+        iscryptd: false
+      }
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: null,
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  }
+}
+
+Node.js v24.11.0
+Traceback (most recent call last):
+  File ""C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\10\start.py"", line 9, in <module>
+    subprocess.run(""node src/server.js"", shell=True, check=True)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\13468\AppData\Local\Programs\Python\Python313\Lib\subprocess.py"", line 577, in run
+    raise CalledProcessError(retcode, process.args,
+                             output=stdout, stderr=stderr)
+subprocess.CalledProcessError: Command 'node src/server.js' returned non-zero exit status 1.
+"
+js-closesources,gpt-5,cascade,20251029-060314,1,11,0,8,"python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\11\\start.py': [Errno 2] No such file or directory
+python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\11\\start.py': [Errno 2] No such file or directory
+"
+js-closesources,gpt-5,cascade,20251029-060314,1,12,1,18,N/A
+js-closesources,gpt-5,cascade,20251029-060314,1,13,1,25,N/A
+js-closesources,gpt-5,cascade,20251029-060314,1,14,2,5,N/A
+js-closesources,gpt-5,cascade,20251029-060314,1,15,0,3,"python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\15\\start.py': [Errno 2] No such file or directory
+python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\15\\start.py': [Errno 2] No such file or directory
+"
+js-closesources,gpt-5,cascade,20251029-060314,1,16,3,9,N/A
+js-closesources,gpt-5,cascade,20251029-060314,1,17,1,6,N/A
+js-closesources,gpt-5,cascade,20251029-060314,1,18,1,14,N/A
+js-closesources,gpt-5,cascade,20251029-060314,1,19,1,8,N/A
+js-closesources,gpt-5,cascade,20251029-060314,1,20,0,26,"node:internal/modules/cjs/loader:1423
+  throw err;
+  ^
+
+Error: Cannot find module './newsletter'
+Require stack:
+- C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\src\routes\index.js
+- C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\src\app.js
+- C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1420:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1058:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1063:22)
+    at Module._load (node:internal/modules/cjs/loader:1226:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:244:24)
+    at Module.require (node:internal/modules/cjs/loader:1503:12)
+    at require (node:internal/modules/helpers:152:16)
+    at Object.<anonymous> (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\src\routes\index.js:6:17)
+    at Module._compile (node:internal/modules/cjs/loader:1760:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\20\\src\\routes\\index.js',
+    'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\20\\src\\app.js',
+    'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\20\\src\\server.js'
+  ]
+}
+
+Node.js v24.11.0
+Traceback (most recent call last):
+  File ""C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\start.py"", line 11, in <module>
+    subprocess.check_call(""node src/server.js"", shell=True)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\13468\AppData\Local\Programs\Python\Python313\Lib\subprocess.py"", line 419, in check_call
+    raise CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command 'node src/server.js' returned non-zero exit status 1.
+"
+js-closesources,gpt-5,cascade,20251029-111936,2,1,10,11,N/A
+js-closesources,gpt-5,cascade,20251029-111936,2,2,5,9,N/A
+js-closesources,gpt-5,cascade,20251029-111936,2,3,11,16,N/A
+js-closesources,gpt-5,cascade,20251029-111936,2,4,9,17,N/A
+js-closesources,gpt-5,cascade,20251029-111936,2,5,9,13,N/A
+js-closesources,gpt-5,cascade,20251029-111936,2,6,10,20,N/A
+js-closesources,gpt-5,cascade,20251029-111936,2,7,6,24,N/A
+js-closesources,gpt-5,cascade,20251029-111936,2,8,0,18,N/A
+js-closesources,gpt-5,cascade,20251029-111936,2,9,13,13,N/A
+js-closesources,gpt-5,cascade,20251029-111936,2,10,7,21,N/A
+js-closesources,gpt-5,cascade,20251029-111936,2,11,6,8,N/A
+js-closesources,gpt-5,cascade,20251029-111936,2,12,2,18,N/A
+js-closesources,gpt-5,cascade,20251029-111936,2,13,2,25,N/A
+js-closesources,gpt-5,cascade,20251029-111936,2,14,5,5,N/A
+js-closesources,gpt-5,cascade,20251029-111936,2,15,3,3,N/A
+js-closesources,gpt-5,cascade,20251029-111936,2,16,1,9,N/A
+js-closesources,gpt-5,cascade,20251029-111936,2,17,1,6,N/A
+js-closesources,gpt-5,cascade,20251029-111936,2,18,8,14,N/A
+js-closesources,gpt-5,cascade,20251029-111936,2,19,1,8,N/A
+js-closesources,gpt-5,cascade,20251029-111936,2,20,0,26,"MongooseError: Operation `posts.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:608:17)
+    at process.processTimers (node:internal/timers:543:7)
+MongooseError: Operation `posts.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:608:17)
+    at process.processTimers (node:internal/timers:543:7)
+MongoDB connection error: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+    at _handleConnectionErrors (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\mongoose\lib\connection.js:816:11)
+    at NativeConnection.openUri (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\mongoose\lib\connection.js:791:11) {
+  reason: TopologyDescription {
+    type: 'Unknown',
+    servers: Map(1) { '127.0.0.1:27017' => [ServerDescription] },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: null,
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined
+}
+MongooseError: Operation `posts.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:608:17)
+    at process.processTimers (node:internal/timers:543:7)
+MongooseError: Operation `posts.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:608:17)
+    at process.processTimers (node:internal/timers:543:7)
+"
+js-closesources,gpt-5,direct,20251029-142441,1,1,10,11,N/A
+js-closesources,gpt-5,direct,20251029-142441,1,2,9,9,N/A
+js-closesources,gpt-5,direct,20251029-142441,1,3,0,16,N/A
+js-closesources,gpt-5,direct,20251029-142441,1,4,7,17,N/A
+js-closesources,gpt-5,direct,20251029-142441,1,5,4,13,N/A
+js-closesources,gpt-5,direct,20251029-142441,1,6,8,20,N/A
+js-closesources,gpt-5,direct,20251029-142441,1,7,5,24,N/A
+js-closesources,gpt-5,direct,20251029-142441,1,8,3,18,N/A
+js-closesources,gpt-5,direct,20251029-142441,1,9,5,13,N/A
+js-closesources,gpt-5,direct,20251029-142441,1,10,0,21,N/A
+js-closesources,gpt-5,direct,20251029-142441,1,11,3,8,N/A
+js-closesources,gpt-5,direct,20251029-142441,1,12,2,18,N/A
+js-closesources,gpt-5,direct,20251029-142441,1,13,1,25,N/A
+js-closesources,gpt-5,direct,20251029-142441,1,14,2,5,N/A
+js-closesources,gpt-5,direct,20251029-142441,1,15,2,3,N/A
+js-closesources,gpt-5,direct,20251029-142441,1,16,1,9,N/A
+js-closesources,gpt-5,direct,20251029-142441,1,17,2,6,N/A
+js-closesources,gpt-5,direct,20251029-142441,1,18,1,14,N/A
+js-closesources,gpt-5,direct,20251029-142441,1,19,1,8,N/A
+js-closesources,gpt-5,direct,20251029-142441,1,20,2,26,N/A
+js-closesources,gpt-5,direct,20251029-162314,2,1,10,11,N/A
+js-closesources,gpt-5,direct,20251029-162314,2,2,9,9,N/A
+js-closesources,gpt-5,direct,20251029-162314,2,3,11,16,N/A
+js-closesources,gpt-5,direct,20251029-162314,2,4,13,17,N/A
+js-closesources,gpt-5,direct,20251029-162314,2,5,8,13,N/A
+js-closesources,gpt-5,direct,20251029-162314,2,6,7,20,N/A
+js-closesources,gpt-5,direct,20251029-162314,2,7,7,24,N/A
+js-closesources,gpt-5,direct,20251029-162314,2,8,1,18,N/A
+js-closesources,gpt-5,direct,20251029-162314,2,9,13,13,N/A
+js-closesources,gpt-5,direct,20251029-162314,2,10,0,21,N/A
+js-closesources,gpt-5,direct,20251029-162314,2,11,5,8,N/A
+js-closesources,gpt-5,direct,20251029-162314,2,12,4,18,N/A
+js-closesources,gpt-5,direct,20251029-162314,2,13,3,25,N/A
+js-closesources,gpt-5,direct,20251029-162314,2,14,5,5,N/A
+js-closesources,gpt-5,direct,20251029-162314,2,15,3,3,N/A
+js-closesources,gpt-5,direct,20251029-162314,2,16,1,9,N/A
+js-closesources,gpt-5,direct,20251029-162314,2,17,1,6,N/A
+js-closesources,gpt-5,direct,20251029-162314,2,18,8,14,N/A
+js-closesources,gpt-5,direct,20251029-162314,2,19,1,8,N/A
+js-closesources,gpt-5,direct,20251029-162314,2,20,2,26,N/A
+js-closesources,gpt-5,direct,20251029-181051,3,1,10,11,N/A
+js-closesources,gpt-5,direct,20251029-181051,3,2,9,9,N/A
+js-closesources,gpt-5,direct,20251029-181051,3,3,11,16,N/A
+js-closesources,gpt-5,direct,20251029-181051,3,4,13,17,N/A
+js-closesources,gpt-5,direct,20251029-181051,3,5,10,13,N/A
+js-closesources,gpt-5,direct,20251029-181051,3,6,7,20,N/A
+js-closesources,gpt-5,direct,20251029-181051,3,7,0,24,N/A
+js-closesources,gpt-5,direct,20251029-181051,3,8,13,18,N/A
+js-closesources,gpt-5,direct,20251029-181051,3,9,11,13,N/A
+js-closesources,gpt-5,direct,20251029-181051,3,10,10,21,N/A
+js-closesources,gpt-5,direct,20251029-181051,3,11,0,8,"npm warn deprecated multer@1.4.5-lts.2: Multer 1.x is impacted by a number of vulnerabilities, which have been patched in 2.x. You should upgrade to the latest 2.x version.
+C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\11\server.js:102
+    .replace(/[^a-z0-9]+/g, '-')</script>
+                                 ^
+
+SyntaxError: Invalid regular expression: missing /
+    at wrapSafe (node:internal/modules/cjs/loader:1691:18)
+    at Module._compile (node:internal/modules/cjs/loader:1734:20)
+    at Object..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1480:32)
+    at Module._load (node:internal/modules/cjs/loader:1299:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:244:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.11.0
+"
+js-closesources,gpt-5,direct,20251029-181051,3,12,0,18,N/A
+js-closesources,gpt-5,direct,20251029-181051,3,13,5,25,N/A
+js-closesources,gpt-5,direct,20251029-181051,3,14,5,5,N/A
+js-closesources,gpt-5,direct,20251029-181051,3,15,0,3,N/A
+js-closesources,gpt-5,direct,20251029-181051,3,16,1,9,N/A
+js-closesources,gpt-5,direct,20251029-181051,3,17,1,6,N/A
+js-closesources,gpt-5,direct,20251029-181051,3,18,9,14,N/A
+js-closesources,gpt-5,direct,20251029-181051,3,19,1,8,N/A
+js-closesources,gpt-5,direct,20251029-181051,3,20,11,26,N/A

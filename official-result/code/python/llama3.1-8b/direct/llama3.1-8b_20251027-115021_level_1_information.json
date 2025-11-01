@@ -1,0 +1,1 @@
+{"9": "{\"initiate_commands\": [[\"manage.py\",\"makemigrations\"],[\"manage.py\",\"migrate\"],[\"python\", \"manage.py\", \"runserver\"], [\"python\", \"manage.py\", \"collectstatic\"]], \"requirements\": [django, django-templates, django-staticfiles]}"}

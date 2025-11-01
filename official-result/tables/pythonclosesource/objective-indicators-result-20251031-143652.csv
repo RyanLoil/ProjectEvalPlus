@@ -1,0 +1,11 @@
+date,model,mode,timestamp,level,checklist,skeleton,code,parameter
+pyclosesources/已解决,gpt-3.5-turbo,cascade,20251029-185302,1,44.65%,10.93%,11.97%,45.739999999999995%
+pyclosesources/已解决,gpt-3.5-turbo,cascade,20251029-185942,2,None,13.350000000000001%,13.120000000000001%,47.410000000000004%
+pyclosesources/已解决,gpt-3.5-turbo,direct,20251029-190602,1,None,None,11.84%,43.120000000000005%
+pyclosesources/已解决,gpt-3.5-turbo,direct,20251029-191051,2,None,None,16.24%,48.55%
+pyclosesources/已解决,gpt-3.5-turbo,direct,20251029-191658,3,None,None,40.660000000000004%,44.01%
+pyclosesources/已解决,gpt-5,cascade,20251030-040002,1,63.51%,41.699999999999996%,42.26%,36.7%
+pyclosesources/已解决,gpt-5,cascade,20251030-081054,2,None,44.09%,45.33%,54.16%
+pyclosesources/已解决,gpt-5,direct,20251030-112043,1,None,None,43.4%,42.39%
+pyclosesources/已解决,gpt-5,direct,20251030-143432,2,None,None,45.83%,49.220000000000006%
+pyclosesources/已解决,gpt-5,direct,20251030-183910,3,None,None,58.77%,65.09%

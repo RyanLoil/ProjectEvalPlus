@@ -1,0 +1,6 @@
+date,model,mode,timestamp,level,checklist,skeleton,code,parameter
+js-closesources,gemini-2.5-flash,cascade,20251030-025443,1,60.47%,22.720000000000002%,25.590000000000003%,32.98%
+js-closesources,gemini-2.5-flash,cascade,20251030-035616,2,None,34.54%,27.88%,41.43%
+js-closesources,gemini-2.5-flash,direct,20251030-044830,1,None,None,22.05%,28.299999999999997%
+js-closesources,gemini-2.5-flash,direct,20251030-052716,2,None,None,33.44%,38.97%
+js-closesources,gemini-2.5-flash,direct,20251030-060822,3,None,None,54.48%,57.06%

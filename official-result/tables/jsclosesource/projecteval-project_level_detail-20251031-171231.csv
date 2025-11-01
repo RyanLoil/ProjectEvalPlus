@@ -1,0 +1,701 @@
+date,model,mode,timestamp,level,project_id,pass,total,reason
+js-closesources,gemini-2.5-flash,cascade,20251030-025443,1,1,9,11,N/A
+js-closesources,gemini-2.5-flash,cascade,20251030-025443,1,2,0,9,"python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\2\\start.py': [Errno 2] No such file or directory
+python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\2\\start.py': [Errno 2] No such file or directory
+"
+js-closesources,gemini-2.5-flash,cascade,20251030-025443,1,3,0,16,"C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\3\services\passwordService.js:83
+  if (/[!@#$%^&*()_-+=[\]{}|;:,.<>?`~]/.test(password)) score += 1; // Symbols
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Invalid regular expression: /[!@#$%^&*()_-+=[\]{}|;:,.<>?`~]/: Range out of order in character class
+    at wrapSafe (node:internal/modules/cjs/loader:1691:18)
+    at Module._compile (node:internal/modules/cjs/loader:1734:20)
+    at Object..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1480:32)
+    at Module._load (node:internal/modules/cjs/loader:1299:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:244:24)
+    at Module.require (node:internal/modules/cjs/loader:1503:12)
+    at require (node:internal/modules/helpers:152:16)
+    at Object.<anonymous> (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\3\controllers\passwordController.js:1:25)
+
+Node.js v24.11.0
+"
+js-closesources,gemini-2.5-flash,cascade,20251030-025443,1,4,0,17,N/A
+js-closesources,gemini-2.5-flash,cascade,20251030-025443,1,5,0,13,"npm warn deprecated multer@1.4.5-lts.2: Multer 1.x is impacted by a number of vulnerabilities, which have been patched in 2.x. You should upgrade to the latest 2.x version.
+C:\Users\13468\PycharmProjects\ProjectEvalPlus\.venv\Scripts\python.exe: No module named npm.__main__; 'npm' is a package and cannot be directly executed
+"
+js-closesources,gemini-2.5-flash,cascade,20251030-025443,1,6,0,20,"
+added 101 packages, and audited 102 packages in 6s
+
+18 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+Installing NodeJS dependencies...
+
+up to date, audited 102 packages in 3s
+
+18 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+NodeJS dependencies installed successfully.
+Starting NodeJS server...
+
+> todo-analytics-app@1.0.0 start
+> node server.js
+
+Server running on port 5000
+"
+js-closesources,gemini-2.5-flash,cascade,20251030-025443,1,7,0,24,"npm error code ETARGET
+npm error notarget No matching version found for json2csv@^6.1.3.
+npm error notarget In most cases you or one of your dependencies are requesting
+npm error notarget a package version that doesn't exist.
+npm error A complete log of this run can be found in: C:\Users\13468\AppData\Local\npm-cache\_logs\2025-10-31T09_18_27_483Z-debug-0.log
+Error executing command: npm install
+Stdout: 
+Stderr: npm error code ETARGET
+npm error notarget No matching version found for json2csv@^6.1.3.
+npm error notarget In most cases you or one of your dependencies are requesting
+npm error notarget a package version that doesn't exist.
+npm error A complete log of this run can be found in: C:\Users\13468\AppData\Local\npm-cache\_logs\2025-10-31T09_18_46_292Z-debug-0.log
+
+"
+js-closesources,gemini-2.5-flash,cascade,20251030-025443,1,8,0,18,"MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017, connect ECONNREFUSED ::1:27017
+    at _handleConnectionErrors (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\8\node_modules\mongoose\lib\connection.js:1169:11)
+    at NativeConnection.openUri (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\8\node_modules\mongoose\lib\connection.js:1100:11)
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at listOnTimeout (node:internal/timers:569:9)
+    at process.processTimers (node:internal/timers:543:7) {
+  errorLabelSet: Set(0) {},
+  reason: TopologyDescription {
+    type: 'Unknown',
+    servers: Map(1) { 'localhost:27017' => [ServerDescription] },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: null,
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined,
+  cause: TopologyDescription {
+    type: 'Unknown',
+    servers: Map(1) { 'localhost:27017' => [ServerDescription] },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: null,
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  }
+}
+"
+js-closesources,gemini-2.5-flash,cascade,20251030-025443,1,9,6,13,N/A
+js-closesources,gemini-2.5-flash,cascade,20251030-025443,1,10,0,21,"(node:28060) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:28060) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+MongoDB connection error: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017, connect ECONNREFUSED ::1:27017
+    at _handleConnectionErrors (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\10\node_modules\mongoose\lib\connection.js:1169:11)
+    at NativeConnection.openUri (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\10\node_modules\mongoose\lib\connection.js:1100:11)
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at listOnTimeout (node:internal/timers:569:9)
+    at process.processTimers (node:internal/timers:543:7) {
+  errorLabelSet: Set(0) {},
+  reason: TopologyDescription {
+    type: 'Unknown',
+    servers: Map(1) { 'localhost:27017' => [ServerDescription] },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: null,
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined,
+  cause: TopologyDescription {
+    type: 'Unknown',
+    servers: Map(1) { 'localhost:27017' => [ServerDescription] },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: null,
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  }
+}
+"
+js-closesources,gemini-2.5-flash,cascade,20251030-025443,1,11,0,8,"C:\Users\13468\PycharmProjects\ProjectEvalPlus\.venv\Scripts\python.exe: No module named npm.__main__; 'npm' is a package and cannot be directly executed
+"
+js-closesources,gemini-2.5-flash,cascade,20251030-025443,1,12,0,18,N/A
+js-closesources,gemini-2.5-flash,cascade,20251030-025443,1,13,0,25,"Error: The `uri` parameter to `openUri()` must be a string, got ""undefined"". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+"
+js-closesources,gemini-2.5-flash,cascade,20251030-025443,1,14,0,5,"C:\Users\13468\PycharmProjects\ProjectEvalPlus\.venv\Scripts\python.exe: No module named npm.__main__; 'npm' is a package and cannot be directly executed
+"
+js-closesources,gemini-2.5-flash,cascade,20251030-025443,1,15,3,3,N/A
+js-closesources,gemini-2.5-flash,cascade,20251030-025443,1,16,1,9,N/A
+js-closesources,gemini-2.5-flash,cascade,20251030-025443,1,17,2,6,N/A
+js-closesources,gemini-2.5-flash,cascade,20251030-025443,1,18,0,14,N/A
+js-closesources,gemini-2.5-flash,cascade,20251030-025443,1,19,1,8,N/A
+js-closesources,gemini-2.5-flash,cascade,20251030-025443,1,20,0,26,N/A
+js-closesources,gemini-2.5-flash,cascade,20251030-035616,2,1,6,11,N/A
+js-closesources,gemini-2.5-flash,cascade,20251030-035616,2,2,0,9,N/A
+js-closesources,gemini-2.5-flash,cascade,20251030-035616,2,3,11,16,N/A
+js-closesources,gemini-2.5-flash,cascade,20251030-035616,2,4,11,17,N/A
+js-closesources,gemini-2.5-flash,cascade,20251030-035616,2,5,1,13,N/A
+js-closesources,gemini-2.5-flash,cascade,20251030-035616,2,6,0,20,"(node:63364) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+connect ECONNREFUSED 127.0.0.1:27017, connect ECONNREFUSED ::1:27017
+Error starting Node.js application: Command 'node app.js' returned non-zero exit status 1.
+"
+js-closesources,gemini-2.5-flash,cascade,20251030-035616,2,7,0,24,N/A
+js-closesources,gemini-2.5-flash,cascade,20251030-035616,2,8,0,18,"C:\Users\13468\PycharmProjects\ProjectEvalPlus\.venv\Scripts\python.exe: No module named npm.__main__; 'npm' is a package and cannot be directly executed
+Error installing NodeJS dependencies: Command '['C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\.venv\\Scripts\\python.exe', '-m', 'npm', 'install']' returned non-zero exit status 1.
+"
+js-closesources,gemini-2.5-flash,cascade,20251030-035616,2,9,6,13,N/A
+js-closesources,gemini-2.5-flash,cascade,20251030-035616,2,10,0,21,"
+added 134 packages, and audited 135 packages in 11s
+
+20 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+Node.js or npm is not installed. Please install them to run this project.
+"
+js-closesources,gemini-2.5-flash,cascade,20251030-035616,2,11,4,8,N/A
+js-closesources,gemini-2.5-flash,cascade,20251030-035616,2,12,0,18,"(node:69580) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:69580) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017, connect ECONNREFUSED ::1:27017
+    at _handleConnectionErrors (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\12\node_modules\mongoose\lib\connection.js:1169:11)
+    at NativeConnection.openUri (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\12\node_modules\mongoose\lib\connection.js:1100:11) {
+  errorLabelSet: Set(0) {},
+  reason: TopologyDescription {
+    type: 'Unknown',
+    servers: Map(1) { 'localhost:27017' => [ServerDescription] },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: null,
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined,
+  cause: TopologyDescription {
+    type: 'Unknown',
+    servers: Map(1) { 'localhost:27017' => [ServerDescription] },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: null,
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  }
+}
+"
+js-closesources,gemini-2.5-flash,cascade,20251030-035616,2,13,0,25,N/A
+js-closesources,gemini-2.5-flash,cascade,20251030-035616,2,14,0,5,N/A
+js-closesources,gemini-2.5-flash,cascade,20251030-035616,2,15,0,3,"C:\Users\13468\PycharmProjects\ProjectEvalPlus\.venv\Scripts\python.exe: No module named npm.__main__; 'npm' is a package and cannot be directly executed
+"
+js-closesources,gemini-2.5-flash,cascade,20251030-035616,2,16,1,9,N/A
+js-closesources,gemini-2.5-flash,cascade,20251030-035616,2,17,1,6,N/A
+js-closesources,gemini-2.5-flash,cascade,20251030-035616,2,18,1,14,N/A
+js-closesources,gemini-2.5-flash,cascade,20251030-035616,2,19,1,8,N/A
+js-closesources,gemini-2.5-flash,cascade,20251030-035616,2,20,0,26,"(node:64952) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:64952) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+MongooseError: Operation `blogposts.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:187:23)
+    at listOnTimeout (node:internal/timers:608:17)
+    at process.processTimers (node:internal/timers:543:7)
+ReferenceError: C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\views\error.ejs:1
+ >> 1| <%- layout('layout') %>
+    2| 
+    3| <div class=""container static-page"" id=""error-page"">
+    4|     <h1 id=""error-heading""><%= title %></h1>
+
+layout is not defined
+    at eval (""C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\20\\views\\error.ejs"":10:7)
+    at error (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\application.js:657:10)
+    at app.render (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\response.js:1049:7)
+    at exports.getLatestBlogs (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\controllers\blogController.js:12:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+ReferenceError: C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\views\error.ejs:1
+ >> 1| <%- layout('layout') %>
+    2| 
+    3| <div class=""container static-page"" id=""error-page"">
+    4|     <h1 id=""error-heading""><%= title %></h1>
+
+layout is not defined
+    at eval (""C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\20\\views\\error.ejs"":10:7)
+    at error (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\application.js:657:10)
+    at app.render (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\response.js:1049:7)
+    at C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\server.js:65:19
+    at Layer.handle_error (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\router\layer.js:71:5)
+MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017, connect ECONNREFUSED ::1:27017
+    at _handleConnectionErrors (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\mongoose\lib\connection.js:1169:11)
+    at NativeConnection.openUri (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\mongoose\lib\connection.js:1100:11)
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at listOnTimeout (node:internal/timers:569:9)
+    at process.processTimers (node:internal/timers:543:7) {
+  errorLabelSet: Set(0) {},
+  reason: TopologyDescription {
+    type: 'Unknown',
+    servers: Map(1) { 'localhost:27017' => [ServerDescription] },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: null,
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined,
+  cause: TopologyDescription {
+    type: 'Unknown',
+    servers: Map(1) { 'localhost:27017' => [ServerDescription] },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: null,
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  }
+}
+MongooseError: Operation `blogposts.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:187:23)
+    at listOnTimeout (node:internal/timers:608:17)
+    at process.processTimers (node:internal/timers:543:7)
+ReferenceError: C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\views\error.ejs:1
+ >> 1| <%- layout('layout') %>
+    2| 
+    3| <div class=""container static-page"" id=""error-page"">
+    4|     <h1 id=""error-heading""><%= title %></h1>
+
+layout is not defined
+    at eval (""C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\20\\views\\error.ejs"":10:7)
+    at error (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\application.js:657:10)
+    at app.render (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\response.js:1049:7)
+    at exports.getLatestBlogs (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\controllers\blogController.js:12:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+ReferenceError: C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\views\error.ejs:1
+ >> 1| <%- layout('layout') %>
+    2| 
+    3| <div class=""container static-page"" id=""error-page"">
+    4|     <h1 id=""error-heading""><%= title %></h1>
+
+layout is not defined
+    at eval (""C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\20\\views\\error.ejs"":10:7)
+    at error (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\application.js:657:10)
+    at app.render (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\response.js:1049:7)
+    at C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\server.js:65:19
+    at Layer.handle_error (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\router\layer.js:71:5)
+MongooseError: Operation `blogposts.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:187:23)
+    at listOnTimeout (node:internal/timers:608:17)
+    at process.processTimers (node:internal/timers:543:7)
+ReferenceError: C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\views\error.ejs:1
+ >> 1| <%- layout('layout') %>
+    2| 
+    3| <div class=""container static-page"" id=""error-page"">
+    4|     <h1 id=""error-heading""><%= title %></h1>
+
+layout is not defined
+    at eval (""C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\20\\views\\error.ejs"":10:7)
+    at error (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\application.js:657:10)
+    at app.render (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\response.js:1049:7)
+    at exports.getLatestBlogs (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\controllers\blogController.js:12:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+ReferenceError: C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\views\error.ejs:1
+ >> 1| <%- layout('layout') %>
+    2| 
+    3| <div class=""container static-page"" id=""error-page"">
+    4|     <h1 id=""error-heading""><%= title %></h1>
+
+layout is not defined
+    at eval (""C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\20\\views\\error.ejs"":10:7)
+    at error (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\application.js:657:10)
+    at app.render (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\response.js:1049:7)
+    at C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\server.js:65:19
+    at Layer.handle_error (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\router\layer.js:71:5)
+MongooseError: Operation `blogposts.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:187:23)
+    at listOnTimeout (node:internal/timers:608:17)
+    at process.processTimers (node:internal/timers:543:7)
+ReferenceError: C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\views\error.ejs:1
+ >> 1| <%- layout('layout') %>
+    2| 
+    3| <div class=""container static-page"" id=""error-page"">
+    4|     <h1 id=""error-heading""><%= title %></h1>
+
+layout is not defined
+    at eval (""C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\20\\views\\error.ejs"":10:7)
+    at error (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\application.js:657:10)
+    at app.render (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\response.js:1049:7)
+    at exports.getLatestBlogs (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\controllers\blogController.js:12:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+ReferenceError: C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\views\error.ejs:1
+ >> 1| <%- layout('layout') %>
+    2| 
+    3| <div class=""container static-page"" id=""error-page"">
+    4|     <h1 id=""error-heading""><%= title %></h1>
+
+layout is not defined
+    at eval (""C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\20\\views\\error.ejs"":10:7)
+    at error (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\application.js:657:10)
+    at app.render (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\response.js:1049:7)
+    at C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\server.js:65:19
+    at Layer.handle_error (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\express\lib\router\layer.js:71:5)
+"
+js-closesources,gemini-2.5-flash,direct,20251030-044830,1,1,8,11,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-044830,1,2,6,9,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-044830,1,3,0,16,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-044830,1,4,6,17,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-044830,1,5,0,13,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-044830,1,6,5,20,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-044830,1,7,0,24,"
+added 69 packages, and audited 70 packages in 6s
+
+14 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+Starting Node.js project...
+Error: npm is not installed. Please install Node.js and npm first.
+"
+js-closesources,gemini-2.5-flash,direct,20251030-044830,1,8,3,18,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-044830,1,9,0,13,"
+added 69 packages, and audited 70 packages in 6s
+
+14 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+Node.js and npm are installed.
+Installing Node.js dependencies...
+npm install output:
+
+up to date, audited 70 packages in 6s
+
+14 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+Node.js dependencies installed successfully.
+Starting Node.js server...
+Running 'npm start' to launch the server (which executes 'node server.js').
+
+> ai-chatbot-intro-website@1.0.0 start
+> node server.js
+
+Server is running on http://localhost:3000
+"
+js-closesources,gemini-2.5-flash,direct,20251030-044830,1,10,3,21,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-044830,1,11,0,8,"  File ""C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\11\start.py"", line 10
+    ndef install_npm_dependencies():
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: invalid syntax
+"
+js-closesources,gemini-2.5-flash,direct,20251030-044830,1,12,1,18,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-044830,1,13,0,25,"npm warn deprecated @npmcli/move-file@1.1.2: This functionality has been moved to @npmcli/fs
+npm warn deprecated inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
+npm warn deprecated npmlog@6.0.2: This package is no longer supported.
+npm warn deprecated rimraf@3.0.2: Rimraf versions prior to v4 are no longer supported
+npm warn deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+npm warn deprecated are-we-there-yet@3.0.1: This package is no longer supported.
+npm warn deprecated gauge@4.0.4: This package is no longer supported.
+ERROR: Could not find a version that satisfies the requirement install (from versions: none)
+
+[notice] A new release of pip is available: 25.1.1 -> 25.3
+[notice] To update, run: python.exe -m pip install --upgrade pip
+ERROR: No matching distribution found for install
+"
+js-closesources,gemini-2.5-flash,direct,20251030-044830,1,14,4,5,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-044830,1,15,3,3,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-044830,1,16,0,9,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-044830,1,17,0,6,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-044830,1,18,1,14,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-044830,1,19,1,8,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-044830,1,20,0,26,"Error fetching posts for home page: MongooseError: Operation `posts.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\blog-website\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:187:23)
+    at listOnTimeout (node:internal/timers:608:17)
+    at process.processTimers (node:internal/timers:543:7)
+Error fetching posts for home page: MongooseError: Operation `posts.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\blog-website\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:187:23)
+    at listOnTimeout (node:internal/timers:608:17)
+    at process.processTimers (node:internal/timers:543:7)
+MongoDB connection error: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017, connect ECONNREFUSED ::1:27017
+    at _handleConnectionErrors (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\blog-website\node_modules\mongoose\lib\connection.js:1169:11)
+    at NativeConnection.openUri (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\blog-website\node_modules\mongoose\lib\connection.js:1100:11)
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at listOnTimeout (node:internal/timers:569:9)
+    at process.processTimers (node:internal/timers:543:7) {
+  errorLabelSet: Set(0) {},
+  reason: TopologyDescription {
+    type: 'Unknown',
+    servers: Map(1) { 'localhost:27017' => [ServerDescription] },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: null,
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined,
+  cause: TopologyDescription {
+    type: 'Unknown',
+    servers: Map(1) { 'localhost:27017' => [ServerDescription] },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: null,
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  }
+}
+Error fetching posts for home page: MongooseError: Operation `posts.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\blog-website\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:187:23)
+    at listOnTimeout (node:internal/timers:608:17)
+    at process.processTimers (node:internal/timers:543:7)
+Error fetching posts for home page: MongooseError: Operation `posts.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\blog-website\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:187:23)
+    at listOnTimeout (node:internal/timers:608:17)
+    at process.processTimers (node:internal/timers:543:7)
+"
+js-closesources,gemini-2.5-flash,direct,20251030-052716,2,1,0,11,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-052716,2,2,7,9,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-052716,2,3,11,16,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-052716,2,4,0,17,"
+added 98 packages, and audited 99 packages in 18s
+
+16 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+Error: Project directory 'C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\4\qr-code-generator-app\qr-code-generator-app' not found.
+"
+js-closesources,gemini-2.5-flash,direct,20251030-052716,2,5,0,13,"
+added 70 packages, and audited 71 packages in 11s
+
+14 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+------------------------------------------------------------------
+Starting NodeJS Project: Markdown to HTML Converter
+------------------------------------------------------------------
+Installing Node.js dependencies (express, marked, body-parser)...
+Error installing Node.js dependencies: Command '['C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\.venv\\Scripts\\python.exe', '-m', 'npm', 'install']' returned non-zero exit status 1.
+Stdout: 
+Stderr: C:\Users\13468\PycharmProjects\ProjectEvalPlus\.venv\Scripts\python.exe: No module named npm.__main__; 'npm' is a package and cannot be directly executed
+
+"
+js-closesources,gemini-2.5-flash,direct,20251030-052716,2,6,3,20,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-052716,2,7,1,24,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-052716,2,8,9,18,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-052716,2,9,0,13,"C:\Users\13468\PycharmProjects\ProjectEvalPlus\.venv\Scripts\python.exe: No module named npm.__main__; 'npm' is a package and cannot be directly executed
+Error during execution: Command '['C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\.venv\\Scripts\\python.exe', '-m', 'npm', 'install']' returned non-zero exit status 1.
+"
+js-closesources,gemini-2.5-flash,direct,20251030-052716,2,10,0,21,"
+added 136 packages, and audited 137 packages in 16s
+
+20 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+Installing Node.js dependencies...
+Executing: npm install
+
+up to date, audited 137 packages in 6s
+
+20 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+Starting Node.js server...
+Executing: node server.js
+Error executing command: Command 'node server.js' returned non-zero exit status 1.
+Stdout: Server running on port 5000
+
+Stderr: (node:30676) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:30676) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+connect ECONNREFUSED 127.0.0.1:27017, connect ECONNREFUSED ::1:27017
+
+"
+js-closesources,gemini-2.5-flash,direct,20251030-052716,2,11,0,8,"npm warn deprecated multer@1.4.5-lts.2: Multer 1.x is impacted by a number of vulnerabilities, which have been patched in 2.x. You should upgrade to the latest 2.x version.
+C:\Users\13468\PycharmProjects\ProjectEvalPlus\.venv\Scripts\python.exe: No module named npm.__main__; 'npm' is a package and cannot be directly executed
+An error occurred during execution: Command '['C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\.venv\\Scripts\\python.exe', '-m', 'npm', 'install']' returned non-zero exit status 1.
+"
+js-closesources,gemini-2.5-flash,direct,20251030-052716,2,12,3,18,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-052716,2,13,1,25,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-052716,2,14,5,5,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-052716,2,15,3,3,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-052716,2,16,0,9,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-052716,2,17,1,6,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-052716,2,18,0,14,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-052716,2,19,1,8,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-052716,2,20,0,26,"MongooseError: Operation `blogposts.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:187:23)
+    at listOnTimeout (node:internal/timers:608:17)
+    at process.processTimers (node:internal/timers:543:7)
+(node:25016) [DEP0044] DeprecationWarning: The `util.isArray` API is deprecated. Please use `Array.isArray()` instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+MongooseError: Operation `blogposts.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:187:23)
+    at listOnTimeout (node:internal/timers:608:17)
+    at process.processTimers (node:internal/timers:543:7)
+MongoDB connection error: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017, connect ECONNREFUSED ::1:27017
+    at _handleConnectionErrors (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\mongoose\lib\connection.js:1169:11)
+    at NativeConnection.openUri (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\mongoose\lib\connection.js:1100:11) {
+  errorLabelSet: Set(0) {},
+  reason: TopologyDescription {
+    type: 'Unknown',
+    servers: Map(1) { 'localhost:27017' => [ServerDescription] },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: null,
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined,
+  cause: TopologyDescription {
+    type: 'Unknown',
+    servers: Map(1) { 'localhost:27017' => [ServerDescription] },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: null,
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  }
+}
+MongooseError: Operation `blogposts.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:187:23)
+    at listOnTimeout (node:internal/timers:608:17)
+    at process.processTimers (node:internal/timers:543:7)
+MongooseError: Operation `blogposts.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\20\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:187:23)
+    at listOnTimeout (node:internal/timers:608:17)
+    at process.processTimers (node:internal/timers:543:7)
+"
+js-closesources,gemini-2.5-flash,direct,20251030-060822,3,1,8,11,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-060822,3,2,9,9,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-060822,3,3,11,16,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-060822,3,4,0,17,"  File ""C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\4\start.py"", line 18
+    print(""NPM install output:
+          ^
+SyntaxError: unterminated string literal (detected at line 18)
+  File ""C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\4\start.py"", line 18
+    print(""NPM install output:
+          ^
+SyntaxError: unterminated string literal (detected at line 18)
+"
+js-closesources,gemini-2.5-flash,direct,20251030-060822,3,5,9,13,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-060822,3,6,0,20,"npm warn deprecated @npmcli/move-file@1.1.2: This functionality has been moved to @npmcli/fs
+npm warn deprecated inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
+npm warn deprecated npmlog@6.0.2: This package is no longer supported.
+npm warn deprecated rimraf@3.0.2: Rimraf versions prior to v4 are no longer supported
+npm warn deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+npm warn deprecated are-we-there-yet@3.0.1: This package is no longer supported.
+npm warn deprecated gauge@4.0.4: This package is no longer supported.
+  File ""C:\Users\13468\PycharmProjects\ProjectEvalPlus\test\20251031\6\start.py"", line 29
+    print(f""Error installing dependencies. npm exited with code {e.returncode}. Output:
+          ^
+SyntaxError: unterminated f-string literal (detected at line 29)
+"
+js-closesources,gemini-2.5-flash,direct,20251030-060822,3,7,1,24,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-060822,3,8,9,18,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-060822,3,9,12,13,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-060822,3,10,4,21,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-060822,3,11,0,8,"python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\11\\start.py': [Errno 2] No such file or directory
+python: can't open file 'C:\\Users\\13468\\PycharmProjects\\ProjectEvalPlus\\test\\20251031\\11\\start.py': [Errno 2] No such file or directory
+"
+js-closesources,gemini-2.5-flash,direct,20251030-060822,3,12,0,18,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-060822,3,13,3,25,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-060822,3,14,5,5,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-060822,3,15,3,3,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-060822,3,16,0,9,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-060822,3,17,1,6,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-060822,3,18,12,14,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-060822,3,19,1,8,N/A
+js-closesources,gemini-2.5-flash,direct,20251030-060822,3,20,2,26,N/A

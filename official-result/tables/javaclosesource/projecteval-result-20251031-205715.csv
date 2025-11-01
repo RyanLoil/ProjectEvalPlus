@@ -1,0 +1,16 @@
+date,model,mode,timestamp,level,passed,failed,executed,score
+java-closesources,gemini-2.5-flash,cascade,20251031-024913,1,18,266,81,0.063380282
+java-closesources,gemini-2.5-flash,cascade,20251031-035211,2,37,247,132,0.13028169
+java-closesources,gemini-2.5-flash,direct,20251031-043822,1,45,239,140,0.158450704
+java-closesources,gemini-2.5-flash,direct,20251031-051204,2,27,257,81,0.095070423
+java-closesources,gemini-2.5-flash,direct,20251031-055324,3,72,212,163,0.253521127
+java-closesources,gpt-3.5-turbo,cascade,20251031-170431,1,7,277,37,0.024647887
+java-closesources,gpt-3.5-turbo,cascade,20251031-171429,2,7,277,37,0.024647887
+java-closesources,gpt-3.5-turbo,direct,20251031-172358,1,7,277,37,0.024647887
+java-closesources,gpt-3.5-turbo,direct,20251031-173137,2,7,277,37,0.024647887
+java-closesources,gpt-3.5-turbo,direct,20251031-173921,3,5,279,31,0.017605634
+java-closesources,gpt-5,cascade,20251031-024108,1,15,269,82,0.052816901
+java-closesources,gpt-5,cascade,20251031-052318,2,69,215,140,0.242957746
+java-closesources,gpt-5,direct,20251031-075336,1,52,232,121,0.183098592
+java-closesources,gpt-5,direct,20251031-090500,2,75,209,156,0.264084507
+java-closesources,gpt-5,direct,20251031-104145,3,130,154,256,0.457746479

@@ -1,0 +1,242 @@
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,1,0,11,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,1,0,11,"  File ""D:\Multiagent Research\ProjectEvalPlus\test\20251024\1\start.py"", line 1
+    import subprocess\nimport sys\n\n\ndef main():\n    try:\n        subprocess.run(""mvn spring-boot:run"", shell=True, check=True)\n    except subprocess.CalledProcessError as e:\n        sys.exit(e.returncode)\n\n\nif __name__ == ""__main__"":\n    main()
+                      ^
+SyntaxError: unexpected character after line continuation character
+  File ""D:\Multiagent Research\ProjectEvalPlus\test\20251024\1\start.py"", line 1
+    import subprocess\nimport sys\n\n\ndef main():\n    try:\n        subprocess.run(""mvn spring-boot:run"", shell=True, check=True)\n    except subprocess.CalledProcessError as e:\n        sys.exit(e.returncode)\n\n\nif __name__ == ""__main__"":\n    main()
+                      ^
+SyntaxError: unexpected character after line continuation character
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,1,0,11,"  File ""D:\Multiagent Research\ProjectEvalPlus\test\20251024\1\start.py"", line 1
+    import subprocess\nimport sys\n\n\ndef main():\n    try:\n        subprocess.run(""mvn spring-boot:run"", shell=True, check=True)\n    except subprocess.CalledProcessError as e:\n        sys.exit(e.returncode)\n\n\nif __name__ == ""__main__"":\n    main()
+                      ^
+SyntaxError: unexpected character after line continuation character
+  File ""D:\Multiagent Research\ProjectEvalPlus\test\20251024\1\start.py"", line 1
+    import subprocess\nimport sys\n\n\ndef main():\n    try:\n        subprocess.run(""mvn spring-boot:run"", shell=True, check=True)\n    except subprocess.CalledProcessError as e:\n        sys.exit(e.returncode)\n\n\nif __name__ == ""__main__"":\n    main()
+                      ^
+SyntaxError: unexpected character after line continuation character
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,1,0,11,"  File ""D:\Multiagent Research\ProjectEvalPlus\test\20251024\1\start.py"", line 1
+    import subprocess\nimport sys\n\n\ndef main():\n    try:\n        subprocess.run(""mvn spring-boot:run"", shell=True, check=True)\n    except subprocess.CalledProcessError as e:\n        sys.exit(e.returncode)\n\n\nif __name__ == ""__main__"":\n    main()
+                      ^
+SyntaxError: unexpected character after line continuation character
+  File ""D:\Multiagent Research\ProjectEvalPlus\test\20251024\1\start.py"", line 1
+    import subprocess\nimport sys\n\n\ndef main():\n    try:\n        subprocess.run(""mvn spring-boot:run"", shell=True, check=True)\n    except subprocess.CalledProcessError as e:\n        sys.exit(e.returncode)\n\n\nif __name__ == ""__main__"":\n    main()
+                      ^
+SyntaxError: unexpected character after line continuation character
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,1,0,11,"  File ""D:\Multiagent Research\ProjectEvalPlus\test\20251024\1\start.py"", line 1
+    import subprocess\nimport sys\n\n\ndef main():\n    try:\n        subprocess.run(""mvn spring-boot:run"", shell=True, check=True)\n    except subprocess.CalledProcessError as e:\n        sys.exit(e.returncode)\n\n\nif __name__ == ""__main__"":\n    main()
+                      ^
+SyntaxError: unexpected character after line continuation character
+  File ""D:\Multiagent Research\ProjectEvalPlus\test\20251024\1\start.py"", line 1
+    import subprocess\nimport sys\n\n\ndef main():\n    try:\n        subprocess.run(""mvn spring-boot:run"", shell=True, check=True)\n    except subprocess.CalledProcessError as e:\n        sys.exit(e.returncode)\n\n\nif __name__ == ""__main__"":\n    main()
+                      ^
+SyntaxError: unexpected character after line continuation character
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,2,0,9,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,2,0,9,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,2,0,9,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,2,0,9,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,2,0,9,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,3,3,16,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,3,0,16,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,3,0,16,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,3,0,16,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,3,0,16,"C:\Users\Ryan\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251024\\3\\start.py': [Errno 2] No such file or directory
+C:\Users\Ryan\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251024\\3\\start.py': [Errno 2] No such file or directory
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,4,2,17,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,4,2,17,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,4,2,17,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,4,10,17,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,4,14,17,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,5,0,13,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,5,5,13,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,5,0,13,"  File ""D:\Multiagent Research\ProjectEvalPlus\test\20251024\5\start.py"", line 1
+    import subprocess\n\nif __name__ == ""__main__"":\n    subprocess.run(""mvn spring-boot:run"", shell=True)
+                      ^
+SyntaxError: unexpected character after line continuation character
+  File ""D:\Multiagent Research\ProjectEvalPlus\test\20251024\5\start.py"", line 1
+    import subprocess\n\nif __name__ == ""__main__"":\n    subprocess.run(""mvn spring-boot:run"", shell=True)
+                      ^
+SyntaxError: unexpected character after line continuation character
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,5,5,13,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,5,13,13,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,6,0,20,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,6,5,20,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,6,5,20,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,6,5,20,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,6,5,20,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,7,0,24,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,7,0,24,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,7,0,24,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,7,0,24,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,7,0,24,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,8,0,18,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,8,0,18,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,8,0,18,"C:\Users\Ryan\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251024\\8\\start.py': [Errno 2] No such file or directory
+C:\Users\Ryan\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251024\\8\\start.py': [Errno 2] No such file or directory
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,8,8,18,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,8,8,18,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,9,0,13,"Error starting the application: Command 'mvn spring-boot:run' returned non-zero exit status 1.
+Error starting the application: Command 'mvn spring-boot:run' returned non-zero exit status 1.
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,9,0,13,"Error starting the application: Command 'mvn spring-boot:run' returned non-zero exit status 1.
+Error starting the application: Command 'mvn spring-boot:run' returned non-zero exit status 1.
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,9,0,13,"Error starting the application: Command 'mvn spring-boot:run' returned non-zero exit status 1.
+Error starting the application: Command 'mvn spring-boot:run' returned non-zero exit status 1.
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,9,0,13,"Error starting the application: Command 'mvn spring-boot:run' returned non-zero exit status 1.
+Error starting the application: Command 'mvn spring-boot:run' returned non-zero exit status 1.
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,9,0,13,"Error starting the application: Command 'mvn spring-boot:run' returned non-zero exit status 1.
+Error starting the application: Command 'mvn spring-boot:run' returned non-zero exit status 1.
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,10,7,21,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,10,9,21,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,10,12,21,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,10,0,21,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,10,0,21,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,11,0,8,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,11,0,8,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,11,0,8,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,11,0,8,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,11,0,8,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,12,0,18,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,12,0,18,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,12,0,18,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,12,0,18,"C:\Users\Ryan\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251024\\12\\start.py': [Errno 2] No such file or directory
+C:\Users\Ryan\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251024\\12\\start.py': [Errno 2] No such file or directory
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,12,0,18,"C:\Users\Ryan\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251024\\12\\start.py': [Errno 2] No such file or directory
+C:\Users\Ryan\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251024\\12\\start.py': [Errno 2] No such file or directory
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,13,1,25,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,13,1,25,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,13,1,25,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,13,0,25,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,13,0,25,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,14,5,5,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,15,3,3,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,16,3,9,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,16,1,9,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,16,3,9,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,16,3,9,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,16,4,9,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,17,2,6,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,17,3,6,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,17,2,6,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,17,2,6,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,17,2,6,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,18,1,14,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,18,10,14,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,18,12,14,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,18,14,14,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,19,0,8,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,19,0,8,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,19,0,8,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,19,0,8,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,19,0,8,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,20,0,26,"C:\Users\Ryan\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251024\\20\\start.py': [Errno 2] No such file or directory
+C:\Users\Ryan\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251024\\20\\start.py': [Errno 2] No such file or directory
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,20,0,26,"C:\Users\Ryan\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251024\\20\\start.py': [Errno 2] No such file or directory
+C:\Users\Ryan\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251024\\20\\start.py': [Errno 2] No such file or directory
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,20,0,26,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-oss-20b,direct,20251018-123000,3,20,0,26,The process was never started.

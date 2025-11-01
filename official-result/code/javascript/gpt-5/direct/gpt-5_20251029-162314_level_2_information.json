@@ -1,0 +1,485 @@
+{
+    "1": {
+        "initiate_commands": [
+            [
+                "bash",
+                "-lc",
+                "cd test/20251029/1/bmi-calculator-app && npm install"
+            ],
+            [
+                "bash",
+                "-lc",
+                "cd test/20251029/1/bmi-calculator-app && npm start"
+            ],
+            [
+                "url",
+                "http://localhost:3000/"
+            ]
+        ],
+        "requirements": [
+            "Node.js >= 14",
+            "npm",
+            "express@^4.18.4"
+        ]
+    },
+    "2": {
+        "initiate_commands": [
+            [
+                "bash",
+                "-lc",
+                "cd test/20251029/2/currency-converter && npm install"
+            ],
+            [
+                "bash",
+                "-lc",
+                "cd test/20251029/2/currency-converter && npm start"
+            ],
+            [
+                "url",
+                "http://localhost:3000/"
+            ]
+        ],
+        "requirements": [
+            "express@4.19.2",
+            "node-fetch@2.6.7"
+        ]
+    },
+    "3": {
+        "initiate_commands": [
+            [
+                "bash",
+                "-lc",
+                "cd test/20251029/3 && npm install"
+            ],
+            [
+                "bash",
+                "-lc",
+                "cd test/20251029/3 && npm start"
+            ]
+        ],
+        "requirements": [
+            "Node.js >= 16",
+            "npm",
+            "express@^4.19.2",
+            "Homepage URL: http://localhost:3000/"
+        ]
+    },
+    "4": {
+        "initiate_commands": [
+            [
+                "bash",
+                "-lc",
+                "cd test/20251029/4/project && npm install"
+            ],
+            [
+                "bash",
+                "-lc",
+                "cd test/20251029/4/project && npm start"
+            ],
+            [
+                "url",
+                "http://localhost:3000/"
+            ]
+        ],
+        "requirements": [
+            "express@^4.19.2",
+            "qrcode@^1.5.3"
+        ]
+    },
+    "5": {
+        "initiate_commands": [
+            [
+                "bash",
+                "-lc",
+                "cd test/20251029/5/project && npm install"
+            ],
+            [
+                "bash",
+                "-lc",
+                "cd test/20251029/5/project && npm start"
+            ],
+            [
+                "echo",
+                "http://localhost:3000/"
+            ]
+        ],
+        "requirements": [
+            "Node.js >= 14",
+            "npm >= 6",
+            "No external npm dependencies (uses built-in http, fs, path, url)",
+            "Open TCP port 3000",
+            "Modern web browser"
+        ]
+    },
+    "6": {
+        "initiate_commands": [
+            [
+                "npm",
+                "install",
+                "--prefix",
+                "test/20251029/6"
+            ],
+            [
+                "npm",
+                "start",
+                "--prefix",
+                "test/20251029/6"
+            ],
+            [
+                "url",
+                "http://localhost:3000/"
+            ]
+        ],
+        "requirements": [
+            "Node.js >= 16",
+            "npm",
+            "express@^4.19.2",
+            "ejs@^3.1.10"
+        ]
+    },
+    "7": {
+        "initiate_commands": [
+            [
+                "bash",
+                "-lc",
+                "cd test/20251029/7 && npm install express express-session"
+            ],
+            [
+                "bash",
+                "-lc",
+                "cd test/20251029/7 && npm install"
+            ],
+            [
+                "bash",
+                "-lc",
+                "cd test/20251029/7 && node server.js"
+            ],
+            [
+                "url",
+                "http://localhost:3000/"
+            ]
+        ],
+        "requirements": [
+            "Node.js >= 14",
+            "npm",
+            "express@^4.19.2",
+            "express-session@^1.17.3"
+        ]
+    },
+    "8": {
+        "initiate_commands": [
+            [
+                "manage.py",
+                "makemigrations"
+            ],
+            [
+                "manage.py",
+                "migrate"
+            ],
+            [
+                "bash",
+                "-lc",
+                "cd test/20251029/8/calendar-app && npm install"
+            ],
+            [
+                "bash",
+                "-lc",
+                "cd test/20251029/8/calendar-app && npm start"
+            ],
+            [
+                "url",
+                "http://localhost:3000/"
+            ]
+        ],
+        "requirements": [
+            "express",
+            "ejs"
+        ]
+    },
+    "9": {
+        "initiate_commands": [
+            [
+                "manage.py",
+                "makemigrations"
+            ],
+            [
+                "manage.py",
+                "migrate"
+            ],
+            [
+                "npm",
+                "install"
+            ],
+            [
+                "npm",
+                "start"
+            ],
+            [
+                "url",
+                "http://localhost:3000/"
+            ]
+        ],
+        "requirements": [
+            "Node.js >= 16",
+            "npm",
+            "express ^4.19.2"
+        ]
+    },
+    "10": {
+        "initiate_commands": [
+            [
+                "npm",
+                "--prefix test/20251029/10/calorie-tracker install"
+            ],
+            [
+                "npm",
+                "--prefix test/20251029/10/calorie-tracker start"
+            ],
+            [
+                "open_url",
+                "http://localhost:3000/"
+            ]
+        ],
+        "requirements": [
+            "node>=16",
+            "npm>=8",
+            "express@^4.18.2"
+        ]
+    },
+    "11": {
+        "initiate_commands": [
+            [
+                "npm",
+                "--prefix test/20251029/11/project install"
+            ],
+            [
+                "npm",
+                "--prefix test/20251029/11/project start"
+            ],
+            [
+                "homepage_url",
+                "http://localhost:3000/"
+            ]
+        ],
+        "requirements": [
+            "Node.js >= 14",
+            "npm",
+            "express@^4.18.2"
+        ]
+    },
+    "12": {
+        "initiate_commands": [
+            [
+                "bash",
+                "-lc",
+                "cd test/20251029/12/node-expense-app && npm install"
+            ],
+            [
+                "bash",
+                "-lc",
+                "cd test/20251029/12/node-expense-app && npm start"
+            ],
+            [
+                "echo",
+                "http://localhost:3000/"
+            ]
+        ],
+        "requirements": [
+            "Node.js >= 18",
+            "npm >= 8",
+            "express@^4.19.2"
+        ]
+    },
+    "13": {
+        "initiate_commands": [
+            [
+                "bash",
+                "-lc",
+                "cd test/20251030/13/crm-node && npm install"
+            ],
+            [
+                "bash",
+                "-lc",
+                "cd test/20251030/13/crm-node && npm start"
+            ],
+            [
+                "bash",
+                "-lc",
+                "echo http://localhost:3000/"
+            ]
+        ],
+        "requirements": [
+            "Node.js >= 18",
+            "npm",
+            "express@^4.19.2",
+            "sqlite3@^5.1.7"
+        ]
+    },
+    "14": {
+        "initiate_commands": [
+            [
+                "bash",
+                "-lc",
+                "cd test/20251030/14/project && npm install"
+            ],
+            [
+                "bash",
+                "-lc",
+                "cd test/20251030/14/project && npm start"
+            ],
+            [
+                "homepage",
+                "http://localhost:3000/HelloWorld"
+            ]
+        ],
+        "requirements": [
+            "Node.js >= 14",
+            "npm",
+            "express@^4.19.2"
+        ]
+    },
+    "15": {
+        "initiate_commands": [
+            [
+                "bash",
+                "-lc",
+                "cd test/20251030/15 && npm install"
+            ],
+            [
+                "bash",
+                "-lc",
+                "cd test/20251030/15 && npm start"
+            ],
+            [
+                "bash",
+                "-lc",
+                "echo http://localhost:3000/"
+            ]
+        ],
+        "requirements": [
+            "Node.js",
+            "npm",
+            "express@^4.18.2"
+        ]
+    },
+    "16": {
+        "initiate_commands": [
+            [
+                "bash",
+                "-lc",
+                "cd test/20251030/16/node-project && npm install"
+            ],
+            [
+                "bash",
+                "-lc",
+                "cd test/20251030/16/node-project && npm start"
+            ]
+        ],
+        "requirements": [
+            "node >=14",
+            "npm",
+            "xlsx@^0.18.5"
+        ]
+    },
+    "17": {
+        "initiate_commands": [
+            [
+                "npm",
+                "install",
+                "--prefix",
+                "test/20251030/17/"
+            ],
+            [
+                "npm",
+                "start",
+                "--prefix",
+                "test/20251030/17/"
+            ],
+            [
+                "node",
+                "test/20251030/17/src/main.js"
+            ],
+            [
+                "python",
+                "test/20251030/17/start.py"
+            ],
+            [
+                "homepage",
+                "file://test/20251030/17/Logistic.xlsx"
+            ]
+        ],
+        "requirements": [
+            "Node.js >= 14",
+            "npm >= 6",
+            "xlsx@^0.18.5",
+            "Gamedata.xlsx present in test/20251030/17/",
+            "Filesystem write permission to create Logistic.xlsx",
+            "Python 3.x (optional, for running start.py)"
+        ]
+    },
+    "18": {
+        "initiate_commands": [
+            [
+                "npm",
+                "install"
+            ],
+            [
+                "npm",
+                "start"
+            ]
+        ],
+        "requirements": [
+            "Node.js >= 14",
+            "npm >= 6",
+            "No npm dependencies",
+            "Homepage: N/A (CLI app)"
+        ]
+    },
+    "19": {
+        "initiate_commands": [
+            [
+                "bash",
+                "-lc",
+                "cd test/20251030/19/project && npm install"
+            ],
+            [
+                "bash",
+                "-lc",
+                "cd test/20251030/19/project && npm start"
+            ],
+            [
+                "url",
+                "file://test/20251030/19/project/output/histogram.html"
+            ]
+        ],
+        "requirements": [
+            "Node.js >= 18",
+            "npm",
+            "chalk",
+            "csv-parse",
+            "date-fns"
+        ]
+    },
+    "20": {
+        "initiate_commands": [
+            [
+                "npm",
+                "install"
+            ],
+            [
+                "npm",
+                "start"
+            ],
+            [
+                "url",
+                "http://localhost:3000/"
+            ]
+        ],
+        "requirements": [
+            "express@^4.18.2",
+            "ejs@^3.1.9",
+            "express-session@^1.17.3",
+            "uuid@^9.0.0"
+        ]
+    }
+}

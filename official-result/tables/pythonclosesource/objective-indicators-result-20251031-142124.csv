@@ -1,0 +1,6 @@
+date,model,mode,timestamp,level,checklist,skeleton,code,parameter
+pyclosesources,gemini-2.5-flash,cascade,20251030-074046,1,62.0%,35.589999999999996%,37.81%,32.33%
+pyclosesources,gemini-2.5-flash,cascade,20251030-091527,2,None,35.92%,39.47%,30.86%
+pyclosesources,gemini-2.5-flash,direct,20251030-102457,1,None,None,44.26%,29.81%
+pyclosesources,gemini-2.5-flash,direct,20251030-110655,2,None,None,43.3%,36.57%
+pyclosesources,gemini-2.5-flash,direct,20251030-115800,3,None,None,57.230000000000004%,50.56%

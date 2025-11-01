@@ -1,0 +1,6 @@
+date,model,mode,timestamp,level,passed,failed,executed,score
+pyclosesources,gemini-2.5-flash,cascade,20251030-074046,1,22,262,51,0.07746478873239436
+pyclosesources,gemini-2.5-flash,cascade,20251030-091527,2,36,248,118,0.1267605633802817
+pyclosesources,gemini-2.5-flash,direct,20251030-102457,1,56,228,260,0.19718309859154928
+pyclosesources,gemini-2.5-flash,direct,20251030-110655,2,54,230,211,0.19014084507042253
+pyclosesources,gemini-2.5-flash,direct,20251030-115800,3,52,232,215,0.18309859154929578

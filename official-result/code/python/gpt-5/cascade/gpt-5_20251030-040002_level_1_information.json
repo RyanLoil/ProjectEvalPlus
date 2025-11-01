@@ -1,0 +1,641 @@
+{
+  "1": {
+    "initiate_commands": [
+      [
+        "python3",
+        "-m",
+        "pip",
+        "install",
+        "Django>=4.2,<5.1"
+      ],
+      [
+        "python3",
+        "bmicalc/manage.py",
+        "makemigrations",
+        "bmi"
+      ],
+      [
+        "python3",
+        "bmicalc/manage.py",
+        "migrate"
+      ],
+      [
+        "python3",
+        "bmicalc/manage.py",
+        "runserver",
+        "0.0.0.0:8000"
+      ],
+      [
+        "echo",
+        "http://127.0.0.1:8000/"
+      ]
+    ],
+    "requirements": [
+      "Django>=4.2,<5.1"
+    ]
+  },
+  "2": {
+    "initiate_commands": [
+      [
+        "pip",
+        "install -r requirements.txt"
+      ],
+      [
+        "manage.py",
+        "makemigrations"
+      ],
+      [
+        "manage.py",
+        "migrate"
+      ],
+      [
+        "manage.py",
+        "runserver 0.0.0.0:8000"
+      ],
+      [
+        "url",
+        "http://127.0.0.1:8000/"
+      ]
+    ],
+    "requirements": [
+      "Django>=4.2,<5.1"
+    ]
+  },
+  "3": {
+    "initiate_commands": [
+      [
+        "manage.py",
+        "makemigrations"
+      ],
+      [
+        "manage.py",
+        "migrate"
+      ],
+      [
+        "manage.py",
+        "runserver",
+        "0.0.0.0:8000"
+      ],
+      [
+        "url",
+        "http://127.0.0.1:8000/"
+      ]
+    ],
+    "requirements": [
+      "Django>=4.2,<5.0"
+    ]
+  },
+  "4": {
+    "initiate_commands": [
+      [
+        "qrplatform/manage.py",
+        "makemigrations"
+      ],
+      [
+        "qrplatform/manage.py",
+        "migrate"
+      ],
+      [
+        "qrplatform/manage.py",
+        "runserver",
+        "0.0.0.0:8000"
+      ],
+      [
+        "echo",
+        "http://127.0.0.1:8000/"
+      ]
+    ],
+    "requirements": [
+      "Django>=4.2,<5.0",
+      "qrcode[pil]",
+      "Pillow"
+    ]
+  },
+  "5": {
+    "initiate_commands": [
+      [
+        "pip",
+        "install",
+        "-r",
+        "requirements.txt"
+      ],
+      [
+        "manage.py",
+        "makemigrations"
+      ],
+      [
+        "manage.py",
+        "migrate"
+      ],
+      [
+        "manage.py",
+        "runserver",
+        "0.0.0.0:8000"
+      ],
+      [
+        "curl",
+        "http://127.0.0.1:8000/"
+      ]
+    ],
+    "requirements": [
+      "Django>=5.0,<6",
+      "djangorestframework>=3.15",
+      "markdown>=3.6",
+      "markdownify>=0.11.6",
+      "bleach>=6.1"
+    ]
+  },
+  "6": {
+    "initiate_commands": [
+      [
+        "pip",
+        "install",
+        "-r",
+        "requirements.txt"
+      ],
+      [
+        "python3",
+        "taskflow/manage.py",
+        "makemigrations"
+      ],
+      [
+        "python3",
+        "taskflow/manage.py",
+        "migrate"
+      ],
+      [
+        "python3",
+        "taskflow/manage.py",
+        "createsuperuser"
+      ],
+      [
+        "python3",
+        "taskflow/manage.py",
+        "runserver",
+        "0.0.0.0:8000"
+      ],
+      [
+        "celery",
+        "-A",
+        "taskflow",
+        "worker",
+        "-l",
+        "info"
+      ],
+      [
+        "homepage",
+        "http://127.0.0.1:8000/api/docs/"
+      ]
+    ],
+    "requirements": [
+      "Django>=5.0",
+      "psycopg2-binary>=2.9",
+      "djangorestframework>=3.15",
+      "django-filter>=24.3",
+      "django-cors-headers>=4.4",
+      "drf-spectacular>=0.27",
+      "celery>=5.4",
+      "redis>=5.0",
+      "social-auth-app-django>=5.4",
+      "python-dotenv>=1.0"
+    ]
+  },
+  "7": {
+    "initiate_commands": [
+      [
+        "python3",
+        "finance_app/manage.py",
+        "makemigrations"
+      ],
+      [
+        "python3",
+        "finance_app/manage.py",
+        "migrate"
+      ],
+      [
+        "python3",
+        "finance_app/manage.py",
+        "runserver",
+        "0.0.0.0:8000"
+      ],
+      [
+        "homepage",
+        "http://127.0.0.1:8000/"
+      ]
+    ],
+    "requirements": [
+      "Django"
+    ]
+  },
+  "8": {
+    "initiate_commands": [
+      [
+        "cd",
+        "test/20251030/8/"
+      ],
+      [
+        "python",
+        "manage.py",
+        "makemigrations"
+      ],
+      [
+        "python",
+        "manage.py",
+        "migrate"
+      ],
+      [
+        "python",
+        "manage.py",
+        "runserver",
+        "0.0.0.0:8000"
+      ],
+      [
+        "URL",
+        "http://127.0.0.1:8000/"
+      ]
+    ],
+    "requirements": [
+      "Django>=4.2"
+    ]
+  },
+  "9": {
+    "initiate_commands": [
+      [
+        "cd",
+        "test/20251030/9/aichat_site"
+      ],
+      [
+        "pip",
+        "install",
+        "-r",
+        "requirements.txt"
+      ],
+      [
+        "manage.py",
+        "makemigrations"
+      ],
+      [
+        "manage.py",
+        "migrate"
+      ],
+      [
+        "manage.py",
+        "runserver",
+        "0.0.0.0:8000"
+      ],
+      [
+        "open",
+        "http://127.0.0.1:8000/en/"
+      ]
+    ],
+    "requirements": [
+      "Django>=4.2"
+    ]
+  },
+  "10": {
+    "initiate_commands": [
+      [
+        "cd",
+        "test/20251030/10/"
+      ],
+      [
+        "pip",
+        "install",
+        "-r",
+        "requirements.txt"
+      ],
+      [
+        "manage.py",
+        "makemigrations"
+      ],
+      [
+        "manage.py",
+        "migrate"
+      ],
+      [
+        "manage.py",
+        "runserver"
+      ],
+      [
+        "url",
+        "http://127.0.0.1:8000/"
+      ]
+    ],
+    "requirements": [
+      "Django>=4.2,<5.0"
+    ]
+  },
+  "11": {
+    "initiate_commands": [
+      [
+        "manage.py",
+        "makemigrations"
+      ],
+      [
+        "manage.py",
+        "migrate"
+      ],
+      [
+        "manage.py",
+        "runserver",
+        "0.0.0.0:8000"
+      ],
+      [
+        "url",
+        "http://127.0.0.1:8000/"
+      ]
+    ],
+    "requirements": [
+      "Django>=4.2,<5.0"
+    ]
+  },
+  "12": {
+    "initiate_commands": [
+      [
+        "manage.py",
+        "makemigrations"
+      ],
+      [
+        "manage.py",
+        "migrate"
+      ],
+      [
+        "manage.py",
+        "runserver",
+        "0.0.0.0:8000"
+      ],
+      [
+        "HOME_PAGE_URL",
+        "http://127.0.0.1:8000/"
+      ]
+    ],
+    "requirements": [
+      "Django>=5.0,<6.0"
+    ]
+  },
+  "13": {
+    "initiate_commands": [
+      [
+        "python3",
+        "-m",
+        "pip",
+        "install",
+        "-r",
+        "requirements.txt"
+      ],
+      [
+        "python3",
+        "crm/manage.py",
+        "makemigrations"
+      ],
+      [
+        "python3",
+        "crm/manage.py",
+        "migrate"
+      ],
+      [
+        "python3",
+        "crm/manage.py",
+        "runserver",
+        "0.0.0.0:8000"
+      ],
+      [
+        "homepage",
+        "http://127.0.0.1:8000/"
+      ]
+    ],
+    "requirements": [
+      "Django>=4.2,<5.0"
+    ]
+  },
+  "14": {
+    "initiate_commands": [
+      [
+        "pip",
+        "install",
+        "-r",
+        "requirements.txt"
+      ],
+      [
+        "manage.py",
+        "makemigrations"
+      ],
+      [
+        "manage.py",
+        "migrate"
+      ],
+      [
+        "manage.py",
+        "collectstatic",
+        "--noinput"
+      ],
+      [
+        "manage.py",
+        "runserver",
+        "0.0.0.0:8000"
+      ],
+      [
+        "url",
+        "http://127.0.0.1:8000/"
+      ]
+    ],
+    "requirements": [
+      "Django>=4.2,<5.0",
+      "whitenoise>=6.6"
+    ]
+  },
+  "15": {
+    "initiate_commands": [
+      [
+        "manage.py",
+        "makemigrations"
+      ],
+      [
+        "manage.py",
+        "migrate"
+      ],
+      [
+        "manage.py",
+        "runserver",
+        "0.0.0.0:8000"
+      ],
+      [
+        "url",
+        "http://127.0.0.1:8000/"
+      ]
+    ],
+    "requirements": [
+      "Django"
+    ]
+  },
+  "16": {
+    "initiate_commands": [
+      [
+        "homepage",
+        "https://pypi.org/project/subjects2d"
+      ],
+      [
+        "pip",
+        "install",
+        "-r",
+        "requirements.txt"
+      ],
+      [
+        "python",
+        "-m",
+        "subjects2d",
+        "--version"
+      ],
+      [
+        "python",
+        "-m",
+        "subjects2d",
+        "--help"
+      ],
+      [
+        "python",
+        "-m",
+        "subjects2d",
+        "--input",
+        "Spring Semester Subjects.xlsx",
+        "--preview"
+      ],
+      [
+        "python",
+        "-m",
+        "subjects2d",
+        "--input",
+        "Spring Semester Subjects.xlsx",
+        "--output",
+        "Spring Semester Subjects (2D).xlsx",
+        "--preserve-original"
+      ],
+      [
+        "python",
+        "-m",
+        "subjects2d",
+        "--batch",
+        "test/20251030/16/",
+        "--include",
+        "*.xlsx",
+        "--preview"
+      ]
+    ],
+    "requirements": [
+      "openpyxl>=3.1.0"
+    ]
+  },
+  "17": {
+    "initiate_commands": [
+      [
+        "cd",
+        "test/20251030/17/"
+      ],
+      [
+        "python",
+        "-m",
+        "venv",
+        ".venv"
+      ],
+      [
+        ".venv/bin/pip",
+        "install",
+        "-U",
+        "pip"
+      ],
+      [
+        ".venv/bin/pip",
+        "install",
+        "-e",
+        "."
+      ],
+      [
+        ".venv/bin/logistic-batch",
+        "--help"
+      ],
+      [
+        ".venv/bin/logistic-batch",
+        "--dry-run",
+        "-v"
+      ],
+      [
+        ".venv/bin/logistic-batch",
+        "--input",
+        "./Gamedata.xlsx",
+        "--output",
+        "./Logistic.xlsx",
+        "--order-col",
+        "date",
+        "--missing",
+        "drop",
+        "--overwrite"
+      ],
+      [
+        "homepage",
+        "file://test/20251030/17/README.md"
+      ]
+    ],
+    "requirements": [
+      "pandas>=2.0",
+      "numpy>=1.24",
+      "openpyxl>=3.1",
+      "statsmodels>=0.14"
+    ]
+  },
+  "18": {
+    "initiate_commands": [
+      [
+        "python3",
+        "-m",
+        "shellquest.run"
+      ],
+      [
+        "python3",
+        "shellquest/run.py"
+      ]
+    ],
+    "requirements": []
+  },
+  "19": {
+    "initiate_commands": [
+      [
+        "env",
+        "PYTHONPATH=src",
+        "python",
+        "-m",
+        "death_hist.main",
+        "--help"
+      ],
+      [
+        "env",
+        "PYTHONPATH=src",
+        "python",
+        "-m",
+        "death_hist.main",
+        "--input-file",
+        "/path/to/Deathlist.csv",
+        "--dry-run"
+      ],
+      [
+        "env",
+        "PYTHONPATH=src",
+        "python",
+        "-m",
+        "death_hist.main",
+        "--input-file",
+        "/path/to/Deathlist.csv",
+        "--ascii",
+        "--export-json",
+        "out.json",
+        "--export-csv",
+        "out.csv"
+      ],
+      [
+        "homepage",
+        "N/A"
+      ]
+    ],
+    "requirements": []
+  },
+  "20": "{\"initiate_commands\": [[\"manage.py\",\"makemigrations\"],[\"manage.py\",\"migrate\"],[\"manage.py\",\"runserver\",\"0.0.0.0:8000\"],[\"URL\",\"http://127.0.0.1:8000/en/\"]], \"requirements\": [Django, Pillow]}"
+}

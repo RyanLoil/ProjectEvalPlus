@@ -1,0 +1,278 @@
+import platform
+import shutil
+import os
+import subprocess
+import sys
+from collections import defaultdict
+import re
+
+import cv2
+from selenium.webdriver.common.by import By
+from Levenshtein import distance as levenshtein_distance
+import runpy
+import io
+from contextlib import redirect_stdout, redirect_stderr
+
+from config import IMAGE_SIMILARITY_THRESHOLD
+
+
+def selenium_find_minimum_ancestor(driver, source_tag, check_by, check_text):
+    """
+    a selenium function that finds the minimum ancestor for a given tag
+    :param driver: selenium driver, usually used self.driver in the project eval
+    :param source_tag: the start point of up searching ancestor
+    :param check_by: For the target check, By.Something, followed selenium. E.g. By.CLASS_NAME
+    :param check_text: For the target check, meet the check_by requirement. E.g. edit-button
+    :return:
+    """
+    counter = 5
+    tag = source_tag
+    while counter > 0:
+        try:
+            tag.find_element(check_by, check_text)
+            break
+        except Exception:
+            tag = tag.find_element(By.XPATH, "./ancestor::*[1]")
+            counter -= 1
+            continue
+    if counter == 0:
+        raise AssertionError('No minimum ancestor found')
+    return tag
+
+
+def copy_file(src: str, dst: str) -> None:
+    """
+    Copy a file from src to dst.
+
+    :param src: Source file path
+    :param dst: Destination file path or directory
+    :raises FileNotFoundError: If the src file does not exist
+    :raises IsADirectoryError: If the src is a directory
+    :raises PermissionError: If the program lacks permission to read src or write to dst
+    """
+    try:
+        # Check if src exists
+        if not os.path.isfile(src):
+            raise FileNotFoundError(f"Source file not found: {src}")
+
+        # If dst is a directory, construct full destination path
+        if os.path.isdir(dst):
+            dst = os.path.join(dst, os.path.basename(src))
+
+        # Copy file
+        shutil.copy2(src, dst)
+        print(f"File copied successfully from {src} to {dst}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+
+def rename_file(src: str, dst: str) -> None:
+    """
+    Rename a file in the same folder or to a new folder.
+
+    :param src: Source file path
+    :param dst: Destination file path (new name or new path)
+    :raises FileNotFoundError: If the src file does not exist
+    :raises PermissionError: If the program lacks permission to rename the file
+    """
+    try:
+        os.rename(src, dst)
+        # print(f"File renamed successfully from {src} to {dst}")
+    except Exception as e:
+        raise e
+
+
+def clean_shell_output(text: str) -> str:
+    """
+     Clean shell output using a blacklist:
+     - Remove known noisy lines (npm install/audit, empty lines, spinner/ANSI)
+     - Keep all other lines, including custom errors/warnings and Python/Node.js Errors
+     - Keep last line of Python traceback
+     """
+    lines = text.splitlines()
+    cleaned = []
+
+    # Black list
+    blacklist_patterns = [
+        r"up to date,? audited .*packages",
+        r"added .*packages.*audited",
+        r"found \d+ vulnerabilities?",
+        r"vulnerabilit(y|ies)",
+        r"npm WARN.*",
+        r"npm ERR!.*",
+        r"npm notice.*",
+        r"Run [`']?npm audit[`']? for details",
+        r"Some issues need review.*",
+        r"New major version of npm available",
+        r"^$",  # Empty row
+    ]
+    blacklist = re.compile("|".join(f"(?:{p})" for p in blacklist_patterns), re.IGNORECASE)
+
+    skip_traceback = False
+    last_exception_line = None
+
+    for line in lines:
+        line_strip = line.strip()
+
+        if line.strip().startswith("["):
+            if re.match(r"^\[(INFO|ERROR|WARNING|DEBUG|FATAL|NOTE)\]", line.strip(), re.IGNORECASE):
+                continue
+
+        # Traceback Start
+        if line_strip.startswith("Traceback (most recent call last):"):
+            skip_traceback = True
+            last_exception_line = None
+            continue
+
+        if skip_traceback:
+            # Last line
+            if re.match(r"^[\w\.]+(Error|Exception).*", line_strip):
+                last_exception_line = line_strip
+            continue
+
+        # Blacklist
+        if blacklist.search(line_strip):
+            continue
+
+        # Remove spinner & ANSI Control char
+        clean_line = re.sub(r"\x1b\[[0-9;]*[a-zA-Z]", "", line)
+        clean_line = re.sub(r"[⸨⸩\\|/\-]+", "", clean_line).strip()
+
+        if clean_line:
+            cleaned.append(clean_line)
+
+    # Traceback Last line should remain
+    if skip_traceback and last_exception_line:
+        cleaned.append(last_exception_line)
+
+    return "\n".join(cleaned).strip()
+
+
+def run_entry(path: str) -> tuple[str, str]:
+    """
+    Capture all stdout and stderr, including logger outputs written to console.
+
+    :param module_name: Module to run using runpy
+    :return: Tuple containing captured stdout and stderr
+    """
+    # stdout_buffer = io.StringIO()
+    # stderr_buffer = io.StringIO()
+    # try:
+    #     with redirect_stdout(stdout_buffer), redirect_stderr(stderr_buffer):
+    #         namespace = runpy.run_path(path, run_name="__main__")
+    #     return_value = (stdout_buffer.getvalue(), stderr_buffer.getvalue())
+    # except Exception as e:
+    #     return_value = (str(e), str(e))
+    # finally:
+    #     stdout_buffer.seek(0)
+    #     stderr_buffer.seek(0)
+    # return return_value
+    result = subprocess.run(
+        [sys.executable, path],
+        capture_output=True,
+        text=True
+    )
+    output_file = open("stdout.txt", "a",encoding="utf-8")
+    output_file.write(f"Source output:{result.stdout}\n")
+    output_file.write(f"Clean output:{clean_shell_output(result.stdout)}\n")
+
+    error_file = open("stderr.txt", "a",encoding="utf-8")
+    error_file.write(f"Source error:{result.stderr}\n")
+    error_file.write(f"Clean error:{clean_shell_output(result.stderr)}\n")
+
+    stdout = clean_shell_output(result.stdout)
+    stderr = clean_shell_output(result.stderr)
+    return stdout, stderr
+
+
+
+def string_similarity(str1, str2):
+    """
+    计算两个字符串的相似性，基于 Levenshtein 距离。
+
+    :param str1: 第一个字符串
+    :param str2: 第二个字符串
+    :return: 相似性分数（0 到 1 之间），1 表示完全相同，0 表示完全不同
+    """
+    max_len = max(len(str1), len(str2))
+    if max_len == 0:  # 防止除以零
+        return 1.0
+    dist = levenshtein_distance(str1, str2)
+    similarity = 1 - dist / max_len
+    return similarity
+
+
+def calculate_histogram_similarity(image1, image2):
+    image1 = cv2.imread(image1)
+    image2 = cv2.imread(image2)
+    # 使用ORB提取特征
+    orb = cv2.ORB_create()
+    kp1, des1 = orb.detectAndCompute(image1, None)
+    kp2, des2 = orb.detectAndCompute(image2, None)
+
+    # 匹配特征
+    bf = cv2.BFMatcher(cv2.NORM_HAMMING, crossCheck=True)
+    matches = bf.match(des1, des2)
+
+    # 计算匹配率
+    similarity = len(matches) / min(len(kp1), len(kp2))
+    return similarity > IMAGE_SIMILARITY_THRESHOLD
+
+
+def extract_json_files_from_folder(folder_path, mode=False):
+    """
+
+    :param folder_path:
+    :param mode: set true when you are trying to find answer of it
+    :return:
+    """
+    file_groups = defaultdict(lambda: {
+        "answer_checklist_path": None,
+        "answer_skeleton_path": None,
+        "answer_code_path": None,
+        "answer_parameter_path": None
+    })
+    for file_name in os.listdir(folder_path):
+        file_path = os.path.join(folder_path, file_name)
+
+        # 确保是文件并且是JSON格式
+        if os.path.isfile(file_path) and file_name.endswith('.json'):
+            # 获取文件名和后缀
+            file_base_name, file_extension = os.path.splitext(file_name)
+            try:
+                int(file_base_name.split('_')[-1])
+                prefix = file_base_name
+                file_groups[prefix]["answer_code_path"] = file_path
+            except ValueError:
+                if file_base_name.split('_')[-1] == "checklist":
+
+                    prefix = "_".join(file_base_name.split('_')[:-2])
+                else:
+                    prefix = "_".join(file_base_name.split('_')[:-1])
+
+            # 根据文件的后缀更新对应组的字典
+            if file_base_name.endswith('_nl_checklist'):
+                file_groups[prefix]["answer_checklist_path"] = file_path
+            elif file_base_name.endswith('_skeleton'):
+                file_groups[prefix]["answer_skeleton_path"] = file_path
+            elif file_base_name.endswith('_parameter'):
+                file_groups[prefix]["answer_parameter_path"] = file_path
+            elif mode:
+                if file_base_name.endswith('_information'):
+                    file_groups[prefix]["information"] = file_path
+                if file_base_name.endswith('_startfile'):
+                    file_groups[prefix]["startfile"] = file_path
+
+
+    return dict(file_groups)
+
+
+def iswindows():
+    return platform.system().lower() == "windows"
+
+def remove_temp_test_files(path):
+    if os.path.exists(path):
+        os.remove(path)
+        print("Removed temp test files: {}".format(path))
+    else:
+        print("{} not found.".format(path))

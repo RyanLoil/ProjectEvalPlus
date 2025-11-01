@@ -1,0 +1,1 @@
+{"19": {"initiate_commands": [["python", "19-stdanswer.py"]], "requirements": ["pandas", "matplotlib"]}}

@@ -1,0 +1,85 @@
+from datetime import datetime
+import os
+from controller import LLMController
+from llm import GPTTest, OllamaTest, GeminiTest, DeepSeekTest, VLLMTest
+
+# 1.Add any model you like using mode_dict. The boolean value means that it is [True/False] that the model is a coding model.
+model_dict = {
+    # "gpt-4o": False,
+    # "gemma2": False,
+    # "codegemma": True,
+    # "gemma3": False,
+    # "gemma3:27b": False,
+    # "qwen3"
+    # "deepseek-chat": False,
+    # "gpt-oss:20b": False
+    # "gpt-3.5-turbo": False,
+    "gemini-2.5-flash": False,
+}
+
+# 2. Set the input file path. Default is "data/project_eval_project.json"
+file_path = "data/project_eval_project.json"
+
+# 3. If you are using a NON-ollama model, add your model prefix with its own LLMTestClass in start_with_dict{}, else skip this step.
+start_with_dict = {
+    "gpt": GPTTest,
+    "gemini": GeminiTest,
+    "deepseek": DeepSeekTest,
+    "gpt-oss:20b": OllamaTest,
+    "gpt-oss-20b": VLLMTest,
+}
+
+# 4.Set your test times.
+test_times = 1
+
+# 5.Set if you want to test cascade or direct. [True] means only cascade, [False] means only direct, [True, False] means both.
+cascade_settings = [True, False]
+
+# 6.Set your GPU UUID. If you don't know it or you want to use default GPU or you are using a non-local API, leave it blank.
+GPU_UUID = "GPU-e64683ee-8e58-13f4-b2aa-e88128cc3ef9"
+
+# Enjoy it. It will default save in experiments/<today>-<times>/<model_name>/.
+
+skip_list_set = {
+}
+
+if __name__ == '__main__':
+    start_date = datetime.now().strftime('%Y%m%d')
+    for counter in range(test_times):
+        for cascade in cascade_settings:
+
+            for model in model_dict:
+                save_path = f"experiments/{start_date}-{counter+1}/{model.replace(":","-")}/{'cascade' if cascade else 'direct'}/"
+
+                if not os.path.exists(save_path):
+                    os.makedirs(save_path)
+
+                model_class = start_with_dict[model.split("-")[0]] if model.split("-")[0] in start_with_dict else OllamaTest
+                if model in start_with_dict:
+                    model_class = start_with_dict[model]
+
+                tester = LLMController(
+                    question_path=file_path,
+                    model_class=model_class,
+                    llm=model,
+                    device=GPU_UUID,
+                    language={"website": "python", "software": "python", "batch": "python", "console": "python"},
+                    technical_stack={"website": "Django", "software": "pygame", "batch": "none", "console": "none"},
+                    # language={"website": "JavaScript", "software": "JavaScript", "batch": "JavaScript", "console": "JavaScript"},
+                    # technical_stack={"website": "NodeJS", "software": "NodeJS", "batch": "NodeJS", "console": "NodeJS"},
+                    # language={"website": "Java", "software": "Java", "batch": "Java", "console": "Java"},
+                    # technical_stack={"website": "Spring Boot", "software": "Maven", "batch": None, "console": None},
+                    output_path=save_path,
+                    parameter_generate=True,
+                    information_generate=True,
+                    start_file_generate=True,
+                )
+                start_level = 3 if model_dict[model] else 1
+                for level in range(start_level,4):
+                    if level == 3 and cascade:
+                        # Useless of cascade 3
+                        continue
+                    if '-'.join([str(counter+1),model,'cascade' if cascade else 'direct', str(level)]) in skip_list_set:
+                        print(f"Skipping {'-'.join([str(counter+1),model,'cascade' if cascade else 'direct', str(level)])}")
+                        continue
+                    tester.run(level, cascade=cascade)

@@ -1,0 +1,1 @@
+{"9": {"initiate_commands": [["manage.py", "makemigrations"], ["manage.py", "migrate"], ["manage.py", "runserver"]], "requirements": ["django>=3.2,<4.0", "sqlparse"]}}

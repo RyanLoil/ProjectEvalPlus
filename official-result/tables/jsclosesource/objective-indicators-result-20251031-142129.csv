@@ -1,0 +1,11 @@
+date,model,mode,timestamp,level,checklist,skeleton,code,parameter
+js-closesources,gpt-3.5-turbo,cascade,20251029-103141,1,48.4%,10.41%,13.05%,50.32%
+js-closesources,gpt-3.5-turbo,cascade,20251029-103801,2,None,10.73%,12.9%,51.88%
+js-closesources,gpt-3.5-turbo,direct,20251029-104251,1,None,None,13.63%,47.17%
+js-closesources,gpt-3.5-turbo,direct,20251029-104710,2,None,None,21.81%,48.5%
+js-closesources,gpt-3.5-turbo,direct,20251029-105119,3,None,None,45.34%,47.07%
+js-closesources,gpt-5,cascade,20251029-060314,1,64.63%,31.06%,31.509999999999998%,45.79%
+js-closesources,gpt-5,cascade,20251029-111936,2,None,31.540000000000003%,33.410000000000004%,58.17%
+js-closesources,gpt-5,direct,20251029-142441,1,None,None,26.240000000000002%,43.059999999999995%
+js-closesources,gpt-5,direct,20251029-162314,2,None,None,34.98%,54.120000000000005%
+js-closesources,gpt-5,direct,20251029-181051,3,None,None,55.769999999999996%,58.75%

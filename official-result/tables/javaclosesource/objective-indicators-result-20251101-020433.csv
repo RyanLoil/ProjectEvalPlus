@@ -1,0 +1,16 @@
+date,model,mode,timestamp,level,checklist,skeleton,code,parameter
+java-closesources,gemini-2.5-flash,cascade,20251031-024913,1,59.78%,22.830000000000002%,27.76%,41.21%
+java-closesources,gemini-2.5-flash,cascade,20251031-035211,2,None,23.78%,27.32%,48.6%
+java-closesources,gemini-2.5-flash,direct,20251031-043822,1,None,None,30.409999999999997%,40.550000000000004%
+java-closesources,gemini-2.5-flash,direct,20251031-051204,2,None,None,33.06%,52.04%
+java-closesources,gemini-2.5-flash,direct,20251031-055324,3,None,None,55.96%,53.190000000000005%
+java-closesources,gpt-3.5-turbo,cascade,20251031-170431,1,50.27%,9.15%,15.07%,48.72%
+java-closesources,gpt-3.5-turbo,cascade,20251031-171429,2,None,11.379999999999999%,16.009999999999998%,44.0%
+java-closesources,gpt-3.5-turbo,direct,20251031-172358,1,None,None,16.41%,49.51%
+java-closesources,gpt-3.5-turbo,direct,20251031-173137,2,None,None,20.75%,48.9%
+java-closesources,gpt-3.5-turbo,direct,20251031-173921,3,None,None,42.980000000000004%,42.28%
+java-closesources,gpt-5,cascade,20251031-024108,1,63.739999999999995%,30.55%,32.39%,51.959999999999994%
+java-closesources,gpt-5,cascade,20251031-052318,2,None,31.009999999999998%,34.0%,58.51%
+java-closesources,gpt-5,direct,20251031-075336,1,None,None,29.970000000000002%,46.45%
+java-closesources,gpt-5,direct,20251031-090500,2,None,None,34.339999999999996%,56.99999999999999%
+java-closesources,gpt-5,direct,20251031-104145,3,None,None,60.209999999999994%,59.12%

@@ -1,0 +1,1 @@
+{"10": {"initiate_commands": [["manage.py", "makemigrations"], ["manage.py", "migrate"], ["manage.py", "runserver"]], "requirements": ["Django>=4.0,<5.0"]}, "13": {"initiate_commands": [["manage.py", "makemigrations"], ["manage.py", "migrate"], ["manage.py", "runserver"]], "requirements": ["Django>=4.0"]}}

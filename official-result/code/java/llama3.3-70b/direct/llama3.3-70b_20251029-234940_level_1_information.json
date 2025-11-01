@@ -1,0 +1,1 @@
+{"12": {"initiate_commands": [["mvn", "spring-boot:run"]], "requirements": ["Java 8", "Maven", "Spring Boot 2.3.4"], "homepage_url": ["http://localhost:8080"]}}

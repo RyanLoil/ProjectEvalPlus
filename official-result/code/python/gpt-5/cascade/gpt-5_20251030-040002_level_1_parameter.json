@@ -1,0 +1,3525 @@
+{
+  "1": [
+    {
+      "page": "HomePage",
+      "function": [
+        {
+          "function": "View Introduction",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/en/"
+            },
+            {
+              "name": "introduction_element_id",
+              "answer": "calc-help"
+            }
+          ]
+        },
+        {
+          "function": "Navigation to Calculator",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/en/"
+            },
+            {
+              "name": "navigate_button_id",
+              "answer": "nav-calculator"
+            },
+            {
+              "name": "calculator_element_id",
+              "answer": "calc-title"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "BMICalculatorPage",
+      "function": [
+        {
+          "function": "Input Height",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/en/"
+            },
+            {
+              "name": "height_input_box_id",
+              "answer": "id_height_cm"
+            }
+          ]
+        },
+        {
+          "function": "Input Weight",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/en/"
+            },
+            {
+              "name": "weight_input_box_id",
+              "answer": "id_weight_kg"
+            }
+          ]
+        },
+        {
+          "function": "Submit Data",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/en/"
+            },
+            {
+              "name": "height_input_box_id",
+              "answer": "id_height_cm"
+            },
+            {
+              "name": "weight_input_box_id",
+              "answer": "id_weight_kg"
+            },
+            {
+              "name": "submit_button_id",
+              "answer": "btn-calc"
+            }
+          ]
+        },
+        {
+          "function": "Display BMI Result",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/en/"
+            },
+            {
+              "name": "bmi_result_id",
+              "answer": "res-bmi"
+            }
+          ]
+        },
+        {
+          "function": "Display BMI Category",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/en/"
+            },
+            {
+              "name": "bmi_category_id",
+              "answer": "res-bmi"
+            }
+          ]
+        },
+        {
+          "function": "Provide Interpretation",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/en/"
+            },
+            {
+              "name": "interpretation_id",
+              "answer": "guidance-text"
+            }
+          ]
+        },
+        {
+          "function": "Reset Form",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/en/"
+            },
+            {
+              "name": "height_input_box_id",
+              "answer": "id_height_cm"
+            },
+            {
+              "name": "weight_input_box_id",
+              "answer": "id_weight_kg"
+            },
+            {
+              "name": "reset_button_id",
+              "answer": "reset-btn"
+            }
+          ]
+        },
+        {
+          "function": "Link to Health Advice",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/en/"
+            },
+            {
+              "name": "health_advice_id",
+              "answer": "guidance-link"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "2": [
+    {
+      "page": "Home Page",
+      "function": [
+        {
+          "function": "Select Source Currency",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "source_currency_dropdown_id",
+              "answer": "id_base"
+            },
+            {
+              "name": "source_currency_value",
+              "answer": "1"
+            }
+          ]
+        },
+        {
+          "function": "Select Target Currency",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "target_currency_dropdown_id",
+              "answer": "id_target"
+            },
+            {
+              "name": "target_currency_value",
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "function": "Enter Amount",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "amount_input_box_id",
+              "answer": "id_amount"
+            },
+            {
+              "name": "amount_value",
+              "answer": "100"
+            }
+          ]
+        },
+        {
+          "function": "Convert Button",
+          "parameter": [
+            {
+              "name": "convert_button_id",
+              "answer": "convert-btn"
+            }
+          ]
+        },
+        {
+          "function": "Display Conversion Result",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "result_box_id",
+              "answer": "result-panel"
+            }
+          ]
+        },
+        {
+          "function": "Exchange Rate Info",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "exchange_rate_info_id",
+              "answer": "result-rate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "Currency Details Page",
+      "function": [
+        {
+          "function": "Currency Information",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/historical-chart/"
+            },
+            {
+              "name": "currency_info_id",
+              "answer": "historical-pair"
+            }
+          ]
+        },
+        {
+          "function": "Historical Exchange Rates",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/historical-chart/"
+            },
+            {
+              "name": "historical_rates_id",
+              "answer": "historical-series"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "3": [
+    {
+      "page": "Home",
+      "function": [
+        {
+          "function": "Display Welcome Message",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "swelcome_message_id",
+              "answer": "generator-title"
+            }
+          ]
+        },
+        {
+          "function": "Navigation Button",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "navigation_button_id",
+              "answer": "nav-generator"
+            },
+            {
+              "name": "generator_id",
+              "answer": "generator-page"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "PasswordOptions",
+      "function": [
+        {
+          "function": "Length Input",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/app/generator/"
+            },
+            {
+              "name": "length_input_id",
+              "answer": "id_length"
+            }
+          ]
+        },
+        {
+          "function": "Include Uppercase",
+          "parameter": [
+            {
+              "name": "include_uppercase_id",
+              "answer": "id_use_upper"
+            }
+          ]
+        },
+        {
+          "function": "Include Lowercase",
+          "parameter": [
+            {
+              "name": "include_lowercase_id",
+              "answer": "id_use_lower"
+            }
+          ]
+        },
+        {
+          "function": "Include Numbers",
+          "parameter": [
+            {
+              "name": "include_numbers_id",
+              "answer": "id_use_digits"
+            }
+          ]
+        },
+        {
+          "function": "Include Symbols",
+          "parameter": [
+            {
+              "name": "include_symbols_id",
+              "answer": "id_use_symbols"
+            }
+          ]
+        },
+        {
+          "function": "Generate Button",
+          "parameter": [
+            {
+              "name": "generate_button_id",
+              "answer": "btn-generate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "GeneratedPassword",
+      "function": [
+        {
+          "function": "Display Password",
+          "parameter": [
+            {
+              "name": "display_password_id",
+              "answer": "generated-password-value"
+            }
+          ]
+        },
+        {
+          "function": "Rule Check 1",
+          "parameter": [
+            {
+              "name": "display_password_id",
+              "answer": "generated-password-value"
+            }
+          ]
+        },
+        {
+          "function": "Copy to Clipboard",
+          "parameter": [
+            {
+              "name": "display_password_id",
+              "answer": "generated-password-value"
+            },
+            {
+              "name": "copy_button_id",
+              "answer": "generated-password"
+            }
+          ]
+        },
+        {
+          "function": "Generate Another Password",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/app/generator/"
+            },
+            {
+              "name": "length_input_id",
+              "answer": "id_length"
+            },
+            {
+              "name": "include_lowercase_id",
+              "answer": "id_use_lower"
+            },
+            {
+              "name": "include_numbers_id",
+              "answer": "id_use_digits"
+            },
+            {
+              "name": "generate_button_id",
+              "answer": "btn-generate"
+            },
+            {
+              "name": "display_password_id",
+              "answer": "generated-password-value"
+            }
+          ]
+        },
+        {
+          "function": "Rule Check 2",
+          "parameter": [
+            {
+              "name": "display_password_id",
+              "answer": "generated-password-value"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "About",
+      "function": [
+        {
+          "function": "About Link",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "about_link_id",
+              "answer": "nav-help"
+            }
+          ]
+        },
+        {
+          "function": "Description",
+          "parameter": [
+            {
+              "name": "description_id",
+              "answer": "help-content"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "4": [
+    {
+      "page": "Home",
+      "function": [
+        {
+          "function": "Introduction",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "intro_text_css_selector",
+              "answer": "#home-text"
+            }
+          ]
+        },
+        {
+          "function": "Generate QR Code Navigate Button",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "generate_qr_button_id",
+              "answer": "nav-generator"
+            },
+            {
+              "name": "expected_url",
+              "answer": "http://localhost:8000/qr/"
+            },
+            {
+              "name": "generator_id",
+              "answer": "generator-title"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "QR Code Generator",
+      "function": [
+        {
+          "function": "Text Input Field",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/qr/"
+            },
+            {
+              "name": "text_input_id",
+              "answer": ""
+            }
+          ]
+        },
+        {
+          "function": "Enter Box Size",
+          "parameter": [
+            {
+              "name": "box_size_input_id",
+              "answer": ""
+            }
+          ]
+        },
+        {
+          "function": "Enter Border Size",
+          "parameter": [
+            {
+              "name": "border_size_input_id",
+              "answer": ""
+            }
+          ]
+        },
+        {
+          "function": "Select Fill Color",
+          "parameter": [
+            {
+              "name": "fill_color_select_id",
+              "answer": ""
+            }
+          ]
+        },
+        {
+          "function": "Select Back Color",
+          "parameter": [
+            {
+              "name": "back_color_select_id",
+              "answer": ""
+            }
+          ]
+        },
+        {
+          "function": "Select Error Correction Rate",
+          "parameter": [
+            {
+              "name": "correction_rate_select_id",
+              "answer": ""
+            }
+          ]
+        },
+        {
+          "function": "Generate Button",
+          "parameter": [
+            {
+              "name": "generate_button_id",
+              "answer": ""
+            }
+          ]
+        },
+        {
+          "function": "QR Code Display Area",
+          "parameter": [
+            {
+              "name": "qr_code_display_id",
+              "answer": ""
+            }
+          ]
+        },
+        {
+          "function": "Download QR Code Button",
+          "parameter": [
+            {
+              "name": "download_button_id",
+              "answer": ""
+            },
+            {
+              "name": "default_download_path",
+              "answer": "C:\\Users\\Administrator\\Downloads"
+            }
+          ]
+        },
+        {
+          "function": "Error Handling",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/qr/"
+            },
+            {
+              "name": "text_input_id",
+              "answer": ""
+            },
+            {
+              "name": "generate_button_id",
+              "answer": ""
+            },
+            {
+              "name": "error_message_css_selector",
+              "answer": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "About",
+      "function": [
+        {
+          "function": "Description",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": ""
+            },
+            {
+              "name": "about_description_css_selector",
+              "answer": ""
+            }
+          ]
+        },
+        {
+          "function": "Common Questions",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": ""
+            },
+            {
+              "name": "faq_id",
+              "answer": ""
+            }
+          ]
+        },
+        {
+          "function": "Privacy Policy",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": ""
+            },
+            {
+              "name": "privacy_policy_id",
+              "answer": ""
+            }
+          ]
+        },
+        {
+          "function": "Terms of Service",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": ""
+            },
+            {
+              "name": "terms_of_service_id",
+              "answer": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "5": [
+    {
+      "page": "Home",
+      "function": [
+        {
+          "function": "Welcome Message",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            }
+          ]
+        },
+        {
+          "function": "Introduction to Converter",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "introduction_id",
+              "answer": "home-intro"
+            }
+          ]
+        },
+        {
+          "function": "Navigation Links",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "convert_link_id",
+              "answer": "nav-converter"
+            },
+            {
+              "name": "expected_url",
+              "answer": "http://localhost:8000/converter/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "Convert",
+      "function": [
+        {
+          "function": "Markdown Input Area",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/converter/"
+            },
+            {
+              "name": "markdown_input_id",
+              "answer": "converter-input"
+            }
+          ]
+        },
+        {
+          "function": "Convert Button",
+          "parameter": [
+            {
+              "name": "convert_button_id",
+              "answer": "btn-convert"
+            }
+          ]
+        },
+        {
+          "function": "HTML Output Area",
+          "parameter": [
+            {
+              "name": "html_output_id",
+              "answer": "converter-output"
+            }
+          ]
+        },
+        {
+          "function": "Rule Check 1",
+          "parameter": [
+            {
+              "name": "html_output_id",
+              "answer": "converter-output"
+            }
+          ]
+        },
+        {
+          "function": "Upload File",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/converter/"
+            },
+            {
+              "name": "upload_file_id",
+              "answer": "N/A"
+            },
+            {
+              "name": "upload_file_btn_id",
+              "answer": "N/A"
+            }
+          ]
+        },
+        {
+          "function": "Download HTML",
+          "parameter": [
+            {
+              "name": "download_html_btn_id",
+              "answer": "N/A"
+            },
+            {
+              "name": "default_download_path",
+              "answer": "N/A"
+            }
+          ]
+        },
+        {
+          "function": "Rule Check 2",
+          "parameter": [
+            {
+              "name": "default_download_path",
+              "answer": "N/A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "About",
+      "function": [
+        {
+          "function": "Team Information",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/about/"
+            }
+          ]
+        },
+        {
+          "function": "FAQ Section",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/about/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "6": [
+    {
+      "page": "Home",
+      "function": [
+        {
+          "function": "View Dashboard",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/api/docs/"
+            },
+            {
+              "name": "navigate_dashboard_id",
+              "answer": "nav-dashboard"
+            }
+          ]
+        },
+        {
+          "function": "Navigate to Todo Lists",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/api/docs/"
+            },
+            {
+              "name": "navigate_todo_lists_id",
+              "answer": "nav-todolists"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "Todo List",
+      "function": [
+        {
+          "function": "Create New List",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/api/projects/projects/"
+            },
+            {
+              "name": "list_input_box_id",
+              "answer": "list-name-input"
+            },
+            {
+              "name": "create_button_id",
+              "answer": "create-list-btn"
+            }
+          ]
+        },
+        {
+          "function": "View Tasks",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/api/tasks/items/"
+            },
+            {
+              "name": "todo_list_selector_class_name",
+              "answer": "todolist-item"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "Task",
+      "function": [
+        {
+          "function": "Add New Task",
+          "parameter": [
+            {
+              "name": "task_input_box_id",
+              "answer": "task-title-input"
+            },
+            {
+              "name": "add_button_id",
+              "answer": "add-task-btn"
+            }
+          ]
+        },
+        {
+          "function": "Edit Task",
+          "parameter": [
+            {
+              "name": "task_selector_class",
+              "answer": "task-item"
+            },
+            {
+              "name": "edit_input_box_id",
+              "answer": "task-edit-input"
+            },
+            {
+              "name": "save_button_id",
+              "answer": "save-task-btn"
+            }
+          ]
+        },
+        {
+          "function": "Mark Task as Completed",
+          "parameter": [
+            {
+              "name": "complete_button_class",
+              "answer": "task-complete-btn"
+            }
+          ]
+        },
+        {
+          "function": "Delete Task",
+          "parameter": [
+            {
+              "name": "task_selector_class",
+              "answer": "task-item"
+            },
+            {
+              "name": "delete_button_id",
+              "answer": "delete-task-btn"
+            }
+          ]
+        },
+        {
+          "function": "Add New Task 2",
+          "parameter": [
+            {
+              "name": "task_input_box_id",
+              "answer": "task-title-input"
+            },
+            {
+              "name": "add_button_id",
+              "answer": "add-task-btn"
+            }
+          ]
+        },
+        {
+          "function": "Add New Task 3",
+          "parameter": [
+            {
+              "name": "task_input_box_id",
+              "answer": "task-title-input"
+            },
+            {
+              "name": "add_button_id",
+              "answer": "add-task-btn"
+            }
+          ]
+        },
+        {
+          "function": "View Task 2",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/api/tasks/items/"
+            },
+            {
+              "name": "task_class",
+              "answer": "task-item"
+            }
+          ]
+        },
+        {
+          "function": "Mark Task as Completed 2",
+          "parameter": [
+            {
+              "name": "complete_button_class",
+              "answer": "task-complete-btn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "Analysis",
+      "function": [
+        {
+          "function": "Return to Todolists",
+          "parameter": [
+            {
+              "name": "return_link_id",
+              "answer": "back-to-lists-link"
+            }
+          ]
+        },
+        {
+          "function": "Return to Homepage",
+          "parameter": [
+            {
+              "name": "return_link_id",
+              "answer": "back-to-home-link"
+            }
+          ]
+        },
+        {
+          "function": "View Task Completion Chart",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/api/analytics/completion-rate/"
+            },
+            {
+              "name": "chart_id",
+              "answer": "completion-chart"
+            }
+          ]
+        },
+        {
+          "function": "View Task Distribution Chart",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/api/analytics/time-by-project/"
+            },
+            {
+              "name": "chart_id",
+              "answer": "distribution-chart"
+            }
+          ]
+        },
+        {
+          "function": "Return to Homepage 2",
+          "parameter": [
+            {
+              "name": "return_link_id",
+              "answer": "back-home-link"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "Todo List 2",
+      "function": [
+        {
+          "function": "Edit List",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/api/projects/projects/"
+            },
+            {
+              "name": "edit_button_xpath",
+              "answer": "//*[text()=\"New List\"]/following::button[contains(@class,\"edit\")][1]"
+            },
+            {
+              "name": "list_input_box_id",
+              "answer": "list-name-input"
+            },
+            {
+              "name": "save_button_id",
+              "answer": "save-list-btn"
+            }
+          ]
+        },
+        {
+          "function": "Delete List",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/api/projects/projects/"
+            },
+            {
+              "name": "delete_button_xpath",
+              "answer": "//*[text()=\"Edited List\"]/following::button[contains(@class,\"delete\")][1]"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "7": [
+    {
+      "page": "Home",
+      "function": "[{\"function\":\"View Home\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/dashboard/summary/\"}]},{\"function\":\"User Check 1\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/auth/login/\"},{\"name\":\"username_field\",\"answer\":\"id_username\"},{\"name\":\"password_field\",\"answer\":\"id_password\"},{\"name\":\"login_button\",\"answer\":\"login-button\"},{\"name\":\"invalid_message_text\",\"answer\":\"Invalid username or password\"}]},{\"function\":\"View Dashboard 1\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/dashboard/summary/\"}]},{\"function\":\"View Settings\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/preferences/profile/\"}]},{\"function\":\"View Chart\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/dashboard/trend/\"}]},{\"function\":\"Sign Up\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/auth/register/\"},{\"name\":\"username_field\",\"answer\":\"id_username\"},{\"name\":\"password_field\",\"answer\":\"id_password1\"},{\"name\":\"confirm_password_field\",\"answer\":\"id_password2\"},{\"name\":\"signup_button\",\"answer\":\"signup-button\"}]},{\"function\":\"User Login\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/auth/login/\"},{\"name\":\"username_field\",\"answer\":\"id_username\"},{\"name\":\"password_field\",\"answer\":\"id_password\"},{\"name\":\"login_button\",\"answer\":\"login-button\"}]},{\"function\":\"View Dashboard 2\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/dashboard/summary/\"}]}]"
+    },
+    {
+      "page": "Settings 1",
+      "function": "[{\"function\":\"Add Category\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/categories/manage/\"},{\"name\":\"add_button\",\"answer\":\"add-category\"},{\"name\":\"category_name_field\",\"answer\":\"id_name\"}]},{\"function\":\"Edit Category\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/categories/manage/\"},{\"name\":\"edit_button_class_name\",\"answer\":\"btn-edit\"},{\"name\":\"category_field_class_name\",\"answer\":\"category-input\"}]},{\"function\":\"Delete Category\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/categories/manage/\"},{\"name\":\"delete_button_class_name\",\"answer\":\"btn-delete\"}]},{\"function\":\"List Category\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/categories/manage/\"}]}]"
+    },
+    {
+      "page": "Balance Tracker",
+      "function": "[{\"function\":\"Add Transaction\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/transactions/add/\"},{\"name\":\"amount_field\",\"answer\":\"id_amount\"},{\"name\":\"category_field\",\"answer\":\"id_category\"},{\"name\":\"submit_button\",\"answer\":\"submit-transaction\"},{\"name\":\"date_field\",\"answer\":\"id_occurred_at\"},{\"name\":\"description_field\",\"answer\":\"id_memo\"}]},{\"function\":\"Edit Transaction\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/transactions/edit/\"},{\"name\":\"edit_button_class_name\",\"answer\":\"btn-edit\"},{\"name\":\"category_field_class_name\",\"answer\":\"category-select\"},{\"name\":\"description_field_name\",\"answer\":\"description-input\"}]},{\"function\":\"Delete Transaction\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/transactions/edit/\"},{\"name\":\"delete_button_class_name\",\"answer\":\"btn-delete\"}]},{\"function\":\"Filter Transactions\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/transactions/\"},{\"name\":\"start_date_field\",\"answer\":\"filter_start_date\"},{\"name\":\"end_date_field\",\"answer\":\"filter_end_date\"},{\"name\":\"filter_category_field\",\"answer\":\"filter_category\"},{\"name\":\"filter_button\",\"answer\":\"filter-button\"}]},{\"function\":\"View Balance Chart\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/accounts/balance-chart/\"},{\"name\":\"balance_chart_id\",\"answer\":\"balance-chart\"}]},{\"function\":\"View Balance Structure Chart\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/reports/balance-over-time/\"},{\"name\":\"balance_structure_chart_id\",\"answer\":\"balance-structure-chart\"}]}]"
+    },
+    {
+      "page": "Reports",
+      "function": "[{\"function\":\"Generate Monthly Report\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/reports/income-vs-expense/\"},{\"name\":\"generate_button\",\"answer\":\"generate-report\"}]},{\"function\":\"Export Data\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/import-export/export/\"},{\"name\":\"export_button\",\"answer\":\"export-button\"},{\"name\":\"default_download_path\",\"answer\":\"C:\\\\Users\\\\User\\\\Downloads\"}]}]"
+    },
+    {
+      "page": "Settings 2",
+      "function": "[{\"function\":\"Update Profile\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/preferences/profile/\"},{\"name\":\"name_field\",\"answer\":\"id_name\"},{\"name\":\"email_field\",\"answer\":\"id_email\"},{\"name\":\"save_button\",\"answer\":\"save-profile\"},{\"name\":\"username_field\",\"answer\":\"id_username\"},{\"name\":\"password_field\",\"answer\":\"id_password\"},{\"name\":\"new_password_field\",\"answer\":\"id_new_password\"},{\"name\":\"confirm_password_field\",\"answer\":\"id_confirm_password\"},{\"name\":\"login_button\",\"answer\":\"login-button\"}]}]"
+    },
+    {
+      "page": "Help",
+      "function": "[{\"function\":\"View FAQs\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/help/knowledge-base/\"},{\"name\":\"faqs_id\",\"answer\":\"faqs-list\"}]},{\"function\":\"Contact Support\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/help/contact/\"},{\"name\":\"name_field\",\"answer\":\"id_name\"},{\"name\":\"email_field\",\"answer\":\"id_email\"},{\"name\":\"message_field\",\"answer\":\"id_message\"},{\"name\":\"submit_button\",\"answer\":\"submit-contact\"}]}]"
+    }
+  ],
+  "8": [
+    {
+      "page": "Home",
+      "function": [
+        {
+          "function": "View Current Date",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "current_date_id",
+              "answer": "N/A"
+            }
+          ]
+        },
+        {
+          "function": "Quick Access to Calendar",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "calendar_id",
+              "answer": "N/A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "Calendar",
+      "function": [
+        {
+          "function": "View Calendar",
+          "parameter": []
+        },
+        {
+          "function": "Add Event",
+          "parameter": [
+            {
+              "name": "event_input_id",
+              "answer": "N/A"
+            },
+            {
+              "name": "add_event_id",
+              "answer": "N/A"
+            },
+            {
+              "name": "description_input_id",
+              "answer": "N/A"
+            },
+            {
+              "name": "datetime_id",
+              "answer": "N/A"
+            },
+            {
+              "name": "save_event_id",
+              "answer": "N/A"
+            }
+          ]
+        },
+        {
+          "function": "Switch Month",
+          "parameter": [
+            {
+              "name": "year_id",
+              "answer": "N/A"
+            },
+            {
+              "name": "month_id",
+              "answer": "N/A"
+            },
+            {
+              "name": "switch_button_id",
+              "answer": "N/A"
+            }
+          ]
+        },
+        {
+          "function": "Add Event Page Back Home",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/calendar/event/new/"
+            },
+            {
+              "name": "back_button_id",
+              "answer": "N/A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "Event Details",
+      "function": [
+        {
+          "function": "List All Events",
+          "parameter": [
+            {
+              "name": "list_link_id",
+              "answer": "N/A"
+            }
+          ]
+        },
+        {
+          "function": "Edit Event",
+          "parameter": [
+            {
+              "name": "edit_button_class_name",
+              "answer": "N/A"
+            },
+            {
+              "name": "event_input_id",
+              "answer": "N/A"
+            },
+            {
+              "name": "description_input_id",
+              "answer": "N/A"
+            },
+            {
+              "name": "datetime_id",
+              "answer": "N/A"
+            },
+            {
+              "name": "save_event_id",
+              "answer": "N/A"
+            }
+          ]
+        },
+        {
+          "function": "Delete Event",
+          "parameter": [
+            {
+              "name": "delete_button_class_name",
+              "answer": "N/A"
+            },
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/calendar/"
+            }
+          ]
+        },
+        {
+          "function": "Search Events",
+          "parameter": [
+            {
+              "name": "search_input_id",
+              "answer": "N/A"
+            },
+            {
+              "name": "search_button_id",
+              "answer": "N/A"
+            }
+          ]
+        },
+        {
+          "function": "View Event Details 1",
+          "parameter": [
+            {
+              "name": "event_detail_button_class_name",
+              "answer": "N/A"
+            },
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/calendar/"
+            }
+          ]
+        },
+        {
+          "function": "View Event Details 2",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "event_detail_button_class_name",
+              "answer": "N/A"
+            }
+          ]
+        },
+        {
+          "function": "Event Detail Page Back",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/calendar/event/1/"
+            },
+            {
+              "name": "back_button_id",
+              "answer": "N/A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "Help",
+      "function": [
+        {
+          "function": "FAQ",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "faq_link_id",
+              "answer": "N/A"
+            },
+            {
+              "name": "faq_id",
+              "answer": "N/A"
+            }
+          ]
+        },
+        {
+          "function": "FAQs Back Home",
+          "parameter": [
+            {
+              "name": "back_button_id",
+              "answer": "N/A"
+            }
+          ]
+        },
+        {
+          "function": "User Guide",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/help/"
+            },
+            {
+              "name": "user_guide_link_id",
+              "answer": "N/A"
+            },
+            {
+              "name": "user_guide_id",
+              "answer": "N/A"
+            }
+          ]
+        },
+        {
+          "function": "User Guide Back Home Test",
+          "parameter": [
+            {
+              "name": "back_button_id",
+              "answer": "N/A"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "9": [
+    {
+      "page": "Home",
+      "function": [
+        {
+          "function": "Read Product Overview",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/en/"
+            },
+            {
+              "name": "overview_text_id",
+              "answer": "po-intro"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "Features",
+      "function": [
+        {
+          "function": "List Key Features",
+          "parameter": [
+            {
+              "name": "link_id",
+              "answer": "nav-features"
+            },
+            {
+              "name": "features_list_id",
+              "answer": "features-list"
+            }
+          ]
+        },
+        {
+          "function": "Features Back Home",
+          "parameter": [
+            {
+              "name": "back_home_id",
+              "answer": "nav-brand"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "Pricing",
+      "function": [
+        {
+          "function": "View Pricing Plans",
+          "parameter": [
+            {
+              "name": "link_id",
+              "answer": "nav-pricing"
+            },
+            {
+              "name": "pricing_table_id",
+              "answer": "plan-list"
+            }
+          ]
+        },
+        {
+          "function": "Contact Sales",
+          "parameter": [
+            {
+              "name": "contact_form_id",
+              "answer": "csales-form"
+            },
+            {
+              "name": "name_input_name",
+              "answer": "csales-name"
+            },
+            {
+              "name": "email_input_name",
+              "answer": "csales-email"
+            },
+            {
+              "name": "submit_button_id",
+              "answer": "csales-submit"
+            },
+            {
+              "name": "message_input_name",
+              "answer": "csales-usecase"
+            }
+          ]
+        },
+        {
+          "function": "Contact Sales Back",
+          "parameter": [
+            {
+              "name": "back_id",
+              "answer": "nav-pricing"
+            }
+          ]
+        },
+        {
+          "function": "Pricing Back Home",
+          "parameter": [
+            {
+              "name": "back_home_id",
+              "answer": "nav-brand"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "About Us",
+      "function": [
+        {
+          "function": "Company Background",
+          "parameter": [
+            {
+              "name": "link_id",
+              "answer": "nav-pricing"
+            },
+            {
+              "name": "background_section_id",
+              "answer": ""
+            }
+          ]
+        },
+        {
+          "function": "About Back Home",
+          "parameter": [
+            {
+              "name": "back_home_id",
+              "answer": "nav-brand"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "Support",
+      "function": [
+        {
+          "function": "FAQ",
+          "parameter": [
+            {
+              "name": "link_id",
+              "answer": "nav-features"
+            },
+            {
+              "name": "faq_section_id",
+              "answer": ""
+            }
+          ]
+        },
+        {
+          "function": "Support Message",
+          "parameter": [
+            {
+              "name": "contact_form_id",
+              "answer": "support-ticket-form"
+            },
+            {
+              "name": "name_input_name",
+              "answer": ""
+            },
+            {
+              "name": "email_input_name",
+              "answer": "support-email"
+            },
+            {
+              "name": "submit_button_id",
+              "answer": "support-submit"
+            },
+            {
+              "name": "issue_input_name",
+              "answer": "support-description"
+            }
+          ]
+        },
+        {
+          "function": "Support Back Home",
+          "parameter": [
+            {
+              "name": "back_home_id",
+              "answer": "nav-brand"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "10": [
+    {
+      "page": "Home",
+      "function": "[{\"function\":\"Welcome Message\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/\"},{\"name\":\"title_text\",\"answer\":\"Landing\"}]},{\"function\":\"View Dashboard 1\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/diary/dashboard/\"},{\"name\":\"title_text\",\"answer\":\"Dashboard\"}]},{\"function\":\"Sign Up\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/\"},{\"name\":\"sign_up_id\",\"answer\":\"N/A\"},{\"name\":\"id_username_field\",\"answer\":\"N/A\"},{\"name\":\"id_email_field\",\"answer\":\"N/A\"},{\"name\":\"id_password1_field\",\"answer\":\"N/A\"},{\"name\":\"id_password2_field\",\"answer\":\"N/A\"},{\"name\":\"sign_up_button\",\"answer\":\"N/A\"}]},{\"function\":\"Log In\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/\"},{\"name\":\"login_id\",\"answer\":\"N/A\"},{\"name\":\"username_field\",\"answer\":\"N/A\"},{\"name\":\"password_field\",\"answer\":\"N/A\"},{\"name\":\"login_button\",\"answer\":\"N/A\"}]},{\"function\":\"User Check 1\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/accounts/login/\"},{\"name\":\"username_field\",\"answer\":\"N/A\"},{\"name\":\"password_field\",\"answer\":\"N/A\"},{\"name\":\"login_button\",\"answer\":\"N/A\"}]}]"
+    },
+    {
+      "page": "Dashboard",
+      "function": "[{\"function\":\"Add Meal\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/diary/dashboard/\"},{\"name\":\"add_meal\",\"answer\":\"N/A\"},{\"name\":\"name_field\",\"answer\":\"N/A\"},{\"name\":\"calories_field\",\"answer\":\"N/A\"},{\"name\":\"time_field\",\"answer\":\"N/A\"},{\"name\":\"description_field\",\"answer\":\"N/A\"},{\"name\":\"add_meal_button\",\"answer\":\"N/A\"}]},{\"function\":\"Add Meal2\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/diary/dashboard/\"},{\"name\":\"add_meal\",\"answer\":\"N/A\"},{\"name\":\"name_field\",\"answer\":\"N/A\"},{\"name\":\"calories_field\",\"answer\":\"N/A\"},{\"name\":\"time_field\",\"answer\":\"N/A\"},{\"name\":\"description_field\",\"answer\":\"N/A\"},{\"name\":\"add_meal_button\",\"answer\":\"N/A\"}]},{\"function\":\"Daily Calorie Intake\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/diary/dashboard/\"}]},{\"function\":\"Recent Meals\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/diary/dashboard/recent-foods/\"}]},{\"function\":\"Add Activity\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/diary/dashboard/\"},{\"name\":\"add_activity\",\"answer\":\"N/A\"},{\"name\":\"name_field\",\"answer\":\"N/A\"},{\"name\":\"calories_burned_field\",\"answer\":\"N/A\"},{\"name\":\"time_field\",\"answer\":\"N/A\"},{\"name\":\"description_field\",\"answer\":\"N/A\"},{\"name\":\"add_activity_button\",\"answer\":\"N/A\"}]},{\"function\":\"Add Activity2\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/diary/dashboard/\"},{\"name\":\"add_activity\",\"answer\":\"N/A\"},{\"name\":\"name_field\",\"answer\":\"N/A\"},{\"name\":\"calories_burned_field\",\"answer\":\"N/A\"},{\"name\":\"time_field\",\"answer\":\"N/A\"},{\"name\":\"description_field\",\"answer\":\"N/A\"},{\"name\":\"add_activity_button\",\"answer\":\"N/A\"}]},{\"function\":\"Recent Activities\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/activity/summary/\"}]}]"
+    },
+    {
+      "page": "Meal Log",
+      "function": "[{\"function\":\"Meal Search\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/diary/\"},{\"name\":\"all_meals\",\"answer\":\"N/A\"},{\"name\":\"search_field\",\"answer\":\"N/A\"},{\"name\":\"search_button\",\"answer\":\"N/A\"}]}]"
+    },
+    {
+      "page": "Activity Log",
+      "function": "[{\"function\":\"Activity Search\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/activity/summary/\"},{\"name\":\"all_activities\",\"answer\":\"N/A\"},{\"name\":\"search_field\",\"answer\":\"N/A\"},{\"name\":\"search_button\",\"answer\":\"N/A\"}]}]"
+    },
+    {
+      "page": "Analysis",
+      "function": "[{\"function\":\"Calorie Intake Chart\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/analysis/calories/\"},{\"name\":\"chart_link\",\"answer\":\"N/A\"},{\"name\":\"chart_image\",\"answer\":\"N/A\"}]}]"
+    },
+    {
+      "page": "Settings",
+      "function": "[{\"function\":\"Profile\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/profile/edit/\"},{\"name\":\"settings_button\",\"answer\":\"N/A\"},{\"name\":\"profile_button\",\"answer\":\"N/A\"},{\"name\":\"daily_calorie_goal\",\"answer\":\"N/A\"},{\"name\":\"dietary_preferences\",\"answer\":\"N/A\"},{\"name\":\"update_profile_button\",\"answer\":\"N/A\"}]},{\"function\":\"Preferences\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/profile/units-locale/\"},{\"name\":\"preferences_button\",\"answer\":\"N/A\"},{\"name\":\"dietary_preferences\",\"answer\":\"N/A\"},{\"name\":\"save_preferences_button\",\"answer\":\"N/A\"}]}]"
+    },
+    {
+      "page": "Help",
+      "function": "[{\"function\":\"Contact Support\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/help/contact/\"}]},{\"function\":\"FAQ\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/help/\"}]},{\"function\":\"Tutorials\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/help/tutorials/\"},{\"name\":\"view_tutorials\",\"answer\":\"N/A\"}]}]"
+    }
+  ],
+  "11": [
+    {
+      "page": "Home",
+      "function": [
+        {
+          "function": "Display Welcome Message",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "title_text",
+              "answer": "Home"
+            }
+          ]
+        },
+        {
+          "function": "Navigation Link",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "home_link_id",
+              "answer": "nav-home"
+            },
+            {
+              "name": "about_link_id",
+              "answer": "nav-help"
+            },
+            {
+              "name": "about_expected_url",
+              "answer": "http://localhost:8000/help/"
+            },
+            {
+              "name": "home_expected_url",
+              "answer": "http://localhost:8000/"
+            }
+          ]
+        },
+        {
+          "function": "Upload File1",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "json_file_id",
+              "answer": "id_json_file"
+            },
+            {
+              "name": "upload_file_btn_id",
+              "answer": "btn-import"
+            }
+          ]
+        },
+        {
+          "function": "Upload File2",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "json_file_id",
+              "answer": "id_json_file"
+            },
+            {
+              "name": "upload_file_btn_id",
+              "answer": "btn-import"
+            }
+          ]
+        },
+        {
+          "function": "Test Code Review1",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "project_class_name",
+              "answer": "item-recent"
+            },
+            {
+              "name": "notes_class_name",
+              "answer": "textarea-notes"
+            },
+            {
+              "name": "select_class_name",
+              "answer": "select-status"
+            },
+            {
+              "name": "status_class_name",
+              "answer": "test-item-status"
+            },
+            {
+              "name": "submit_button",
+              "answer": "btn-save"
+            },
+            {
+              "name": "success_text",
+              "answer": "Review saved."
+            }
+          ]
+        },
+        {
+          "function": "Test Code Review2",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "project_class_name",
+              "answer": "item-recent"
+            },
+            {
+              "name": "notes_class_name",
+              "answer": "textarea-notes"
+            },
+            {
+              "name": "select_class_name",
+              "answer": "select-status"
+            },
+            {
+              "name": "status_class_name",
+              "answer": "test-item-status"
+            },
+            {
+              "name": "submit_button",
+              "answer": "btn-save"
+            },
+            {
+              "name": "select_status_text",
+              "answer": "SELECT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "About",
+      "function": [
+        {
+          "function": "Test Description",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/help/"
+            },
+            {
+              "name": "expected_description",
+              "answer": "Import a project JSON on the Home page."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "12": [
+    {
+      "page": "Home",
+      "function": [
+        {
+          "function": "View Home",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "title_text",
+              "answer": "Expense Management"
+            },
+            {
+              "name": "signup_id",
+              "answer": ""
+            },
+            {
+              "name": "signup_url",
+              "answer": ""
+            },
+            {
+              "name": "login_id",
+              "answer": "nav-login"
+            },
+            {
+              "name": "login_url",
+              "answer": "http://localhost:8000/accounts/login/"
+            }
+          ]
+        },
+        {
+          "function": "View Dashboard",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/dashboard/employee/"
+            },
+            {
+              "name": "title_text",
+              "answer": "Employee Dashboard"
+            }
+          ]
+        },
+        {
+          "function": "Sign Up",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "signup_id",
+              "answer": ""
+            },
+            {
+              "name": "id_username_field",
+              "answer": ""
+            },
+            {
+              "name": "id_email_field",
+              "answer": ""
+            },
+            {
+              "name": "id_password1_field",
+              "answer": ""
+            },
+            {
+              "name": "id_password2_field",
+              "answer": ""
+            },
+            {
+              "name": "sign_up_button",
+              "answer": ""
+            }
+          ]
+        },
+        {
+          "function": "Log In",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "login_id",
+              "answer": "nav-login"
+            },
+            {
+              "name": "username_field",
+              "answer": "id_username"
+            },
+            {
+              "name": "password_field",
+              "answer": "id_password"
+            },
+            {
+              "name": "login_button",
+              "answer": "login-submit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "Frontend (Employee Portal)",
+      "function": [
+        {
+          "function": "Submit Claim",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/claims/new/"
+            },
+            {
+              "name": "category_field",
+              "answer": ""
+            },
+            {
+              "name": "amount_field",
+              "answer": ""
+            },
+            {
+              "name": "description_field",
+              "answer": "newclaim-purpose-input"
+            },
+            {
+              "name": "submit_claim_button",
+              "answer": "newclaim-submit"
+            }
+          ]
+        },
+        {
+          "function": "Submit Claim2",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/claims/new/"
+            },
+            {
+              "name": "category_field",
+              "answer": ""
+            },
+            {
+              "name": "amount_field",
+              "answer": ""
+            },
+            {
+              "name": "description_field",
+              "answer": "newclaim-purpose-input"
+            },
+            {
+              "name": "submit_claim_button",
+              "answer": "newclaim-submit"
+            }
+          ]
+        },
+        {
+          "function": "Submit Claim3",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/claims/new/"
+            },
+            {
+              "name": "category_field",
+              "answer": ""
+            },
+            {
+              "name": "amount_field",
+              "answer": ""
+            },
+            {
+              "name": "description_field",
+              "answer": "newclaim-purpose-input"
+            },
+            {
+              "name": "submit_claim_button",
+              "answer": "newclaim-submit"
+            }
+          ]
+        },
+        {
+          "function": "View Claim Status",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/claims/"
+            },
+            {
+              "name": "status_text",
+              "answer": "DRAFT"
+            }
+          ]
+        },
+        {
+          "function": "Edit Submitted Claim",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/claims/"
+            },
+            {
+              "name": "edit_class_name",
+              "answer": ""
+            },
+            {
+              "name": "category_field",
+              "answer": ""
+            },
+            {
+              "name": "amount_field",
+              "answer": ""
+            },
+            {
+              "name": "description_field",
+              "answer": ""
+            },
+            {
+              "name": "save_changes_button",
+              "answer": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "Admin Page (Accounting Administrator Portal)",
+      "function": [
+        {
+          "function": "Approve Claim",
+          "parameter": [
+            {
+              "name": "admin_url",
+              "answer": "http://localhost:8000/admin/"
+            },
+            {
+              "name": "username_id",
+              "answer": "id_username"
+            },
+            {
+              "name": "password_id",
+              "answer": "id_password"
+            },
+            {
+              "name": "login_button_xpath",
+              "answer": "//input[@type='submit']"
+            },
+            {
+              "name": "claims_xpath",
+              "answer": "//a[contains(., 'Expense claims')]"
+            },
+            {
+              "name": "edit_button_class_name",
+              "answer": "changelink"
+            },
+            {
+              "name": "status_id",
+              "answer": "id_status"
+            },
+            {
+              "name": "save_button_xpath",
+              "answer": "//*[@name='_save']"
+            },
+            {
+              "name": "logout_button_xpath",
+              "answer": "//a[contains(., 'Log out')]"
+            },
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "login_id",
+              "answer": "nav-login"
+            },
+            {
+              "name": "username_field",
+              "answer": "id_username"
+            },
+            {
+              "name": "password_field",
+              "answer": "id_password"
+            },
+            {
+              "name": "login_button",
+              "answer": "login-submit"
+            },
+            {
+              "name": "claim_status_url",
+              "answer": "http://localhost:8000/claims/"
+            },
+            {
+              "name": "status_class_name",
+              "answer": "badge"
+            }
+          ]
+        },
+        {
+          "function": "Reject Claim with Reason",
+          "parameter": [
+            {
+              "name": "admin_url",
+              "answer": "http://localhost:8000/admin/"
+            },
+            {
+              "name": "username_id",
+              "answer": "id_username"
+            },
+            {
+              "name": "password_id",
+              "answer": "id_password"
+            },
+            {
+              "name": "login_button_xpath",
+              "answer": "//input[@type='submit']"
+            },
+            {
+              "name": "claims_xpath",
+              "answer": "//a[contains(., 'Expense claims')]"
+            },
+            {
+              "name": "edit_button_class_name",
+              "answer": "changelink"
+            },
+            {
+              "name": "status_id",
+              "answer": "id_status"
+            },
+            {
+              "name": "rejection_reason_id",
+              "answer": ""
+            },
+            {
+              "name": "save_button_xpath",
+              "answer": "//*[@name='_save']"
+            },
+            {
+              "name": "logout_button_xpath",
+              "answer": "//a[contains(., 'Log out')]"
+            },
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "login_id",
+              "answer": "nav-login"
+            },
+            {
+              "name": "username_field",
+              "answer": "id_username"
+            },
+            {
+              "name": "password_field",
+              "answer": "id_password"
+            },
+            {
+              "name": "login_button",
+              "answer": "login-submit"
+            },
+            {
+              "name": "claim_status_url",
+              "answer": "http://localhost:8000/claims/"
+            },
+            {
+              "name": "status_class_name",
+              "answer": "badge"
+            }
+          ]
+        },
+        {
+          "function": "View Claim Details",
+          "parameter": [
+            {
+              "name": "admin_url",
+              "answer": "http://localhost:8000/admin/"
+            },
+            {
+              "name": "username_id",
+              "answer": "id_username"
+            },
+            {
+              "name": "password_id",
+              "answer": "id_password"
+            },
+            {
+              "name": "login_button_xpath",
+              "answer": "//input[@type='submit']"
+            },
+            {
+              "name": "claims_xpath",
+              "answer": "//a[contains(., 'Expense claims')]"
+            },
+            {
+              "name": "edit_button_class_name",
+              "answer": "changelink"
+            }
+          ]
+        },
+        {
+          "function": "Search and Filter Claims",
+          "parameter": [
+            {
+              "name": "admin_url",
+              "answer": "http://localhost:8000/admin/"
+            },
+            {
+              "name": "claims_xpath",
+              "answer": "//a[contains(., 'Expense claims')]"
+            },
+            {
+              "name": "search_id",
+              "answer": "searchbar"
+            },
+            {
+              "name": "search_button_xpath",
+              "answer": "//input[@type='submit' and @value='Search']"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "Budget Control Application",
+      "function": [
+        {
+          "function": "Add Budget",
+          "parameter": [
+            {
+              "name": "budget_url",
+              "answer": "http://localhost:8000/backoffice/budgets/"
+            },
+            {
+              "name": "add_button_xpath",
+              "answer": ""
+            },
+            {
+              "name": "category_id",
+              "answer": ""
+            },
+            {
+              "name": "limit_id",
+              "answer": ""
+            },
+            {
+              "name": "save_button_xpath",
+              "answer": ""
+            }
+          ]
+        },
+        {
+          "function": "Analyze Expense Balances",
+          "parameter": [
+            {
+              "name": "budget_url",
+              "answer": "http://localhost:8000/backoffice/budgets/"
+            },
+            {
+              "name": "balance_class_name",
+              "answer": ""
+            }
+          ]
+        },
+        {
+          "function": "Generate Reports",
+          "parameter": [
+            {
+              "name": "budget_url",
+              "answer": "http://localhost:8000/backoffice/budgets/"
+            }
+          ]
+        },
+        {
+          "function": "Send Budget Alerts",
+          "parameter": [
+            {
+              "name": "budget_url",
+              "answer": "http://localhost:8000/backoffice/budgets/"
+            },
+            {
+              "name": "over_balanace_class_name",
+              "answer": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "13": [
+    {
+      "page": "Home Page",
+      "function": [
+        {
+          "function": "View Home",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "Customer Management",
+      "function": [
+        {
+          "function": "Add Customer",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/customers/"
+            },
+            {
+              "name": "add_customer_link",
+              "answer": "customer-create-link"
+            },
+            {
+              "name": "name_field",
+              "answer": "id_name"
+            },
+            {
+              "name": "birthday_field",
+              "answer": "id_birthday"
+            },
+            {
+              "name": "age_field",
+              "answer": ""
+            },
+            {
+              "name": "sex_field",
+              "answer": "id_sex"
+            },
+            {
+              "name": "company_field",
+              "answer": "id_company"
+            },
+            {
+              "name": "phone_number_field",
+              "answer": "id_phone"
+            },
+            {
+              "name": "save_customer_button",
+              "answer": "customer-form-submit"
+            }
+          ]
+        },
+        {
+          "function": "Add Customer2",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/customers/"
+            },
+            {
+              "name": "add_customer_link",
+              "answer": "customer-create-link"
+            },
+            {
+              "name": "name_field",
+              "answer": "id_name"
+            },
+            {
+              "name": "birthday_field",
+              "answer": "id_birthday"
+            },
+            {
+              "name": "age_field",
+              "answer": ""
+            },
+            {
+              "name": "sex_field",
+              "answer": "id_sex"
+            },
+            {
+              "name": "company_field",
+              "answer": "id_company"
+            },
+            {
+              "name": "phone_number_field",
+              "answer": "id_phone"
+            },
+            {
+              "name": "save_customer_button",
+              "answer": "customer-form-submit"
+            }
+          ]
+        },
+        {
+          "function": "Add Customer3",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/customers/"
+            },
+            {
+              "name": "add_customer_link",
+              "answer": "customer-create-link"
+            },
+            {
+              "name": "name_field",
+              "answer": "id_name"
+            },
+            {
+              "name": "birthday_field",
+              "answer": "id_birthday"
+            },
+            {
+              "name": "age_field",
+              "answer": ""
+            },
+            {
+              "name": "sex_field",
+              "answer": "id_sex"
+            },
+            {
+              "name": "company_field",
+              "answer": "id_company"
+            },
+            {
+              "name": "phone_number_field",
+              "answer": "id_phone"
+            },
+            {
+              "name": "save_customer_button",
+              "answer": "customer-form-submit"
+            }
+          ]
+        },
+        {
+          "function": "Add Customer4",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/customers/"
+            },
+            {
+              "name": "add_customer_link",
+              "answer": "customer-create-link"
+            },
+            {
+              "name": "name_field",
+              "answer": "id_name"
+            },
+            {
+              "name": "birthday_field",
+              "answer": "id_birthday"
+            },
+            {
+              "name": "age_field",
+              "answer": ""
+            },
+            {
+              "name": "sex_field",
+              "answer": "id_sex"
+            },
+            {
+              "name": "company_field",
+              "answer": "id_company"
+            },
+            {
+              "name": "phone_number_field",
+              "answer": "id_phone"
+            },
+            {
+              "name": "save_customer_button",
+              "answer": "customer-form-submit"
+            }
+          ]
+        },
+        {
+          "function": "Edit Customer",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/customers/"
+            },
+            {
+              "name": "edit_button_class_name",
+              "answer": "btn-small"
+            },
+            {
+              "name": "name_field",
+              "answer": "id_name"
+            },
+            {
+              "name": "birthday_field",
+              "answer": "id_birthday"
+            },
+            {
+              "name": "age_field",
+              "answer": ""
+            },
+            {
+              "name": "sex_field",
+              "answer": "id_sex"
+            },
+            {
+              "name": "company_field",
+              "answer": "id_company"
+            },
+            {
+              "name": "phone_number_field",
+              "answer": "id_phone"
+            },
+            {
+              "name": "save_changes_button",
+              "answer": "customer-form-submit"
+            }
+          ]
+        },
+        {
+          "function": "Delete Customer",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/customers/"
+            },
+            {
+              "name": "delete_button_class_name",
+              "answer": "btn-small"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "Product Management",
+      "function": [
+        {
+          "function": "Add Product",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "product_link",
+              "answer": "nav-products"
+            },
+            {
+              "name": "add_product_link",
+              "answer": "product-create"
+            },
+            {
+              "name": "name_field",
+              "answer": "id_name"
+            },
+            {
+              "name": "category_field",
+              "answer": "id_category"
+            },
+            {
+              "name": "recommended_price_field",
+              "answer": "id_recommended_price"
+            },
+            {
+              "name": "save_product_button",
+              "answer": "product-form-submit"
+            }
+          ]
+        },
+        {
+          "function": "Add Product2",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "product_link",
+              "answer": "nav-products"
+            },
+            {
+              "name": "add_product_link",
+              "answer": "product-create"
+            },
+            {
+              "name": "name_field",
+              "answer": "id_name"
+            },
+            {
+              "name": "category_field",
+              "answer": "id_category"
+            },
+            {
+              "name": "recommended_price_field",
+              "answer": "id_recommended_price"
+            },
+            {
+              "name": "save_product_button",
+              "answer": "product-form-submit"
+            }
+          ]
+        },
+        {
+          "function": "Add Product3",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "product_link",
+              "answer": "nav-products"
+            },
+            {
+              "name": "add_product_link",
+              "answer": "product-create"
+            },
+            {
+              "name": "name_field",
+              "answer": "id_name"
+            },
+            {
+              "name": "category_field",
+              "answer": "id_category"
+            },
+            {
+              "name": "recommended_price_field",
+              "answer": "id_recommended_price"
+            },
+            {
+              "name": "save_product_button",
+              "answer": "product-form-submit"
+            }
+          ]
+        },
+        {
+          "function": "Add Product4",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "product_link",
+              "answer": "nav-products"
+            },
+            {
+              "name": "add_product_link",
+              "answer": "product-create"
+            },
+            {
+              "name": "name_field",
+              "answer": "id_name"
+            },
+            {
+              "name": "category_field",
+              "answer": "id_category"
+            },
+            {
+              "name": "recommended_price_field",
+              "answer": "id_recommended_price"
+            },
+            {
+              "name": "save_product_button",
+              "answer": "product-form-submit"
+            }
+          ]
+        },
+        {
+          "function": "Edit Product",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/products/"
+            },
+            {
+              "name": "edit_button_class_name",
+              "answer": "btn-small"
+            },
+            {
+              "name": "name_field",
+              "answer": "id_name"
+            },
+            {
+              "name": "category_field",
+              "answer": "id_category"
+            },
+            {
+              "name": "recommended_price_field",
+              "answer": "id_recommended_price"
+            },
+            {
+              "name": "save_changes_button",
+              "answer": "product-form-submit"
+            }
+          ]
+        },
+        {
+          "function": "Delete Product",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/products/"
+            },
+            {
+              "name": "delete_button_class_name",
+              "answer": "btn-small"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "Purchase Records",
+      "function": [
+        {
+          "function": "Add Purchase Record",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "purchase_link",
+              "answer": "nav-purchases"
+            },
+            {
+              "name": "add_purchase_record_link",
+              "answer": "purchase-create"
+            },
+            {
+              "name": "product_field",
+              "answer": "id_product"
+            },
+            {
+              "name": "customer_field",
+              "answer": "id_customer"
+            },
+            {
+              "name": "quantity_field",
+              "answer": "id_quantity"
+            },
+            {
+              "name": "amount_field",
+              "answer": "id_amount"
+            },
+            {
+              "name": "save_button",
+              "answer": "purchase-form-submit"
+            }
+          ]
+        },
+        {
+          "function": "Add Purchase Record2",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "purchase_link",
+              "answer": "nav-purchases"
+            },
+            {
+              "name": "add_purchase_record_link",
+              "answer": "purchase-create"
+            },
+            {
+              "name": "product_field",
+              "answer": "id_product"
+            },
+            {
+              "name": "customer_field",
+              "answer": "id_customer"
+            },
+            {
+              "name": "quantity_field",
+              "answer": "id_quantity"
+            },
+            {
+              "name": "amount_field",
+              "answer": "id_amount"
+            },
+            {
+              "name": "save_button",
+              "answer": "purchase-form-submit"
+            }
+          ]
+        },
+        {
+          "function": "Add Purchase Record3",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "purchase_link",
+              "answer": "nav-purchases"
+            },
+            {
+              "name": "add_purchase_record_link",
+              "answer": "purchase-create"
+            },
+            {
+              "name": "product_field",
+              "answer": "id_product"
+            },
+            {
+              "name": "customer_field",
+              "answer": "id_customer"
+            },
+            {
+              "name": "quantity_field",
+              "answer": "id_quantity"
+            },
+            {
+              "name": "amount_field",
+              "answer": "id_amount"
+            },
+            {
+              "name": "save_button",
+              "answer": "purchase-form-submit"
+            }
+          ]
+        },
+        {
+          "function": "Add Purchase Record4",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "purchase_link",
+              "answer": "nav-purchases"
+            },
+            {
+              "name": "add_purchase_record_link",
+              "answer": "purchase-create"
+            },
+            {
+              "name": "product_field",
+              "answer": "id_product"
+            },
+            {
+              "name": "customer_field",
+              "answer": "id_customer"
+            },
+            {
+              "name": "quantity_field",
+              "answer": "id_quantity"
+            },
+            {
+              "name": "amount_field",
+              "answer": "id_amount"
+            },
+            {
+              "name": "save_button",
+              "answer": "purchase-form-submit"
+            }
+          ]
+        },
+        {
+          "function": "Edit Purchase Record",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/purchases/"
+            },
+            {
+              "name": "edit_button_class_name",
+              "answer": "btn-small"
+            },
+            {
+              "name": "product_field",
+              "answer": "id_product"
+            },
+            {
+              "name": "customer_field",
+              "answer": "id_customer"
+            },
+            {
+              "name": "quantity_field",
+              "answer": "id_quantity"
+            },
+            {
+              "name": "amount_field",
+              "answer": "id_amount"
+            },
+            {
+              "name": "save_changes_button",
+              "answer": "purchase-form-submit"
+            }
+          ]
+        },
+        {
+          "function": "Delete Purchase Record",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/purchases/"
+            },
+            {
+              "name": "delete_button_class_name",
+              "answer": "btn-small"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "Preferred Products Management",
+      "function": [
+        {
+          "function": "Add Preferred Product",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": ""
+            },
+            {
+              "name": "preferred_link",
+              "answer": ""
+            },
+            {
+              "name": "add_preferred_product_link",
+              "answer": ""
+            },
+            {
+              "name": "customer_field",
+              "answer": ""
+            },
+            {
+              "name": "product_field",
+              "answer": ""
+            },
+            {
+              "name": "save_button",
+              "answer": ""
+            }
+          ]
+        },
+        {
+          "function": "Edit Preferred Product",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": ""
+            },
+            {
+              "name": "edit_button_class_name",
+              "answer": ""
+            },
+            {
+              "name": "customer_field",
+              "answer": ""
+            },
+            {
+              "name": "product_field",
+              "answer": ""
+            },
+            {
+              "name": "update_button",
+              "answer": ""
+            }
+          ]
+        },
+        {
+          "function": "Delete Preferred Product",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": ""
+            },
+            {
+              "name": "delete_button_class_name",
+              "answer": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "Sales Analysis",
+      "function": [
+        {
+          "function": "Generate Sales Report",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "analysis_link",
+              "answer": "nav-analytics"
+            }
+          ]
+        },
+        {
+          "function": "Product Performance Analysis",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            },
+            {
+              "name": "analysis_link",
+              "answer": "nav-analytics"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "14": [
+    {
+      "page": "HelloWorld",
+      "function": [
+        {
+          "function": "DisplayText",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            }
+          ]
+        },
+        {
+          "function": "BasicStyling",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            }
+          ]
+        },
+        {
+          "function": "PageTitle",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            }
+          ]
+        },
+        {
+          "function": "MetaTags",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "15": [
+    {
+      "page": "Home",
+      "function": [
+        {
+          "function": "Button to 'HelloWorld' page",
+          "parameter": [
+            {
+              "name": "test_url",
+              "answer": "http://localhost:8000/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "HelloWorld",
+      "function": [
+        {
+          "function": "Display 'HelloWorld' message",
+          "parameter": []
+        }
+      ]
+    }
+  ],
+  "16": [
+    {
+      "page": "Input File Validation",
+      "function": [
+        {
+          "function": "CheckFileExistence",
+          "parameter": [
+            {
+              "name": "entry",
+              "answer": "subjects2d/cli.py"
+            },
+            {
+              "name": "error_message",
+              "answer": "No such file or directory"
+            }
+          ]
+        },
+        {
+          "function": "ValidateHeaders",
+          "parameter": [
+            {
+              "name": "entry",
+              "answer": "subjects2d/cli.py"
+            },
+            {
+              "name": "error_message",
+              "answer": "Required column is missing"
+            }
+          ]
+        },
+        {
+          "function": "ValidateNullValue",
+          "parameter": [
+            {
+              "name": "entry",
+              "answer": "subjects2d/cli.py"
+            },
+            {
+              "name": "error_message",
+              "answer": "Name is blank"
+            }
+          ]
+        },
+        {
+          "function": "ValidateTimeColumn",
+          "parameter": [
+            {
+              "name": "entry",
+              "answer": "subjects2d/cli.py"
+            },
+            {
+              "name": "error_message",
+              "answer": "Unrecognized time/period"
+            }
+          ]
+        },
+        {
+          "function": "ValidateDataIntegrity",
+          "parameter": [
+            {
+              "name": "entry",
+              "answer": "subjects2d/cli.py"
+            },
+            {
+              "name": "error_message",
+              "answer": "Unrecognized weekday"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "Data Transformation and File Output",
+      "function": [
+        {
+          "function": "EmptyFileRun",
+          "parameter": [
+            {
+              "name": "entry",
+              "answer": "subjects2d/cli.py"
+            }
+          ]
+        },
+        {
+          "function": "RunProject",
+          "parameter": [
+            {
+              "name": "entry",
+              "answer": "subjects2d/cli.py"
+            }
+          ]
+        },
+        {
+          "function": "OutputFileCheck",
+          "parameter": []
+        }
+      ]
+    }
+  ],
+  "17": [
+    {
+      "page": "Data Preparation",
+      "function": [
+        {
+          "function": "CheckFileExistence",
+          "parameter": [
+            {
+              "name": "entry",
+              "answer": "python -m logistic_batch"
+            },
+            {
+              "name": "error_message",
+              "answer": "Input Excel not found"
+            }
+          ]
+        },
+        {
+          "function": "ValidateNullValue",
+          "parameter": [
+            {
+              "name": "entry",
+              "answer": "python -m logistic_batch"
+            },
+            {
+              "name": "error_message",
+              "answer": "Dropped rows with missing values"
+            }
+          ]
+        },
+        {
+          "function": "ValidateEmptyFile",
+          "parameter": [
+            {
+              "name": "entry",
+              "answer": "python -m logistic_batch"
+            },
+            {
+              "name": "error_message",
+              "answer": "Not enough rows to compute a one-period lag (need at least 2)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "Model Creation and Output",
+      "function": [
+        {
+          "function": "RunProject",
+          "parameter": [
+            {
+              "name": "entry",
+              "answer": "python -m logistic_batch --input ./Gamedata.xlsx --output ./Logistic.xlsx --overwrite"
+            }
+          ]
+        },
+        {
+          "function": "OutputFileCheck",
+          "parameter": []
+        }
+      ]
+    }
+  ],
+  "18": [
+    {
+      "page": "Main Menu",
+      "function": [
+        {
+          "function": "Welcome Message",
+          "parameter": [
+            {
+              "name": "expected_output",
+              "answer": "ShellQuest v0.1.0-dev\nWelcome to the terminal adventure. Type 'help' to begin."
+            }
+          ]
+        },
+        {
+          "function": "Help in Main Menu",
+          "parameter": [
+            {
+              "name": "help_in_main_menu_command",
+              "answer": "help"
+            },
+            {
+              "name": "expected_output",
+              "answer": "Type 'help <command>' or try 'help commands' to list commands."
+            }
+          ]
+        },
+        {
+          "function": "Wrong Selection Check",
+          "parameter": [
+            {
+              "name": "expected_output",
+              "answer": "Unknown or blocked command: 9"
+            }
+          ]
+        },
+        {
+          "function": "Start Game",
+          "parameter": [
+            {
+              "name": "start_game_command",
+              "answer": "pwd"
+            },
+            {
+              "name": "expected_output",
+              "answer": "/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "Game",
+      "function": [
+        {
+          "function": "Display Help",
+          "parameter": [
+            {
+              "name": "help_in_game",
+              "answer": "help commands"
+            },
+            {
+              "name": "expected_output",
+              "answer": "Available commands are context-dependent. Try: help, ls, cd, pwd, cat, map, inventory, save, load, quit"
+            }
+          ]
+        },
+        {
+          "function": "Look Around",
+          "parameter": [
+            {
+              "name": "expected_output",
+              "answer": ""
+            }
+          ]
+        },
+        {
+          "function": "Move Player",
+          "parameter": [
+            {
+              "name": "direction",
+              "answer": "home"
+            },
+            {
+              "name": "expected_output",
+              "answer": ""
+            }
+          ]
+        },
+        {
+          "function": "Move Back",
+          "parameter": [
+            {
+              "name": "expected_output",
+              "answer": ""
+            }
+          ]
+        },
+        {
+          "function": "Check Inventory 1",
+          "parameter": [
+            {
+              "name": "check_inventory_command",
+              "answer": "inventory"
+            },
+            {
+              "name": "expected_output",
+              "answer": ""
+            }
+          ]
+        },
+        {
+          "function": "Pick Item",
+          "parameter": [
+            {
+              "name": "directions",
+              "answer": "home,player"
+            },
+            {
+              "name": "expected_output",
+              "answer": "Welcome to ShellQuest. Try 'help'."
+            }
+          ]
+        },
+        {
+          "function": "Check Inventory 2",
+          "parameter": [
+            {
+              "name": "check_inventory_command",
+              "answer": "inventory"
+            },
+            {
+              "name": "expected_output",
+              "answer": ""
+            }
+          ]
+        },
+        {
+          "function": "Win the Game",
+          "parameter": [
+            {
+              "name": "directions",
+              "answer": "..,..,..,forest"
+            },
+            {
+              "name": "expected_output",
+              "answer": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "Main Menu 2",
+      "function": [
+        {
+          "function": "Exit Game",
+          "parameter": [
+            {
+              "name": "exit_command",
+              "answer": "quit"
+            },
+            {
+              "name": "expected_output",
+              "answer": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "19": [
+    {
+      "page": "Batch Program",
+      "function": [
+        {
+          "function": "CheckFileExistence",
+          "parameter": [
+            {
+              "name": "entry",
+              "answer": "bin/death_hist"
+            },
+            {
+              "name": "error_message",
+              "answer": "File not found:"
+            }
+          ]
+        },
+        {
+          "function": "ValidateHeaders",
+          "parameter": [
+            {
+              "name": "entry",
+              "answer": "bin/death_hist"
+            },
+            {
+              "name": "error_message",
+              "answer": "Could not locate 'Date of death' column. Provide --date-column."
+            }
+          ]
+        },
+        {
+          "function": "ValidateEmptyFile",
+          "parameter": [
+            {
+              "name": "entry",
+              "answer": "bin/death_hist"
+            },
+            {
+              "name": "error_message",
+              "answer": "Empty CSV file"
+            }
+          ]
+        },
+        {
+          "function": "ValidateTimeColumn",
+          "parameter": [
+            {
+              "name": "entry",
+              "answer": "bin/death_hist"
+            },
+            {
+              "name": "error_message",
+              "answer": "unparsable_date"
+            }
+          ]
+        },
+        {
+          "function": "ValidateNullValue",
+          "parameter": [
+            {
+              "name": "entry",
+              "answer": "bin/death_hist"
+            },
+            {
+              "name": "error_message",
+              "answer": "missing_date"
+            }
+          ]
+        },
+        {
+          "function": "RunProject1",
+          "parameter": [
+            {
+              "name": "entry",
+              "answer": "bin/death_hist"
+            },
+            {
+              "name": "image_name",
+              "answer": "histogram.svg"
+            }
+          ]
+        },
+        {
+          "function": "RunProject2",
+          "parameter": [
+            {
+              "name": "entry",
+              "answer": "bin/death_hist"
+            },
+            {
+              "name": "image_name",
+              "answer": "histogram.svg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "20": [
+    {
+      "page": "Preset Blog",
+      "function": "[{\"function\":\"Login as Owner\",\"parameter\":[{\"name\":\"admin_url\",\"answer\":\"http://localhost:8000/en/admin/login/\"},{\"name\":\"username_id\",\"answer\":\"id_username\"},{\"name\":\"password_id\",\"answer\":\"id_password\"},{\"name\":\"button_xpath\",\"answer\":\"//input[@value='Log in']\"}]},{\"function\":\"Add Category\",\"parameter\":[{\"name\":\"category_url\",\"answer\":\"http://localhost:8000/en/admin/blog/category/\"},{\"name\":\"add_button_xpath\",\"answer\":\"//a[contains(@class,'addlink')]\"},{\"name\":\"name_id\",\"answer\":\"id_name\"},{\"name\":\"save_button_xpath\",\"answer\":\"//input[@name='_save']\"}]},{\"function\":\"Add Post\",\"parameter\":[{\"name\":\"blog_post_url\",\"answer\":\"http://localhost:8000/en/admin/blog/post/\"},{\"name\":\"add_button_xpath\",\"answer\":\"//a[contains(@class,'addlink')]\"},{\"name\":\"title_id\",\"answer\":\"id_title\"},{\"name\":\"content_id\",\"answer\":\"id_content\"},{\"name\":\"author_id\",\"answer\":\"id_author\"},{\"name\":\"category_id\",\"answer\":\"id_categories\"},{\"name\":\"save_button_xpath\",\"answer\":\"//input[@name='_save']\"}]},{\"function\":\"Logout as Owner\",\"parameter\":[{\"name\":\"admin_url\",\"answer\":\"http://localhost:8000/en/admin/\"},{\"name\":\"button_xpath\",\"answer\":\"//a[contains(@href,'/admin/logout/')]\"},{\"name\":\"expect_message\",\"answer\":\"Thanks for spending some quality time with the Django admin today.\"}]}]"
+    },
+    {
+      "page": "Home",
+      "function": "[{\"function\":\"Display Latest Blogs\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/en/\"},{\"name\":\"blog_class\",\"answer\":\"post-card\"}]},{\"function\":\"Search Bar\",\"parameter\":[{\"name\":\"test_url\",\"answer\":\"http://localhost:8000/en/\"},{\"name\":\"searchbar_id\",\"answer\":\"search-input\"},{\"name\":\"blog_class\",\"answer\":\"post-card\"},{\"name\":\"submit_button_xpath\",\"answer\":\"//button[@id='search-button']\"}]}]"
+    },
+    {
+      "page": "Blog Post",
+      "function": "[{\"function\":\"Read Blog Content\",\"parameter\":[{\"name\":\"home_url\",\"answer\":\"http://localhost:8000/en/\"}]},{\"function\":\"Comments Section\",\"parameter\":[{\"name\":\"author_id\",\"answer\":\"\"},{\"name\":\"content_id\",\"answer\":\"comment-text\"},{\"name\":\"submit_button_xpath\",\"answer\":\"//button[@id='comment-submit']\"}]},{\"function\":\"Dynamic Add Post 1\",\"parameter\":[{\"name\":\"admin_url\",\"answer\":\"http://localhost:8000/en/admin/login/\"},{\"name\":\"username_id\",\"answer\":\"id_username\"},{\"name\":\"password_id\",\"answer\":\"id_password\"},{\"name\":\"login_button_xpath\",\"answer\":\"//input[@value='Log in']\"},{\"name\":\"blog_post_button_xpath\",\"answer\":\"//a[contains(@href,'/admin/blog/post/')]\"},{\"name\":\"add_button_xpath\",\"answer\":\"//a[contains(@class,'addlink')]\"},{\"name\":\"title_id\",\"answer\":\"id_title\"},{\"name\":\"content_id\",\"answer\":\"id_content\"},{\"name\":\"author_id\",\"answer\":\"id_author\"},{\"name\":\"category_id\",\"answer\":\"id_categories\"},{\"name\":\"save_button_xpath\",\"answer\":\"//input[@name='_save']\"},{\"name\":\"logout_button_xpath\",\"answer\":\"//a[contains(@href,'/admin/logout/')]\"}]},{\"function\":\"Dynamic Edit Post\",\"parameter\":[{\"name\":\"admin_url\",\"answer\":\"http://localhost:8000/en/admin/login/\"},{\"name\":\"username_id\",\"answer\":\"id_username\"},{\"name\":\"password_id\",\"answer\":\"id_password\"},{\"name\":\"login_button_xpath\",\"answer\":\"//input[@value='Log in']\"},{\"name\":\"blog_post_button_xpath\",\"answer\":\"//a[contains(@href,'/admin/blog/post/')]\"},{\"name\":\"edit_button_class_name\",\"answer\":\"changelink\"},{\"name\":\"title_id\",\"answer\":\"id_title\"},{\"name\":\"category_id\",\"answer\":\"id_categories\"},{\"name\":\"save_button_xpath\",\"answer\":\"//input[@name='_save']\"},{\"name\":\"logout_button_xpath\",\"answer\":\"//a[contains(@href,'/admin/logout/')]\"}]},{\"function\":\"Read Update Blog\",\"parameter\":[{\"name\":\"home_url\",\"answer\":\"http://localhost:8000/en/\"}]},{\"function\":\"Dynamic Delete Post\",\"parameter\":[{\"name\":\"admin_url\",\"answer\":\"http://localhost:8000/en/admin/login/\"},{\"name\":\"username_id\",\"answer\":\"id_username\"},{\"name\":\"password_id\",\"answer\":\"id_password\"},{\"name\":\"login_button_xpath\",\"answer\":\"//input[@value='Log in']\"},{\"name\":\"blog_post_button_xpath\",\"answer\":\"//a[contains(@href,'/admin/blog/post/')]\"},{\"name\":\"delete_button_class_name\",\"answer\":\"deletelink\"},{\"name\":\"logout_button_xpath\",\"answer\":\"//a[contains(@href,'/admin/logout/')]\"}]},{\"function\":\"Check Post Deleted\",\"parameter\":[{\"name\":\"home_url\",\"answer\":\"http://localhost:8000/en/\"}]}]"
+    },
+    {
+      "page": "Categories",
+      "function": "[{\"function\":\"List Blog Categories\",\"parameter\":[{\"name\":\"home_url\",\"answer\":\"http://localhost:8000/en/\"},{\"name\":\"category_xpath\",\"answer\":\"//a[@id='nav-categories']\"},{\"name\":\"category_item_class_name\",\"answer\":\"category-item\"}]},{\"function\":\"Filter by Category\",\"parameter\":[{\"name\":\"blog_class\",\"answer\":\"post-card\"}]},{\"function\":\"Dynamic Add Category\",\"parameter\":[{\"name\":\"admin_url\",\"answer\":\"http://localhost:8000/en/admin/login/\"},{\"name\":\"username_id\",\"answer\":\"id_username\"},{\"name\":\"password_id\",\"answer\":\"id_password\"},{\"name\":\"login_button_xpath\",\"answer\":\"//input[@value='Log in']\"},{\"name\":\"category_button_xpath\",\"answer\":\"//a[contains(@href,'/admin/blog/category/')]\"},{\"name\":\"add_button_xpath\",\"answer\":\"//a[contains(@class,'addlink')]\"},{\"name\":\"name_id\",\"answer\":\"id_name\"},{\"name\":\"save_button_xpath\",\"answer\":\"//input[@name='_save']\"}]},{\"function\":\"Dynamic Add Post 2\",\"parameter\":[{\"name\":\"admin_url\",\"answer\":\"http://localhost:8000/en/admin/login/\"},{\"name\":\"blog_post_button_xpath\",\"answer\":\"//a[contains(@href,'/admin/blog/post/')]\"},{\"name\":\"add_button_xpath\",\"answer\":\"//a[contains(@class,'addlink')]\"},{\"name\":\"title_id\",\"answer\":\"id_title\"},{\"name\":\"content_id\",\"answer\":\"id_content\"},{\"name\":\"author_id\",\"answer\":\"id_author\"},{\"name\":\"category_id\",\"answer\":\"id_categories\"},{\"name\":\"save_button_xpath\",\"answer\":\"//input[@name='_save']\"},{\"name\":\"logout_button_xpath\",\"answer\":\"//a[contains(@href,'/admin/logout/')]\"}]},{\"function\":\"Read New Post with New Category\",\"parameter\":[{\"name\":\"home_url\",\"answer\":\"http://localhost:8000/en/\"}]},{\"function\":\"Dynamic Edit Category\",\"parameter\":[{\"name\":\"admin_url\",\"answer\":\"http://localhost:8000/en/admin/login/\"},{\"name\":\"username_id\",\"answer\":\"id_username\"},{\"name\":\"password_id\",\"answer\":\"id_password\"},{\"name\":\"login_button_xpath\",\"answer\":\"//input[@value='Log in']\"},{\"name\":\"category_button_xpath\",\"answer\":\"//a[contains(@href,'/admin/blog/category/')]\"},{\"name\":\"edit_button_class_name\",\"answer\":\"changelink\"},{\"name\":\"name_id\",\"answer\":\"id_name\"},{\"name\":\"save_button_xpath\",\"answer\":\"//input[@name='_save']\"},{\"name\":\"logout_button_xpath\",\"answer\":\"//a[contains(@href,'/admin/logout/')]\"}]},{\"function\":\"Check Category Changed\",\"parameter\":[{\"name\":\"home_url\",\"answer\":\"http://localhost:8000/en/\"}]},{\"function\":\"Dynamic Delete Category\",\"parameter\":[{\"name\":\"admin_url\",\"answer\":\"http://localhost:8000/en/admin/login/\"},{\"name\":\"username_id\",\"answer\":\"id_username\"},{\"name\":\"password_id\",\"answer\":\"id_password\"},{\"name\":\"login_button_xpath\",\"answer\":\"//input[@value='Log in']\"},{\"name\":\"category_button_xpath\",\"answer\":\"//a[contains(@href,'/admin/blog/category/')]\"},{\"name\":\"delete_button_class_name\",\"answer\":\"deletelink\"},{\"name\":\"logout_button_xpath\",\"answer\":\"//a[contains(@href,'/admin/logout/')]\"}]},{\"function\":\"Check Category Deleted\",\"parameter\":[{\"name\":\"home_url\",\"answer\":\"http://localhost:8000/en/\"},{\"name\":\"category_xpath\",\"answer\":\"//a[@id='nav-categories']\"},{\"name\":\"category_item_class_name\",\"answer\":\"category-item\"}]}]"
+    },
+    {
+      "page": "Archive",
+      "function": "[{\"function\":\"Date Filter\",\"parameter\":[{\"name\":\"home_url\",\"answer\":\"http://localhost:8000/en/\"},{\"name\":\"date_filter_class_name\",\"answer\":\"posts-sort\"},{\"name\":\"blog_class\",\"answer\":\"post-card\"},{\"name\":\"archive_xpath\",\"answer\":\"//a[@id='nav-blog']\"}]}]"
+    },
+    {
+      "page": "About",
+      "function": "[{\"function\":\"Display Author Information\",\"parameter\":[{\"name\":\"about_link_text\",\"answer\":\"About\"},{\"name\":\"expected_text\",\"answer\":\"This is a demo blog built with Django.\"},{\"name\":\"home_url\",\"answer\":\"http://localhost:8000/en/\"}]},{\"function\":\"Contact Form\",\"parameter\":[]}]"
+    }
+  ]
+}
