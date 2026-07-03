@@ -21,7 +21,7 @@
 [license-shield]: https://img.shields.io/github/license/RyanLoil/ProjectEvalPlus.svg?style=for-the-badge&label=License
 [license-url]: https://github.com/RyanLoil/ProjectEvalPlus/blob/master/LICENSE
 
-📄Paper: Coming Soon
+📄Paper: [https://aclanthology.org/2025.findings-acl.1036/](https://aclanthology.org/2025.findings-acl.1036/)
 
 🏆Leaderboard: Coming Soon
 
@@ -29,7 +29,9 @@
 
 # 📰News
 
-- 2025/11/01 🚀ProjectEvalPlus Repository opensource.
+- 2026/07/01 🎉**ProjectEvalPLus** is accepted by [_ACM Transactions on Software Engineering and Methodology (TOSEM)_](https://dl.acm.org/doi/10.1145/3817119).
+
+- 2025/11/01 🚀**ProjectEvalPlus** Repository opensource.  [![GitHub](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/RyanLoil/ProjectEvalPlus)
 
 - 2025/05/30 🚀ProjectEval Repository opensource.
 
