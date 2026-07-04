@@ -21,7 +21,7 @@
 [license-shield]: https://img.shields.io/github/license/RyanLoil/ProjectEvalPlus.svg?style=for-the-badge&label=License
 [license-url]: https://github.com/RyanLoil/ProjectEvalPlus/blob/master/LICENSE
 
-📄Paper: [https://aclanthology.org/2025.findings-acl.1036/](https://aclanthology.org/2025.findings-acl.1036/)
+📄Paper: [https://dl.acm.org/doi/10.1145/3817119](https://dl.acm.org/doi/10.1145/3817119)
 
 🏆Leaderboard: Coming Soon
 
