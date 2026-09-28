@@ -1,4 +1,4 @@
-# [ACM TOSEM]ProjectEvalPlus: A Benchmark for Programming Agents Automated Evaluation on Project-Level Code Generation
+# [ACM TOSEM]ProjectEvalPlus: An Agentic Software Engineering Benchmark with Automatic Language Extension and User Simulated Evaluation
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -49,8 +49,7 @@
 
 - ❗**Python Virtual Environments (venv)**:  ProjectEvalPlus asks you to use a virtual environment by using `python -m venv .venv`. If your venv path is NOT `.venv`, change the VENV_PATH to yours in `config.ini`.
 
--  **Java Maven Environments & NodeJS Environments**:
-
+- **Java Maven Environments & NodeJS Environments**:
 
 - **LLM**: Make sure that your Ollama runs if you wish to run any models mentioned in our papers.
 
@@ -188,7 +187,6 @@ ProjectEvalPlus achieved Automatic Language Extension (ALE) for CNC. The Project
 ![ProjectEvalPlus Reasoning](./assets/reasoning.png)
 
 The evaluation process begins by selecting a specific level from the input and presenting it to the agent. The agent generates solution code. The solution code is then fed back into the same agent along with the parameter description. The agent is tasked with answering the parameter description based on its own solution to produce parameter values (PV). The code is then converted into an executable file, creating a tangible project. PV is a substitute to testcode, and testcode is integrated into the ProjectEvalPlus evaluation machine to obtain the evaluation results.
-
 
 ## Summary
 
