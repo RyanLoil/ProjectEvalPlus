@@ -1,0 +1,572 @@
+2025-10-29 10:16:32,688 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 10:16:32,689 - JudgeController - INFO - Evaluating project id 2
+2025-10-29 10:17:40,058 - JudgeController - WARNING - Preprocessing failed with False.
+2025-10-29 10:17:40,059 - JudgeController - INFO - 2 scored 0.
+2025-10-29 10:17:40,185 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 0, 'failed': 0, 'score': 0, 'testcase': 0}
+2025-10-29 10:18:49,801 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 10:18:49,801 - JudgeController - INFO - Evaluating project id 2
+2025-10-29 10:19:57,008 - JudgeController - WARNING - Preprocessing failed with False.
+2025-10-29 10:19:57,009 - JudgeController - INFO - 2 scored 0.
+2025-10-29 10:19:57,125 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 0, 'failed': 0, 'score': 0, 'testcase': 0}
+2025-10-29 10:23:09,264 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 10:23:09,265 - JudgeController - INFO - Evaluating project id 2
+2025-10-29 10:23:33,763 - JudgeController - INFO - Evaluating function 2_1 Select Source Currency
+2025-10-29 10:23:34,106 - JudgeController - INFO - Function 2_1 passed.
+2025-10-29 10:23:34,106 - JudgeController - INFO - Evaluating function 2_2 Select Target Currency
+2025-10-29 10:23:34,446 - JudgeController - INFO - Function 2_2 passed.
+2025-10-29 10:23:34,446 - JudgeController - INFO - Evaluating function 2_3 Enter Amount
+2025-10-29 10:23:34,815 - JudgeController - INFO - Function 2_3 passed.
+2025-10-29 10:23:34,815 - JudgeController - INFO - Evaluating function 2_4 Convert Button
+2025-10-29 10:23:35,167 - JudgeController - INFO - Function 2_4 passed.
+2025-10-29 10:23:35,167 - JudgeController - INFO - Evaluating function 2_5 Display Conversion Result
+2025-10-29 10:23:35,482 - JudgeController - INFO - Function 2_5 passed.
+2025-10-29 10:23:35,483 - JudgeController - INFO - Evaluating function 2_6 Exchange Rate Info
+2025-10-29 10:23:35,805 - JudgeController - INFO - Function 2_6 passed.
+2025-10-29 10:23:35,805 - JudgeController - INFO - Evaluating function 2_7 Currency Information
+2025-10-29 10:23:36,153 - JudgeController - INFO - Function 2_7 passed.
+2025-10-29 10:23:36,153 - JudgeController - INFO - Evaluating function 2_8 Historical Exchange Rates
+2025-10-29 10:23:36,487 - JudgeController - INFO - Function 2_8 passed.
+2025-10-29 10:23:36,487 - JudgeController - INFO - Project id 2 scored 1.0
+2025-10-29 10:23:36,912 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 9, 'failed': 0, 'score': 1.0, 'testcase': 9}
+2025-10-29 10:24:35,105 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 10:24:35,107 - JudgeController - INFO - Evaluating project id 3
+2025-10-29 10:24:59,792 - JudgeController - INFO - Evaluating function 3_1 Display Welcome Message
+2025-10-29 10:25:00,181 - JudgeController - INFO - Function 3_1 passed.
+2025-10-29 10:25:00,181 - JudgeController - INFO - Evaluating function 3_2 Navigation Button
+2025-10-29 10:25:01,659 - JudgeController - INFO - Function 3_2 passed.
+2025-10-29 10:25:01,659 - JudgeController - INFO - Evaluating function 3_3 Length Input
+2025-10-29 10:25:02,016 - JudgeController - INFO - Function 3_3 passed.
+2025-10-29 10:25:02,016 - JudgeController - INFO - Evaluating function 3_4 Include Uppercase
+2025-10-29 10:25:02,350 - JudgeController - INFO - Function 3_4 passed.
+2025-10-29 10:25:02,350 - JudgeController - INFO - Evaluating function 3_5 Include Lowercase
+2025-10-29 10:25:02,680 - JudgeController - INFO - Function 3_5 passed.
+2025-10-29 10:25:02,680 - JudgeController - INFO - Evaluating function 3_6 Include Numbers
+2025-10-29 10:25:03,024 - JudgeController - INFO - Function 3_6 passed.
+2025-10-29 10:25:03,024 - JudgeController - INFO - Evaluating function 3_7 Include Symbols
+2025-10-29 10:25:03,391 - JudgeController - INFO - Function 3_7 passed.
+2025-10-29 10:25:03,391 - JudgeController - INFO - Evaluating function 3_8 Generate Button
+2025-10-29 10:25:03,772 - JudgeController - INFO - Function 3_8 passed.
+2025-10-29 10:25:03,772 - JudgeController - INFO - Evaluating function 3_9 Display Password
+2025-10-29 10:25:04,088 - JudgeController - INFO - Function 3_9 passed.
+2025-10-29 10:25:04,088 - JudgeController - INFO - Evaluating function 3_10 Rule Check 1
+2025-10-29 10:25:04,403 - JudgeController - INFO - Function 3_10 passed.
+2025-10-29 10:25:04,403 - JudgeController - INFO - Evaluating function 3_11 Copy to Clipboard
+2025-10-29 10:25:05,479 - JudgeController - INFO - Function 3_11 failed.
+2025-10-29 10:25:05,479 - JudgeController - INFO - Evaluating function 3_12 Generate Another Password
+2025-10-29 10:25:05,965 - JudgeController - INFO - Function 3_12 passed.
+2025-10-29 10:25:05,965 - JudgeController - INFO - Evaluating function 3_13 Rule Check 2
+2025-10-29 10:25:06,288 - JudgeController - INFO - Function 3_13 passed.
+2025-10-29 10:25:06,288 - JudgeController - INFO - Evaluating function 3_14 About Link
+2025-10-29 10:25:06,703 - JudgeController - INFO - Function 3_14 passed.
+2025-10-29 10:25:06,703 - JudgeController - INFO - Evaluating function 3_15 Description
+2025-10-29 10:25:07,013 - JudgeController - INFO - Function 3_15 passed.
+2025-10-29 10:25:07,013 - JudgeController - INFO - Project id 3 scored 0.9375
+2025-10-29 10:25:07,457 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 15, 'failed': 1, 'score': 0.9375, 'testcase': 16}
+2025-10-29 10:26:13,291 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 10:26:13,291 - JudgeController - INFO - Evaluating project id 5
+2025-10-29 10:27:21,977 - JudgeController - WARNING - Preprocessing failed with False.
+2025-10-29 10:27:21,977 - JudgeController - INFO - 5 scored 0.
+2025-10-29 10:27:22,160 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 0, 'failed': 0, 'score': 0, 'testcase': 0}
+2025-10-29 10:28:32,193 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 10:28:32,195 - JudgeController - INFO - Evaluating project id 5
+2025-10-29 10:29:40,726 - JudgeController - WARNING - Preprocessing failed with False.
+2025-10-29 10:29:40,726 - JudgeController - INFO - 5 scored 0.
+2025-10-29 10:29:40,835 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 0, 'failed': 0, 'score': 0, 'testcase': 0}
+2025-10-29 10:33:07,191 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 10:33:07,192 - JudgeController - INFO - Evaluating project id 5
+2025-10-29 10:33:21,136 - JudgeController - INFO - Evaluating function 5_1 Welcome Message
+2025-10-29 10:33:21,458 - JudgeController - INFO - Function 5_1 passed.
+2025-10-29 10:33:21,458 - JudgeController - INFO - Evaluating function 5_2 Introduction to Converter
+2025-10-29 10:33:21,785 - JudgeController - INFO - Function 5_2 passed.
+2025-10-29 10:33:21,785 - JudgeController - INFO - Evaluating function 5_3 Navigation Links
+2025-10-29 10:33:22,253 - JudgeController - INFO - Function 5_3 passed.
+2025-10-29 10:33:22,253 - JudgeController - INFO - Evaluating function 5_4 Markdown Input Area
+2025-10-29 10:33:22,621 - JudgeController - INFO - Function 5_4 passed.
+2025-10-29 10:33:22,621 - JudgeController - INFO - Evaluating function 5_5 Convert Button
+2025-10-29 10:33:22,978 - JudgeController - INFO - Function 5_5 passed.
+2025-10-29 10:33:22,978 - JudgeController - INFO - Evaluating function 5_6 HTML Output Area
+2025-10-29 10:33:22,985 - JudgeController - INFO - Function 5_6 failed.
+2025-10-29 10:33:22,985 - JudgeController - INFO - Evaluating function 5_7 Rule Check 1
+2025-10-29 10:33:22,988 - JudgeController - INFO - Function 5_7 failed.
+2025-10-29 10:33:22,988 - JudgeController - INFO - Evaluating function 5_8 Upload File
+2025-10-29 10:33:23,364 - JudgeController - INFO - Function 5_8 passed.
+2025-10-29 10:33:23,364 - JudgeController - INFO - Evaluating function 5_9 Download HTML
+2025-10-29 10:33:24,726 - JudgeController - INFO - Function 5_9 passed.
+2025-10-29 10:33:24,726 - JudgeController - INFO - Evaluating function 5_10 Rule Check 2
+2025-10-29 10:33:25,124 - JudgeController - INFO - Function 5_10 passed.
+2025-10-29 10:33:25,124 - JudgeController - INFO - Evaluating function 5_11 Team Information
+2025-10-29 10:33:25,463 - JudgeController - INFO - Function 5_11 passed.
+2025-10-29 10:33:25,463 - JudgeController - INFO - Evaluating function 5_12 FAQ Section
+2025-10-29 10:33:25,789 - JudgeController - INFO - Function 5_12 passed.
+2025-10-29 10:33:25,789 - JudgeController - INFO - Project id 5 scored 0.8461538461538461
+2025-10-29 10:33:26,124 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 11, 'failed': 2, 'score': 0.8461538461538461, 'testcase': 13}
+2025-10-29 10:37:53,398 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 10:37:53,399 - JudgeController - INFO - Evaluating project id 5
+2025-10-29 10:38:07,458 - JudgeController - INFO - Evaluating function 5_1 Welcome Message
+2025-10-29 10:38:07,781 - JudgeController - INFO - Function 5_1 passed.
+2025-10-29 10:38:07,781 - JudgeController - INFO - Evaluating function 5_2 Introduction to Converter
+2025-10-29 10:38:08,107 - JudgeController - INFO - Function 5_2 passed.
+2025-10-29 10:38:08,107 - JudgeController - INFO - Evaluating function 5_3 Navigation Links
+2025-10-29 10:38:08,540 - JudgeController - INFO - Function 5_3 passed.
+2025-10-29 10:38:08,540 - JudgeController - INFO - Evaluating function 5_4 Markdown Input Area
+2025-10-29 10:38:08,910 - JudgeController - INFO - Function 5_4 passed.
+2025-10-29 10:38:08,910 - JudgeController - INFO - Evaluating function 5_5 Convert Button
+2025-10-29 10:38:09,246 - JudgeController - INFO - Function 5_5 passed.
+2025-10-29 10:38:09,246 - JudgeController - INFO - Evaluating function 5_6 HTML Output Area
+2025-10-29 10:38:09,557 - JudgeController - INFO - Function 5_6 passed.
+2025-10-29 10:38:09,557 - JudgeController - INFO - Evaluating function 5_7 Rule Check 1
+2025-10-29 10:38:09,564 - JudgeController - INFO - Function 5_7 failed.
+2025-10-29 10:38:09,564 - JudgeController - INFO - Evaluating function 5_8 Upload File
+2025-10-29 10:38:09,939 - JudgeController - INFO - Function 5_8 passed.
+2025-10-29 10:38:09,939 - JudgeController - INFO - Evaluating function 5_9 Download HTML
+2025-10-29 10:38:11,293 - JudgeController - INFO - Function 5_9 passed.
+2025-10-29 10:38:11,293 - JudgeController - INFO - Evaluating function 5_10 Rule Check 2
+2025-10-29 10:38:11,675 - JudgeController - INFO - Function 5_10 passed.
+2025-10-29 10:38:11,675 - JudgeController - INFO - Evaluating function 5_11 Team Information
+2025-10-29 10:38:12,015 - JudgeController - INFO - Function 5_11 passed.
+2025-10-29 10:38:12,015 - JudgeController - INFO - Evaluating function 5_12 FAQ Section
+2025-10-29 10:38:12,339 - JudgeController - INFO - Function 5_12 passed.
+2025-10-29 10:38:12,340 - JudgeController - INFO - Project id 5 scored 0.9230769230769231
+2025-10-29 10:38:12,823 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 12, 'failed': 1, 'score': 0.9230769230769231, 'testcase': 13}
+2025-10-29 10:49:44,552 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 10:49:44,554 - JudgeController - INFO - Evaluating project id 7
+2025-10-29 10:50:09,184 - JudgeController - INFO - Evaluating function 7_1 View Home
+2025-10-29 10:50:09,514 - JudgeController - INFO - Function 7_1 passed.
+2025-10-29 10:50:09,514 - JudgeController - INFO - Evaluating function 7_2 User Check 1
+2025-10-29 10:50:09,763 - JudgeController - INFO - Function 7_2 failed.
+2025-10-29 10:50:09,764 - JudgeController - INFO - Evaluating function 7_3 View Dashboard 1
+2025-10-29 10:50:10,166 - JudgeController - INFO - Function 7_3 passed.
+2025-10-29 10:50:10,166 - JudgeController - INFO - Evaluating function 7_4 View Settings
+2025-10-29 10:50:10,505 - JudgeController - INFO - Function 7_4 passed.
+2025-10-29 10:50:10,505 - JudgeController - INFO - Evaluating function 7_5 View Chart
+2025-10-29 10:50:10,841 - JudgeController - INFO - Function 7_5 passed.
+2025-10-29 10:50:10,841 - JudgeController - INFO - Evaluating function 7_6 Sign Up
+2025-10-29 10:50:11,344 - JudgeController - INFO - Function 7_6 passed.
+2025-10-29 10:50:11,344 - JudgeController - INFO - Evaluating function 7_7 User Login
+2025-10-29 10:50:11,830 - JudgeController - INFO - Function 7_7 passed.
+2025-10-29 10:50:11,830 - JudgeController - INFO - Evaluating function 7_8 View Dashboard 2
+2025-10-29 10:50:12,177 - JudgeController - INFO - Function 7_8 passed.
+2025-10-29 10:50:12,178 - JudgeController - INFO - Evaluating function 7_9 Add Category
+2025-10-29 10:50:12,847 - JudgeController - INFO - Function 7_9 passed.
+2025-10-29 10:50:12,847 - JudgeController - INFO - Evaluating function 7_10 Edit Category
+2025-10-29 10:50:12,894 - JudgeController - INFO - Function 7_10 failed.
+2025-10-29 10:50:12,894 - JudgeController - INFO - Evaluating function 7_11 Delete Category
+2025-10-29 10:50:12,929 - JudgeController - INFO - Function 7_11 failed.
+2025-10-29 10:50:12,929 - JudgeController - INFO - Evaluating function 7_12 List Category
+2025-10-29 10:50:12,959 - JudgeController - INFO - Function 7_12 failed.
+2025-10-29 10:50:12,959 - JudgeController - INFO - Evaluating function 7_13 Add Transaction
+2025-10-29 10:50:13,997 - JudgeController - INFO - Function 7_13 passed.
+2025-10-29 10:50:13,997 - JudgeController - INFO - Evaluating function 7_14 Edit Transaction
+2025-10-29 10:50:14,520 - JudgeController - INFO - Function 7_14 passed.
+2025-10-29 10:50:14,520 - JudgeController - INFO - Evaluating function 7_15 Delete Transaction
+2025-10-29 10:50:14,942 - JudgeController - INFO - Function 7_15 passed.
+2025-10-29 10:50:14,942 - JudgeController - INFO - Evaluating function 7_16 Filter Transactions
+2025-10-29 10:50:14,980 - JudgeController - INFO - Function 7_16 failed.
+2025-10-29 10:50:14,980 - JudgeController - INFO - Evaluating function 7_17 View Balance Chart
+2025-10-29 10:50:15,725 - JudgeController - INFO - Function 7_17 passed.
+2025-10-29 10:50:15,725 - JudgeController - INFO - Evaluating function 7_18 View Balance Structure Chart
+2025-10-29 10:50:16,072 - JudgeController - INFO - Function 7_18 passed.
+2025-10-29 10:50:16,072 - JudgeController - INFO - Evaluating function 7_19 Generate Monthly Report
+2025-10-29 10:50:16,497 - JudgeController - INFO - Function 7_19 passed.
+2025-10-29 10:50:16,497 - JudgeController - INFO - Evaluating function 7_20 Export Data
+2025-10-29 10:50:17,579 - JudgeController - INFO - Function 7_20 failed.
+2025-10-29 10:50:17,579 - JudgeController - INFO - Evaluating function 7_21 Update Profile
+2025-10-29 10:50:18,339 - JudgeController - INFO - Function 7_21 passed.
+2025-10-29 10:50:18,340 - JudgeController - INFO - Evaluating function 7_22 View FAQs
+2025-10-29 10:50:18,699 - JudgeController - INFO - Function 7_22 passed.
+2025-10-29 10:50:18,699 - JudgeController - INFO - Evaluating function 7_23 Contact Support
+2025-10-29 10:50:18,859 - JudgeController - INFO - Function 7_23 failed.
+2025-10-29 10:50:18,859 - JudgeController - INFO - Project id 7 scored 0.7083333333333334
+2025-10-29 10:50:19,215 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 17, 'failed': 7, 'score': 0.7083333333333334, 'testcase': 24}
+2025-10-29 10:52:41,655 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 10:52:41,656 - JudgeController - INFO - Evaluating project id 7
+2025-10-29 10:53:51,217 - JudgeController - WARNING - Preprocessing failed with False.
+2025-10-29 10:53:51,217 - JudgeController - INFO - 7 scored 0.
+2025-10-29 10:53:51,406 - JudgeController - WARNING - Preprocessing failed with 'utf-8' codec can't decode byte 0xd3 in position 43537: invalid continuation byte.
+2025-10-29 10:53:51,406 - JudgeController - INFO - 7 scored 0.
+2025-10-29 10:53:51,457 - JudgeController - CRITICAL - Error:'utf-8' codec can't decode byte 0xd3 in position 43537: invalid continuation byte | Traceback:Traceback (most recent call last):
+  File "D:\Multiagent Research\ProjectEvalPlus\controller.py", line 490, in evaluate
+    self._judge_preprocess_failure_handler(preprocess_result, project_id, judge, project_score_table_row)
+  File "D:\Multiagent Research\ProjectEvalPlus\controller.py", line 407, in _judge_preprocess_failure_handler
+    project_score_table_row["reason"]= self._read_judge_project_error_log(judge, project_id)
+                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Multiagent Research\ProjectEvalPlus\controller.py", line 396, in _read_judge_project_error_log
+    text = f.read()
+           ^^^^^^^^
+  File "<frozen codecs>", line 322, in decode
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xd3 in position 43537: invalid continuation byte
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Multiagent Research\ProjectEvalPlus\controller.py", line 493, in evaluate
+    self._judge_preprocess_failure_handler(str(e), project_id, judge, project_score_table_row)
+  File "D:\Multiagent Research\ProjectEvalPlus\controller.py", line 407, in _judge_preprocess_failure_handler
+    project_score_table_row["reason"]= self._read_judge_project_error_log(judge, project_id)
+                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Multiagent Research\ProjectEvalPlus\controller.py", line 396, in _read_judge_project_error_log
+    text = f.read()
+           ^^^^^^^^
+  File "<frozen codecs>", line 322, in decode
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xd3 in position 43537: invalid continuation byte
+
+2025-10-29 10:53:51,457 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 0, 'failed': 0, 'score': 0, 'testcase': 0}
+2025-10-29 10:59:17,018 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 10:59:17,020 - JudgeController - INFO - Evaluating project id 7
+2025-10-29 11:00:26,278 - JudgeController - WARNING - Preprocessing failed with False.
+2025-10-29 11:00:26,278 - JudgeController - INFO - 7 scored 0.
+2025-10-29 11:00:26,497 - JudgeController - WARNING - Preprocessing failed with 'utf-8' codec can't decode byte 0xd3 in position 43537: invalid continuation byte.
+2025-10-29 11:00:26,497 - JudgeController - INFO - 7 scored 0.
+2025-10-29 11:00:26,535 - JudgeController - CRITICAL - Error:'utf-8' codec can't decode byte 0xd3 in position 43537: invalid continuation byte | Traceback:Traceback (most recent call last):
+  File "D:\Multiagent Research\ProjectEvalPlus\controller.py", line 490, in evaluate
+    self._judge_preprocess_failure_handler(preprocess_result, project_id, judge, project_score_table_row)
+  File "D:\Multiagent Research\ProjectEvalPlus\controller.py", line 407, in _judge_preprocess_failure_handler
+    project_score_table_row["reason"]= self._read_judge_project_error_log(judge, project_id)
+                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Multiagent Research\ProjectEvalPlus\controller.py", line 396, in _read_judge_project_error_log
+    text = f.read()
+           ^^^^^^^^
+  File "<frozen codecs>", line 322, in decode
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xd3 in position 43537: invalid continuation byte
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Multiagent Research\ProjectEvalPlus\controller.py", line 493, in evaluate
+    self._judge_preprocess_failure_handler(str(e), project_id, judge, project_score_table_row)
+  File "D:\Multiagent Research\ProjectEvalPlus\controller.py", line 407, in _judge_preprocess_failure_handler
+    project_score_table_row["reason"]= self._read_judge_project_error_log(judge, project_id)
+                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Multiagent Research\ProjectEvalPlus\controller.py", line 396, in _read_judge_project_error_log
+    text = f.read()
+           ^^^^^^^^
+  File "<frozen codecs>", line 322, in decode
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xd3 in position 43537: invalid continuation byte
+
+2025-10-29 11:00:26,536 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 0, 'failed': 0, 'score': 0, 'testcase': 0}
+2025-10-29 11:07:32,439 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 11:07:32,440 - JudgeController - INFO - Evaluating project id 7
+2025-10-29 11:07:57,117 - JudgeController - INFO - Evaluating function 7_1 View Home
+2025-10-29 11:07:57,447 - JudgeController - INFO - Function 7_1 passed.
+2025-10-29 11:07:57,447 - JudgeController - INFO - Evaluating function 7_2 User Check 1
+2025-10-29 11:07:57,643 - JudgeController - INFO - Function 7_2 failed.
+2025-10-29 11:07:57,643 - JudgeController - INFO - Evaluating function 7_3 View Dashboard 1
+2025-10-29 11:07:57,680 - JudgeController - INFO - Function 7_3 failed.
+2025-10-29 11:07:57,680 - JudgeController - INFO - Evaluating function 7_4 View Settings
+2025-10-29 11:07:57,764 - JudgeController - INFO - Function 7_4 failed.
+2025-10-29 11:07:57,764 - JudgeController - INFO - Evaluating function 7_5 View Chart
+2025-10-29 11:07:57,807 - JudgeController - INFO - Function 7_5 failed.
+2025-10-29 11:07:57,807 - JudgeController - INFO - Evaluating function 7_6 Sign Up
+2025-10-29 11:07:58,316 - JudgeController - INFO - Function 7_6 passed.
+2025-10-29 11:07:58,316 - JudgeController - INFO - Evaluating function 7_7 User Login
+2025-10-29 11:07:58,773 - JudgeController - INFO - Function 7_7 passed.
+2025-10-29 11:07:58,773 - JudgeController - INFO - Evaluating function 7_8 View Dashboard 2
+2025-10-29 11:07:59,098 - JudgeController - INFO - Function 7_8 passed.
+2025-10-29 11:07:59,098 - JudgeController - INFO - Evaluating function 7_9 Add Category
+2025-10-29 11:07:59,782 - JudgeController - INFO - Function 7_9 passed.
+2025-10-29 11:07:59,782 - JudgeController - INFO - Evaluating function 7_10 Edit Category
+2025-10-29 11:08:00,244 - JudgeController - INFO - Function 7_10 passed.
+2025-10-29 11:08:00,244 - JudgeController - INFO - Evaluating function 7_11 Delete Category
+2025-10-29 11:08:00,657 - JudgeController - INFO - Function 7_11 passed.
+2025-10-29 11:08:00,657 - JudgeController - INFO - Evaluating function 7_12 List Category
+2025-10-29 11:08:00,988 - JudgeController - INFO - Function 7_12 passed.
+2025-10-29 11:08:00,988 - JudgeController - INFO - Evaluating function 7_13 Add Transaction
+2025-10-29 11:08:01,878 - JudgeController - INFO - Function 7_13 passed.
+2025-10-29 11:08:01,878 - JudgeController - INFO - Evaluating function 7_14 Edit Transaction
+2025-10-29 11:08:02,339 - JudgeController - INFO - Function 7_14 passed.
+2025-10-29 11:08:02,339 - JudgeController - INFO - Evaluating function 7_15 Delete Transaction
+2025-10-29 11:08:02,742 - JudgeController - INFO - Function 7_15 passed.
+2025-10-29 11:08:02,742 - JudgeController - INFO - Evaluating function 7_16 Filter Transactions
+2025-10-29 11:08:03,612 - JudgeController - INFO - Function 7_16 passed.
+2025-10-29 11:08:03,612 - JudgeController - INFO - Evaluating function 7_17 View Balance Chart
+2025-10-29 11:08:03,959 - JudgeController - INFO - Function 7_17 passed.
+2025-10-29 11:08:03,959 - JudgeController - INFO - Evaluating function 7_18 View Balance Structure Chart
+2025-10-29 11:08:04,288 - JudgeController - INFO - Function 7_18 passed.
+2025-10-29 11:08:04,288 - JudgeController - INFO - Evaluating function 7_19 Generate Monthly Report
+2025-10-29 11:08:04,737 - JudgeController - INFO - Function 7_19 passed.
+2025-10-29 11:08:04,737 - JudgeController - INFO - Evaluating function 7_20 Export Data
+2025-10-29 11:08:06,177 - JudgeController - INFO - Function 7_20 passed.
+2025-10-29 11:08:06,177 - JudgeController - INFO - Evaluating function 7_21 Update Profile
+2025-10-29 11:08:06,883 - JudgeController - INFO - Function 7_21 passed.
+2025-10-29 11:08:06,883 - JudgeController - INFO - Evaluating function 7_22 View FAQs
+2025-10-29 11:08:06,927 - JudgeController - INFO - Function 7_22 failed.
+2025-10-29 11:08:06,927 - JudgeController - INFO - Evaluating function 7_23 Contact Support
+2025-10-29 11:08:07,372 - JudgeController - INFO - Function 7_23 passed.
+2025-10-29 11:08:07,372 - JudgeController - INFO - Project id 7 scored 0.7916666666666666
+2025-10-29 11:08:07,809 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 19, 'failed': 5, 'score': 0.7916666666666666, 'testcase': 24}
+2025-10-29 11:23:49,973 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 11:23:49,974 - JudgeController - INFO - Evaluating project id 7
+2025-10-29 11:24:15,056 - JudgeController - INFO - Evaluating function 7_1 View Home
+2025-10-29 11:24:15,391 - JudgeController - INFO - Function 7_1 passed.
+2025-10-29 11:24:15,391 - JudgeController - INFO - Evaluating function 7_2 User Check 1
+2025-10-29 11:24:15,604 - JudgeController - INFO - Function 7_2 failed.
+2025-10-29 11:24:15,604 - JudgeController - INFO - Evaluating function 7_3 View Dashboard 1
+2025-10-29 11:24:15,647 - JudgeController - INFO - Function 7_3 failed.
+2025-10-29 11:24:15,647 - JudgeController - INFO - Evaluating function 7_4 View Settings
+2025-10-29 11:24:15,735 - JudgeController - INFO - Function 7_4 failed.
+2025-10-29 11:24:15,735 - JudgeController - INFO - Evaluating function 7_5 View Chart
+2025-10-29 11:24:15,783 - JudgeController - INFO - Function 7_5 failed.
+2025-10-29 11:24:15,783 - JudgeController - INFO - Evaluating function 7_6 Sign Up
+2025-10-29 11:24:16,321 - JudgeController - INFO - Function 7_6 passed.
+2025-10-29 11:24:16,321 - JudgeController - INFO - Evaluating function 7_7 User Login
+2025-10-29 11:24:16,791 - JudgeController - INFO - Function 7_7 passed.
+2025-10-29 11:24:16,791 - JudgeController - INFO - Evaluating function 7_8 View Dashboard 2
+2025-10-29 11:24:17,117 - JudgeController - INFO - Function 7_8 passed.
+2025-10-29 11:24:17,117 - JudgeController - INFO - Evaluating function 7_9 Add Category
+2025-10-29 11:24:17,739 - JudgeController - INFO - Function 7_9 passed.
+2025-10-29 11:24:17,739 - JudgeController - INFO - Evaluating function 7_10 Edit Category
+2025-10-29 11:24:18,212 - JudgeController - INFO - Function 7_10 passed.
+2025-10-29 11:24:18,212 - JudgeController - INFO - Evaluating function 7_11 Delete Category
+2025-10-29 11:24:18,607 - JudgeController - INFO - Function 7_11 passed.
+2025-10-29 11:24:18,607 - JudgeController - INFO - Evaluating function 7_12 List Category
+2025-10-29 11:24:18,947 - JudgeController - INFO - Function 7_12 passed.
+2025-10-29 11:24:18,947 - JudgeController - INFO - Evaluating function 7_13 Add Transaction
+2025-10-29 11:24:19,795 - JudgeController - INFO - Function 7_13 passed.
+2025-10-29 11:24:19,795 - JudgeController - INFO - Evaluating function 7_14 Edit Transaction
+2025-10-29 11:24:20,285 - JudgeController - INFO - Function 7_14 passed.
+2025-10-29 11:24:20,285 - JudgeController - INFO - Evaluating function 7_15 Delete Transaction
+2025-10-29 11:24:20,724 - JudgeController - INFO - Function 7_15 passed.
+2025-10-29 11:24:20,724 - JudgeController - INFO - Evaluating function 7_16 Filter Transactions
+2025-10-29 11:24:21,607 - JudgeController - INFO - Function 7_16 passed.
+2025-10-29 11:24:21,607 - JudgeController - INFO - Evaluating function 7_17 View Balance Chart
+2025-10-29 11:24:21,958 - JudgeController - INFO - Function 7_17 passed.
+2025-10-29 11:24:21,958 - JudgeController - INFO - Evaluating function 7_18 View Balance Structure Chart
+2025-10-29 11:24:22,289 - JudgeController - INFO - Function 7_18 passed.
+2025-10-29 11:24:22,289 - JudgeController - INFO - Evaluating function 7_19 Generate Monthly Report
+2025-10-29 11:24:22,779 - JudgeController - INFO - Function 7_19 passed.
+2025-10-29 11:24:22,779 - JudgeController - INFO - Evaluating function 7_20 Export Data
+2025-10-29 11:24:24,199 - JudgeController - INFO - Function 7_20 passed.
+2025-10-29 11:24:24,199 - JudgeController - INFO - Evaluating function 7_21 Update Profile
+2025-10-29 11:24:24,904 - JudgeController - INFO - Function 7_21 passed.
+2025-10-29 11:24:24,904 - JudgeController - INFO - Evaluating function 7_22 View FAQs
+2025-10-29 11:24:25,254 - JudgeController - INFO - Function 7_22 passed.
+2025-10-29 11:24:25,254 - JudgeController - INFO - Evaluating function 7_23 Contact Support
+2025-10-29 11:24:25,724 - JudgeController - INFO - Function 7_23 passed.
+2025-10-29 11:24:25,724 - JudgeController - INFO - Project id 7 scored 0.8333333333333334
+2025-10-29 11:24:26,193 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 20, 'failed': 4, 'score': 0.8333333333333334, 'testcase': 24}
+2025-10-29 11:31:04,519 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 11:31:04,519 - JudgeController - INFO - Evaluating project id 12
+2025-10-29 11:32:11,832 - JudgeController - WARNING - Preprocessing failed with False.
+2025-10-29 11:32:11,832 - JudgeController - INFO - 12 scored 0.
+2025-10-29 11:32:11,958 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 0, 'failed': 0, 'score': 0, 'testcase': 0}
+2025-10-29 11:38:32,952 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 11:38:32,954 - JudgeController - INFO - Evaluating project id 12
+2025-10-29 11:39:40,488 - JudgeController - WARNING - Preprocessing failed with False.
+2025-10-29 11:39:40,488 - JudgeController - INFO - 12 scored 0.
+2025-10-29 11:39:40,695 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 0, 'failed': 0, 'score': 0, 'testcase': 0}
+2025-10-29 11:42:53,026 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 11:42:53,027 - JudgeController - INFO - Evaluating project id 12
+2025-10-29 11:43:08,683 - JudgeController - INFO - Evaluating function 12_1 View Home
+2025-10-29 11:43:09,234 - JudgeController - INFO - Function 12_1 passed.
+2025-10-29 11:43:09,234 - JudgeController - INFO - Evaluating function 12_2 View Dashboard
+2025-10-29 11:43:09,594 - JudgeController - INFO - Function 12_2 passed.
+2025-10-29 11:43:09,594 - JudgeController - INFO - Evaluating function 12_3 Sign Up
+2025-10-29 11:43:10,276 - JudgeController - INFO - Function 12_3 passed.
+2025-10-29 11:43:10,276 - JudgeController - INFO - Evaluating function 12_4 Log In
+2025-10-29 11:43:10,881 - JudgeController - INFO - Function 12_4 passed.
+2025-10-29 11:43:10,881 - JudgeController - INFO - Evaluating function 12_5 Submit Claim
+2025-10-29 11:43:11,488 - JudgeController - INFO - Function 12_5 passed.
+2025-10-29 11:43:11,488 - JudgeController - INFO - Evaluating function 12_6 Submit Claim2
+2025-10-29 11:43:12,142 - JudgeController - INFO - Function 12_6 passed.
+2025-10-29 11:43:12,142 - JudgeController - INFO - Evaluating function 12_7 Submit Claim3
+2025-10-29 11:43:12,777 - JudgeController - INFO - Function 12_7 passed.
+2025-10-29 11:43:12,777 - JudgeController - INFO - Evaluating function 12_8 View Claim Status
+2025-10-29 11:43:13,113 - JudgeController - INFO - Function 12_8 passed.
+2025-10-29 11:43:13,113 - JudgeController - INFO - Evaluating function 12_9 Edit Submitted Claim
+2025-10-29 11:43:13,808 - JudgeController - INFO - Function 12_9 passed.
+2025-10-29 11:43:13,808 - JudgeController - INFO - Evaluating function 12_10 Approve Claim
+2025-10-29 11:43:14,163 - JudgeController - INFO - Function 12_10 failed.
+2025-10-29 11:43:14,163 - JudgeController - INFO - Evaluating function 12_11 Reject Claim with Reason
+2025-10-29 11:43:14,569 - JudgeController - INFO - Function 12_11 failed.
+2025-10-29 11:43:14,569 - JudgeController - INFO - Evaluating function 12_12 View Claim Details
+2025-10-29 11:43:14,926 - JudgeController - INFO - Function 12_12 failed.
+2025-10-29 11:43:14,926 - JudgeController - INFO - Evaluating function 12_13 Search and Filter Claims
+2025-10-29 11:43:14,962 - JudgeController - INFO - Function 12_13 failed.
+2025-10-29 11:43:14,962 - JudgeController - INFO - Evaluating function 12_14 Add Budget
+2025-10-29 11:43:15,012 - JudgeController - INFO - Function 12_14 failed.
+2025-10-29 11:43:15,012 - JudgeController - INFO - Evaluating function 12_15 Analyze Expense Balances
+2025-10-29 11:43:15,040 - JudgeController - INFO - Function 12_15 failed.
+2025-10-29 11:43:15,040 - JudgeController - INFO - Evaluating function 12_16 Generate Reports
+2025-10-29 11:43:15,067 - JudgeController - INFO - Function 12_16 failed.
+2025-10-29 11:43:15,067 - JudgeController - INFO - Evaluating function 12_17 Send Budget Alerts
+2025-10-29 11:43:15,094 - JudgeController - INFO - Function 12_17 failed.
+2025-10-29 11:43:15,095 - JudgeController - INFO - Project id 12 scored 0.5555555555555556
+2025-10-29 11:43:15,419 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 10, 'failed': 8, 'score': 0.5555555555555556, 'testcase': 18}
+2025-10-29 11:55:06,204 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 11:55:06,204 - JudgeController - INFO - Evaluating project id 12
+2025-10-29 11:55:21,596 - JudgeController - INFO - Evaluating function 12_1 View Home
+2025-10-29 11:55:22,205 - JudgeController - INFO - Function 12_1 passed.
+2025-10-29 11:55:22,205 - JudgeController - INFO - Evaluating function 12_2 View Dashboard
+2025-10-29 11:55:22,569 - JudgeController - INFO - Function 12_2 passed.
+2025-10-29 11:55:22,569 - JudgeController - INFO - Evaluating function 12_3 Sign Up
+2025-10-29 11:55:23,361 - JudgeController - INFO - Function 12_3 passed.
+2025-10-29 11:55:23,361 - JudgeController - INFO - Evaluating function 12_4 Log In
+2025-10-29 11:55:23,994 - JudgeController - INFO - Function 12_4 passed.
+2025-10-29 11:55:23,994 - JudgeController - INFO - Evaluating function 12_5 Submit Claim
+2025-10-29 11:55:24,594 - JudgeController - INFO - Function 12_5 passed.
+2025-10-29 11:55:24,594 - JudgeController - INFO - Evaluating function 12_6 Submit Claim2
+2025-10-29 11:55:25,216 - JudgeController - INFO - Function 12_6 passed.
+2025-10-29 11:55:25,216 - JudgeController - INFO - Evaluating function 12_7 Submit Claim3
+2025-10-29 11:55:25,781 - JudgeController - INFO - Function 12_7 passed.
+2025-10-29 11:55:25,781 - JudgeController - INFO - Evaluating function 12_8 View Claim Status
+2025-10-29 11:55:26,130 - JudgeController - INFO - Function 12_8 passed.
+2025-10-29 11:55:26,130 - JudgeController - INFO - Evaluating function 12_9 Edit Submitted Claim
+2025-10-29 11:55:26,799 - JudgeController - INFO - Function 12_9 passed.
+2025-10-29 11:55:26,799 - JudgeController - INFO - Evaluating function 12_10 Approve Claim
+2025-10-29 11:55:27,233 - JudgeController - INFO - Function 12_10 failed.
+2025-10-29 11:55:27,233 - JudgeController - INFO - Evaluating function 12_11 Reject Claim with Reason
+2025-10-29 11:55:27,700 - JudgeController - INFO - Function 12_11 failed.
+2025-10-29 11:55:27,700 - JudgeController - INFO - Evaluating function 12_12 View Claim Details
+2025-10-29 11:55:28,364 - JudgeController - INFO - Function 12_12 passed.
+2025-10-29 11:55:28,364 - JudgeController - INFO - Evaluating function 12_13 Search and Filter Claims
+2025-10-29 11:55:28,405 - JudgeController - INFO - Function 12_13 failed.
+2025-10-29 11:55:28,405 - JudgeController - INFO - Evaluating function 12_14 Add Budget
+2025-10-29 11:55:28,624 - JudgeController - INFO - Function 12_14 failed.
+2025-10-29 11:55:28,624 - JudgeController - INFO - Evaluating function 12_15 Analyze Expense Balances
+2025-10-29 11:55:29,019 - JudgeController - INFO - Function 12_15 passed.
+2025-10-29 11:55:29,019 - JudgeController - INFO - Evaluating function 12_16 Generate Reports
+2025-10-29 11:55:29,353 - JudgeController - INFO - Function 12_16 passed.
+2025-10-29 11:55:29,353 - JudgeController - INFO - Evaluating function 12_17 Send Budget Alerts
+2025-10-29 11:55:29,407 - JudgeController - INFO - Function 12_17 failed.
+2025-10-29 11:55:29,407 - JudgeController - INFO - Project id 12 scored 0.7222222222222222
+2025-10-29 11:55:29,730 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 13, 'failed': 5, 'score': 0.7222222222222222, 'testcase': 18}
+2025-10-29 12:40:48,885 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 12:40:48,886 - JudgeController - INFO - Evaluating project id 12
+2025-10-29 12:41:04,696 - JudgeController - INFO - Evaluating function 12_1 View Home
+2025-10-29 12:41:05,386 - JudgeController - INFO - Function 12_1 passed.
+2025-10-29 12:41:05,386 - JudgeController - INFO - Evaluating function 12_2 View Dashboard
+2025-10-29 12:41:05,755 - JudgeController - INFO - Function 12_2 passed.
+2025-10-29 12:41:05,755 - JudgeController - INFO - Evaluating function 12_3 Sign Up
+2025-10-29 12:41:06,454 - JudgeController - INFO - Function 12_3 passed.
+2025-10-29 12:41:06,454 - JudgeController - INFO - Evaluating function 12_4 Log In
+2025-10-29 12:41:07,049 - JudgeController - INFO - Function 12_4 passed.
+2025-10-29 12:41:07,049 - JudgeController - INFO - Evaluating function 12_5 Submit Claim
+2025-10-29 12:41:07,644 - JudgeController - INFO - Function 12_5 passed.
+2025-10-29 12:41:07,644 - JudgeController - INFO - Evaluating function 12_6 Submit Claim2
+2025-10-29 12:41:08,215 - JudgeController - INFO - Function 12_6 passed.
+2025-10-29 12:41:08,215 - JudgeController - INFO - Evaluating function 12_7 Submit Claim3
+2025-10-29 12:41:08,772 - JudgeController - INFO - Function 12_7 passed.
+2025-10-29 12:41:08,772 - JudgeController - INFO - Evaluating function 12_8 View Claim Status
+2025-10-29 12:41:09,112 - JudgeController - INFO - Function 12_8 passed.
+2025-10-29 12:41:09,112 - JudgeController - INFO - Evaluating function 12_9 Edit Submitted Claim
+2025-10-29 12:41:09,755 - JudgeController - INFO - Function 12_9 passed.
+2025-10-29 12:41:09,755 - JudgeController - INFO - Evaluating function 12_10 Approve Claim
+2025-10-29 12:41:10,628 - JudgeController - INFO - Function 12_10 failed.
+2025-10-29 12:41:10,628 - JudgeController - INFO - Evaluating function 12_11 Reject Claim with Reason
+2025-10-29 12:41:11,391 - JudgeController - INFO - Function 12_11 failed.
+2025-10-29 12:41:11,391 - JudgeController - INFO - Evaluating function 12_12 View Claim Details
+2025-10-29 12:41:11,972 - JudgeController - INFO - Function 12_12 passed.
+2025-10-29 12:41:11,972 - JudgeController - INFO - Evaluating function 12_13 Search and Filter Claims
+2025-10-29 12:41:12,106 - JudgeController - INFO - Function 12_13 failed.
+2025-10-29 12:41:12,106 - JudgeController - INFO - Evaluating function 12_14 Add Budget
+2025-10-29 12:41:12,353 - JudgeController - INFO - Function 12_14 failed.
+2025-10-29 12:41:12,353 - JudgeController - INFO - Evaluating function 12_15 Analyze Expense Balances
+2025-10-29 12:41:12,733 - JudgeController - INFO - Function 12_15 passed.
+2025-10-29 12:41:12,733 - JudgeController - INFO - Evaluating function 12_16 Generate Reports
+2025-10-29 12:41:13,070 - JudgeController - INFO - Function 12_16 passed.
+2025-10-29 12:41:13,070 - JudgeController - INFO - Evaluating function 12_17 Send Budget Alerts
+2025-10-29 12:41:13,122 - JudgeController - INFO - Function 12_17 failed.
+2025-10-29 12:41:13,122 - JudgeController - INFO - Project id 12 scored 0.7222222222222222
+2025-10-29 12:41:13,521 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 13, 'failed': 5, 'score': 0.7222222222222222, 'testcase': 18}
+2025-10-29 12:48:05,564 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 12:48:05,565 - JudgeController - INFO - Evaluating project id 13
+2025-10-29 12:49:12,581 - JudgeController - WARNING - Preprocessing failed with False.
+2025-10-29 12:49:12,581 - JudgeController - INFO - 13 scored 0.
+2025-10-29 12:49:12,764 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 0, 'failed': 0, 'score': 0, 'testcase': 0}
+2025-10-29 12:54:57,877 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 12:54:57,879 - JudgeController - INFO - Evaluating project id 13
+2025-10-29 12:55:38,304 - JudgeController - INFO - Evaluating function 13_1 View Home
+2025-10-29 12:55:38,639 - JudgeController - INFO - Function 13_1 passed.
+2025-10-29 12:55:38,639 - JudgeController - INFO - Evaluating function 13_2 Add Customer
+2025-10-29 12:55:38,667 - JudgeController - INFO - Function 13_2 failed.
+2025-10-29 12:55:38,667 - JudgeController - INFO - Evaluating function 13_3 Add Customer2
+2025-10-29 12:55:38,702 - JudgeController - INFO - Function 13_3 failed.
+2025-10-29 12:55:38,702 - JudgeController - INFO - Evaluating function 13_4 Add Customer3
+2025-10-29 12:55:38,734 - JudgeController - INFO - Function 13_4 failed.
+2025-10-29 12:55:38,734 - JudgeController - INFO - Evaluating function 13_5 Add Customer4
+2025-10-29 12:55:38,770 - JudgeController - INFO - Function 13_5 failed.
+2025-10-29 12:55:38,770 - JudgeController - INFO - Evaluating function 13_6 Edit Customer
+2025-10-29 12:55:38,803 - JudgeController - INFO - Function 13_6 failed.
+2025-10-29 12:55:38,803 - JudgeController - INFO - Evaluating function 13_7 Delete Customer
+2025-10-29 12:55:38,837 - JudgeController - INFO - Function 13_7 failed.
+2025-10-29 12:55:38,837 - JudgeController - INFO - Evaluating function 13_8 Add Product
+2025-10-29 12:55:39,367 - JudgeController - INFO - Function 13_8 failed.
+2025-10-29 12:55:39,367 - JudgeController - INFO - Evaluating function 13_9 Add Product2
+2025-10-29 12:55:39,481 - JudgeController - INFO - Function 13_9 failed.
+2025-10-29 12:55:39,481 - JudgeController - INFO - Evaluating function 13_10 Add Product3
+2025-10-29 12:55:40,186 - JudgeController - INFO - Function 13_10 passed.
+2025-10-29 12:55:40,186 - JudgeController - INFO - Evaluating function 13_11 Add Product4
+2025-10-29 12:55:40,925 - JudgeController - INFO - Function 13_11 passed.
+2025-10-29 12:55:40,925 - JudgeController - INFO - Evaluating function 13_12 Edit Product
+2025-10-29 12:55:41,807 - JudgeController - INFO - Function 13_12 passed.
+2025-10-29 12:55:41,807 - JudgeController - INFO - Evaluating function 13_13 Delete Product
+2025-10-29 12:55:42,255 - JudgeController - INFO - Function 13_13 passed.
+2025-10-29 12:55:42,255 - JudgeController - INFO - Evaluating function 13_14 Add Purchase Record
+2025-10-29 12:55:42,991 - JudgeController - INFO - Function 13_14 passed.
+2025-10-29 12:55:42,991 - JudgeController - INFO - Evaluating function 13_15 Add Purchase Record2
+2025-10-29 12:55:43,731 - JudgeController - INFO - Function 13_15 passed.
+2025-10-29 12:55:43,731 - JudgeController - INFO - Evaluating function 13_16 Add Purchase Record3
+2025-10-29 12:55:44,475 - JudgeController - INFO - Function 13_16 passed.
+2025-10-29 12:55:44,475 - JudgeController - INFO - Evaluating function 13_17 Add Purchase Record4
+2025-10-29 12:55:45,322 - JudgeController - INFO - Function 13_17 passed.
+2025-10-29 12:55:45,322 - JudgeController - INFO - Evaluating function 13_18 Edit Purchase Record
+2025-10-29 12:55:46,185 - JudgeController - INFO - Function 13_18 passed.
+2025-10-29 12:55:46,185 - JudgeController - INFO - Evaluating function 13_19 Delete Purchase Record
+2025-10-29 12:55:46,626 - JudgeController - INFO - Function 13_19 passed.
+2025-10-29 12:55:46,626 - JudgeController - INFO - Evaluating function 13_20 Add Preferred Product
+2025-10-29 12:55:47,301 - JudgeController - INFO - Function 13_20 passed.
+2025-10-29 12:55:47,301 - JudgeController - INFO - Evaluating function 13_21 Edit Preferred Product
+2025-10-29 12:55:47,884 - JudgeController - INFO - Function 13_21 passed.
+2025-10-29 12:55:47,884 - JudgeController - INFO - Evaluating function 13_22 Delete Preferred Product
+2025-10-29 12:55:48,335 - JudgeController - INFO - Function 13_22 passed.
+2025-10-29 12:55:48,335 - JudgeController - INFO - Evaluating function 13_23 Generate Sales Report
+2025-10-29 12:55:48,762 - JudgeController - INFO - Function 13_23 passed.
+2025-10-29 12:55:48,762 - JudgeController - INFO - Evaluating function 13_24 Product Performance Analysis
+2025-10-29 12:55:48,893 - JudgeController - INFO - Function 13_24 failed.
+2025-10-29 12:55:48,893 - JudgeController - INFO - Project id 13 scored 0.64
+2025-10-29 12:55:49,305 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 16, 'failed': 9, 'score': 0.64, 'testcase': 25}
+2025-10-29 12:57:06,973 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 12:57:06,974 - JudgeController - INFO - Evaluating project id 13
+2025-10-29 12:58:15,268 - JudgeController - WARNING - Preprocessing failed with False.
+2025-10-29 12:58:15,268 - JudgeController - INFO - 13 scored 0.
+2025-10-29 12:58:15,377 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 0, 'failed': 0, 'score': 0, 'testcase': 0}
+2025-10-29 13:26:39,846 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 13:26:39,849 - JudgeController - INFO - Evaluating project id 13
+2025-10-29 13:27:48,408 - JudgeController - WARNING - Preprocessing failed with False.
+2025-10-29 13:27:48,408 - JudgeController - INFO - 13 scored 0.
+2025-10-29 13:27:48,513 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 0, 'failed': 0, 'score': 0, 'testcase': 0}
+2025-10-29 13:31:36,646 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 13:31:36,647 - JudgeController - INFO - Evaluating project id 13
+2025-10-29 13:32:44,883 - JudgeController - WARNING - Preprocessing failed with False.
+2025-10-29 13:32:44,883 - JudgeController - INFO - 13 scored 0.
+2025-10-29 13:32:45,003 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 0, 'failed': 0, 'score': 0, 'testcase': 0}
+2025-10-29 13:33:14,813 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 13:33:14,814 - JudgeController - INFO - Evaluating project id 14
+2025-10-29 13:34:23,496 - JudgeController - WARNING - Preprocessing failed with False.
+2025-10-29 13:34:23,496 - JudgeController - INFO - 14 scored 0.
+2025-10-29 13:34:23,671 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 0, 'failed': 0, 'score': 0, 'testcase': 0}
+2025-10-29 13:35:09,029 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 13:35:09,030 - JudgeController - INFO - Evaluating project id 14
+2025-10-29 13:35:33,793 - JudgeController - INFO - Evaluating function 14_1 DisplayText
+2025-10-29 13:35:34,131 - JudgeController - INFO - Function 14_1 passed.
+2025-10-29 13:35:34,131 - JudgeController - INFO - Evaluating function 14_2 BasicStyling
+2025-10-29 13:35:34,488 - JudgeController - INFO - Function 14_2 passed.
+2025-10-29 13:35:34,488 - JudgeController - INFO - Evaluating function 14_3 PageTitle
+2025-10-29 13:35:34,822 - JudgeController - INFO - Function 14_3 passed.
+2025-10-29 13:35:34,822 - JudgeController - INFO - Evaluating function 14_4 MetaTags
+2025-10-29 13:35:35,161 - JudgeController - INFO - Function 14_4 passed.
+2025-10-29 13:35:35,161 - JudgeController - INFO - Project id 14 scored 1.0
+2025-10-29 13:35:35,656 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 5, 'failed': 0, 'score': 1.0, 'testcase': 5}
+2025-10-29 13:36:25,765 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 13:36:25,767 - JudgeController - INFO - Evaluating project id 15
+2025-10-29 13:37:35,116 - JudgeController - WARNING - Preprocessing failed with False.
+2025-10-29 13:37:35,116 - JudgeController - INFO - 15 scored 0.
+2025-10-29 13:37:35,348 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 0, 'failed': 0, 'score': 0, 'testcase': 0}
+2025-10-29 13:38:29,343 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 13:38:29,343 - JudgeController - INFO - Evaluating project id 15
+2025-10-29 13:38:54,220 - JudgeController - INFO - Evaluating function 15_1 Button to 'HelloWorld' page
+2025-10-29 13:38:54,667 - JudgeController - INFO - Function 15_1 passed.
+2025-10-29 13:38:54,667 - JudgeController - INFO - Evaluating function 15_2 Display 'HelloWorld' message
+2025-10-29 13:38:54,969 - JudgeController - INFO - Function 15_2 passed.
+2025-10-29 13:38:54,969 - JudgeController - INFO - Project id 15 scored 1.0
+2025-10-29 13:38:55,346 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 3, 'failed': 0, 'score': 1.0, 'testcase': 3}

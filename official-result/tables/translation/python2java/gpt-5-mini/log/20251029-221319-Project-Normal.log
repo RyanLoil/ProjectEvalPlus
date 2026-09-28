@@ -1,0 +1,4155 @@
+=============Project 16 Start===============
+=============Project 16 End===============
+=============Project 17 Start===============
+=============Project 17 End===============
+=============Project 19 Start===============
+=============Project 19 End===============
+=============Project 9 Start===============
+Performing system checks...
+
+=============Project 9 End===============
+=============Project 1 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 29, 2025 - 22:14:45
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 1 End===============
+=============Project 3 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 29, 2025 - 22:14:52
+Django version 5.1.12, using settings 'password_generator.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 3 End===============
+=============Project 4 Start===============
+Performing system checks...
+
+=============Project 4 End===============
+=============Project 5 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 29, 2025 - 22:16:09
+Django version 5.1.12, using settings 'project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 5 End===============
+=============Project 8 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 29, 2025 - 22:17:13
+Django version 5.1.12, using settings 'project_name.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 8 End===============
+=============Project 9 Start===============
+=============Project 9 End===============
+=============Project 11 Start===============
+=============Project 11 End===============
+=============Project 12 Start===============
+=============Project 12 End===============
+=============Project 14 Start===============
+No changes detected
+=============Project 14 End===============
+=============Project 15 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 29, 2025 - 22:23:47
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 15 End===============
+=============Project 16 Start===============
+=============Project 16 End===============
+=============Project 17 Start===============
+=============Project 17 End===============
+=============Project 18 Start===============
+=============Project 18 End===============
+=============Project 19 Start===============
+=============Project 19 End===============
+=============Project 20 Start===============
+=============Project 20 End===============
+=============Project 2 Start===============
+Performing system checks...
+
+=============Project 2 End===============
+=============Project 4 Start===============
+=============Project 4 End===============
+=============Project 7 Start===============
+No changes detected
+=============Project 7 End===============
+=============Project 8 Start===============
+=============Project 8 End===============
+=============Project 13 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 29, 2025 - 22:36:25
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 13 End===============
+=============Project 20 Start===============
+Performing system checks...
+
+=============Project 20 End===============
+=============Project 2 Start===============
+=============Project 2 End===============
+=============Project 3 Start===============
+=============Project 3 End===============
+=============Project 4 Start===============
+Performing system checks...
+
+=============Project 4 End===============
+=============Project 5 Start===============
+=============Project 5 End===============
+=============Project 8 Start===============
+=============Project 8 End===============
+=============Project 9 Start===============
+=============Project 9 End===============
+=============Project 10 Start===============
+=============Project 10 End===============
+=============Project 11 Start===============
+=============Project 11 End===============
+=============Project 12 Start===============
+=============Project 12 End===============
+=============Project 13 Start===============
+=============Project 13 End===============
+=============Project 14 Start===============
+=============Project 14 End===============
+=============Project 15 Start===============
+Performing system checks...
+
+=============Project 15 End===============
+=============Project 16 Start===============
+=============Project 16 End===============
+=============Project 17 Start===============
+=============Project 17 End===============
+=============Project 18 Start===============
+2025-10-29T23:07:38.603412 Sending command: help
+2025-10-29T23:07:38.604873 Sending command: abc
+2025-10-29T23:07:38.605878 Sending command: 1
+2025-10-29T23:07:38.605878 Sending command: help
+2025-10-29T23:07:38.606882 Sending command: ls
+2025-10-29T23:07:38.608879 Sending command: cd north
+2025-10-29T23:07:38.609880 Sending command: cd ..
+2025-10-29T23:07:38.610926 Sending command: inventory
+2025-10-29T23:07:38.611929 Sending command: cd home
+2025-10-29T23:07:38.615354 Sending command: inventory
+2025-10-29T23:07:38.616434 Sending command: cd ..
+2025-10-29T23:07:38.617939 Sending command: 3
+=============Project 18 End===============
+=============Project 19 Start===============
+=============Project 19 End===============
+=============Project 1 Start===============
+=============Project 1 End===============
+=============Project 4 Start===============
+=============Project 4 End===============
+=============Project 5 Start===============
+=============Project 5 End===============
+=============Project 6 Start===============
+=============Project 6 End===============
+=============Project 9 Start===============
+=============Project 9 End===============
+=============Project 11 Start===============
+=============Project 11 End===============
+=============Project 14 Start===============
+=============Project 14 End===============
+=============Project 17 Start===============
+=============Project 17 End===============
+=============Project 2 Start===============
+=============Project 2 End===============
+=============Project 4 Start===============
+=============Project 4 End===============
+=============Project 5 Start===============
+=============Project 5 End===============
+=============Project 6 Start===============
+=============Project 6 End===============
+=============Project 8 Start===============
+=============Project 8 End===============
+=============Project 9 Start===============
+=============Project 9 End===============
+=============Project 14 Start===============
+=============Project 14 End===============
+=============Project 15 Start===============
+=============Project 15 End===============
+=============Project 16 Start===============
+=============Project 16 End===============
+=============Project 18 Start===============
+2025-10-29T23:43:25.596374 Sending command: help or 5
+2025-10-29T23:43:25.597378 Sending command: abc
+2025-10-29T23:43:25.597882 Sending command: 1
+2025-10-29T23:43:25.598385 Sending command: help
+2025-10-29T23:43:25.599389 Sending command: ls
+2025-10-29T23:43:25.599892 Sending command: cd w
+2025-10-29T23:43:25.600396 Sending command: cd ..
+2025-10-29T23:43:25.600860 Sending command: inventory
+2025-10-29T23:43:25.601364 Sending command: cd home
+2025-10-29T23:43:25.601364 Sending command: inventory
+2025-10-29T23:43:25.602872 Sending command: cd ..
+2025-10-29T23:43:25.603411 Sending command: exit or 3
+=============Project 18 End===============
+=============Project 19 Start===============
+=============Project 19 End===============
+=============Project 1 Start===============
+=============Project 1 End===============
+=============Project 2 Start===============
+=============Project 2 End===============
+=============Project 3 Start===============
+=============Project 3 End===============
+=============Project 4 Start===============
+=============Project 4 End===============
+=============Project 5 Start===============
+=============Project 5 End===============
+=============Project 6 Start===============
+=============Project 6 End===============
+=============Project 9 Start===============
+=============Project 9 End===============
+=============Project 10 Start===============
+=============Project 10 End===============
+=============Project 11 Start===============
+=============Project 11 End===============
+=============Project 14 Start===============
+=============Project 14 End===============
+=============Project 16 Start===============
+=============Project 16 End===============
+=============Project 17 Start===============
+=============Project 17 End===============
+=============Project 18 Start===============
+2025-10-30T00:09:51.203895 Sending command: 2
+2025-10-30T00:09:51.204397 Sending command: abc
+2025-10-30T00:09:51.205400 Sending command: 1
+2025-10-30T00:09:51.206400 Sending command: help
+2025-10-30T00:09:51.206400 Sending command: ls
+2025-10-30T00:09:51.207399 Sending command: cd north
+2025-10-30T00:09:51.207399 Sending command: cd ..
+2025-10-30T00:09:51.209450 Sending command: inventory
+2025-10-30T00:09:51.210451 Sending command: cd home
+2025-10-30T00:09:51.215132 Sending command: inventory
+2025-10-30T00:09:51.216135 Sending command: cd ..
+2025-10-30T00:09:51.218148 Sending command: 3
+=============Project 18 End===============
+=============Project 19 Start===============
+=============Project 19 End===============
+=============Project 20 Start===============
+=============Project 20 End===============
+=============Project 1 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 30, 2025 - 00:14:15
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 1 End===============
+=============Project 3 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 30, 2025 - 00:15:23
+Django version 5.1.12, using settings 'password_generator.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 3 End===============
+=============Project 4 Start===============
+No changes detected
+[0mOperations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+[0mPerforming system checks...
+
+System check identified no issues (0 silenced).
+October 30, 2025 - 00:17:01
+Django version 5.1.12, using settings 'qr_code_generator.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 4 End===============
+=============Project 6 Start===============
+Migrations for 'example_app':
+  example_app\migrations\0002_remove_todoitem_completed_remove_todoitem_created_at_and_more.py
+    - Remove field completed from todoitem
+    - Remove field created_at from todoitem
+    - Remove field description from todoitem
+    - Remove field title from todoitem
+    - Remove field todolist from todoitem
+    - Remove field updated_at from todoitem
+    - Remove field completed from todolist
+    - Remove field created_at from todolist
+    - Remove field description from todolist
+    - Remove field title from todolist
+    - Remove field updated_at from todolist
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, example_app, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying example_app.0001_initial... OK
+  Applying example_app.0002_remove_todoitem_completed_remove_todoitem_created_at_and_more... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 30, 2025 - 00:18:17
+Django version 5.1.12, using settings 'project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 6 End===============
+=============Project 8 Start===============
+Performing system checks...
+
+=============Project 8 End===============
+=============Project 9 Start===============
+Migrations for 'example_app':
+  example_app\migrations\0001_initial.py
+    + Create model ContactSales
+    + Create model SupportRequest
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, example_app, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying example_app.0001_initial... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 00:22:35
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 9 End===============
+=============Project 11 Start===============
+Migrations for 'example_app':
+  example_app\migrations\0001_initial.py
+    + Create model Project
+    + Create model Review
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, example_app, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying example_app.0001_initial... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 00:24:15
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 11 End===============
+=============Project 13 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 00:25:34
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 13 End===============
+=============Project 14 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 00:26:44
+Django version 5.1.12, using settings 'myproject.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 14 End===============
+=============Project 16 Start===============
+=============Project 16 End===============
+=============Project 17 Start===============
+=============Project 17 End===============
+=============Project 18 Start===============
+2025-10-30T00:29:58.168365 Sending command: help
+2025-10-30T00:29:58.168365 Sending command: abc
+2025-10-30T00:29:58.169881 Sending command: 1
+2025-10-30T00:29:58.169881 Sending command: help
+2025-10-30T00:29:58.170886 Sending command: ls
+2025-10-30T00:29:58.170886 Sending command: cd forest
+2025-10-30T00:29:58.171885 Sending command: cd ..
+2025-10-30T00:29:58.171885 Sending command: inventory
+2025-10-30T00:29:58.173223 Sending command: cd home
+2025-10-30T00:29:58.177608 Sending command: inventory
+2025-10-30T00:29:58.177608 Sending command: cd ..
+2025-10-30T00:29:58.178973 Sending command: 2
+=============Project 18 End===============
+=============Project 19 Start===============
+=============Project 19 End===============
+=============Project 20 Start===============
+Performing system checks...
+
+=============Project 20 End===============
+=============Project 1 Start===============
+=============Project 1 End===============
+=============Project 2 Start===============
+=============Project 2 End===============
+=============Project 5 Start===============
+No changes detected
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 30, 2025 - 00:38:54
+Django version 5.1.12, using settings 'markdown_converter.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 5 End===============
+=============Project 8 Start===============
+=============Project 8 End===============
+=============Project 9 Start===============
+=============Project 9 End===============
+=============Project 15 Start===============
+=============Project 15 End===============
+=============Project 18 Start===============
+=============Project 18 End===============
+=============Project 20 Start===============
+=============Project 20 End===============
+=============Project 2 Start===============
+=============Project 2 End===============
+=============Project 6 Start===============
+=============Project 6 End===============
+=============Project 7 Start===============
+=============Project 7 End===============
+=============Project 9 Start===============
+=============Project 9 End===============
+=============Project 10 Start===============
+=============Project 10 End===============
+=============Project 11 Start===============
+No changes detected
+Performing system checks...
+
+October 30, 2025 - 01:01:21
+Django version 5.1.12, using settings 'testcode_review.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 11 End===============
+=============Project 13 Start===============
+Performing system checks...
+
+=============Project 13 End===============
+=============Project 15 Start===============
+=============Project 15 End===============
+=============Project 17 Start===============
+=============Project 17 End===============
+=============Project 18 Start===============
+2025-10-30T01:07:52.118503 Sending command: 2
+2025-10-30T01:07:52.119679 Sending command: abc
+2025-10-30T01:07:52.119679 Sending command: 1
+2025-10-30T01:07:52.120678 Sending command: help
+2025-10-30T01:07:52.120678 Sending command: ls
+2025-10-30T01:07:52.120678 Sending command: cd north
+2025-10-30T01:07:52.122671 Sending command: cd ..
+2025-10-30T01:07:52.123186 Sending command: inventory
+2025-10-30T01:07:52.123186 Sending command: cd home
+2025-10-30T01:07:52.124189 Sending command: inventory
+2025-10-30T01:07:52.136240 Sending command: cd ..
+2025-10-30T01:07:52.137242 Sending command: 3
+=============Project 18 End===============
+=============Project 1 Start===============
+=============Project 1 End===============
+=============Project 2 Start===============
+=============Project 2 End===============
+=============Project 3 Start===============
+=============Project 3 End===============
+=============Project 4 Start===============
+=============Project 4 End===============
+=============Project 5 Start===============
+=============Project 5 End===============
+=============Project 6 Start===============
+=============Project 6 End===============
+=============Project 7 Start===============
+=============Project 7 End===============
+=============Project 8 Start===============
+=============Project 8 End===============
+=============Project 9 Start===============
+=============Project 9 End===============
+=============Project 10 Start===============
+=============Project 10 End===============
+=============Project 12 Start===============
+=============Project 12 End===============
+=============Project 14 Start===============
+=============Project 14 End===============
+=============Project 15 Start===============
+=============Project 15 End===============
+=============Project 16 Start===============
+=============Project 16 End===============
+=============Project 17 Start===============
+=============Project 17 End===============
+=============Project 18 Start===============
+2025-10-30T01:39:15.560032 Sending command: help
+2025-10-30T01:39:15.560032 Sending command: abc
+2025-10-30T01:39:15.561031 Sending command: start
+2025-10-30T01:39:15.561031 Sending command: help
+2025-10-30T01:39:15.561031 Sending command: ls
+2025-10-30T01:39:15.562537 Sending command: cd north
+2025-10-30T01:39:15.562537 Sending command: cd ..
+2025-10-30T01:39:15.563543 Sending command: inventory
+2025-10-30T01:39:15.563543 Sending command: cd clearing
+2025-10-30T01:39:15.564655 Sending command: inventory
+2025-10-30T01:39:15.564655 Sending command: cd locked_room
+2025-10-30T01:39:15.566203 Sending command: quit
+=============Project 18 End===============
+=============Project 19 Start===============
+=============Project 19 End===============
+=============Project 20 Start===============
+=============Project 20 End===============
+=============Project 1 Start===============
+=============Project 1 End===============
+=============Project 2 Start===============
+=============Project 2 End===============
+=============Project 3 Start===============
+=============Project 3 End===============
+=============Project 4 Start===============
+=============Project 4 End===============
+=============Project 5 Start===============
+=============Project 5 End===============
+=============Project 6 Start===============
+=============Project 6 End===============
+=============Project 7 Start===============
+=============Project 7 End===============
+=============Project 8 Start===============
+=============Project 8 End===============
+=============Project 9 Start===============
+=============Project 9 End===============
+=============Project 10 Start===============
+=============Project 10 End===============
+=============Project 11 Start===============
+=============Project 11 End===============
+=============Project 12 Start===============
+=============Project 12 End===============
+=============Project 13 Start===============
+=============Project 13 End===============
+=============Project 14 Start===============
+=============Project 14 End===============
+=============Project 15 Start===============
+=============Project 15 End===============
+=============Project 16 Start===============
+=============Project 16 End===============
+=============Project 17 Start===============
+=============Project 17 End===============
+=============Project 18 Start===============
+2025-10-30T02:18:42.463577 Sending command: Instructions
+2025-10-30T02:18:42.464619 Sending command: abc
+2025-10-30T02:18:42.467173 Sending command: Start Game
+2025-10-30T02:18:42.467710 Sending command: Move Player, Look Around, Pick Item, Check Inventory
+2025-10-30T02:18:42.469719 Sending command: ls
+2025-10-30T02:18:42.470225 Sending command: cd Any direction
+2025-10-30T02:18:42.471230 Sending command: cd ..
+2025-10-30T02:18:42.472232 Sending command: Check Inventory
+2025-10-30T02:18:42.473741 Sending command: cd home
+2025-10-30T02:18:42.474747 Sending command: Check Inventory
+2025-10-30T02:18:42.475790 Sending command: cd ..
+2025-10-30T02:18:42.481710 Sending command: Exit Game
+=============Project 18 End===============
+=============Project 19 Start===============
+=============Project 19 End===============
+=============Project 20 Start===============
+=============Project 20 End===============
+=============Project 1 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 30, 2025 - 02:23:09
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 1 End===============
+=============Project 2 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, example_app, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying example_app.0001_initial... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 02:24:18
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 2 End===============
+=============Project 3 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 30, 2025 - 02:25:28
+Django version 5.1.12, using settings 'password_generator.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 3 End===============
+=============Project 5 Start===============
+=============Project 5 End===============
+=============Project 6 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, example_app, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying example_app.0001_initial... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 30, 2025 - 02:28:45
+Django version 5.1.12, using settings 'project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 6 End===============
+=============Project 7 Start===============
+Migrations for 'example_app':
+  example_app\migrations\0001_initial.py
+    + Create model Category
+    + Create model SupportRequest
+    + Create model Transaction
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, example_app, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying example_app.0001_initial... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 02:29:52
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 7 End===============
+=============Project 8 Start===============
+Performing system checks...
+
+=============Project 8 End===============
+=============Project 9 Start===============
+Migrations for 'example_app':
+  example_app\migrations\0001_initial.py
+    + Create model ContactSales
+    + Create model SupportRequest
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, example_app, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying example_app.0001_initial... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 02:33:16
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 9 End===============
+=============Project 11 Start===============
+Performing system checks...
+
+=============Project 11 End===============
+=============Project 12 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, example_app, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying example_app.0001_initial... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 02:36:34
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 12 End===============
+=============Project 13 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 02:37:43
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 13 End===============
+=============Project 14 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 02:38:51
+Django version 5.1.12, using settings 'myproject.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 14 End===============
+=============Project 15 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, example_app, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying example_app.0001_initial... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 02:40:00
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 15 End===============
+=============Project 16 Start===============
+=============Project 16 End===============
+=============Project 17 Start===============
+=============Project 17 End===============
+=============Project 19 Start===============
+=============Project 19 End===============
+=============Project 1 Start===============
+Migrations for 'bmi_app':
+  bmi_app\migrations\0001_initial.py
+    + Create model BMIRecord
+Operations to perform:
+  Apply all migrations: admin, auth, bmi_app, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying bmi_app.0001_initial... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 30, 2025 - 02:44:39
+Django version 5.1.12, using settings 'bmi_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 1 End===============
+=============Project 4 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 02:46:02
+Django version 5.1.12, using settings 'qrproject.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 4 End===============
+=============Project 6 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 02:47:10
+Django version 5.1.12, using settings 'project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 6 End===============
+=============Project 7 Start===============
+Performing system checks...
+
+=============Project 7 End===============
+=============Project 8 Start===============
+=============Project 8 End===============
+=============Project 9 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 30, 2025 - 02:52:56
+Django version 5.1.12, using settings 'myproject.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 9 End===============
+=============Project 10 Start===============
+=============Project 10 End===============
+=============Project 11 Start===============
+=============Project 11 End===============
+=============Project 13 Start===============
+=============Project 13 End===============
+=============Project 14 Start===============
+=============Project 14 End===============
+=============Project 17 Start===============
+=============Project 17 End===============
+=============Project 18 Start===============
+=============Project 1 Start===============
+=============Project 1 End===============
+=============Project 2 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 30, 2025 - 03:07:25
+Django version 5.1.12, using settings 'project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 2 End===============
+=============Project 3 Start===============
+=============Project 3 End===============
+=============Project 5 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 03:10:50
+Django version 5.1.12, using settings 'markdown_converter.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 6 Start===============
+=============Project 6 End===============
+=============Project 7 Start===============
+=============Project 7 End===============
+=============Project 8 Start===============
+=============Project 8 End===============
+=============Project 9 Start===============
+No changes detected
+=============Project 9 End===============
+=============Project 10 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 30, 2025 - 03:20:39
+Django version 5.1.12, using settings 'calorie_tracker.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 10 End===============
+=============Project 11 Start===============
+=============Project 11 End===============
+=============Project 12 Start===============
+=============Project 12 End===============
+=============Project 13 Start===============
+=============Project 13 End===============
+=============Project 14 Start===============
+=============Project 14 End===============
+=============Project 15 Start===============
+=============Project 15 End===============
+=============Project 16 Start===============
+=============Project 17 Start===============
+=============Project 17 End===============
+=============Project 20 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 30, 2025 - 03:34:43
+Django version 5.1.12, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 20 End===============
+=============Project 1 Start===============
+=============Project 1 End===============
+=============Project 2 Start===============
+=============Project 2 End===============
+=============Project 3 Start===============
+=============Project 3 End===============
+=============Project 4 Start===============
+=============Project 4 End===============
+=============Project 6 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 03:44:54
+Django version 5.1.12, using settings 'todo_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 6 End===============
+=============Project 7 Start===============
+=============Project 7 End===============
+=============Project 10 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 03:48:10
+Django version 5.1.12, using settings 'calorie_tracker_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 10 End===============
+=============Project 11 Start===============
+=============Project 11 End===============
+=============Project 12 Start===============
+=============Project 12 End===============
+=============Project 13 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 30, 2025 - 03:53:32
+Django version 5.1.12, using settings 'crm_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 13 End===============
+=============Project 14 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: contenttypes
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 30, 2025 - 03:54:37
+Django version 5.1.12, using settings 'helloworld_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 14 End===============
+=============Project 15 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 30, 2025 - 03:55:47
+Django version 5.1.12, using settings 'helloproject.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 15 End===============
+=============Project 16 Start===============
+=============Project 16 End===============
+=============Project 18 Start===============
+2025-10-30T03:57:56.081546 Sending command: 2
+2025-10-30T03:57:56.083548 Sending command: abc
+2025-10-30T03:57:56.086051 Sending command: 1
+2025-10-30T03:57:56.087063 Sending command: help
+2025-10-30T03:57:56.088053 Sending command: ls
+2025-10-30T03:57:56.088053 Sending command: cd north
+2025-10-30T03:57:56.089555 Sending command: cd ..
+2025-10-30T03:57:56.090107 Sending command: inventory
+2025-10-30T03:57:56.091111 Sending command: cd hallway
+2025-10-30T03:57:56.091692 Sending command: inventory
+2025-10-30T03:57:56.092201 Sending command: cd ..
+2025-10-30T03:57:56.092720 Sending command: 3
+=============Project 18 End===============
+=============Project 19 Start===============
+=============Project 19 End===============
+=============Project 1 Start===============
+=============Project 1 End===============
+=============Project 2 Start===============
+=============Project 2 End===============
+=============Project 3 Start===============
+=============Project 3 End===============
+=============Project 4 Start===============
+=============Project 4 End===============
+=============Project 5 Start===============
+=============Project 5 End===============
+=============Project 6 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 30, 2025 - 04:10:41
+Django version 5.1.12, using settings 'todo_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 6 End===============
+=============Project 8 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 30, 2025 - 04:12:20
+Django version 5.1.12, using settings 'project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 8 End===============
+=============Project 9 Start===============
+=============Project 9 End===============
+=============Project 10 Start===============
+=============Project 10 End===============
+=============Project 11 Start===============
+=============Project 11 End===============
+=============Project 13 Start===============
+=============Project 13 End===============
+=============Project 14 Start===============
+=============Project 14 End===============
+=============Project 16 Start===============
+=============Project 16 End===============
+=============Project 18 Start===============
+=============Project 20 Start===============
+=============Project 20 End===============
+=============Project 1 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+=============Project 1 End===============
+=============Project 2 Start===============
+=============Project 2 End===============
+=============Project 4 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 30, 2025 - 04:37:11
+Django version 5.1.12, using settings 'qr_code_generator.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 4 End===============
+=============Project 5 Start===============
+=============Project 5 End===============
+=============Project 7 Start===============
+Migrations for 'example_app':
+  example_app\migrations\0001_initial.py
+    + Create model Category
+    + Create model SupportRequest
+    + Create model Transaction
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, example_app, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying example_app.0001_initial... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 04:40:30
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 7 End===============
+=============Project 8 Start===============
+Performing system checks...
+
+=============Project 8 End===============
+=============Project 9 Start===============
+Migrations for 'example_app':
+  example_app\migrations\0001_initial.py
+    + Create model ContactSales
+    + Create model SupportRequest
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, example_app, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying example_app.0001_initial... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 30, 2025 - 04:43:49
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 9 End===============
+=============Project 11 Start===============
+Migrations for 'example_app':
+  example_app\migrations\0001_initial.py
+    + Create model Project
+    + Create model Review
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, example_app, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying example_app.0001_initial... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 04:44:58
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 11 End===============
+=============Project 12 Start===============
+Migrations for 'example_app':
+  example_app\migrations\0002_alter_claim_user.py
+    ~ Alter field user on claim
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, example_app, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying example_app.0001_initial... OK
+  Applying example_app.0002_alter_claim_user... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 04:46:06
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 12 End===============
+=============Project 13 Start===============
+Migrations for 'example_app':
+  example_app\migrations\0001_initial.py
+    + Create model Customer
+    + Create model Product
+    + Create model PreferredProduct
+    + Create model PurchaseRecord
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, example_app, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying example_app.0001_initial... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 30, 2025 - 04:47:19
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 13 End===============
+=============Project 14 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 04:48:28
+Django version 5.1.12, using settings 'myproject.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 14 End===============
+=============Project 15 Start===============
+Migrations for 'example_app':
+  example_app\migrations\0002_remove_transaction_category_and_more.py
+    - Remove field category from transaction
+    - Remove field user from supportrequest
+    - Remove field user from transaction
+    - Delete model Category
+    - Delete model SupportRequest
+    - Delete model Transaction
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, example_app, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying example_app.0001_initial... OK
+  Applying example_app.0002_remove_transaction_category_and_more... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 30, 2025 - 04:49:39
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 15 End===============
+=============Project 16 Start===============
+=============Project 16 End===============
+=============Project 17 Start===============
+=============Project 18 Start===============
+2025-10-30T04:52:42.587622 Sending command: 2
+2025-10-30T04:52:42.898928 Got output:
+
+Main Menu Help:
+1: Start the adventure.
+2: Show this help.
+3: Exit the program.
+
+=== BashCrawl Main Menu ===
+1. Start Game
+2. Help
+3. Quit
+
+Enter choice: 2025-10-30T04:52:42.903300 Sending command: abc
+2025-10-30T04:52:43.214971 Got output:
+Invalid choice. Please select 1, 2, or 3.
+
+=== BashCrawl Main Menu ===
+1. Start Game
+2. Help
+3. Quit
+
+Enter choice: 2025-10-30T04:52:43.218050 Sending command: 1
+2025-10-30T04:52:43.538033 Got output:
+
+=== Welcome to BashCrawl ===
+
+Available commands:
+ls                 - List contents of current directory.
+cd <dir>           - Change directory to <dir>.
+inventory          - Show your inventory.
+help               - Show this help.
+quit               - Exit the game.
+
+$ 2025-10-30T04:52:43.539072 Sending command: help
+2025-10-30T04:52:43.849882 Got output:
+
+Available commands:
+ls                 - List contents of current directory.
+cd <dir>           - Change directory to <dir>.
+inventory          - Show your inventory.
+help               - Show this help.
+quit               - Exit the game.
+
+$ 2025-10-30T04:52:43.850885 Sending command: ls
+2025-10-30T04:52:44.166464 Got output:
+
+Contents of \
+   home
+   forest
+   cave
+
+$ 2025-10-30T04:52:44.170217 Sending command: cd home
+2025-10-30T04:52:44.483559 Got output:
+Moved to \home
+
+$ 2025-10-30T04:52:44.484572 Sending command: cd ..
+2025-10-30T04:52:44.794703 Got output:
+Moved to \
+
+$ 2025-10-30T04:52:44.795706 Sending command: inventory
+2025-10-30T04:52:45.104594 Got output:
+
+Inventory:
+  (empty)
+
+$ 2025-10-30T04:52:45.106618 Sending command: cd cave
+2025-10-30T04:52:45.418087 Got output:
+Moved to \cave
+
+$ 2025-10-30T04:52:45.418087 Sending command: cd treasure_room
+2025-10-30T04:52:45.729397 Got output:
+Moved to \cave\treasure_room
+You found a golden_key!
+
+$ 2025-10-30T04:52:45.731925 Sending command: inventory
+2025-10-30T04:52:46.044746 Got output:
+
+Inventory:
+   golden_key
+
+$ 2025-10-30T04:52:46.047759 Sending command: cd ..
+2025-10-30T04:52:46.357726 Got output:
+Moved to \cave
+
+$ 2025-10-30T04:52:46.357726 Sending command: cd ..
+2025-10-30T04:52:46.667187 Got output:
+Moved to \
+
+$ 2025-10-30T04:52:46.667187 Sending command: cd ..
+2025-10-30T04:52:46.985876 Got output:
+Already at root directory.
+
+$ 2025-10-30T04:52:46.985876 Sending command: cd forest
+2025-10-30T04:52:47.293962 Got output:
+Moved to \forest
+
+$ 2025-10-30T04:52:47.294966 Sending command: 3
+2025-10-30T04:52:47.615512 Got output:
+Unknown command. Type 'help' for list of commands.
+
+$ =============Project 18 End===============
+=============Project 20 Start===============
+Migrations for 'example_app':
+  example_app\migrations\0001_initial.py
+    + Create model Category
+    + Create model ContactUs
+    + Create model BlogPost
+    + Create model Comment
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, example_app, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying example_app.0001_initial... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 04:53:52
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 20 End===============
+=============Project 14 Start===============
+=============Project 14 End===============
+=============Project 16 Start===============
+=============Project 16 End===============
+=============Project 18 Start===============
+=============Project 18 End===============
+=============Project 19 Start===============
+=============Project 19 End===============
+=============Project 5 Start===============
+=============Project 5 End===============
+=============Project 14 Start===============
+=============Project 14 End===============
+=============Project 15 Start===============
+=============Project 15 End===============
+=============Project 16 Start===============
+=============Project 16 End===============
+=============Project 19 Start===============
+=============Project 19 End===============
+=============Project 9 Start===============
+=============Project 9 End===============
+=============Project 2 Start===============
+=============Project 2 End===============
+=============Project 3 Start===============
+=============Project 3 End===============
+=============Project 4 Start===============
+=============Project 4 End===============
+=============Project 5 Start===============
+=============Project 5 End===============
+=============Project 8 Start===============
+=============Project 8 End===============
+=============Project 9 Start===============
+=============Project 9 End===============
+=============Project 17 Start===============
+=============Project 17 End===============
+=============Project 5 Start===============
+=============Project 5 End===============
+=============Project 9 Start===============
+=============Project 9 End===============
+=============Project 1 Start===============
+=============Project 1 End===============
+=============Project 2 Start===============
+=============Project 2 End===============
+=============Project 5 Start===============
+=============Project 5 End===============
+=============Project 7 Start===============
+=============Project 7 End===============
+=============Project 11 Start===============
+=============Project 11 End===============
+=============Project 12 Start===============
+=============Project 12 End===============
+=============Project 13 Start===============
+=============Project 13 End===============
+=============Project 14 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 30, 2025 - 05:43:59
+Django version 5.1.12, using settings 'myproject.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 14 End===============
+=============Project 15 Start===============
+Performing system checks...
+
+=============Project 15 End===============
+=============Project 16 Start===============
+=============Project 16 End===============
+=============Project 17 Start===============
+=============Project 17 End===============
+=============Project 18 Start===============
+2025-10-30T05:49:17.876740 Sending command: help
+2025-10-30T05:49:17.877738 Sending command: abc
+2025-10-30T05:49:17.877738 Sending command: 1
+2025-10-30T05:49:17.878738 Sending command: help
+2025-10-30T05:49:17.879739 Sending command: ls
+2025-10-30T05:49:17.879739 Sending command: cd north
+2025-10-30T05:49:17.879739 Sending command: cd ..
+2025-10-30T05:49:17.881241 Sending command: inventory
+2025-10-30T05:49:17.882246 Sending command: cd home
+2025-10-30T05:49:17.885125 Sending command: inventory
+2025-10-30T05:49:17.886130 Sending command: cd ..
+2025-10-30T05:49:17.887493 Sending command: 2
+=============Project 18 End===============
+=============Project 19 Start===============
+=============Project 19 End===============
+=============Project 20 Start===============
+=============Project 20 End===============
+=============Project 1 Start===============
+=============Project 1 End===============
+=============Project 2 Start===============
+=============Project 2 End===============
+=============Project 3 Start===============
+=============Project 3 End===============
+=============Project 4 Start===============
+=============Project 4 End===============
+=============Project 5 Start===============
+=============Project 5 End===============
+=============Project 6 Start===============
+=============Project 6 End===============
+=============Project 8 Start===============
+=============Project 8 End===============
+=============Project 11 Start===============
+=============Project 11 End===============
+=============Project 14 Start===============
+=============Project 14 End===============
+=============Project 15 Start===============
+=============Project 15 End===============
+=============Project 16 Start===============
+=============Project 16 End===============
+=============Project 17 Start===============
+=============Project 17 End===============
+=============Project 18 Start===============
+2025-10-30T06:17:10.157100 Sending command: help
+2025-10-30T06:17:10.157100 Sending command: abc
+2025-10-30T06:17:10.157100 Sending command: start
+2025-10-30T06:17:10.158604 Sending command: help
+2025-10-30T06:17:10.159621 Sending command: ls
+2025-10-30T06:17:10.160612 Sending command: cd kitchen
+2025-10-30T06:17:10.161619 Sending command: cd ..
+2025-10-30T06:17:10.162608 Sending command: inventory
+2025-10-30T06:17:10.162608 Sending command: cd home
+2025-10-30T06:17:10.163608 Sending command: inventory
+2025-10-30T06:17:10.164608 Sending command: cd ..
+2025-10-30T06:17:10.164608 Sending command: exit
+=============Project 18 End===============
+=============Project 19 Start===============
+=============Project 19 End===============
+=============Project 20 Start===============
+=============Project 20 End===============
+=============Project 1 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 06:21:24
+Django version 5.1.12, using settings 'bmi_calculator.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 1 End===============
+=============Project 2 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 06:22:30
+Django version 5.1.12, using settings 'currency_converter.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 2 End===============
+=============Project 3 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 06:23:38
+Django version 5.1.12, using settings 'password_generator.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 3 End===============
+=============Project 4 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 06:24:45
+Django version 5.1.12, using settings 'qr_code_generator.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 4 End===============
+=============Project 5 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 06:25:54
+Django version 5.1.12, using settings 'markdown_converter.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 5 End===============
+=============Project 6 Start===============
+=============Project 6 End===============
+=============Project 7 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 06:29:09
+Django version 5.1.12, using settings 'budget_control.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 7 End===============
+=============Project 8 Start===============
+=============Project 8 End===============
+=============Project 9 Start===============
+=============Project 9 End===============
+=============Project 10 Start===============
+=============Project 10 End===============
+=============Project 11 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 06:36:41
+Django version 5.1.12, using settings 'project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 11 End===============
+=============Project 12 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+=============Project 12 End===============
+=============Project 13 Start===============
+=============Project 13 End===============
+=============Project 14 Start===============
+=============Project 14 End===============
+=============Project 15 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 30, 2025 - 06:44:15
+Django version 5.1.12, using settings 'helloproject.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 15 End===============
+=============Project 16 Start===============
+=============Project 16 End===============
+=============Project 17 Start===============
+=============Project 17 End===============
+=============Project 18 Start===============
+2025-10-30T06:47:24.983330 Sending command: help
+2025-10-30T06:47:24.986352 Sending command: abc
+2025-10-30T06:47:24.989533 Sending command: start
+2025-10-30T06:47:24.992047 Sending command: help
+2025-10-30T06:47:24.994046 Sending command: ls
+2025-10-30T06:47:24.995059 Sending command: cd north
+2025-10-30T06:47:24.997070 Sending command: cd ..
+2025-10-30T06:47:24.999583 Sending command: inventory
+2025-10-30T06:47:25.002090 Sending command: cd north
+2025-10-30T06:47:25.003636 Sending command: inventory
+2025-10-30T06:47:25.005952 Sending command: cd south
+2025-10-30T06:47:25.007457 Sending command: exit
+=============Project 18 End===============
+=============Project 19 Start===============
+=============Project 19 End===============
+=============Project 20 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 06:49:34
+Django version 5.1.12, using settings 'blog_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 20 End===============
+=============Project 1 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+=============Project 1 End===============
+=============Project 2 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+=============Project 2 End===============
+=============Project 4 Start===============
+=============Project 4 End===============
+=============Project 6 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+=============Project 6 End===============
+=============Project 7 Start===============
+Performing system checks...
+
+=============Project 7 End===============
+=============Project 8 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+=============Project 8 End===============
+=============Project 9 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+=============Project 9 End===============
+=============Project 10 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+=============Project 10 End===============
+=============Project 11 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+=============Project 11 End===============
+=============Project 12 Start===============
+Performing system checks...
+
+=============Project 12 End===============
+=============Project 14 Start===============
+=============Project 14 End===============
+=============Project 15 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 07:14:40
+Django version 5.1.12, using settings 'HelloWorldProject.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 15 End===============
+=============Project 17 Start===============
+=============Project 17 End===============
+=============Project 18 Start===============
+2025-10-30T07:16:48.105278 Sending command: 2
+2025-10-30T07:16:48.106892 Sending command: abc
+2025-10-30T07:16:48.110496 Sending command: 1
+2025-10-30T07:16:48.111548 Sending command: help
+2025-10-30T07:16:48.113672 Sending command: ls
+2025-10-30T07:16:48.115238 Sending command: cd north
+2025-10-30T07:16:48.116246 Sending command: cd ..
+2025-10-30T07:16:48.118258 Sending command: inventory
+2025-10-30T07:16:48.120288 Sending command: cd home
+2025-10-30T07:16:48.122332 Sending command: inventory
+2025-10-30T07:16:48.124074 Sending command: cd ..
+2025-10-30T07:16:48.124584 Sending command: 3
+=============Project 18 End===============
+=============Project 19 Start===============
+=============Project 19 End===============
+=============Project 20 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+=============Project 20 End===============
+=============Project 1 Start===============
+=============Project 1 End===============
+=============Project 2 Start===============
+=============Project 2 End===============
+=============Project 3 Start===============
+=============Project 3 End===============
+=============Project 5 Start===============
+=============Project 5 End===============
+=============Project 6 Start===============
+=============Project 6 End===============
+=============Project 8 Start===============
+=============Project 8 End===============
+=============Project 11 Start===============
+=============Project 11 End===============
+=============Project 12 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, example_app, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying example_app.0001_initial... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 07:36:12
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 12 End===============
+=============Project 14 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 07:37:27
+Django version 5.1.12, using settings 'myproject.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 14 End===============
+=============Project 15 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, example_app, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying example_app.0001_initial... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 07:38:36
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 15 End===============
+=============Project 17 Start===============
+=============Project 17 End===============
+=============Project 18 Start===============
+2025-10-30T07:41:03.511800 Sending command: 2
+2025-10-30T07:41:03.820511 Got output:
+Type '1' to start a new game, '2' for help, or '3' to quit.
+Main Menu:
+1. Start Game
+2. Help
+3. Quit
+Choose an option: 2025-10-30T07:41:03.822521 Sending command: abc
+2025-10-30T07:41:04.139587 Got output:
+Invalid choice. Please choose a valid option.
+Main Menu:
+1. Start Game
+2. Help
+3. Quit
+Choose an option: 2025-10-30T07:41:04.142051 Sending command: 1
+2025-10-30T07:41:04.461282 Got output:
+> 2025-10-30T07:41:04.464839 Sending command: help
+2025-10-30T07:41:04.780521 Got output:
+Available commands:
+- ls: list directory contents
+- cd <directory>: change directory
+- inventory: view your current inventory
+- help: display this help message
+- quit: exit the game
+> 2025-10-30T07:41:04.781033 Sending command: ls
+2025-10-30T07:41:05.089367 Got output:
+Directory: \
+Contents:
+
+home
+
+forest
+
+cave
+> 2025-10-30T07:41:05.090372 Sending command: cd home
+2025-10-30T07:41:05.404017 Got output:
+Changed directory to: \home
+> 2025-10-30T07:41:05.407028 Sending command: cd ..
+2025-10-30T07:41:05.721657 Got output:
+Invalid directory. Please try again.
+> 2025-10-30T07:41:05.722667 Sending command: inventory
+2025-10-30T07:41:06.043615 Got output:
+Your inventory is empty.
+> 2025-10-30T07:41:06.044994 Sending command: cd cave
+2025-10-30T07:41:06.354868 Got output:
+Invalid directory. Please try again.
+> 2025-10-30T07:41:06.354868 Sending command: cd treasure_room
+2025-10-30T07:41:06.672606 Got output:
+Invalid directory. Please try again.
+> 2025-10-30T07:41:06.676128 Sending command: inventory
+2025-10-30T07:41:06.996261 Got output:
+Your inventory is empty.
+> 2025-10-30T07:41:06.998271 Sending command: cd ..
+2025-10-30T07:41:07.308645 Got output:
+Invalid directory. Please try again.
+> 2025-10-30T07:41:07.308645 Sending command: cd ..
+2025-10-30T07:41:07.631175 Got output:
+Invalid directory. Please try again.
+> 2025-10-30T07:41:07.631175 Sending command: cd forest
+2025-10-30T07:41:07.950558 Got output:
+Invalid directory. Please try again.
+> 2025-10-30T07:41:07.954083 Sending command: 3
+2025-10-30T07:41:08.265322 Got output:
+Invalid command. Type 'help' for available commands.
+> =============Project 18 End===============
+=============Project 10 Start===============
+=============Project 10 End===============
+=============Project 13 Start===============
+Performing system checks...
+
+=============Project 13 End===============
+=============Project 1 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 30, 2025 - 07:46:31
+Django version 5.1.12, using settings 'bmi_calculator.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 1 End===============
+=============Project 2 Start===============
+=============Project 2 End===============
+=============Project 3 Start===============
+=============Project 3 End===============
+=============Project 4 Start===============
+=============Project 4 End===============
+=============Project 5 Start===============
+=============Project 5 End===============
+=============Project 6 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 07:56:11
+Django version 5.1.12, using settings 'todo_app.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 6 End===============
+=============Project 7 Start===============
+=============Project 7 End===============
+=============Project 8 Start===============
+=============Project 8 End===============
+=============Project 9 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 30, 2025 - 08:01:39
+Django version 5.1.12, using settings 'ai_chatbot_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 9 End===============
+=============Project 10 Start===============
+=============Project 10 End===============
+=============Project 11 Start===============
+=============Project 11 End===============
+=============Project 12 Start===============
+=============Project 12 End===============
+=============Project 13 Start===============
+=============Project 13 End===============
+=============Project 14 Start===============
+=============Project 14 End===============
+=============Project 15 Start===============
+=============Project 15 End===============
+=============Project 16 Start===============
+=============Project 16 End===============
+=============Project 17 Start===============
+=============Project 17 End===============
+=============Project 18 Start===============
+2025-10-30T08:17:39.611096 Sending command: help
+2025-10-30T08:17:39.612096 Sending command: abc
+2025-10-30T08:17:39.612096 Sending command: start
+2025-10-30T08:17:39.615096 Sending command: help
+2025-10-30T08:17:39.615096 Sending command: ls
+2025-10-30T08:17:39.616136 Sending command: cd north
+2025-10-30T08:17:39.617135 Sending command: cd ..
+2025-10-30T08:17:39.617135 Sending command: inventory
+2025-10-30T08:17:39.618137 Sending command: cd north
+2025-10-30T08:17:39.618137 Sending command: inventory
+2025-10-30T08:17:39.620151 Sending command: cd west
+2025-10-30T08:17:39.620661 Sending command: quit
+=============Project 18 End===============
+=============Project 19 Start===============
+=============Project 19 End===============
+=============Project 20 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 30, 2025 - 08:20:05
+Django version 5.1.12, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 20 End===============
+=============Project 1 Start===============
+=============Project 1 End===============
+=============Project 2 Start===============
+=============Project 2 End===============
+=============Project 3 Start===============
+=============Project 3 End===============
+=============Project 4 Start===============
+=============Project 4 End===============
+=============Project 5 Start===============
+=============Project 5 End===============
+=============Project 6 Start===============
+=============Project 6 End===============
+=============Project 7 Start===============
+=============Project 7 End===============
+=============Project 8 Start===============
+=============Project 8 End===============
+=============Project 9 Start===============
+=============Project 9 End===============
+=============Project 10 Start===============
+=============Project 10 End===============
+=============Project 11 Start===============
+=============Project 11 End===============
+=============Project 12 Start===============
+=============Project 12 End===============
+=============Project 13 Start===============
+=============Project 13 End===============
+=============Project 14 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 30, 2025 - 08:48:53
+Django version 5.1.12, using settings 'hello_world_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 14 End===============
+=============Project 15 Start===============
+=============Project 15 End===============
+=============Project 18 Start===============
+2025-10-30T08:52:07.169404 Sending command: The help command at the main menu is likely clicking on the 'Instructions' button.
+2025-10-30T08:52:07.172914 Sending command: abc
+2025-10-30T08:52:07.175444 Sending command: The start game command at the main menu is clicking on the 'Start Game' button.
+2025-10-30T08:52:07.177525 Sending command: The help command in the game is likely a specific input like 'help' or accessing an option within the game interface.
+2025-10-30T08:52:07.180567 Sending command: ls
+2025-10-30T08:52:07.183093 Sending command: cd A valid direction for moving the player could be 'north', assuming it's a recognized command in the game.
+2025-10-30T08:52:07.186100 Sending command: cd ..
+2025-10-30T08:52:07.188608 Sending command: The check-inventory command in the game could be 'inventory' or a similar keyword.
+2025-10-30T08:52:07.191608 Sending command: cd A path to guide the player to pick up an item could be 'home
+2025-10-30T08:52:07.194124 Sending command: The check-inventory command remains 'inventory'.
+2025-10-30T08:52:09.228404 Sending command: cd A path to victory could be '..
+2025-10-30T08:52:09.229403 Sending command: The exit game command at the main menu is clicking on the 'Exit Game' button.
+=============Project 18 End===============
+=============Project 20 Start===============
+=============Project 20 End===============
+=============Project 1 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 30, 2025 - 08:55:22
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 1 End===============
+=============Project 2 Start===============
+Migrations for 'example_app':
+  example_app\migrations\0002_alter_currencyconvertratemodel_options.py
+    ~ Change Meta options on currencyconvertratemodel
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, example_app, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying example_app.0001_initial... OK
+  Applying example_app.0002_alter_currencyconvertratemodel_options... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 08:56:30
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 2 End===============
+=============Project 3 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 30, 2025 - 08:57:37
+Django version 5.1.12, using settings 'password_generator.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 3 End===============
+=============Project 4 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 30, 2025 - 08:58:46
+Django version 5.1.12, using settings 'qr_code_generator.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 4 End===============
+=============Project 5 Start===============
+=============Project 5 End===============
+=============Project 6 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, example_app, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying example_app.0001_initial... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 30, 2025 - 09:02:01
+Django version 5.1.12, using settings 'project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 6 End===============
+=============Project 7 Start===============
+Migrations for 'example_app':
+  example_app\migrations\0001_initial.py
+    + Create model Category
+    + Create model SupportRequest
+    + Create model Transaction
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, example_app, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying example_app.0001_initial... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 09:03:13
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 7 End===============
+=============Project 9 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 09:04:46
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 9 End===============
+=============Project 10 Start===============
+=============Project 10 End===============
+=============Project 11 Start===============
+Performing system checks...
+
+=============Project 11 End===============
+=============Project 12 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, example_app, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying example_app.0001_initial... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 09:10:09
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 12 End===============
+=============Project 13 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 09:11:19
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 13 End===============
+=============Project 14 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 09:12:25
+Django version 5.1.12, using settings 'myproject.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 14 End===============
+=============Project 15 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, example_app, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying example_app.0001_initial... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 09:13:34
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 15 End===============
+=============Project 17 Start===============
+=============Project 17 End===============
+=============Project 18 Start===============
+2025-10-30T09:15:42.103214 Sending command: 2
+2025-10-30T09:15:42.104550 Sending command: abc
+2025-10-30T09:15:42.105554 Sending command: 1
+2025-10-30T09:15:42.105554 Sending command: help
+2025-10-30T09:15:42.106555 Sending command: ls
+2025-10-30T09:15:42.106555 Sending command: cd cave
+2025-10-30T09:15:42.107553 Sending command: cd ..
+2025-10-30T09:15:42.107553 Sending command: inventory
+2025-10-30T09:15:42.108554 Sending command: cd cave
+2025-10-30T09:15:42.111553 Sending command: inventory
+2025-10-30T09:15:42.112851 Sending command: cd ..
+2025-10-30T09:15:42.113852 Sending command: 3
+=============Project 18 End===============
+=============Project 20 Start===============
+Migrations for 'example_app':
+  example_app\migrations\0001_initial.py
+    + Create model Category
+    + Create model ContactUs
+    + Create model BlogPost
+    + Create model Comment
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, example_app, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying example_app.0001_initial... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 09:16:46
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 20 End===============
+=============Project 19 Start===============
+=============Project 19 End===============
+=============Project 1 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 30, 2025 - 09:19:00
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 1 End===============
+=============Project 3 Start===============
+Performing system checks...
+
+=============Project 3 End===============
+=============Project 5 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 30, 2025 - 09:22:16
+Django version 5.1.12, using settings 'project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 5 End===============
+=============Project 6 Start===============
+Performing system checks...
+
+=============Project 6 End===============
+=============Project 8 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, example_app, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying example_app.0001_initial... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 09:25:35
+Django version 5.1.12, using settings 'project_name.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 8 End===============
+=============Project 9 Start===============
+Migrations for 'example_app':
+  example_app\migrations\0001_initial.py
+    + Create model ContactSales
+    + Create model SupportRequest
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, example_app, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying example_app.0001_initial... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 09:26:43
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 9 End===============
+=============Project 10 Start===============
+Migrations for 'example_app':
+  example_app\migrations\0001_initial.py
+    + Create model Activity
+    + Create model Meal
+    + Create model UserProfile
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, example_app, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying example_app.0001_initial... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 09:27:52
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 10 End===============
+=============Project 12 Start===============
+=============Project 12 End===============
+=============Project 13 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 09:31:12
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 13 End===============
+=============Project 14 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 09:32:21
+Django version 5.1.12, using settings 'myproject.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 14 End===============
+=============Project 15 Start===============
+No changes detected
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, example_app, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying example_app.0001_initial... OK
+  Applying sessions.0001_initial... OK
+Performing system checks...
+
+October 30, 2025 - 09:33:47
+Django version 5.1.12, using settings 'example_project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+=============Project 15 End===============
+=============Project 18 Start===============
+2025-10-30T09:34:46.214858 Sending command: help
+2025-10-30T09:34:46.525630 Got output:
+Unknown command: help
+Main menu commands:
+- play: Start the game
+- quit: Exit the game
+Welcome to BashCrawl!
+Type 'play' to start the game or 'quit' to exit.
+2025-10-30T09:34:46.526634 Sending command: abc
+2025-10-30T09:34:46.837090 Got output:
+Unknown command: abc
+Main menu commands:
+- play: Start the game
+- quit: Exit the game
+Welcome to BashCrawl!
+Type 'play' to start the game or 'quit' to exit.
+2025-10-30T09:34:46.840091 Sending command: play
+2025-10-30T09:34:47.151233 Got output:
+\> 2025-10-30T09:34:47.152236 Sending command: help
+2025-10-30T09:34:47.460449 Got output:
+In-game commands:
+- ls: List contents of current directory
+- cd <directory>: Change to specified directory
+- inventory: Check your inventory
+- help: Show this help message
+- quit: Exit the game
+\> 2025-10-30T09:34:47.463456 Sending command: ls
+2025-10-30T09:34:47.772406 Got output:
+Contents of \: home, forest, cave
+\> 2025-10-30T09:34:47.776925 Sending command: cd home
+2025-10-30T09:34:48.087143 Got output:
+Changed to \home
+\home> 2025-10-30T09:34:48.091857 Sending command: cd ..
+2025-10-30T09:34:48.399798 Got output:
+Directory not found.
+\home> 2025-10-30T09:34:48.400801 Sending command: inventory
+2025-10-30T09:34:48.711031 Got output:
+Your inventory is empty.
+\home> 2025-10-30T09:34:48.713545 Sending command: cd cave
+2025-10-30T09:34:49.015679 Got output:
+Directory not found.
+\home> 2025-10-30T09:34:49.015679 Sending command: cd treasure_room
+2025-10-30T09:34:49.322723 Got output:
+Directory not found.
+\home> 2025-10-30T09:34:49.324237 Sending command: inventory
+2025-10-30T09:34:49.630514 Got output:
+Your inventory is empty.
+\home> 2025-10-30T09:34:49.631680 Sending command: cd ..
+2025-10-30T09:34:49.940620 Got output:
+Directory not found.
+\home> 2025-10-30T09:34:49.940620 Sending command: cd ..
+2025-10-30T09:34:50.247797 Got output:
+Directory not found.
+\home> 2025-10-30T09:34:50.247797 Sending command: cd ..
+2025-10-30T09:34:50.555288 Got output:
+Directory not found.
+\home> 2025-10-30T09:34:50.555288 Sending command: cd forest
+2025-10-30T09:34:50.863680 Got output:
+Directory not found.
+\home> 2025-10-30T09:34:50.864696 Sending command: quit
+2025-10-30T09:34:51.172499 Got output:
+Exiting game.
+Welcome to BashCrawl!
+Type 'play' to start the game or 'quit' to exit.
+=============Project 18 End===============

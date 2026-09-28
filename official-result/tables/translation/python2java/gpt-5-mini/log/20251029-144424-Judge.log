@@ -1,0 +1,1354 @@
+2025-10-29 14:44:24,951 - Judge - INFO - Webdriver edge initializing.
+2025-10-29 14:44:24,951 - Judge - INFO - Windows mode.
+2025-10-29 14:44:26,800 - Judge - INFO - Preprocessing Website Project Test.
+2025-10-29 14:44:26,801 - Judge - DEBUG - Initiating command: ['start.py']
+2025-10-29 14:44:30,448 - Judge - INFO - All Java processes have been terminated.
+2025-10-29 14:44:30,448 - Judge - DEBUG - Starting project.
+2025-10-29 14:44:30,451 - Judge - INFO - SpringBootServer started with PID: 66360
+2025-10-29 14:44:33,045 - Judge - DEBUG - Website home visit exception:Message: unknown error: net::ERR_CONNECTION_REFUSED
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a5ae421]
+	(No symbol) [0x0x7ff61a5a23d9]
+	(No symbol) [0x0x7ff61a5a3bf8]
+	(No symbol) [0x0x7ff61a5a27d9]
+	(No symbol) [0x0x7ff61a5a2235]
+	(No symbol) [0x0x7ff61a5a1f81]
+	(No symbol) [0x0x7ff61a59feeb]
+	(No symbol) [0x0x7ff61a5a051c]
+	(No symbol) [0x0x7ff61a5b49aa]
+	(No symbol) [0x0x7ff61a63f92e]
+	(No symbol) [0x0x7ff61a62212a]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+, retrying 5 times.
+2025-10-29 14:44:45,838 - Judge - DEBUG - Website home visit exception:Message: unknown error: net::ERR_CONNECTION_REFUSED
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a5ae421]
+	(No symbol) [0x0x7ff61a5a23d9]
+	(No symbol) [0x0x7ff61a5a3bf8]
+	(No symbol) [0x0x7ff61a5a27d9]
+	(No symbol) [0x0x7ff61a5a2235]
+	(No symbol) [0x0x7ff61a5a1f81]
+	(No symbol) [0x0x7ff61a59feeb]
+	(No symbol) [0x0x7ff61a5a051c]
+	(No symbol) [0x0x7ff61a5b49aa]
+	(No symbol) [0x0x7ff61a63f92e]
+	(No symbol) [0x0x7ff61a62212a]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+, retrying 4 times.
+2025-10-29 14:44:58,859 - Judge - DEBUG - Website home visit exception:Message: timeout: Timed out receiving message from renderer: 3.000
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a5a220b]
+	(No symbol) [0x0x7ff61a5a1f81]
+	(No symbol) [0x0x7ff61a59feeb]
+	(No symbol) [0x0x7ff61a5a051c]
+	(No symbol) [0x0x7ff61a5b49aa]
+	(No symbol) [0x0x7ff61a63f92e]
+	(No symbol) [0x0x7ff61a62212a]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+, retrying 3 times.
+2025-10-29 14:45:11,879 - Judge - DEBUG - Website home visit exception:Message: timeout: Timed out receiving message from renderer: 3.000
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a5a220b]
+	(No symbol) [0x0x7ff61a5a1f81]
+	(No symbol) [0x0x7ff61a59feeb]
+	(No symbol) [0x0x7ff61a5a051c]
+	(No symbol) [0x0x7ff61a5b49aa]
+	(No symbol) [0x0x7ff61a63f92e]
+	(No symbol) [0x0x7ff61a62212a]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+, retrying 2 times.
+2025-10-29 14:45:24,892 - Judge - DEBUG - Website home visit exception:Message: timeout: Timed out receiving message from renderer: 3.000
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a5a220b]
+	(No symbol) [0x0x7ff61a5a1f81]
+	(No symbol) [0x0x7ff61a59feeb]
+	(No symbol) [0x0x7ff61a5a051c]
+	(No symbol) [0x0x7ff61a5b49aa]
+	(No symbol) [0x0x7ff61a63f92e]
+	(No symbol) [0x0x7ff61a62212a]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+, retrying 1 times.
+2025-10-29 14:45:34,893 - Judge - CRITICAL - Website home visit exception:Message: timeout: Timed out receiving message from renderer: 3.000
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a5a220b]
+	(No symbol) [0x0x7ff61a5a1f81]
+	(No symbol) [0x0x7ff61a59feeb]
+	(No symbol) [0x0x7ff61a5a051c]
+	(No symbol) [0x0x7ff61a5b49aa]
+	(No symbol) [0x0x7ff61a63f92e]
+	(No symbol) [0x0x7ff61a62212a]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+
+2025-10-29 14:45:34,893 - Judge - INFO - SpringBootServer is not running.
+2025-10-29 14:45:35,349 - Judge - INFO - All Java processes have been terminated.
+2025-10-29 14:45:35,349 - Judge - INFO - SpringBootServer is not running.
+2025-10-29 14:45:35,349 - Judge - INFO - Clean exception:I/O operation on closed file.
+2025-10-29 15:01:17,524 - Judge - INFO - Webdriver edge initializing.
+2025-10-29 15:01:17,524 - Judge - INFO - Windows mode.
+2025-10-29 15:01:18,756 - Judge - INFO - Preprocessing Website Project Test.
+2025-10-29 15:01:18,756 - Judge - DEBUG - Initiating command: ['start.py']
+2025-10-29 15:01:21,720 - Judge - INFO - All Java processes have been terminated.
+2025-10-29 15:01:21,720 - Judge - DEBUG - Starting project.
+2025-10-29 15:01:21,722 - Judge - INFO - SpringBootServer started with PID: 61212
+2025-10-29 15:01:24,311 - Judge - DEBUG - Website home visit exception:Message: unknown error: net::ERR_CONNECTION_REFUSED
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a5ae421]
+	(No symbol) [0x0x7ff61a5a23d9]
+	(No symbol) [0x0x7ff61a5a3bf8]
+	(No symbol) [0x0x7ff61a5a27d9]
+	(No symbol) [0x0x7ff61a5a2235]
+	(No symbol) [0x0x7ff61a5a1f81]
+	(No symbol) [0x0x7ff61a59feeb]
+	(No symbol) [0x0x7ff61a5a051c]
+	(No symbol) [0x0x7ff61a5b49aa]
+	(No symbol) [0x0x7ff61a63f92e]
+	(No symbol) [0x0x7ff61a62212a]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+, retrying 5 times.
+2025-10-29 15:01:37,325 - Judge - DEBUG - Website home visit exception:Message: timeout: Timed out receiving message from renderer: 3.000
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a5a220b]
+	(No symbol) [0x0x7ff61a5a1f81]
+	(No symbol) [0x0x7ff61a59feeb]
+	(No symbol) [0x0x7ff61a5a051c]
+	(No symbol) [0x0x7ff61a5b49aa]
+	(No symbol) [0x0x7ff61a63f92e]
+	(No symbol) [0x0x7ff61a62212a]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+, retrying 4 times.
+2025-10-29 15:01:49,888 - Judge - DEBUG - Website home visit exception:Message: unknown error: net::ERR_CONNECTION_REFUSED
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a5ae421]
+	(No symbol) [0x0x7ff61a5a23d9]
+	(No symbol) [0x0x7ff61a5a3bf8]
+	(No symbol) [0x0x7ff61a5a27d9]
+	(No symbol) [0x0x7ff61a5a2235]
+	(No symbol) [0x0x7ff61a5a1f81]
+	(No symbol) [0x0x7ff61a59feeb]
+	(No symbol) [0x0x7ff61a5a051c]
+	(No symbol) [0x0x7ff61a5b49aa]
+	(No symbol) [0x0x7ff61a63f92e]
+	(No symbol) [0x0x7ff61a62212a]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+, retrying 3 times.
+2025-10-29 15:02:02,670 - Judge - DEBUG - Website home visit exception:Message: unknown error: net::ERR_CONNECTION_REFUSED
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a5ae421]
+	(No symbol) [0x0x7ff61a5a23d9]
+	(No symbol) [0x0x7ff61a5a3bf8]
+	(No symbol) [0x0x7ff61a5a27d9]
+	(No symbol) [0x0x7ff61a5a2235]
+	(No symbol) [0x0x7ff61a5a1f81]
+	(No symbol) [0x0x7ff61a59feeb]
+	(No symbol) [0x0x7ff61a5a051c]
+	(No symbol) [0x0x7ff61a5b49aa]
+	(No symbol) [0x0x7ff61a63f92e]
+	(No symbol) [0x0x7ff61a62212a]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+, retrying 2 times.
+2025-10-29 15:02:15,454 - Judge - DEBUG - Website home visit exception:Message: unknown error: net::ERR_CONNECTION_REFUSED
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a5ae421]
+	(No symbol) [0x0x7ff61a5a23d9]
+	(No symbol) [0x0x7ff61a5a3bf8]
+	(No symbol) [0x0x7ff61a5a27d9]
+	(No symbol) [0x0x7ff61a5a2235]
+	(No symbol) [0x0x7ff61a5a1f81]
+	(No symbol) [0x0x7ff61a59feeb]
+	(No symbol) [0x0x7ff61a5a051c]
+	(No symbol) [0x0x7ff61a5b49aa]
+	(No symbol) [0x0x7ff61a63f92e]
+	(No symbol) [0x0x7ff61a62212a]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+, retrying 1 times.
+2025-10-29 15:02:25,455 - Judge - CRITICAL - Website home visit exception:Message: unknown error: net::ERR_CONNECTION_REFUSED
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a5ae421]
+	(No symbol) [0x0x7ff61a5a23d9]
+	(No symbol) [0x0x7ff61a5a3bf8]
+	(No symbol) [0x0x7ff61a5a27d9]
+	(No symbol) [0x0x7ff61a5a2235]
+	(No symbol) [0x0x7ff61a5a1f81]
+	(No symbol) [0x0x7ff61a59feeb]
+	(No symbol) [0x0x7ff61a5a051c]
+	(No symbol) [0x0x7ff61a5b49aa]
+	(No symbol) [0x0x7ff61a63f92e]
+	(No symbol) [0x0x7ff61a62212a]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+
+2025-10-29 15:02:25,455 - Judge - INFO - SpringBootServer is not running.
+2025-10-29 15:02:25,835 - Judge - INFO - All Java processes have been terminated.
+2025-10-29 15:02:25,835 - Judge - INFO - SpringBootServer is not running.
+2025-10-29 15:02:25,835 - Judge - INFO - Clean exception:I/O operation on closed file.
+2025-10-29 15:17:56,638 - Judge - INFO - Webdriver edge initializing.
+2025-10-29 15:17:56,638 - Judge - INFO - Windows mode.
+2025-10-29 15:17:58,088 - Judge - INFO - Preprocessing Website Project Test.
+2025-10-29 15:17:58,089 - Judge - DEBUG - Initiating command: ['start.py']
+2025-10-29 15:18:08,104 - Judge - ERROR - Command ['start.py'] timed out after 10 seconds.
+2025-10-29 15:18:08,576 - Judge - INFO - All Java processes have been terminated.
+2025-10-29 15:18:08,576 - Judge - DEBUG - Starting project.
+2025-10-29 15:18:08,581 - Judge - INFO - SpringBootServer started with PID: 54332
+2025-10-29 15:18:11,168 - Judge - DEBUG - Website home visit exception:Message: unknown error: net::ERR_CONNECTION_REFUSED
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a5ae421]
+	(No symbol) [0x0x7ff61a5a23d9]
+	(No symbol) [0x0x7ff61a5a3bf8]
+	(No symbol) [0x0x7ff61a5a27d9]
+	(No symbol) [0x0x7ff61a5a2235]
+	(No symbol) [0x0x7ff61a5a1f81]
+	(No symbol) [0x0x7ff61a59feeb]
+	(No symbol) [0x0x7ff61a5a051c]
+	(No symbol) [0x0x7ff61a5b49aa]
+	(No symbol) [0x0x7ff61a63f92e]
+	(No symbol) [0x0x7ff61a62212a]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+, retrying 5 times.
+2025-10-29 15:18:21,260 - Judge - INFO - 20_1 starting.
+2025-10-29 15:18:21,796 - Judge - INFO - 20_1 passed.
+2025-10-29 15:18:21,796 - Judge - INFO - 20_2 starting.
+2025-10-29 15:18:22,356 - Judge - WARNING - Testcode runtime exception: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="id_name"]"}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+
+2025-10-29 15:18:22,356 - Judge - WARNING - 20_2: Wrong Answer of runtime error
+2025-10-29 15:18:22,356 - Judge - INFO - 20_3 starting.
+2025-10-29 15:18:22,951 - Judge - WARNING - Testcode runtime exception: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="id_title"]"}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+
+2025-10-29 15:18:22,951 - Judge - WARNING - 20_3: Wrong Answer of runtime error
+2025-10-29 15:18:22,951 - Judge - INFO - 20_4 starting.
+2025-10-29 15:18:23,028 - Judge - WARNING - Testcode runtime exception: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/header/div[2]/form/button"}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+
+2025-10-29 15:18:23,028 - Judge - WARNING - 20_4: Wrong Answer of runtime error
+2025-10-29 15:18:23,028 - Judge - INFO - 20_5 starting.
+2025-10-29 15:18:23,406 - Judge - INFO - 20_5 passed.
+2025-10-29 15:18:23,406 - Judge - INFO - 20_6 starting.
+2025-10-29 15:18:23,934 - Judge - INFO - 20_6 passed.
+2025-10-29 15:18:23,934 - Judge - INFO - 20_7 starting.
+2025-10-29 15:18:24,422 - Judge - INFO - 20_7 passed.
+2025-10-29 15:18:24,422 - Judge - INFO - 20_8 starting.
+2025-10-29 15:18:24,916 - Judge - INFO - 20_8 passed.
+2025-10-29 15:18:24,916 - Judge - INFO - 20_9 starting.
+2025-10-29 15:18:24,986 - Judge - WARNING - Testcode runtime exception: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="id_username"]"}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+
+2025-10-29 15:18:24,986 - Judge - WARNING - 20_9: Wrong Answer of runtime error
+2025-10-29 15:18:24,987 - Judge - INFO - 20_10 starting.
+2025-10-29 15:18:25,025 - Judge - WARNING - Testcode runtime exception: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="id_username"]"}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+
+2025-10-29 15:18:25,025 - Judge - WARNING - 20_10: Wrong Answer of runtime error
+2025-10-29 15:18:25,025 - Judge - INFO - 20_11 starting.
+2025-10-29 15:18:25,085 - Judge - WARNING - Testcode runtime exception: Can't find target article, maybe you forget to display it on home page?
+2025-10-29 15:18:25,085 - Judge - WARNING - 20_11: Wrong Answer of runtime error
+2025-10-29 15:18:25,085 - Judge - INFO - 20_12 starting.
+2025-10-29 15:18:25,142 - Judge - WARNING - Testcode runtime exception: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="id_username"]"}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+
+2025-10-29 15:18:25,142 - Judge - WARNING - 20_12: Wrong Answer of runtime error
+2025-10-29 15:18:25,142 - Judge - INFO - 20_13 starting.
+2025-10-29 15:18:25,493 - Judge - INFO - 20_13 passed.
+2025-10-29 15:18:25,494 - Judge - INFO - 20_14 starting.
+2025-10-29 15:18:25,967 - Judge - INFO - 20_14 passed.
+2025-10-29 15:18:25,967 - Judge - INFO - 20_15 starting.
+2025-10-29 15:18:26,406 - Judge - INFO - 20_15 passed.
+2025-10-29 15:18:26,406 - Judge - INFO - 20_16 starting.
+2025-10-29 15:18:26,463 - Judge - WARNING - Testcode runtime exception: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="id_username"]"}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+
+2025-10-29 15:18:26,464 - Judge - WARNING - 20_16: Wrong Answer of runtime error
+2025-10-29 15:18:26,464 - Judge - INFO - 20_17 starting.
+2025-10-29 15:18:26,634 - Judge - WARNING - Testcode runtime exception: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="content-main"]/ul/li/a"}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+
+2025-10-29 15:18:26,634 - Judge - WARNING - 20_17: Wrong Answer of runtime error
+2025-10-29 15:18:26,634 - Judge - INFO - 20_18 starting.
+2025-10-29 15:18:26,691 - Judge - WARNING - Testcode runtime exception: Can't find target article, maybe you forget to display it on home page?
+2025-10-29 15:18:26,691 - Judge - WARNING - 20_18: Wrong Answer of runtime error
+2025-10-29 15:18:26,691 - Judge - INFO - 20_19 starting.
+2025-10-29 15:18:26,747 - Judge - WARNING - Testcode runtime exception: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="id_username"]"}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+
+2025-10-29 15:18:26,747 - Judge - WARNING - 20_19: Wrong Answer of runtime error
+2025-10-29 15:18:26,747 - Judge - INFO - 20_20 starting.
+2025-10-29 15:18:26,802 - Judge - WARNING - Testcode runtime exception: Can't find target article, maybe you forget to display it on home page?
+2025-10-29 15:18:26,802 - Judge - WARNING - 20_20: Wrong Answer of runtime error
+2025-10-29 15:18:26,802 - Judge - INFO - 20_21 starting.
+2025-10-29 15:18:26,858 - Judge - WARNING - Testcode runtime exception: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="id_username"]"}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+
+2025-10-29 15:18:26,859 - Judge - WARNING - 20_21: Wrong Answer of runtime error
+2025-10-29 15:18:26,859 - Judge - INFO - 20_22 starting.
+2025-10-29 15:18:27,394 - Judge - INFO - 20_22 passed.
+2025-10-29 15:18:27,394 - Judge - INFO - 20_23 starting.
+2025-10-29 15:18:28,008 - Judge - INFO - 20_23 passed.
+2025-10-29 15:18:28,008 - Judge - INFO - 20_24 starting.
+2025-10-29 15:18:28,489 - Judge - INFO - 20_24 passed.
+2025-10-29 15:18:28,489 - Judge - INFO - 20_25 starting.
+2025-10-29 15:18:28,802 - Judge - INFO - 20_25 passed.
+2025-10-29 15:18:29,238 - Judge - INFO - All Java processes have been terminated.
+2025-10-29 15:28:23,333 - Judge - INFO - Webdriver edge initializing.
+2025-10-29 15:28:23,333 - Judge - INFO - Windows mode.
+2025-10-29 15:28:24,580 - Judge - INFO - Preprocessing Website Project Test.
+2025-10-29 15:28:24,581 - Judge - DEBUG - Initiating command: ['start.py']
+2025-10-29 15:28:34,591 - Judge - ERROR - Command ['start.py'] timed out after 10 seconds.
+2025-10-29 15:28:35,027 - Judge - INFO - All Java processes have been terminated.
+2025-10-29 15:28:35,027 - Judge - DEBUG - Starting project.
+2025-10-29 15:28:35,030 - Judge - INFO - SpringBootServer started with PID: 69444
+2025-10-29 15:28:37,614 - Judge - DEBUG - Website home visit exception:Message: unknown error: net::ERR_CONNECTION_REFUSED
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a5ae421]
+	(No symbol) [0x0x7ff61a5a23d9]
+	(No symbol) [0x0x7ff61a5a3bf8]
+	(No symbol) [0x0x7ff61a5a27d9]
+	(No symbol) [0x0x7ff61a5a2235]
+	(No symbol) [0x0x7ff61a5a1f81]
+	(No symbol) [0x0x7ff61a59feeb]
+	(No symbol) [0x0x7ff61a5a051c]
+	(No symbol) [0x0x7ff61a5b49aa]
+	(No symbol) [0x0x7ff61a63f92e]
+	(No symbol) [0x0x7ff61a62212a]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+, retrying 5 times.
+2025-10-29 15:28:47,700 - Judge - INFO - 20_1 starting.
+2025-10-29 15:28:48,280 - Judge - INFO - 20_1 passed.
+2025-10-29 15:28:48,280 - Judge - INFO - 20_2 starting.
+2025-10-29 15:28:48,802 - Judge - WARNING - Testcode runtime exception: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="id_name"]"}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+
+2025-10-29 15:28:48,802 - Judge - WARNING - 20_2: Wrong Answer of runtime error
+2025-10-29 15:28:48,803 - Judge - INFO - 20_3 starting.
+2025-10-29 15:28:49,476 - Judge - WARNING - Testcode runtime exception: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="id_title"]"}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+
+2025-10-29 15:28:49,476 - Judge - WARNING - 20_3: Wrong Answer of runtime error
+2025-10-29 15:28:49,477 - Judge - INFO - 20_4 starting.
+2025-10-29 15:28:49,929 - Judge - INFO - 20_4 passed.
+2025-10-29 15:28:49,929 - Judge - INFO - 20_5 starting.
+2025-10-29 15:28:50,278 - Judge - INFO - 20_5 passed.
+2025-10-29 15:28:50,278 - Judge - INFO - 20_6 starting.
+2025-10-29 15:28:50,770 - Judge - INFO - 20_6 passed.
+2025-10-29 15:28:50,770 - Judge - INFO - 20_7 starting.
+2025-10-29 15:28:51,226 - Judge - INFO - 20_7 passed.
+2025-10-29 15:28:51,227 - Judge - INFO - 20_8 starting.
+2025-10-29 15:28:51,707 - Judge - INFO - 20_8 passed.
+2025-10-29 15:28:51,708 - Judge - INFO - 20_9 starting.
+2025-10-29 15:28:52,973 - Judge - INFO - 20_9 passed.
+2025-10-29 15:28:52,973 - Judge - INFO - 20_10 starting.
+2025-10-29 15:28:53,493 - Judge - WARNING - Testcode runtime exception: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="id_title"]"}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+
+2025-10-29 15:28:53,493 - Judge - WARNING - 20_10: Wrong Answer of runtime error
+2025-10-29 15:28:53,493 - Judge - INFO - 20_11 starting.
+2025-10-29 15:28:53,547 - Judge - WARNING - Testcode runtime exception: Can't find target article, maybe you forget to display it on home page?
+2025-10-29 15:28:53,547 - Judge - WARNING - 20_11: Wrong Answer of runtime error
+2025-10-29 15:28:53,547 - Judge - INFO - 20_12 starting.
+2025-10-29 15:28:53,601 - Judge - WARNING - Testcode runtime exception: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="id_username"]"}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+
+2025-10-29 15:28:53,601 - Judge - WARNING - 20_12: Wrong Answer of runtime error
+2025-10-29 15:28:53,601 - Judge - INFO - 20_13 starting.
+2025-10-29 15:28:53,955 - Judge - INFO - 20_13 passed.
+2025-10-29 15:28:53,955 - Judge - INFO - 20_14 starting.
+2025-10-29 15:28:54,421 - Judge - INFO - 20_14 passed.
+2025-10-29 15:28:54,421 - Judge - INFO - 20_15 starting.
+2025-10-29 15:28:54,545 - Judge - WARNING - Assertion Error: Wrong filter.
+Testcase failed.
+2025-10-29 15:28:54,545 - Judge - WARNING - 20_15: Wrong Answer of assertion
+2025-10-29 15:28:54,545 - Judge - INFO - 20_16 starting.
+2025-10-29 15:28:54,601 - Judge - WARNING - Testcode runtime exception: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="id_username"]"}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+
+2025-10-29 15:28:54,602 - Judge - WARNING - 20_16: Wrong Answer of runtime error
+2025-10-29 15:28:54,602 - Judge - INFO - 20_17 starting.
+2025-10-29 15:28:55,680 - Judge - INFO - 20_17 passed.
+2025-10-29 15:28:55,680 - Judge - INFO - 20_18 starting.
+2025-10-29 15:28:55,851 - Judge - WARNING - Assertion Error: Wrong category.
+Testcase failed.
+2025-10-29 15:28:55,851 - Judge - WARNING - 20_18: Wrong Answer of assertion
+2025-10-29 15:28:55,851 - Judge - INFO - 20_19 starting.
+2025-10-29 15:28:56,244 - Judge - WARNING - Testcode runtime exception: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()="AI"]"}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+
+2025-10-29 15:28:56,244 - Judge - WARNING - 20_19: Wrong Answer of runtime error
+2025-10-29 15:28:56,244 - Judge - INFO - 20_20 starting.
+2025-10-29 15:28:56,417 - Judge - WARNING - Assertion Error: Edit category failed.
+Testcase failed.
+2025-10-29 15:28:56,417 - Judge - WARNING - 20_20: Wrong Answer of assertion
+2025-10-29 15:28:56,418 - Judge - INFO - 20_21 starting.
+2025-10-29 15:28:56,486 - Judge - WARNING - Testcode runtime exception: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="id_username"]"}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+
+2025-10-29 15:28:56,486 - Judge - WARNING - 20_21: Wrong Answer of runtime error
+2025-10-29 15:28:56,486 - Judge - INFO - 20_22 starting.
+2025-10-29 15:28:56,967 - Judge - INFO - 20_22 passed.
+2025-10-29 15:28:56,967 - Judge - INFO - 20_23 starting.
+2025-10-29 15:28:57,569 - Judge - INFO - 20_23 passed.
+2025-10-29 15:28:57,569 - Judge - INFO - 20_24 starting.
+2025-10-29 15:28:58,047 - Judge - INFO - 20_24 passed.
+2025-10-29 15:28:58,047 - Judge - INFO - 20_25 starting.
+2025-10-29 15:28:58,367 - Judge - INFO - 20_25 passed.
+2025-10-29 15:28:58,780 - Judge - INFO - All Java processes have been terminated.
+2025-10-29 15:39:11,046 - Judge - INFO - Webdriver edge initializing.
+2025-10-29 15:39:11,046 - Judge - INFO - Windows mode.
+2025-10-29 15:39:12,271 - Judge - INFO - Preprocessing Website Project Test.
+2025-10-29 15:39:12,271 - Judge - DEBUG - Initiating command: ['start.py']
+2025-10-29 15:39:22,287 - Judge - ERROR - Command ['start.py'] timed out after 10 seconds.
+2025-10-29 15:39:22,765 - Judge - INFO - All Java processes have been terminated.
+2025-10-29 15:39:22,765 - Judge - DEBUG - Starting project.
+2025-10-29 15:39:22,768 - Judge - INFO - SpringBootServer started with PID: 72140
+2025-10-29 15:39:25,341 - Judge - DEBUG - Website home visit exception:Message: unknown error: net::ERR_CONNECTION_REFUSED
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a5ae421]
+	(No symbol) [0x0x7ff61a5a23d9]
+	(No symbol) [0x0x7ff61a5a3bf8]
+	(No symbol) [0x0x7ff61a5a27d9]
+	(No symbol) [0x0x7ff61a5a2235]
+	(No symbol) [0x0x7ff61a5a1f81]
+	(No symbol) [0x0x7ff61a59feeb]
+	(No symbol) [0x0x7ff61a5a051c]
+	(No symbol) [0x0x7ff61a5b49aa]
+	(No symbol) [0x0x7ff61a63f92e]
+	(No symbol) [0x0x7ff61a62212a]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+, retrying 5 times.
+2025-10-29 15:39:35,418 - Judge - INFO - 20_1 starting.
+2025-10-29 15:39:35,582 - Judge - WARNING - Testcode runtime exception: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div/main/div/div/form/div[3]/input"}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+
+2025-10-29 15:39:35,582 - Judge - WARNING - 20_1: Wrong Answer of runtime error
+2025-10-29 15:39:35,582 - Judge - INFO - 20_2 starting.
+2025-10-29 15:39:35,635 - Judge - WARNING - Testcode runtime exception: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div/main/div/div/ul/li/a"}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+
+2025-10-29 15:39:35,635 - Judge - WARNING - 20_2: Wrong Answer of runtime error
+2025-10-29 15:39:35,635 - Judge - INFO - 20_3 starting.
+2025-10-29 15:39:35,685 - Judge - WARNING - Testcode runtime exception: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div/main/div/div/ul/li/a"}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+
+2025-10-29 15:39:35,685 - Judge - WARNING - 20_3: Wrong Answer of runtime error
+2025-10-29 15:39:35,685 - Judge - INFO - 20_4 starting.
+2025-10-29 15:39:36,136 - Judge - INFO - 20_4 passed.
+2025-10-29 15:39:36,136 - Judge - INFO - 20_5 starting.
+2025-10-29 15:39:36,478 - Judge - INFO - 20_5 passed.
+2025-10-29 15:39:36,478 - Judge - INFO - 20_6 starting.
+2025-10-29 15:39:36,969 - Judge - INFO - 20_6 passed.
+2025-10-29 15:39:36,969 - Judge - INFO - 20_7 starting.
+2025-10-29 15:39:37,471 - Judge - INFO - 20_7 passed.
+2025-10-29 15:39:37,471 - Judge - INFO - 20_8 starting.
+2025-10-29 15:39:37,956 - Judge - INFO - 20_8 passed.
+2025-10-29 15:39:37,956 - Judge - INFO - 20_9 starting.
+2025-10-29 15:39:39,235 - Judge - INFO - 20_9 passed.
+2025-10-29 15:39:39,235 - Judge - INFO - 20_10 starting.
+2025-10-29 15:39:39,825 - Judge - WARNING - Testcode runtime exception: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="id_title"]"}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+
+2025-10-29 15:39:39,825 - Judge - WARNING - 20_10: Wrong Answer of runtime error
+2025-10-29 15:39:39,825 - Judge - INFO - 20_11 starting.
+2025-10-29 15:39:39,880 - Judge - WARNING - Testcode runtime exception: Can't find target article, maybe you forget to display it on home page?
+2025-10-29 15:39:39,880 - Judge - WARNING - 20_11: Wrong Answer of runtime error
+2025-10-29 15:39:39,880 - Judge - INFO - 20_12 starting.
+2025-10-29 15:39:40,346 - Judge - WARNING - Testcode runtime exception: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()="ProjectEval is an awesome benchmark"]"}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+
+2025-10-29 15:39:40,346 - Judge - WARNING - 20_12: Wrong Answer of runtime error
+2025-10-29 15:39:40,346 - Judge - INFO - 20_13 starting.
+2025-10-29 15:39:40,700 - Judge - INFO - 20_13 passed.
+2025-10-29 15:39:40,700 - Judge - INFO - 20_14 starting.
+2025-10-29 15:39:41,192 - Judge - INFO - 20_14 passed.
+2025-10-29 15:39:41,192 - Judge - INFO - 20_15 starting.
+2025-10-29 15:39:41,330 - Judge - WARNING - Assertion Error: Wrong filter.
+Testcase failed.
+2025-10-29 15:39:41,330 - Judge - WARNING - 20_15: Wrong Answer of assertion
+2025-10-29 15:39:41,330 - Judge - INFO - 20_16 starting.
+2025-10-29 15:39:42,342 - Judge - INFO - 20_16 passed.
+2025-10-29 15:39:42,342 - Judge - INFO - 20_17 starting.
+2025-10-29 15:39:43,398 - Judge - INFO - 20_17 passed.
+2025-10-29 15:39:43,398 - Judge - INFO - 20_18 starting.
+2025-10-29 15:39:43,896 - Judge - INFO - 20_18 passed.
+2025-10-29 15:39:43,896 - Judge - INFO - 20_19 starting.
+2025-10-29 15:39:44,549 - Judge - WARNING - Testcode runtime exception: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="id_name"]"}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+
+2025-10-29 15:39:44,549 - Judge - WARNING - 20_19: Wrong Answer of runtime error
+2025-10-29 15:39:44,549 - Judge - INFO - 20_20 starting.
+2025-10-29 15:39:44,723 - Judge - WARNING - Assertion Error: Edit category failed.
+Testcase failed.
+2025-10-29 15:39:44,723 - Judge - WARNING - 20_20: Wrong Answer of assertion
+2025-10-29 15:39:44,723 - Judge - INFO - 20_21 starting.
+2025-10-29 15:39:45,217 - Judge - WARNING - Testcode runtime exception: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()="Nier"]"}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+
+2025-10-29 15:39:45,218 - Judge - WARNING - 20_21: Wrong Answer of runtime error
+2025-10-29 15:39:45,218 - Judge - INFO - 20_22 starting.
+2025-10-29 15:39:45,402 - Judge - WARNING - Assertion Error: Failed to delete category.
+Testcase failed.
+2025-10-29 15:39:45,402 - Judge - WARNING - 20_22: Wrong Answer of assertion
+2025-10-29 15:39:45,403 - Judge - INFO - 20_23 starting.
+2025-10-29 15:39:46,020 - Judge - INFO - 20_23 passed.
+2025-10-29 15:39:46,020 - Judge - INFO - 20_24 starting.
+2025-10-29 15:39:46,514 - Judge - INFO - 20_24 passed.
+2025-10-29 15:39:46,514 - Judge - INFO - 20_25 starting.
+2025-10-29 15:39:46,824 - Judge - INFO - 20_25 passed.
+2025-10-29 15:39:47,301 - Judge - INFO - All Java processes have been terminated.

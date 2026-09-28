@@ -1,0 +1,876 @@
+2025-10-29 13:42:00,896 - Judge - INFO - Preprocessing Batch Project Test.
+2025-10-29 13:42:00,896 - Judge - DEBUG - Initiating command: ['mvn.cmd', 'clean', 'package']
+2025-10-29 13:42:03,341 - Judge - INFO - JavaConsoleManager started with PID: 17968
+2025-10-29 13:42:03,341 - Judge - INFO - 16_1 starting.
+2025-10-29 13:42:05,507 - Judge - INFO - 16_1 passed.
+2025-10-29 13:42:05,508 - Judge - INFO - 16_2 starting.
+2025-10-29 13:42:05,508 - Judge - WARNING - Testcode Runtime exception: [WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Column Check.xlsx' -> 'Spring Semester Subjects.xlsx'
+2025-10-29 13:42:05,508 - Judge - WARNING - Testcode check exception: 16_2: Wrong answer of runtime error
+2025-10-29 13:42:05,509 - Judge - INFO - 16_3 starting.
+2025-10-29 13:42:05,509 - Judge - WARNING - Testcode Runtime exception: [WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Data Check 1.xlsx' -> 'Spring Semester Subjects.xlsx'
+2025-10-29 13:42:05,509 - Judge - WARNING - Testcode check exception: 16_3: Wrong answer of runtime error
+2025-10-29 13:42:05,510 - Judge - INFO - 16_4 starting.
+2025-10-29 13:42:05,511 - Judge - WARNING - Testcode Runtime exception: [WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Data Check 2.xlsx' -> 'Spring Semester Subjects.xlsx'
+2025-10-29 13:42:05,511 - Judge - WARNING - Testcode check exception: 16_4: Wrong answer of runtime error
+2025-10-29 13:42:05,511 - Judge - INFO - 16_5 starting.
+2025-10-29 13:42:05,511 - Judge - WARNING - Testcode Runtime exception: [WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Data Check 3.xlsx' -> 'Spring Semester Subjects.xlsx'
+2025-10-29 13:42:05,511 - Judge - WARNING - Testcode check exception: 16_5: Wrong answer of runtime error
+2025-10-29 13:42:05,511 - Judge - INFO - 16_6 starting.
+2025-10-29 13:42:05,511 - Judge - WARNING - Testcode Runtime exception: [WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Standard.xlsx' -> 'Spring Semester Subjects.xlsx'
+2025-10-29 13:42:05,512 - Judge - WARNING - Testcode check exception: 16_6: Wrong answer of runtime error
+2025-10-29 13:42:05,512 - Judge - INFO - 16_7 starting.
+2025-10-29 13:42:05,512 - Judge - WARNING - Testcode Runtime exception: [WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Standard.xlsx' -> 'Spring Semester Subjects.xlsx'
+2025-10-29 13:42:05,512 - Judge - WARNING - Testcode check exception: 16_7: Wrong answer of runtime error
+2025-10-29 13:42:05,512 - Judge - INFO - 16_8 starting.
+2025-10-29 13:42:05,513 - Judge - WARNING - Testcode Runtime exception: [Errno 2] No such file or directory: 'Processed Subjects Table.xlsx'
+2025-10-29 13:42:05,514 - Judge - WARNING - Testcode check exception: 16_8: Wrong answer of runtime error
+2025-10-29 13:42:05,544 - Judge - INFO - JavaConsoleManager is not running.
+2025-10-29 13:43:55,784 - Judge - INFO - Preprocessing Batch Project Test.
+2025-10-29 13:43:55,784 - Judge - DEBUG - Initiating command: ['mvn.cmd', 'clean', 'package']
+2025-10-29 13:43:58,212 - Judge - INFO - JavaConsoleManager started with PID: 51552
+2025-10-29 13:43:58,212 - Judge - INFO - 16_1 starting.
+2025-10-29 13:44:00,459 - Judge - INFO - 16_1 passed.
+2025-10-29 13:44:00,459 - Judge - INFO - 16_2 starting.
+2025-10-29 13:44:00,460 - Judge - WARNING - Testcode Runtime exception: [WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Column Check.xlsx' -> 'Spring Semester Subjects.xlsx'
+2025-10-29 13:44:00,460 - Judge - WARNING - Testcode check exception: 16_2: Wrong answer of runtime error
+2025-10-29 13:44:00,461 - Judge - INFO - 16_3 starting.
+2025-10-29 13:44:00,462 - Judge - WARNING - Testcode Runtime exception: [WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Data Check 1.xlsx' -> 'Spring Semester Subjects.xlsx'
+2025-10-29 13:44:00,462 - Judge - WARNING - Testcode check exception: 16_3: Wrong answer of runtime error
+2025-10-29 13:44:00,462 - Judge - INFO - 16_4 starting.
+2025-10-29 13:44:00,463 - Judge - WARNING - Testcode Runtime exception: [WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Data Check 2.xlsx' -> 'Spring Semester Subjects.xlsx'
+2025-10-29 13:44:00,463 - Judge - WARNING - Testcode check exception: 16_4: Wrong answer of runtime error
+2025-10-29 13:44:00,463 - Judge - INFO - 16_5 starting.
+2025-10-29 13:44:00,464 - Judge - WARNING - Testcode Runtime exception: [WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Data Check 3.xlsx' -> 'Spring Semester Subjects.xlsx'
+2025-10-29 13:44:00,464 - Judge - WARNING - Testcode check exception: 16_5: Wrong answer of runtime error
+2025-10-29 13:44:00,466 - Judge - INFO - 16_6 starting.
+2025-10-29 13:44:00,467 - Judge - WARNING - Testcode Runtime exception: [WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Standard.xlsx' -> 'Spring Semester Subjects.xlsx'
+2025-10-29 13:44:00,467 - Judge - WARNING - Testcode check exception: 16_6: Wrong answer of runtime error
+2025-10-29 13:44:00,467 - Judge - INFO - 16_7 starting.
+2025-10-29 13:44:00,468 - Judge - WARNING - Testcode Runtime exception: [WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Standard.xlsx' -> 'Spring Semester Subjects.xlsx'
+2025-10-29 13:44:00,468 - Judge - WARNING - Testcode check exception: 16_7: Wrong answer of runtime error
+2025-10-29 13:44:00,468 - Judge - INFO - 16_8 starting.
+2025-10-29 13:44:00,471 - Judge - WARNING - Testcode Runtime exception: [Errno 2] No such file or directory: 'Processed Subjects Table.xlsx'
+2025-10-29 13:44:00,471 - Judge - WARNING - Testcode check exception: 16_8: Wrong answer of runtime error
+2025-10-29 13:44:00,472 - Judge - INFO - JavaConsoleManager is not running.
+2025-10-29 13:46:05,028 - Judge - INFO - Preprocessing Batch Project Test.
+2025-10-29 13:46:05,028 - Judge - DEBUG - Initiating command: ['mvn.cmd', 'clean', 'package']
+2025-10-29 13:46:07,702 - Judge - INFO - JavaConsoleManager started with PID: 15364
+2025-10-29 13:46:07,702 - Judge - INFO - 16_1 starting.
+2025-10-29 13:46:09,663 - Judge - INFO - 16_1 passed.
+2025-10-29 13:46:09,663 - Judge - INFO - 16_2 starting.
+2025-10-29 13:46:09,663 - Judge - WARNING - Testcode Runtime exception: [WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Column Check.xlsx' -> 'Spring Semester Subjects.xlsx'
+2025-10-29 13:46:09,663 - Judge - WARNING - Testcode check exception: 16_2: Wrong answer of runtime error
+2025-10-29 13:46:09,664 - Judge - INFO - 16_3 starting.
+2025-10-29 13:46:09,664 - Judge - WARNING - Testcode Runtime exception: [WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Data Check 1.xlsx' -> 'Spring Semester Subjects.xlsx'
+2025-10-29 13:46:09,664 - Judge - WARNING - Testcode check exception: 16_3: Wrong answer of runtime error
+2025-10-29 13:46:09,664 - Judge - INFO - 16_4 starting.
+2025-10-29 13:46:09,665 - Judge - WARNING - Testcode Runtime exception: [WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Data Check 2.xlsx' -> 'Spring Semester Subjects.xlsx'
+2025-10-29 13:46:09,665 - Judge - WARNING - Testcode check exception: 16_4: Wrong answer of runtime error
+2025-10-29 13:46:09,665 - Judge - INFO - 16_5 starting.
+2025-10-29 13:46:09,665 - Judge - WARNING - Testcode Runtime exception: [WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Data Check 3.xlsx' -> 'Spring Semester Subjects.xlsx'
+2025-10-29 13:46:09,665 - Judge - WARNING - Testcode check exception: 16_5: Wrong answer of runtime error
+2025-10-29 13:46:09,666 - Judge - INFO - 16_6 starting.
+2025-10-29 13:46:09,666 - Judge - WARNING - Testcode Runtime exception: [WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Standard.xlsx' -> 'Spring Semester Subjects.xlsx'
+2025-10-29 13:46:09,666 - Judge - WARNING - Testcode check exception: 16_6: Wrong answer of runtime error
+2025-10-29 13:46:09,666 - Judge - INFO - 16_7 starting.
+2025-10-29 13:46:09,667 - Judge - WARNING - Testcode Runtime exception: [WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Standard.xlsx' -> 'Spring Semester Subjects.xlsx'
+2025-10-29 13:46:09,667 - Judge - WARNING - Testcode check exception: 16_7: Wrong answer of runtime error
+2025-10-29 13:46:09,667 - Judge - INFO - 16_8 starting.
+2025-10-29 13:46:09,668 - Judge - WARNING - Testcode Runtime exception: [Errno 2] No such file or directory: 'Processed Subjects Table.xlsx'
+2025-10-29 13:46:09,668 - Judge - WARNING - Testcode check exception: 16_8: Wrong answer of runtime error
+2025-10-29 13:48:13,711 - Judge - INFO - Preprocessing Batch Project Test.
+2025-10-29 13:48:13,711 - Judge - DEBUG - Initiating command: ['mvn.cmd', 'clean', 'package']
+2025-10-29 13:48:16,505 - Judge - INFO - JavaConsoleManager started with PID: 52936
+2025-10-29 13:48:16,505 - Judge - INFO - 16_1 starting.
+2025-10-29 13:48:18,496 - Judge - INFO - 16_1 passed.
+2025-10-29 13:48:18,496 - Judge - INFO - 16_2 starting.
+2025-10-29 13:48:18,497 - Judge - WARNING - Testcode Runtime exception: [WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Column Check.xlsx' -> 'Spring Semester Subjects.xlsx'
+2025-10-29 13:48:18,497 - Judge - WARNING - Testcode check exception: 16_2: Wrong answer of runtime error
+2025-10-29 13:48:18,497 - Judge - INFO - 16_3 starting.
+2025-10-29 13:48:18,498 - Judge - WARNING - Testcode Runtime exception: [WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Data Check 1.xlsx' -> 'Spring Semester Subjects.xlsx'
+2025-10-29 13:48:18,498 - Judge - WARNING - Testcode check exception: 16_3: Wrong answer of runtime error
+2025-10-29 13:48:18,498 - Judge - INFO - 16_4 starting.
+2025-10-29 13:48:18,498 - Judge - WARNING - Testcode Runtime exception: [WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Data Check 2.xlsx' -> 'Spring Semester Subjects.xlsx'
+2025-10-29 13:48:18,498 - Judge - WARNING - Testcode check exception: 16_4: Wrong answer of runtime error
+2025-10-29 13:48:18,498 - Judge - INFO - 16_5 starting.
+2025-10-29 13:48:18,498 - Judge - WARNING - Testcode Runtime exception: [WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Data Check 3.xlsx' -> 'Spring Semester Subjects.xlsx'
+2025-10-29 13:48:18,499 - Judge - WARNING - Testcode check exception: 16_5: Wrong answer of runtime error
+2025-10-29 13:48:18,499 - Judge - INFO - 16_6 starting.
+2025-10-29 13:48:18,499 - Judge - WARNING - Testcode Runtime exception: [WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Standard.xlsx' -> 'Spring Semester Subjects.xlsx'
+2025-10-29 13:48:18,499 - Judge - WARNING - Testcode check exception: 16_6: Wrong answer of runtime error
+2025-10-29 13:48:18,499 - Judge - INFO - 16_7 starting.
+2025-10-29 13:48:18,500 - Judge - WARNING - Testcode Runtime exception: [WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Standard.xlsx' -> 'Spring Semester Subjects.xlsx'
+2025-10-29 13:48:18,500 - Judge - WARNING - Testcode check exception: 16_7: Wrong answer of runtime error
+2025-10-29 13:48:18,500 - Judge - INFO - 16_8 starting.
+2025-10-29 13:48:18,503 - Judge - WARNING - Testcode Runtime exception: [Errno 2] No such file or directory: 'Processed Subjects Table.xlsx'
+2025-10-29 13:48:18,503 - Judge - WARNING - Testcode check exception: 16_8: Wrong answer of runtime error
+2025-10-29 13:48:18,518 - Judge - INFO - JavaConsoleManager is not running.
+2025-10-29 13:50:27,659 - Judge - INFO - Preprocessing Batch Project Test.
+2025-10-29 13:50:27,660 - Judge - DEBUG - Initiating command: ['mvn.cmd', 'clean', 'package']
+2025-10-29 13:50:30,273 - Judge - INFO - JavaConsoleManager started with PID: 62528
+2025-10-29 13:50:30,273 - Judge - INFO - 16_1 starting.
+2025-10-29 13:50:32,235 - Judge - INFO - 16_1 passed.
+2025-10-29 13:50:32,235 - Judge - INFO - 16_2 starting.
+2025-10-29 13:50:32,236 - Judge - WARNING - Testcode Runtime exception: [WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Column Check.xlsx' -> 'Spring Semester Subjects.xlsx'
+2025-10-29 13:50:32,236 - Judge - WARNING - Testcode check exception: 16_2: Wrong answer of runtime error
+2025-10-29 13:50:32,236 - Judge - INFO - 16_3 starting.
+2025-10-29 13:50:32,236 - Judge - WARNING - Testcode Runtime exception: [WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Data Check 1.xlsx' -> 'Spring Semester Subjects.xlsx'
+2025-10-29 13:50:32,237 - Judge - WARNING - Testcode check exception: 16_3: Wrong answer of runtime error
+2025-10-29 13:50:32,237 - Judge - INFO - 16_4 starting.
+2025-10-29 13:50:32,237 - Judge - WARNING - Testcode Runtime exception: [WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Data Check 2.xlsx' -> 'Spring Semester Subjects.xlsx'
+2025-10-29 13:50:32,237 - Judge - WARNING - Testcode check exception: 16_4: Wrong answer of runtime error
+2025-10-29 13:50:32,237 - Judge - INFO - 16_5 starting.
+2025-10-29 13:50:32,238 - Judge - WARNING - Testcode Runtime exception: [WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Data Check 3.xlsx' -> 'Spring Semester Subjects.xlsx'
+2025-10-29 13:50:32,238 - Judge - WARNING - Testcode check exception: 16_5: Wrong answer of runtime error
+2025-10-29 13:50:32,238 - Judge - INFO - 16_6 starting.
+2025-10-29 13:50:32,238 - Judge - WARNING - Testcode Runtime exception: [WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Standard.xlsx' -> 'Spring Semester Subjects.xlsx'
+2025-10-29 13:50:32,238 - Judge - WARNING - Testcode check exception: 16_6: Wrong answer of runtime error
+2025-10-29 13:50:32,238 - Judge - INFO - 16_7 starting.
+2025-10-29 13:50:32,238 - Judge - WARNING - Testcode Runtime exception: [WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Standard.xlsx' -> 'Spring Semester Subjects.xlsx'
+2025-10-29 13:50:32,240 - Judge - WARNING - Testcode check exception: 16_7: Wrong answer of runtime error
+2025-10-29 13:50:32,240 - Judge - INFO - 16_8 starting.
+2025-10-29 13:50:32,241 - Judge - WARNING - Testcode Runtime exception: [Errno 2] No such file or directory: 'Processed Subjects Table.xlsx'
+2025-10-29 13:50:32,241 - Judge - WARNING - Testcode check exception: 16_8: Wrong answer of runtime error
+2025-10-29 13:51:24,725 - Judge - INFO - Preprocessing Batch Project Test.
+2025-10-29 13:51:24,727 - Judge - DEBUG - Initiating command: ['mvn.cmd', 'clean', 'package']
+2025-10-29 13:51:26,880 - Judge - INFO - Copy material files from data/material/ to test/20251029/17/.
+2025-10-29 13:51:26,880 - Judge - DEBUG - Processing: 17-Gamedata-Data Check 1.xlsx
+2025-10-29 13:51:26,889 - Judge - DEBUG - 17-Gamedata-Data Check 1.xlsx copied.
+2025-10-29 13:51:26,889 - Judge - DEBUG - Processing: 17-Gamedata-Data Check 2.xlsx
+2025-10-29 13:51:26,895 - Judge - DEBUG - 17-Gamedata-Data Check 2.xlsx copied.
+2025-10-29 13:51:26,895 - Judge - DEBUG - Processing: 17-Gamedata-Standard.xlsx
+2025-10-29 13:51:26,902 - Judge - DEBUG - 17-Gamedata-Standard.xlsx copied.
+2025-10-29 13:51:26,902 - Judge - DEBUG - Processing: 17-Gamedata.xlsx
+2025-10-29 13:51:26,906 - Judge - DEBUG - 17-Gamedata.xlsx copied.
+2025-10-29 13:51:26,906 - Judge - DEBUG - Processing: 17-Logistic-Standard.xlsx
+2025-10-29 13:51:26,914 - Judge - DEBUG - 17-Logistic-Standard.xlsx copied.
+2025-10-29 13:51:27,415 - Judge - INFO - 17_1 starting.
+2025-10-29 13:51:31,429 - Judge - INFO - 17_1 passed.
+2025-10-29 13:51:31,429 - Judge - INFO - 17_2 starting.
+2025-10-29 13:51:34,965 - Judge - INFO - 17_2 passed.
+2025-10-29 13:51:34,966 - Judge - INFO - 17_3 starting.
+2025-10-29 13:51:38,516 - Judge - INFO - 17_3 passed.
+2025-10-29 13:51:38,516 - Judge - INFO - 17_4 starting.
+2025-10-29 13:51:42,090 - Judge - INFO - 17_4 passed.
+2025-10-29 13:51:42,090 - Judge - INFO - 17_5 starting.
+2025-10-29 13:51:42,109 - Judge - INFO - 17_5 passed.
+2025-10-29 13:51:42,109 - Judge - INFO - JavaFileManager is not running.
+2025-10-29 13:52:59,122 - Judge - INFO - Preprocessing Batch Project Test.
+2025-10-29 13:52:59,123 - Judge - INFO - ConsoleManager started with PID: 26212
+2025-10-29 13:52:59,125 - Judge - INFO - 18_1 starting.
+2025-10-29 13:53:01,133 - Judge - DEBUG - Got line: [ERROR] Failed to execute goal org.codehaus.mojo:exec-maven-plugin:3.0.0:java (default-cli) on project bashcrawl: An exception occured while executing the Java class. com.example.bashcrawl.BashCrawl -> [Help 1]
+
+2025-10-29 13:53:01,133 - Judge - DEBUG - Got line: [ERROR] 
+
+2025-10-29 13:53:01,133 - Judge - DEBUG - Got line: [ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+
+2025-10-29 13:53:01,133 - Judge - DEBUG - Got line: [ERROR] Re-run Maven using the -X switch to enable full debug logging.
+
+2025-10-29 13:53:01,133 - Judge - DEBUG - Got line: [ERROR] 
+
+2025-10-29 13:53:01,133 - Judge - DEBUG - Got line: [ERROR] For more information about the errors and possible solutions, please read the following articles:
+
+2025-10-29 13:53:01,133 - Judge - DEBUG - Got line: [ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
+
+2025-10-29 13:53:01,134 - Judge - WARNING - Assertion Error: Answer is not matching, stdout is 
+=== BashCrawl Main Menu ===
+1. Start Game
+2. Help
+3. Quit
+Choose an option (1, 2, or 3):, actually out is [ERROR] Failed to execute goal org.codehaus.mojo:exec-maven-plugin:3.0.0:java (default-cli) on project bashcrawl: An exception occured while executing the Java class. com.example.bashcrawl.BashCrawl -> [Help 1]
+
+[ERROR] 
+
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+
+[ERROR] 
+
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
+.. Testcase failed.
+2025-10-29 13:53:01,134 - Judge - WARNING - Testcode check exception: 18_1: Wrong answer of assertion
+2025-10-29 13:53:01,134 - Judge - INFO - 18_2 starting.
+2025-10-29 13:53:01,134 - Judge - DEBUG - Sending command: 2
+2025-10-29 13:53:01,135 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:53:01,135 - Judge - WARNING - Testcode check exception: 18_2: Wrong answer of runtime error
+2025-10-29 13:53:01,135 - Judge - INFO - 18_3 starting.
+2025-10-29 13:53:01,135 - Judge - DEBUG - Sending command: abc
+2025-10-29 13:53:01,135 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:53:01,135 - Judge - WARNING - Testcode check exception: 18_3: Wrong answer of runtime error
+2025-10-29 13:53:01,136 - Judge - INFO - 18_4 starting.
+2025-10-29 13:53:01,136 - Judge - DEBUG - Sending command: 1
+2025-10-29 13:53:01,136 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:53:01,136 - Judge - WARNING - Testcode check exception: 18_4: Wrong answer of runtime error
+2025-10-29 13:53:01,136 - Judge - INFO - 18_5 starting.
+2025-10-29 13:53:01,136 - Judge - DEBUG - Sending command: help
+2025-10-29 13:53:01,136 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:53:01,137 - Judge - WARNING - Testcode check exception: 18_5: Wrong answer of runtime error
+2025-10-29 13:53:01,137 - Judge - INFO - 18_6 starting.
+2025-10-29 13:53:01,137 - Judge - DEBUG - Sending command: ls
+2025-10-29 13:53:01,137 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:53:01,137 - Judge - WARNING - Testcode check exception: 18_6: Wrong answer of runtime error
+2025-10-29 13:53:01,137 - Judge - INFO - 18_7 starting.
+2025-10-29 13:53:01,137 - Judge - DEBUG - Sending command: cd home
+2025-10-29 13:53:01,137 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:53:01,138 - Judge - WARNING - Testcode check exception: 18_7: Wrong answer of runtime error
+2025-10-29 13:53:01,138 - Judge - INFO - 18_8 starting.
+2025-10-29 13:53:01,138 - Judge - DEBUG - Sending command: cd ..
+2025-10-29 13:53:01,138 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:53:01,138 - Judge - WARNING - Testcode check exception: 18_8: Wrong answer of runtime error
+2025-10-29 13:53:01,138 - Judge - INFO - 18_9 starting.
+2025-10-29 13:53:01,139 - Judge - DEBUG - Sending command: inventory
+2025-10-29 13:53:01,139 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:53:01,139 - Judge - WARNING - Testcode check exception: 18_9: Wrong answer of runtime error
+2025-10-29 13:53:01,139 - Judge - INFO - 18_10 starting.
+2025-10-29 13:53:01,139 - Judge - DEBUG - Sending command: cd cave
+2025-10-29 13:53:01,139 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:53:01,139 - Judge - WARNING - Testcode check exception: 18_10: Wrong answer of runtime error
+2025-10-29 13:53:01,139 - Judge - INFO - 18_11 starting.
+2025-10-29 13:53:01,140 - Judge - DEBUG - Sending command: inventory
+2025-10-29 13:53:01,140 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:53:01,140 - Judge - WARNING - Testcode check exception: 18_11: Wrong answer of runtime error
+2025-10-29 13:53:01,140 - Judge - INFO - 18_12 starting.
+2025-10-29 13:53:01,140 - Judge - DEBUG - Sending command: cd ..
+2025-10-29 13:53:01,140 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:53:01,140 - Judge - WARNING - Testcode check exception: 18_12: Wrong answer of runtime error
+2025-10-29 13:53:01,140 - Judge - INFO - 18_13 starting.
+2025-10-29 13:53:01,141 - Judge - DEBUG - Sending command: 3
+2025-10-29 13:53:01,141 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:53:01,141 - Judge - WARNING - Testcode check exception: 18_13: Wrong answer of runtime error
+2025-10-29 13:53:01,141 - Judge - INFO - ConsoleManager is not running.
+2025-10-29 13:55:16,446 - Judge - INFO - Preprocessing Batch Project Test.
+2025-10-29 13:55:16,449 - Judge - INFO - ConsoleManager started with PID: 50768
+2025-10-29 13:55:16,449 - Judge - INFO - 18_1 starting.
+2025-10-29 13:55:18,659 - Judge - DEBUG - Got line: [ERROR] Failed to execute goal org.codehaus.mojo:exec-maven-plugin:3.0.0:java (default-cli) on project bashcrawl: An exception occured while executing the Java class. com.example.bashcrawl.BashCrawl -> [Help 1]
+
+2025-10-29 13:55:18,659 - Judge - DEBUG - Got line: [ERROR] 
+
+2025-10-29 13:55:18,659 - Judge - DEBUG - Got line: [ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+
+2025-10-29 13:55:18,659 - Judge - DEBUG - Got line: [ERROR] Re-run Maven using the -X switch to enable full debug logging.
+
+2025-10-29 13:55:18,659 - Judge - DEBUG - Got line: [ERROR] 
+
+2025-10-29 13:55:18,659 - Judge - DEBUG - Got line: [ERROR] For more information about the errors and possible solutions, please read the following articles:
+
+2025-10-29 13:55:18,659 - Judge - DEBUG - Got line: [ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
+
+2025-10-29 13:55:18,660 - Judge - WARNING - Assertion Error: Answer is not matching, stdout is 
+=== BashCrawl Main Menu ===
+1. Start Game
+2. Help
+3. Quit
+Choose an option (1, 2, or 3):, actually out is [ERROR] Failed to execute goal org.codehaus.mojo:exec-maven-plugin:3.0.0:java (default-cli) on project bashcrawl: An exception occured while executing the Java class. com.example.bashcrawl.BashCrawl -> [Help 1]
+
+[ERROR] 
+
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+
+[ERROR] 
+
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
+.. Testcase failed.
+2025-10-29 13:55:18,660 - Judge - WARNING - Testcode check exception: 18_1: Wrong answer of assertion
+2025-10-29 13:55:18,660 - Judge - INFO - 18_2 starting.
+2025-10-29 13:55:18,660 - Judge - DEBUG - Sending command: 2
+2025-10-29 13:55:18,661 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:55:18,661 - Judge - WARNING - Testcode check exception: 18_2: Wrong answer of runtime error
+2025-10-29 13:55:18,661 - Judge - INFO - 18_3 starting.
+2025-10-29 13:55:18,661 - Judge - DEBUG - Sending command: abc
+2025-10-29 13:55:18,661 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:55:18,661 - Judge - WARNING - Testcode check exception: 18_3: Wrong answer of runtime error
+2025-10-29 13:55:18,661 - Judge - INFO - 18_4 starting.
+2025-10-29 13:55:18,662 - Judge - DEBUG - Sending command: 1
+2025-10-29 13:55:18,662 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:55:18,662 - Judge - WARNING - Testcode check exception: 18_4: Wrong answer of runtime error
+2025-10-29 13:55:18,662 - Judge - INFO - 18_5 starting.
+2025-10-29 13:55:18,662 - Judge - DEBUG - Sending command: help
+2025-10-29 13:55:18,662 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:55:18,662 - Judge - WARNING - Testcode check exception: 18_5: Wrong answer of runtime error
+2025-10-29 13:55:18,662 - Judge - INFO - 18_6 starting.
+2025-10-29 13:55:18,663 - Judge - DEBUG - Sending command: ls
+2025-10-29 13:55:18,663 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:55:18,663 - Judge - WARNING - Testcode check exception: 18_6: Wrong answer of runtime error
+2025-10-29 13:55:18,663 - Judge - INFO - 18_7 starting.
+2025-10-29 13:55:18,663 - Judge - DEBUG - Sending command: cd home
+2025-10-29 13:55:18,663 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:55:18,663 - Judge - WARNING - Testcode check exception: 18_7: Wrong answer of runtime error
+2025-10-29 13:55:18,663 - Judge - INFO - 18_8 starting.
+2025-10-29 13:55:18,665 - Judge - DEBUG - Sending command: cd ..
+2025-10-29 13:55:18,665 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:55:18,665 - Judge - WARNING - Testcode check exception: 18_8: Wrong answer of runtime error
+2025-10-29 13:55:18,665 - Judge - INFO - 18_9 starting.
+2025-10-29 13:55:18,666 - Judge - DEBUG - Sending command: inventory
+2025-10-29 13:55:18,667 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:55:18,667 - Judge - WARNING - Testcode check exception: 18_9: Wrong answer of runtime error
+2025-10-29 13:55:18,667 - Judge - INFO - 18_10 starting.
+2025-10-29 13:55:18,667 - Judge - DEBUG - Sending command: cd cave
+2025-10-29 13:55:18,667 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:55:18,667 - Judge - WARNING - Testcode check exception: 18_10: Wrong answer of runtime error
+2025-10-29 13:55:18,667 - Judge - INFO - 18_11 starting.
+2025-10-29 13:55:18,667 - Judge - DEBUG - Sending command: inventory
+2025-10-29 13:55:18,667 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:55:18,669 - Judge - WARNING - Testcode check exception: 18_11: Wrong answer of runtime error
+2025-10-29 13:55:18,669 - Judge - INFO - 18_12 starting.
+2025-10-29 13:55:18,669 - Judge - DEBUG - Sending command: cd ..
+2025-10-29 13:55:18,669 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:55:18,669 - Judge - WARNING - Testcode check exception: 18_12: Wrong answer of runtime error
+2025-10-29 13:55:18,669 - Judge - INFO - 18_13 starting.
+2025-10-29 13:55:18,669 - Judge - DEBUG - Sending command: 3
+2025-10-29 13:55:18,670 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:55:18,670 - Judge - WARNING - Testcode check exception: 18_13: Wrong answer of runtime error
+2025-10-29 13:55:18,670 - Judge - INFO - ConsoleManager is not running.
+2025-10-29 13:58:57,382 - Judge - INFO - Preprocessing Batch Project Test.
+2025-10-29 13:58:57,384 - Judge - INFO - ConsoleManager started with PID: 34244
+2025-10-29 13:58:57,384 - Judge - INFO - 18_1 starting.
+2025-10-29 13:58:59,393 - Judge - DEBUG - Got line: [ERROR] Failed to execute goal org.codehaus.mojo:exec-maven-plugin:3.0.0:java (default-cli) on project bashcrawl: An exception occured while executing the Java class. com.example.bashcrawl.BashCrawl -> [Help 1]
+
+2025-10-29 13:58:59,393 - Judge - DEBUG - Got line: [ERROR] 
+
+2025-10-29 13:58:59,393 - Judge - DEBUG - Got line: [ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+
+2025-10-29 13:58:59,393 - Judge - DEBUG - Got line: [ERROR] Re-run Maven using the -X switch to enable full debug logging.
+
+2025-10-29 13:58:59,393 - Judge - DEBUG - Got line: [ERROR] 
+
+2025-10-29 13:58:59,393 - Judge - DEBUG - Got line: [ERROR] For more information about the errors and possible solutions, please read the following articles:
+
+2025-10-29 13:58:59,393 - Judge - DEBUG - Got line: [ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
+
+2025-10-29 13:58:59,393 - Judge - WARNING - Assertion Error: Answer is not matching, stdout is 
+=== BashCrawl Main Menu ===
+1. Start Game
+2. Help
+3. Quit
+Choose an option (1, 2, or 3):, actually out is [ERROR] Failed to execute goal org.codehaus.mojo:exec-maven-plugin:3.0.0:java (default-cli) on project bashcrawl: An exception occured while executing the Java class. com.example.bashcrawl.BashCrawl -> [Help 1]
+
+[ERROR] 
+
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+
+[ERROR] 
+
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
+.. Testcase failed.
+2025-10-29 13:58:59,393 - Judge - WARNING - Testcode check exception: 18_1: Wrong answer of assertion
+2025-10-29 13:58:59,393 - Judge - INFO - 18_2 starting.
+2025-10-29 13:58:59,394 - Judge - DEBUG - Sending command: 2
+2025-10-29 13:58:59,394 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:58:59,394 - Judge - WARNING - Testcode check exception: 18_2: Wrong answer of runtime error
+2025-10-29 13:58:59,394 - Judge - INFO - 18_3 starting.
+2025-10-29 13:58:59,394 - Judge - DEBUG - Sending command: abc
+2025-10-29 13:58:59,394 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:58:59,395 - Judge - WARNING - Testcode check exception: 18_3: Wrong answer of runtime error
+2025-10-29 13:58:59,395 - Judge - INFO - 18_4 starting.
+2025-10-29 13:58:59,395 - Judge - DEBUG - Sending command: 1
+2025-10-29 13:58:59,395 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:58:59,395 - Judge - WARNING - Testcode check exception: 18_4: Wrong answer of runtime error
+2025-10-29 13:58:59,395 - Judge - INFO - 18_5 starting.
+2025-10-29 13:58:59,396 - Judge - DEBUG - Sending command: help
+2025-10-29 13:58:59,396 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:58:59,396 - Judge - WARNING - Testcode check exception: 18_5: Wrong answer of runtime error
+2025-10-29 13:58:59,396 - Judge - INFO - 18_6 starting.
+2025-10-29 13:58:59,396 - Judge - DEBUG - Sending command: ls
+2025-10-29 13:58:59,396 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:58:59,396 - Judge - WARNING - Testcode check exception: 18_6: Wrong answer of runtime error
+2025-10-29 13:58:59,396 - Judge - INFO - 18_7 starting.
+2025-10-29 13:58:59,397 - Judge - DEBUG - Sending command: cd home
+2025-10-29 13:58:59,397 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:58:59,397 - Judge - WARNING - Testcode check exception: 18_7: Wrong answer of runtime error
+2025-10-29 13:58:59,397 - Judge - INFO - 18_8 starting.
+2025-10-29 13:58:59,397 - Judge - DEBUG - Sending command: cd ..
+2025-10-29 13:58:59,397 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:58:59,397 - Judge - WARNING - Testcode check exception: 18_8: Wrong answer of runtime error
+2025-10-29 13:58:59,397 - Judge - INFO - 18_9 starting.
+2025-10-29 13:58:59,398 - Judge - DEBUG - Sending command: inventory
+2025-10-29 13:58:59,398 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:58:59,398 - Judge - WARNING - Testcode check exception: 18_9: Wrong answer of runtime error
+2025-10-29 13:58:59,398 - Judge - INFO - 18_10 starting.
+2025-10-29 13:58:59,398 - Judge - DEBUG - Sending command: cd cave
+2025-10-29 13:58:59,398 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:58:59,398 - Judge - WARNING - Testcode check exception: 18_10: Wrong answer of runtime error
+2025-10-29 13:58:59,398 - Judge - INFO - 18_11 starting.
+2025-10-29 13:58:59,398 - Judge - DEBUG - Sending command: inventory
+2025-10-29 13:58:59,398 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:58:59,398 - Judge - WARNING - Testcode check exception: 18_11: Wrong answer of runtime error
+2025-10-29 13:58:59,400 - Judge - INFO - 18_12 starting.
+2025-10-29 13:58:59,400 - Judge - DEBUG - Sending command: cd ..
+2025-10-29 13:58:59,400 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:58:59,400 - Judge - WARNING - Testcode check exception: 18_12: Wrong answer of runtime error
+2025-10-29 13:58:59,400 - Judge - INFO - 18_13 starting.
+2025-10-29 13:58:59,400 - Judge - DEBUG - Sending command: 3
+2025-10-29 13:58:59,400 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 13:58:59,400 - Judge - WARNING - Testcode check exception: 18_13: Wrong answer of runtime error
+2025-10-29 13:58:59,400 - Judge - INFO - ConsoleManager is not running.
+2025-10-29 14:01:22,313 - Judge - INFO - Preprocessing Batch Project Test.
+2025-10-29 14:01:22,314 - Judge - INFO - ConsoleManager started with PID: 57228
+2025-10-29 14:01:22,314 - Judge - INFO - 18_1 starting.
+2025-10-29 14:01:24,323 - Judge - DEBUG - Got line: [ERROR] Failed to execute goal org.codehaus.mojo:exec-maven-plugin:3.0.0:java (default-cli) on project bashcrawl: An exception occured while executing the Java class. BashCrawl -> [Help 1]
+
+2025-10-29 14:01:24,323 - Judge - DEBUG - Got line: [ERROR] 
+
+2025-10-29 14:01:24,323 - Judge - DEBUG - Got line: [ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+
+2025-10-29 14:01:24,323 - Judge - DEBUG - Got line: [ERROR] Re-run Maven using the -X switch to enable full debug logging.
+
+2025-10-29 14:01:24,323 - Judge - DEBUG - Got line: [ERROR] 
+
+2025-10-29 14:01:24,323 - Judge - DEBUG - Got line: [ERROR] For more information about the errors and possible solutions, please read the following articles:
+
+2025-10-29 14:01:24,323 - Judge - DEBUG - Got line: [ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
+
+2025-10-29 14:01:24,323 - Judge - WARNING - Assertion Error: Answer is not matching, stdout is 
+=== BashCrawl Main Menu ===
+1. Start Game
+2. Help
+3. Quit
+Choose an option (1, 2, or 3):, actually out is [ERROR] Failed to execute goal org.codehaus.mojo:exec-maven-plugin:3.0.0:java (default-cli) on project bashcrawl: An exception occured while executing the Java class. BashCrawl -> [Help 1]
+
+[ERROR] 
+
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+
+[ERROR] 
+
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
+.. Testcase failed.
+2025-10-29 14:01:24,323 - Judge - WARNING - Testcode check exception: 18_1: Wrong answer of assertion
+2025-10-29 14:01:24,323 - Judge - INFO - 18_2 starting.
+2025-10-29 14:01:24,324 - Judge - DEBUG - Sending command: 2
+2025-10-29 14:01:24,324 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 14:01:24,324 - Judge - WARNING - Testcode check exception: 18_2: Wrong answer of runtime error
+2025-10-29 14:01:24,324 - Judge - INFO - 18_3 starting.
+2025-10-29 14:01:24,324 - Judge - DEBUG - Sending command: abc
+2025-10-29 14:01:24,324 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 14:01:24,324 - Judge - WARNING - Testcode check exception: 18_3: Wrong answer of runtime error
+2025-10-29 14:01:24,325 - Judge - INFO - 18_4 starting.
+2025-10-29 14:01:24,325 - Judge - DEBUG - Sending command: 1
+2025-10-29 14:01:24,325 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 14:01:24,325 - Judge - WARNING - Testcode check exception: 18_4: Wrong answer of runtime error
+2025-10-29 14:01:24,325 - Judge - INFO - 18_5 starting.
+2025-10-29 14:01:24,325 - Judge - DEBUG - Sending command: help
+2025-10-29 14:01:24,325 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 14:01:24,325 - Judge - WARNING - Testcode check exception: 18_5: Wrong answer of runtime error
+2025-10-29 14:01:24,325 - Judge - INFO - 18_6 starting.
+2025-10-29 14:01:24,325 - Judge - DEBUG - Sending command: ls
+2025-10-29 14:01:24,325 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 14:01:24,325 - Judge - WARNING - Testcode check exception: 18_6: Wrong answer of runtime error
+2025-10-29 14:01:24,326 - Judge - INFO - 18_7 starting.
+2025-10-29 14:01:24,326 - Judge - DEBUG - Sending command: cd home
+2025-10-29 14:01:24,326 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 14:01:24,326 - Judge - WARNING - Testcode check exception: 18_7: Wrong answer of runtime error
+2025-10-29 14:01:24,326 - Judge - INFO - 18_8 starting.
+2025-10-29 14:01:24,326 - Judge - DEBUG - Sending command: cd ..
+2025-10-29 14:01:24,326 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 14:01:24,326 - Judge - WARNING - Testcode check exception: 18_8: Wrong answer of runtime error
+2025-10-29 14:01:24,327 - Judge - INFO - 18_9 starting.
+2025-10-29 14:01:24,327 - Judge - DEBUG - Sending command: inventory
+2025-10-29 14:01:24,327 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 14:01:24,327 - Judge - WARNING - Testcode check exception: 18_9: Wrong answer of runtime error
+2025-10-29 14:01:24,327 - Judge - INFO - 18_10 starting.
+2025-10-29 14:01:24,328 - Judge - DEBUG - Sending command: cd cave
+2025-10-29 14:01:24,328 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 14:01:24,328 - Judge - WARNING - Testcode check exception: 18_10: Wrong answer of runtime error
+2025-10-29 14:01:24,328 - Judge - INFO - 18_11 starting.
+2025-10-29 14:01:24,330 - Judge - DEBUG - Sending command: inventory
+2025-10-29 14:01:24,330 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 14:01:24,330 - Judge - WARNING - Testcode check exception: 18_11: Wrong answer of runtime error
+2025-10-29 14:01:24,330 - Judge - INFO - 18_12 starting.
+2025-10-29 14:01:24,331 - Judge - DEBUG - Sending command: cd ..
+2025-10-29 14:01:24,331 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 14:01:24,331 - Judge - WARNING - Testcode check exception: 18_12: Wrong answer of runtime error
+2025-10-29 14:01:24,331 - Judge - INFO - 18_13 starting.
+2025-10-29 14:01:24,331 - Judge - DEBUG - Sending command: 3
+2025-10-29 14:01:24,331 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 14:01:24,331 - Judge - WARNING - Testcode check exception: 18_13: Wrong answer of runtime error
+2025-10-29 14:01:24,331 - Judge - INFO - ConsoleManager is not running.
+2025-10-29 14:05:21,472 - Judge - INFO - Preprocessing Batch Project Test.
+2025-10-29 14:05:21,474 - Judge - INFO - ConsoleManager started with PID: 58452
+2025-10-29 14:05:21,475 - Judge - INFO - 18_1 starting.
+2025-10-29 14:05:23,482 - Judge - DEBUG - Got line: [ERROR] Failed to execute goal org.codehaus.mojo:exec-maven-plugin:3.0.0:java (default-cli) on project bashcrawl: An exception occured while executing the Java class. BashCrawl -> [Help 1]
+
+2025-10-29 14:05:23,482 - Judge - DEBUG - Got line: [ERROR] 
+
+2025-10-29 14:05:23,482 - Judge - DEBUG - Got line: [ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+
+2025-10-29 14:05:23,482 - Judge - DEBUG - Got line: [ERROR] Re-run Maven using the -X switch to enable full debug logging.
+
+2025-10-29 14:05:23,482 - Judge - DEBUG - Got line: [ERROR] 
+
+2025-10-29 14:05:23,482 - Judge - DEBUG - Got line: [ERROR] For more information about the errors and possible solutions, please read the following articles:
+
+2025-10-29 14:05:23,482 - Judge - DEBUG - Got line: [ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
+
+2025-10-29 14:05:23,482 - Judge - WARNING - Assertion Error: Answer is not matching, stdout is 
+=== BashCrawl Main Menu ===
+1. Start Game
+2. Help
+3. Quit
+Choose an option (1, 2, or 3):, actually out is [ERROR] Failed to execute goal org.codehaus.mojo:exec-maven-plugin:3.0.0:java (default-cli) on project bashcrawl: An exception occured while executing the Java class. BashCrawl -> [Help 1]
+
+[ERROR] 
+
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+
+[ERROR] 
+
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
+.. Testcase failed.
+2025-10-29 14:05:23,482 - Judge - WARNING - Testcode check exception: 18_1: Wrong answer of assertion
+2025-10-29 14:05:23,482 - Judge - INFO - 18_2 starting.
+2025-10-29 14:05:23,483 - Judge - DEBUG - Sending command: 2
+2025-10-29 14:05:23,483 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 14:05:23,483 - Judge - WARNING - Testcode check exception: 18_2: Wrong answer of runtime error
+2025-10-29 14:05:23,484 - Judge - INFO - 18_3 starting.
+2025-10-29 14:05:23,484 - Judge - DEBUG - Sending command: abc
+2025-10-29 14:05:23,484 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 14:05:23,485 - Judge - WARNING - Testcode check exception: 18_3: Wrong answer of runtime error
+2025-10-29 14:05:23,485 - Judge - INFO - 18_4 starting.
+2025-10-29 14:05:23,485 - Judge - DEBUG - Sending command: 1
+2025-10-29 14:05:23,485 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 14:05:23,485 - Judge - WARNING - Testcode check exception: 18_4: Wrong answer of runtime error
+2025-10-29 14:05:23,486 - Judge - INFO - 18_5 starting.
+2025-10-29 14:05:23,486 - Judge - DEBUG - Sending command: help
+2025-10-29 14:05:23,486 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 14:05:23,486 - Judge - WARNING - Testcode check exception: 18_5: Wrong answer of runtime error
+2025-10-29 14:05:23,486 - Judge - INFO - 18_6 starting.
+2025-10-29 14:05:23,487 - Judge - DEBUG - Sending command: ls
+2025-10-29 14:05:23,487 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 14:05:23,487 - Judge - WARNING - Testcode check exception: 18_6: Wrong answer of runtime error
+2025-10-29 14:05:23,487 - Judge - INFO - 18_7 starting.
+2025-10-29 14:05:23,487 - Judge - DEBUG - Sending command: cd home
+2025-10-29 14:05:23,487 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 14:05:23,488 - Judge - WARNING - Testcode check exception: 18_7: Wrong answer of runtime error
+2025-10-29 14:05:23,488 - Judge - INFO - 18_8 starting.
+2025-10-29 14:05:23,488 - Judge - DEBUG - Sending command: cd ..
+2025-10-29 14:05:23,488 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 14:05:23,488 - Judge - WARNING - Testcode check exception: 18_8: Wrong answer of runtime error
+2025-10-29 14:05:23,488 - Judge - INFO - 18_9 starting.
+2025-10-29 14:05:23,488 - Judge - DEBUG - Sending command: inventory
+2025-10-29 14:05:23,490 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 14:05:23,490 - Judge - WARNING - Testcode check exception: 18_9: Wrong answer of runtime error
+2025-10-29 14:05:23,490 - Judge - INFO - 18_10 starting.
+2025-10-29 14:05:23,491 - Judge - DEBUG - Sending command: cd cave
+2025-10-29 14:05:23,491 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 14:05:23,491 - Judge - WARNING - Testcode check exception: 18_10: Wrong answer of runtime error
+2025-10-29 14:05:23,491 - Judge - INFO - 18_11 starting.
+2025-10-29 14:05:23,491 - Judge - DEBUG - Sending command: inventory
+2025-10-29 14:05:23,491 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 14:05:23,491 - Judge - WARNING - Testcode check exception: 18_11: Wrong answer of runtime error
+2025-10-29 14:05:23,491 - Judge - INFO - 18_12 starting.
+2025-10-29 14:05:23,493 - Judge - DEBUG - Sending command: cd ..
+2025-10-29 14:05:23,493 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 14:05:23,493 - Judge - WARNING - Testcode check exception: 18_12: Wrong answer of runtime error
+2025-10-29 14:05:23,493 - Judge - INFO - 18_13 starting.
+2025-10-29 14:05:23,493 - Judge - DEBUG - Sending command: 3
+2025-10-29 14:05:23,493 - Judge - WARNING - Testcode Runtime exception: [Errno 22] Invalid argument
+2025-10-29 14:05:23,493 - Judge - WARNING - Testcode check exception: 18_13: Wrong answer of runtime error
+2025-10-29 14:05:23,494 - Judge - INFO - ConsoleManager is not running.
+2025-10-29 14:06:29,842 - Judge - INFO - Preprocessing Batch Project Test.
+2025-10-29 14:06:29,844 - Judge - DEBUG - Initiating command: ['mvn.cmd', 'clean', 'package']
+2025-10-29 14:06:34,409 - Judge - INFO - Copy material files from data/material/ to test/20251029/19/.
+2025-10-29 14:06:34,409 - Judge - DEBUG - Processing: 19-Deathlist-Data Check 1.csv
+2025-10-29 14:06:34,434 - Judge - DEBUG - 19-Deathlist-Data Check 1.csv copied.
+2025-10-29 14:06:34,434 - Judge - DEBUG - Processing: 19-Deathlist-Data Check 2.csv
+2025-10-29 14:06:34,454 - Judge - DEBUG - 19-Deathlist-Data Check 2.csv copied.
+2025-10-29 14:06:34,454 - Judge - DEBUG - Processing: 19-Deathlist-Data Check 3.csv
+2025-10-29 14:06:34,475 - Judge - DEBUG - 19-Deathlist-Data Check 3.csv copied.
+2025-10-29 14:06:34,475 - Judge - DEBUG - Processing: 19-Deathlist-Empty File.csv
+2025-10-29 14:06:34,481 - Judge - DEBUG - 19-Deathlist-Empty File.csv copied.
+2025-10-29 14:06:34,481 - Judge - DEBUG - Processing: 19-Deathlist-Standard 1.csv
+2025-10-29 14:06:34,514 - Judge - DEBUG - 19-Deathlist-Standard 1.csv copied.
+2025-10-29 14:06:34,515 - Judge - DEBUG - Processing: 19-Deathlist-Standard 2.csv
+2025-10-29 14:06:34,539 - Judge - DEBUG - 19-Deathlist-Standard 2.csv copied.
+2025-10-29 14:06:34,539 - Judge - DEBUG - Processing: 19-Random data generator.py
+2025-10-29 14:06:34,540 - Judge - DEBUG - 19-Random data generator.py copied.
+2025-10-29 14:06:34,540 - Judge - DEBUG - Processing: 19-Standard Answer 1.png
+2025-10-29 14:06:34,545 - Judge - DEBUG - 19-Standard Answer 1.png copied.
+2025-10-29 14:06:34,545 - Judge - DEBUG - Processing: 19-Standard Answer 2.png
+2025-10-29 14:06:34,552 - Judge - DEBUG - 19-Standard Answer 2.png copied.
+2025-10-29 14:06:35,053 - Judge - INFO - 19_1 starting.
+2025-10-29 14:06:37,502 - Judge - WARNING - Assertion Error: Answer is not matching, stdout is The file 'Deathlist.csv' was not found., actually out is 符号:   方法 setHasAnnotations(boolean)
+位置: 类 org.knowm.xchart.style.CategoryStyler and . Testcase failed.
+2025-10-29 14:06:37,502 - Judge - WARNING - Testcode check exception: 19_1: Wrong answer of assertion
+2025-10-29 14:06:37,502 - Judge - INFO - 19_2 starting.
+2025-10-29 14:06:39,916 - Judge - WARNING - Assertion Error: Answer is not matching, stdout is The dataset is missing the following required columns: Date of death, actually out is 符号:   方法 setHasAnnotations(boolean)
+位置: 类 org.knowm.xchart.style.CategoryStyler and . Testcase failed.
+2025-10-29 14:06:39,917 - Judge - WARNING - Testcode check exception: 19_2: Wrong answer of assertion
+2025-10-29 14:06:39,917 - Judge - INFO - 19_3 starting.
+2025-10-29 14:06:42,414 - Judge - WARNING - Assertion Error: Answer is not matching, stdout is The dataset is empty., actually out is 符号:   方法 setHasAnnotations(boolean)
+位置: 类 org.knowm.xchart.style.CategoryStyler and . Testcase failed.
+2025-10-29 14:06:42,414 - Judge - WARNING - Testcode check exception: 19_3: Wrong answer of assertion
+2025-10-29 14:06:42,415 - Judge - INFO - 19_4 starting.
+2025-10-29 14:06:45,004 - Judge - WARNING - Assertion Error: Answer is not matching, stdout is Warning: Found [number] non-date entries. These will be ignored.
+Histogram saved as 'weekly_deaths_histogram.png'., actually out is 符号:   方法 setHasAnnotations(boolean)
+位置: 类 org.knowm.xchart.style.CategoryStyler and . Testcase failed.
+2025-10-29 14:06:45,004 - Judge - WARNING - Testcode check exception: 19_4: Wrong answer of assertion
+2025-10-29 14:06:45,006 - Judge - INFO - 19_5 starting.
+2025-10-29 14:06:47,357 - Judge - WARNING - Assertion Error: Answer is not matching, stdout is Warning: Found [number] non-date entries. These will be ignored.
+Warning: 2 invalid date entries were found and will be ignored.
+Histogram saved as 'weekly_deaths_histogram.png'., actually out is 符号:   方法 setHasAnnotations(boolean)
+位置: 类 org.knowm.xchart.style.CategoryStyler and . Testcase failed.
+2025-10-29 14:06:47,357 - Judge - WARNING - Testcode check exception: 19_5: Wrong answer of assertion
+2025-10-29 14:06:47,357 - Judge - INFO - 19_6 starting.
+2025-10-29 14:06:49,866 - Judge - WARNING - Testcode Runtime exception: division by zero
+2025-10-29 14:06:49,867 - Judge - WARNING - Testcode check exception: 19_6: Wrong answer of runtime error
+2025-10-29 14:06:49,867 - Judge - INFO - 19_7 starting.
+2025-10-29 14:06:52,278 - Judge - WARNING - Testcode Runtime exception: division by zero
+2025-10-29 14:06:52,278 - Judge - WARNING - Testcode check exception: 19_7: Wrong answer of runtime error
+2025-10-29 14:06:52,279 - Judge - INFO - JavaFileManager is not running.
+2025-10-29 14:08:54,136 - Judge - INFO - Preprocessing Batch Project Test.
+2025-10-29 14:08:54,136 - Judge - DEBUG - Initiating command: ['mvn.cmd', 'clean', 'package']
+2025-10-29 14:08:56,511 - Judge - INFO - Copy material files from data/material/ to test/20251029/19/.
+2025-10-29 14:08:56,511 - Judge - DEBUG - Processing: 19-Deathlist-Data Check 1.csv
+2025-10-29 14:08:56,512 - Judge - DEBUG - 19-Deathlist-Data Check 1.csv copied.
+2025-10-29 14:08:56,512 - Judge - DEBUG - Processing: 19-Deathlist-Data Check 2.csv
+2025-10-29 14:08:56,513 - Judge - DEBUG - 19-Deathlist-Data Check 2.csv copied.
+2025-10-29 14:08:56,514 - Judge - DEBUG - Processing: 19-Deathlist-Data Check 3.csv
+2025-10-29 14:08:56,515 - Judge - DEBUG - 19-Deathlist-Data Check 3.csv copied.
+2025-10-29 14:08:56,515 - Judge - DEBUG - Processing: 19-Deathlist-Empty File.csv
+2025-10-29 14:08:56,516 - Judge - DEBUG - 19-Deathlist-Empty File.csv copied.
+2025-10-29 14:08:56,516 - Judge - DEBUG - Processing: 19-Deathlist-Standard 1.csv
+2025-10-29 14:08:56,537 - Judge - DEBUG - 19-Deathlist-Standard 1.csv copied.
+2025-10-29 14:08:56,537 - Judge - DEBUG - Processing: 19-Deathlist-Standard 2.csv
+2025-10-29 14:08:56,538 - Judge - DEBUG - 19-Deathlist-Standard 2.csv copied.
+2025-10-29 14:08:56,538 - Judge - DEBUG - Processing: 19-Random data generator.py
+2025-10-29 14:08:56,539 - Judge - DEBUG - 19-Random data generator.py copied.
+2025-10-29 14:08:56,539 - Judge - DEBUG - Processing: 19-Standard Answer 1.png
+2025-10-29 14:08:56,539 - Judge - DEBUG - 19-Standard Answer 1.png copied.
+2025-10-29 14:08:56,539 - Judge - DEBUG - Processing: 19-Standard Answer 2.png
+2025-10-29 14:08:56,539 - Judge - DEBUG - 19-Standard Answer 2.png copied.
+2025-10-29 14:08:57,041 - Judge - INFO - 19_1 starting.
+2025-10-29 14:08:59,011 - Judge - INFO - 19_1 passed.
+2025-10-29 14:08:59,011 - Judge - INFO - 19_2 starting.
+2025-10-29 14:09:01,083 - Judge - INFO - 19_2 passed.
+2025-10-29 14:09:01,083 - Judge - INFO - 19_3 starting.
+2025-10-29 14:09:03,128 - Judge - INFO - 19_3 passed.
+2025-10-29 14:09:03,128 - Judge - INFO - 19_4 starting.
+2025-10-29 14:09:05,218 - Judge - WARNING - Assertion Error: Answer is not matching, stdout is Warning: Found [number] non-date entries. These will be ignored.
+Histogram saved as 'weekly_deaths_histogram.png'., actually out is Warning: Found 5000 nondate entries. These will be ignored.
+The dataset contains no valid 'Date of death' entries after cleaning. and . Testcase failed.
+2025-10-29 14:09:05,219 - Judge - WARNING - Testcode check exception: 19_4: Wrong answer of assertion
+2025-10-29 14:09:05,219 - Judge - INFO - 19_5 starting.
+2025-10-29 14:09:07,494 - Judge - WARNING - Assertion Error: Answer is not matching, stdout is Warning: Found [number] non-date entries. These will be ignored.
+Warning: 2 invalid date entries were found and will be ignored.
+Histogram saved as 'weekly_deaths_histogram.png'., actually out is Warning: Found 10000 nondate entries. These will be ignored.
+The dataset contains no valid 'Date of death' entries after cleaning. and . Testcase failed.
+2025-10-29 14:09:07,494 - Judge - WARNING - Testcode check exception: 19_5: Wrong answer of assertion
+2025-10-29 14:09:07,494 - Judge - INFO - 19_6 starting.
+2025-10-29 14:09:12,603 - Judge - WARNING - Timeout Error: Function test_RunProject (args=()) (kwargs={'entry': 'start.py', 'image_name': 'weekly_deaths_histogram.png'}) timed out after 5.000000 seconds.
+
+2025-10-29 14:09:12,603 - Judge - WARNING - Testcode check exception: 19_6: Wrong answer of timeout
+2025-10-29 14:09:12,603 - Judge - INFO - 19_7 starting.
+2025-10-29 14:09:12,604 - Judge - WARNING - Testcode Runtime exception: [WinError 183] 当文件已存在时，无法创建该文件。: '19-Deathlist-Standard 2.csv' -> 'Deathlist.csv'
+2025-10-29 14:09:12,604 - Judge - WARNING - Testcode check exception: 19_7: Wrong answer of runtime error
+2025-10-29 14:09:12,604 - Judge - INFO - JavaFileManager is not running.
+2025-10-29 14:11:15,692 - Judge - INFO - Preprocessing Batch Project Test.
+2025-10-29 14:11:15,693 - Judge - DEBUG - Initiating command: ['mvn.cmd', 'clean', 'package']
+2025-10-29 14:11:18,107 - Judge - INFO - Copy material files from data/material/ to test/20251029/19/.
+2025-10-29 14:11:18,107 - Judge - DEBUG - Processing: 19-Deathlist-Data Check 1.csv
+2025-10-29 14:11:18,108 - Judge - DEBUG - 19-Deathlist-Data Check 1.csv copied.
+2025-10-29 14:11:18,109 - Judge - DEBUG - Processing: 19-Deathlist-Data Check 2.csv
+2025-10-29 14:11:18,110 - Judge - DEBUG - 19-Deathlist-Data Check 2.csv copied.
+2025-10-29 14:11:18,110 - Judge - DEBUG - Processing: 19-Deathlist-Data Check 3.csv
+2025-10-29 14:11:18,113 - Judge - DEBUG - 19-Deathlist-Data Check 3.csv copied.
+2025-10-29 14:11:18,113 - Judge - DEBUG - Processing: 19-Deathlist-Empty File.csv
+2025-10-29 14:11:18,114 - Judge - DEBUG - 19-Deathlist-Empty File.csv copied.
+2025-10-29 14:11:18,114 - Judge - DEBUG - Processing: 19-Deathlist-Standard 1.csv
+2025-10-29 14:11:18,133 - Judge - DEBUG - 19-Deathlist-Standard 1.csv copied.
+2025-10-29 14:11:18,133 - Judge - DEBUG - Processing: 19-Deathlist-Standard 2.csv
+2025-10-29 14:11:18,136 - Judge - DEBUG - 19-Deathlist-Standard 2.csv copied.
+2025-10-29 14:11:18,136 - Judge - DEBUG - Processing: 19-Random data generator.py
+2025-10-29 14:11:18,137 - Judge - DEBUG - 19-Random data generator.py copied.
+2025-10-29 14:11:18,137 - Judge - DEBUG - Processing: 19-Standard Answer 1.png
+2025-10-29 14:11:18,137 - Judge - DEBUG - 19-Standard Answer 1.png copied.
+2025-10-29 14:11:18,137 - Judge - DEBUG - Processing: 19-Standard Answer 2.png
+2025-10-29 14:11:18,137 - Judge - DEBUG - 19-Standard Answer 2.png copied.
+2025-10-29 14:11:18,638 - Judge - INFO - 19_1 starting.
+2025-10-29 14:11:20,707 - Judge - INFO - 19_1 passed.
+2025-10-29 14:11:20,707 - Judge - INFO - 19_2 starting.
+2025-10-29 14:11:22,803 - Judge - INFO - 19_2 passed.
+2025-10-29 14:11:22,804 - Judge - INFO - 19_3 starting.
+2025-10-29 14:11:24,832 - Judge - INFO - 19_3 passed.
+2025-10-29 14:11:24,832 - Judge - INFO - 19_4 starting.
+2025-10-29 14:11:27,263 - Judge - INFO - 19_4 passed.
+2025-10-29 14:11:27,264 - Judge - INFO - 19_5 starting.
+2025-10-29 14:11:30,007 - Judge - WARNING - Assertion Error: Answer is not matching, stdout is Warning: Found [number] non-date entries. These will be ignored.
+Warning: 2 invalid date entries were found and will be ignored.
+Histogram saved as 'weekly_deaths_histogram.png'., actually out is Warning: Found 2 nondate entries. These will be ignored.
+Histogram saved as 'weekly_deaths_histogram.png'. and . Testcase failed.
+2025-10-29 14:11:30,007 - Judge - WARNING - Testcode check exception: 19_5: Wrong answer of assertion
+2025-10-29 14:11:30,007 - Judge - INFO - 19_6 starting.
+2025-10-29 14:11:35,119 - Judge - WARNING - Timeout Error: Function test_RunProject (args=()) (kwargs={'entry': 'start.py', 'image_name': 'weekly_deaths_histogram.png'}) timed out after 5.000000 seconds.
+
+2025-10-29 14:11:35,119 - Judge - WARNING - Testcode check exception: 19_6: Wrong answer of timeout
+2025-10-29 14:11:35,119 - Judge - INFO - 19_7 starting.
+2025-10-29 14:11:35,120 - Judge - WARNING - Testcode Runtime exception: [WinError 183] 当文件已存在时，无法创建该文件。: '19-Deathlist-Standard 2.csv' -> 'Deathlist.csv'
+2025-10-29 14:11:35,120 - Judge - WARNING - Testcode check exception: 19_7: Wrong answer of runtime error
+2025-10-29 14:11:35,120 - Judge - INFO - JavaFileManager is not running.
+2025-10-29 14:14:43,180 - Judge - INFO - Preprocessing Batch Project Test.
+2025-10-29 14:14:43,180 - Judge - DEBUG - Initiating command: ['mvn.cmd', 'clean', 'package']
+2025-10-29 14:14:45,501 - Judge - INFO - Copy material files from data/material/ to test/20251029/19/.
+2025-10-29 14:14:45,501 - Judge - DEBUG - Processing: 19-Deathlist-Data Check 1.csv
+2025-10-29 14:14:45,503 - Judge - DEBUG - 19-Deathlist-Data Check 1.csv copied.
+2025-10-29 14:14:45,503 - Judge - DEBUG - Processing: 19-Deathlist-Data Check 2.csv
+2025-10-29 14:14:45,504 - Judge - DEBUG - 19-Deathlist-Data Check 2.csv copied.
+2025-10-29 14:14:45,504 - Judge - DEBUG - Processing: 19-Deathlist-Data Check 3.csv
+2025-10-29 14:14:45,506 - Judge - DEBUG - 19-Deathlist-Data Check 3.csv copied.
+2025-10-29 14:14:45,506 - Judge - DEBUG - Processing: 19-Deathlist-Empty File.csv
+2025-10-29 14:14:45,506 - Judge - DEBUG - 19-Deathlist-Empty File.csv copied.
+2025-10-29 14:14:45,506 - Judge - DEBUG - Processing: 19-Deathlist-Standard 1.csv
+2025-10-29 14:14:45,526 - Judge - DEBUG - 19-Deathlist-Standard 1.csv copied.
+2025-10-29 14:14:45,526 - Judge - DEBUG - Processing: 19-Deathlist-Standard 2.csv
+2025-10-29 14:14:45,528 - Judge - DEBUG - 19-Deathlist-Standard 2.csv copied.
+2025-10-29 14:14:45,528 - Judge - DEBUG - Processing: 19-Random data generator.py
+2025-10-29 14:14:45,529 - Judge - DEBUG - 19-Random data generator.py copied.
+2025-10-29 14:14:45,529 - Judge - DEBUG - Processing: 19-Standard Answer 1.png
+2025-10-29 14:14:45,529 - Judge - DEBUG - 19-Standard Answer 1.png copied.
+2025-10-29 14:14:45,529 - Judge - DEBUG - Processing: 19-Standard Answer 2.png
+2025-10-29 14:14:45,530 - Judge - DEBUG - 19-Standard Answer 2.png copied.
+2025-10-29 14:14:46,031 - Judge - INFO - 19_1 starting.
+2025-10-29 14:14:48,043 - Judge - INFO - 19_1 passed.
+2025-10-29 14:14:48,044 - Judge - INFO - 19_2 starting.
+2025-10-29 14:14:50,104 - Judge - INFO - 19_2 passed.
+2025-10-29 14:14:50,104 - Judge - INFO - 19_3 starting.
+2025-10-29 14:14:52,208 - Judge - INFO - 19_3 passed.
+2025-10-29 14:14:52,208 - Judge - INFO - 19_4 starting.
+2025-10-29 14:14:54,517 - Judge - INFO - 19_4 passed.
+2025-10-29 14:14:54,517 - Judge - INFO - 19_5 starting.
+2025-10-29 14:14:57,204 - Judge - WARNING - Assertion Error: Answer is not matching, stdout is Warning: Found [number] non-date entries. These will be ignored.
+Warning: 2 invalid date entries were found and will be ignored.
+Histogram saved as 'weekly_deaths_histogram.png'., actually out is Warning: Found 2 nondate entries. These will be ignored.
+Histogram saved as 'weekly_deaths_histogram.png'. and . Testcase failed.
+2025-10-29 14:14:57,204 - Judge - WARNING - Testcode check exception: 19_5: Wrong answer of assertion
+2025-10-29 14:14:57,204 - Judge - INFO - 19_6 starting.
+2025-10-29 14:15:02,326 - Judge - WARNING - Timeout Error: Function test_RunProject (args=()) (kwargs={'entry': 'start.py', 'image_name': 'weekly_deaths_histogram.png'}) timed out after 5.000000 seconds.
+
+2025-10-29 14:15:02,326 - Judge - WARNING - Testcode check exception: 19_6: Wrong answer of timeout
+2025-10-29 14:15:02,326 - Judge - INFO - 19_7 starting.
+2025-10-29 14:15:02,327 - Judge - WARNING - Testcode Runtime exception: [WinError 183] 当文件已存在时，无法创建该文件。: '19-Deathlist-Standard 2.csv' -> 'Deathlist.csv'
+2025-10-29 14:15:02,327 - Judge - WARNING - Testcode check exception: 19_7: Wrong answer of runtime error
+2025-10-29 14:15:02,327 - Judge - INFO - JavaFileManager is not running.
+2025-10-29 14:17:19,003 - Judge - INFO - Preprocessing Batch Project Test.
+2025-10-29 14:17:19,004 - Judge - DEBUG - Initiating command: ['mvn.cmd', 'clean', 'package']
+2025-10-29 14:17:20,821 - Judge - INFO - Copy material files from data/material/ to test/20251029/19/.
+2025-10-29 14:17:20,821 - Judge - DEBUG - Processing: 19-Deathlist-Data Check 1.csv
+2025-10-29 14:17:20,824 - Judge - DEBUG - 19-Deathlist-Data Check 1.csv copied.
+2025-10-29 14:17:20,824 - Judge - DEBUG - Processing: 19-Deathlist-Data Check 2.csv
+2025-10-29 14:17:20,826 - Judge - DEBUG - 19-Deathlist-Data Check 2.csv copied.
+2025-10-29 14:17:20,826 - Judge - DEBUG - Processing: 19-Deathlist-Data Check 3.csv
+2025-10-29 14:17:20,828 - Judge - DEBUG - 19-Deathlist-Data Check 3.csv copied.
+2025-10-29 14:17:20,828 - Judge - DEBUG - Processing: 19-Deathlist-Empty File.csv
+2025-10-29 14:17:20,830 - Judge - DEBUG - 19-Deathlist-Empty File.csv copied.
+2025-10-29 14:17:20,830 - Judge - DEBUG - Processing: 19-Deathlist-Standard 1.csv
+2025-10-29 14:17:20,853 - Judge - DEBUG - 19-Deathlist-Standard 1.csv copied.
+2025-10-29 14:17:20,853 - Judge - DEBUG - Processing: 19-Deathlist-Standard 2.csv
+2025-10-29 14:17:20,856 - Judge - DEBUG - 19-Deathlist-Standard 2.csv copied.
+2025-10-29 14:17:20,856 - Judge - DEBUG - Processing: 19-Random data generator.py
+2025-10-29 14:17:20,857 - Judge - DEBUG - 19-Random data generator.py copied.
+2025-10-29 14:17:20,857 - Judge - DEBUG - Processing: 19-Standard Answer 1.png
+2025-10-29 14:17:20,857 - Judge - DEBUG - 19-Standard Answer 1.png copied.
+2025-10-29 14:17:20,857 - Judge - DEBUG - Processing: 19-Standard Answer 2.png
+2025-10-29 14:17:20,858 - Judge - DEBUG - 19-Standard Answer 2.png copied.
+2025-10-29 14:17:21,360 - Judge - INFO - 19_1 starting.
+2025-10-29 14:17:23,683 - Judge - WARNING - Assertion Error: Answer is not matching, stdout is The file 'Deathlist.csv' was not found., actually out is java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配 and . Testcase failed.
+2025-10-29 14:17:23,684 - Judge - WARNING - Testcode check exception: 19_1: Wrong answer of assertion
+2025-10-29 14:17:23,684 - Judge - INFO - 19_2 starting.
+2025-10-29 14:17:25,964 - Judge - WARNING - Assertion Error: Answer is not matching, stdout is The dataset is missing the following required columns: Date of death, actually out is java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配 and . Testcase failed.
+2025-10-29 14:17:25,965 - Judge - WARNING - Testcode check exception: 19_2: Wrong answer of assertion
+2025-10-29 14:17:25,965 - Judge - INFO - 19_3 starting.
+2025-10-29 14:17:28,287 - Judge - WARNING - Assertion Error: Answer is not matching, stdout is The dataset is empty., actually out is java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配 and . Testcase failed.
+2025-10-29 14:17:28,287 - Judge - WARNING - Testcode check exception: 19_3: Wrong answer of assertion
+2025-10-29 14:17:28,287 - Judge - INFO - 19_4 starting.
+2025-10-29 14:17:30,964 - Judge - WARNING - Assertion Error: Answer is not matching, stdout is Warning: Found [number] non-date entries. These will be ignored.
+Histogram saved as 'weekly_deaths_histogram.png'., actually out is java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配 and . Testcase failed.
+2025-10-29 14:17:30,965 - Judge - WARNING - Testcode check exception: 19_4: Wrong answer of assertion
+2025-10-29 14:17:30,965 - Judge - INFO - 19_5 starting.
+2025-10-29 14:17:33,776 - Judge - WARNING - Assertion Error: Answer is not matching, stdout is Warning: Found [number] non-date entries. These will be ignored.
+Warning: 2 invalid date entries were found and will be ignored.
+Histogram saved as 'weekly_deaths_histogram.png'., actually out is java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配 and . Testcase failed.
+2025-10-29 14:17:33,776 - Judge - WARNING - Testcode check exception: 19_5: Wrong answer of assertion
+2025-10-29 14:17:33,776 - Judge - INFO - 19_6 starting.
+2025-10-29 14:17:36,720 - Judge - WARNING - Testcode Runtime exception: division by zero
+2025-10-29 14:17:36,720 - Judge - WARNING - Testcode check exception: 19_6: Wrong answer of runtime error
+2025-10-29 14:17:36,720 - Judge - INFO - 19_7 starting.
+2025-10-29 14:17:39,850 - Judge - WARNING - Testcode Runtime exception: division by zero
+2025-10-29 14:17:39,850 - Judge - WARNING - Testcode check exception: 19_7: Wrong answer of runtime error
+2025-10-29 14:17:39,850 - Judge - INFO - JavaFileManager is not running.

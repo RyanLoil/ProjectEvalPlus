@@ -1,0 +1,2765 @@
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,1,1,True,,,View Introduction
+renew_js,gpt-oss-20b,direct,20251018-123000,3,1,2,True,,,Navigation to Calculator
+renew_js,gpt-oss-20b,direct,20251018-123000,3,1,3,True,,,Input Height
+renew_js,gpt-oss-20b,direct,20251018-123000,3,1,4,True,,,Input Weight
+renew_js,gpt-oss-20b,direct,20251018-123000,3,1,5,True,,,Submit Data
+renew_js,gpt-oss-20b,direct,20251018-123000,3,1,6,True,,,Display BMI Result
+renew_js,gpt-oss-20b,direct,20251018-123000,3,1,7,True,,,Display BMI Category
+renew_js,gpt-oss-20b,direct,20251018-123000,3,1,8,True,,,Provide Interpretation
+renew_js,gpt-oss-20b,direct,20251018-123000,3,1,9,True,,,Reset Form
+renew_js,gpt-oss-20b,direct,20251018-123000,3,1,10,True,,,Link to Health Advice
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,2,1,True,,,Select Source Currency
+renew_js,gpt-oss-20b,direct,20251018-123000,3,2,2,True,,,Select Target Currency
+renew_js,gpt-oss-20b,direct,20251018-123000,3,2,3,True,,,Enter Amount
+renew_js,gpt-oss-20b,direct,20251018-123000,3,2,4,True,,,Convert Button
+renew_js,gpt-oss-20b,direct,20251018-123000,3,2,5,True,,,Display Conversion Result
+renew_js,gpt-oss-20b,direct,20251018-123000,3,2,6,True,,,Exchange Rate Info
+renew_js,gpt-oss-20b,direct,20251018-123000,3,2,7,True,,,Currency Information
+renew_js,gpt-oss-20b,direct,20251018-123000,3,2,8,True,,,Historical Exchange Rates
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,3,1,True,,,Display Welcome Message
+renew_js,gpt-oss-20b,direct,20251018-123000,3,3,2,True,,,Navigation Button
+renew_js,gpt-oss-20b,direct,20251018-123000,3,3,3,True,,,Length Input
+renew_js,gpt-oss-20b,direct,20251018-123000,3,3,4,True,,,Include Uppercase
+renew_js,gpt-oss-20b,direct,20251018-123000,3,3,5,True,,,Include Lowercase
+renew_js,gpt-oss-20b,direct,20251018-123000,3,3,6,True,,,Include Numbers
+renew_js,gpt-oss-20b,direct,20251018-123000,3,3,7,True,,,Include Symbols
+renew_js,gpt-oss-20b,direct,20251018-123000,3,3,8,True,,,Generate Button
+renew_js,gpt-oss-20b,direct,20251018-123000,3,3,9,True,,,Display Password
+renew_js,gpt-oss-20b,direct,20251018-123000,3,3,10,True,,,Rule Check 1
+renew_js,gpt-oss-20b,direct,20251018-123000,3,3,11,False,runtime error,Copy failed.,Copy to Clipboard
+renew_js,gpt-oss-20b,direct,20251018-123000,3,3,12,True,,,Generate Another Password
+renew_js,gpt-oss-20b,direct,20251018-123000,3,3,13,True,,,Rule Check 2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,3,14,True,,,About Link
+renew_js,gpt-oss-20b,direct,20251018-123000,3,3,15,True,,,Description
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,1,True,,,Introduction
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,2,False,assertion,,Generate QR Code Navigate Button
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,3,True,,,Text Input Field
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,4,True,,,Enter Box Size
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,5,True,,,Enter Border Size
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,6,True,,,Select Fill Color
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,7,True,,,Select Back Color
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,8,True,,,Select Error Correction Rate
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,9,True,,,Generate Button
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,10,True,,,QR Code Display Area
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,11,True,,,Download QR Code Button
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,12,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":"".error-message""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Error Handling
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,13,True,,,Description
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,14,True,,,Common Questions
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,15,True,,,Privacy Policy
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,16,True,,,Terms of Service
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,1,True,,,Introduction
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,2,True,,,Generate QR Code Navigate Button
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,3,True,,,Text Input Field
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,4,True,,,Enter Box Size
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,5,True,,,Enter Border Size
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,6,True,,,Select Fill Color
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,7,True,,,Select Back Color
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,8,True,,,Select Error Correction Rate
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,9,True,,,Generate Button
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,10,True,,,QR Code Display Area
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,11,True,,,Download QR Code Button
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,12,True,,,Error Handling
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,13,True,,,Description
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,14,True,,,Common Questions
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,15,True,,,Privacy Policy
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,16,True,,,Terms of Service
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,5,1,True,,,Welcome Message
+renew_js,gpt-oss-20b,direct,20251018-123000,3,5,2,True,,,Introduction to Converter
+renew_js,gpt-oss-20b,direct,20251018-123000,3,5,3,True,,,Navigation Links
+renew_js,gpt-oss-20b,direct,20251018-123000,3,5,4,True,,,Markdown Input Area
+renew_js,gpt-oss-20b,direct,20251018-123000,3,5,5,True,,,Convert Button
+renew_js,gpt-oss-20b,direct,20251018-123000,3,5,6,True,,,HTML Output Area
+renew_js,gpt-oss-20b,direct,20251018-123000,3,5,7,True,,,Rule Check 1
+renew_js,gpt-oss-20b,direct,20251018-123000,3,5,8,True,,,Upload File
+renew_js,gpt-oss-20b,direct,20251018-123000,3,5,9,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""download_html""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Download HTML
+renew_js,gpt-oss-20b,direct,20251018-123000,3,5,10,False,assertion,,Rule Check 2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,5,11,True,,,Team Information
+renew_js,gpt-oss-20b,direct,20251018-123000,3,5,12,True,,,FAQ Section
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,1,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""dashboard-link""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",View Dashboard
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,2,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""navigate-todo-lists""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Navigate to Todo Lists
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,3,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""title""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Create New List
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,4,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":"".todo-list-selector""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",View Tasks
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,5,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""title""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Add New Task
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,6,False,runtime error,list index out of range,Edit Task
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,7,False,runtime error,list index out of range,Mark Task as Completed
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,8,False,runtime error,list index out of range,Delete Task
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,9,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""title""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Add New Task 2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,10,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""title""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Add New Task 3
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,11,False,assertion,,View Task 2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,12,False,runtime error,list index out of range,Mark Task as Completed 2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,13,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""return""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Return to Todolists
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,14,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""return""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Return to Homepage
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,15,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""taskCompletionChart""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",View Task Completion Chart
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,16,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""taskDistributionChart""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",View Task Distribution Chart
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,17,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""return""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Return to Homepage 2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,18,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//li[contains(text(),'New List')]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Edit List
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,19,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//li[contains(text(),'Edited List')]/a/button[contains(@class,'todo-list-delete')]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Delete List
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,1,True,,,View Dashboard
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,2,True,,,Navigate to Todo Lists
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,3,True,,,Create New List
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,4,True,,,View Tasks
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,5,True,,,Add New Task
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,6,True,,,Edit Task
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,7,True,,,Mark Task as Completed
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,8,True,,,Delete Task
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,9,True,,,Add New Task 2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,10,True,,,Add New Task 3
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,11,True,,,View Task 2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,12,True,,,Mark Task as Completed 2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,13,True,,,Return to Todolists
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,14,True,,,Return to Homepage
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,15,True,,,View Task Completion Chart
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,16,True,,,View Task Distribution Chart
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,17,True,,,Return to Homepage 2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,18,True,,,Edit List
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,19,True,,,Delete List
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,7,1,True,,,View Home
+renew_js,gpt-oss-20b,direct,20251018-123000,3,7,2,True,,,User Check 1
+renew_js,gpt-oss-20b,direct,20251018-123000,3,7,3,True,,,View Dashboard 1
+renew_js,gpt-oss-20b,direct,20251018-123000,3,7,4,True,,,View Settings
+renew_js,gpt-oss-20b,direct,20251018-123000,3,7,5,True,,,View Chart
+renew_js,gpt-oss-20b,direct,20251018-123000,3,7,6,False,assertion,,Sign Up
+renew_js,gpt-oss-20b,direct,20251018-123000,3,7,7,True,,,User Login
+renew_js,gpt-oss-20b,direct,20251018-123000,3,7,8,True,,,View Dashboard 2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,7,9,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""category_name""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Add Category
+renew_js,gpt-oss-20b,direct,20251018-123000,3,7,10,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'Travel-Test') or @value='Travel-Test']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Edit Category
+renew_js,gpt-oss-20b,direct,20251018-123000,3,7,11,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'Travel-Delete') or @value='Travel-Delete']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Delete Category
+renew_js,gpt-oss-20b,direct,20251018-123000,3,7,12,False,assertion,,List Category
+renew_js,gpt-oss-20b,direct,20251018-123000,3,7,13,True,,,Add Transaction
+renew_js,gpt-oss-20b,direct,20251018-123000,3,7,14,True,,,Edit Transaction
+renew_js,gpt-oss-20b,direct,20251018-123000,3,7,15,True,,,Delete Transaction
+renew_js,gpt-oss-20b,direct,20251018-123000,3,7,16,True,,,Filter Transactions
+renew_js,gpt-oss-20b,direct,20251018-123000,3,7,17,True,,,View Balance Chart
+renew_js,gpt-oss-20b,direct,20251018-123000,3,7,18,True,,,View Balance Structure Chart
+renew_js,gpt-oss-20b,direct,20251018-123000,3,7,19,False,assertion,Summary not correct,Generate Monthly Report
+renew_js,gpt-oss-20b,direct,20251018-123000,3,7,20,True,,,Export Data
+renew_js,gpt-oss-20b,direct,20251018-123000,3,7,21,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""name""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Update Profile
+renew_js,gpt-oss-20b,direct,20251018-123000,3,7,22,True,,,View FAQs
+renew_js,gpt-oss-20b,direct,20251018-123000,3,7,23,True,,,Contact Support
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,8,1,True,,,View Current Date
+renew_js,gpt-oss-20b,direct,20251018-123000,3,8,2,True,,,Quick Access to Calendar
+renew_js,gpt-oss-20b,direct,20251018-123000,3,8,3,True,,,View Calendar
+renew_js,gpt-oss-20b,direct,20251018-123000,3,8,4,True,,,Add Event
+renew_js,gpt-oss-20b,direct,20251018-123000,3,8,5,True,,,Switch Month
+renew_js,gpt-oss-20b,direct,20251018-123000,3,8,6,True,,,Add Event Page Back Home
+renew_js,gpt-oss-20b,direct,20251018-123000,3,8,7,True,,,List All Events
+renew_js,gpt-oss-20b,direct,20251018-123000,3,8,8,True,,,Edit Event
+renew_js,gpt-oss-20b,direct,20251018-123000,3,8,9,True,,,Delete Event
+renew_js,gpt-oss-20b,direct,20251018-123000,3,8,10,True,,,Search Events
+renew_js,gpt-oss-20b,direct,20251018-123000,3,8,11,True,,,View Event Details 1
+renew_js,gpt-oss-20b,direct,20251018-123000,3,8,12,True,,,View Event Details 2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,8,13,True,,,Event Detail Page Back
+renew_js,gpt-oss-20b,direct,20251018-123000,3,8,14,True,,,FAQ
+renew_js,gpt-oss-20b,direct,20251018-123000,3,8,15,True,,,FAQs Back Home
+renew_js,gpt-oss-20b,direct,20251018-123000,3,8,16,True,,,User Guide
+renew_js,gpt-oss-20b,direct,20251018-123000,3,8,17,True,,,User Guide Back Home Test
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,9,1,True,,,Read Product Overview
+renew_js,gpt-oss-20b,direct,20251018-123000,3,9,2,True,,,List Key Features
+renew_js,gpt-oss-20b,direct,20251018-123000,3,9,3,True,,,Features Back Home
+renew_js,gpt-oss-20b,direct,20251018-123000,3,9,4,True,,,View Pricing Plans
+renew_js,gpt-oss-20b,direct,20251018-123000,3,9,5,True,,,Contact Sales
+renew_js,gpt-oss-20b,direct,20251018-123000,3,9,6,True,,,Contact Sales Back
+renew_js,gpt-oss-20b,direct,20251018-123000,3,9,7,True,,,Pricing Back Home
+renew_js,gpt-oss-20b,direct,20251018-123000,3,9,8,True,,,Company Background
+renew_js,gpt-oss-20b,direct,20251018-123000,3,9,9,True,,,About Back Home
+renew_js,gpt-oss-20b,direct,20251018-123000,3,9,10,True,,,FAQ
+renew_js,gpt-oss-20b,direct,20251018-123000,3,9,11,True,,,Support Message
+renew_js,gpt-oss-20b,direct,20251018-123000,3,9,12,True,,,Support Back Home
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,11,1,True,,,Display Welcome Message
+renew_js,gpt-oss-20b,direct,20251018-123000,3,11,2,False,assertion,page turned into about page,Navigation Link
+renew_js,gpt-oss-20b,direct,20251018-123000,3,11,3,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_json_file""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Upload File1
+renew_js,gpt-oss-20b,direct,20251018-123000,3,11,4,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_json_file""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Upload File2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,11,5,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'Project 4') or @value='Project 4']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Test Code Review1
+renew_js,gpt-oss-20b,direct,20251018-123000,3,11,6,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'Project 4') or @value='Project 4']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Test Code Review2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,11,7,True,,,Test Description
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,11,1,True,,,Display Welcome Message
+renew_js,gpt-oss-20b,direct,20251018-123000,3,11,2,False,assertion,page turned into about page,Navigation Link
+renew_js,gpt-oss-20b,direct,20251018-123000,3,11,3,True,,,Upload File1
+renew_js,gpt-oss-20b,direct,20251018-123000,3,11,4,True,,,Upload File2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,11,5,False,runtime error,"Message: element not interactable
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	(No symbol) [0x0x7ff6019c1149]
+	(No symbol) [0x0x7ff601a0ba07]
+	(No symbol) [0x0x7ff601a0a405]
+	(No symbol) [0x0x7ff601a3212a]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a0652d]
+	(No symbol) [0x0x7ff601a323e0]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Test Code Review1
+renew_js,gpt-oss-20b,direct,20251018-123000,3,11,6,False,runtime error,"Message: element not interactable
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	(No symbol) [0x0x7ff6019c1149]
+	(No symbol) [0x0x7ff601a0ba07]
+	(No symbol) [0x0x7ff601a0a405]
+	(No symbol) [0x0x7ff601a3212a]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a0652d]
+	(No symbol) [0x0x7ff601a323e0]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Test Code Review2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,11,7,True,,,Test Description
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,1,True,,,View Home
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,2,False,assertion,,Add Customer
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,3,False,assertion,,Add Customer2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,4,False,assertion,,Add Customer3
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,5,False,assertion,,Add Customer4
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,6,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'Joe') or @value='Joe']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Edit Customer
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,7,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'Amy') or @value='Amy']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Delete Customer
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,8,True,,,Add Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,9,True,,,Add Product2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,10,True,,,Add Product3
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,11,True,,,Add Product4
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,12,True,,,Edit Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,13,True,,,Delete Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,14,False,assertion,,Add Purchase Record
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,15,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""add_purchase_record""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Add Purchase Record2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,16,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""add_purchase_record""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Add Purchase Record3
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,17,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""add_purchase_record""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Add Purchase Record4
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,18,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'30') or @value='30']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Edit Purchase Record
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,19,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'Lisa') or @value='Lisa']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Delete Purchase Record
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,20,False,assertion,,Add Preferred Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,21,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'Mike') or @value='Mike']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Edit Preferred Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,22,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'Jane') or @value='Jane']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Delete Preferred Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,23,True,,,Generate Sales Report
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,24,True,,,Product Performance Analysis
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,1,True,,,View Home
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,2,False,assertion,,Add Customer
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,3,False,assertion,,Add Customer2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,4,False,assertion,,Add Customer3
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,5,False,assertion,,Add Customer4
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,6,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'Joe') or @value='Joe']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Edit Customer
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,7,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'Amy') or @value='Amy']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Delete Customer
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,8,True,,,Add Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,9,True,,,Add Product2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,10,True,,,Add Product3
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,11,True,,,Add Product4
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,12,True,,,Edit Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,13,True,,,Delete Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,14,False,assertion,,Add Purchase Record
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,15,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""add_purchase_record""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Add Purchase Record2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,16,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""add_purchase_record""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Add Purchase Record3
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,17,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""add_purchase_record""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Add Purchase Record4
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,18,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'30') or @value='30']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Edit Purchase Record
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,19,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'Lisa') or @value='Lisa']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Delete Purchase Record
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,20,False,assertion,,Add Preferred Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,21,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'Mike') or @value='Mike']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Edit Preferred Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,22,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'Jane') or @value='Jane']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Delete Preferred Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,23,True,,,Generate Sales Report
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,24,True,,,Product Performance Analysis
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,1,True,,,View Home
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,2,False,assertion,,Add Customer
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,3,False,assertion,,Add Customer2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,4,False,assertion,,Add Customer3
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,5,False,assertion,,Add Customer4
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,6,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'Joe') or @value='Joe']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Edit Customer
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,7,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'Amy') or @value='Amy']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Delete Customer
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,8,True,,,Add Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,9,True,,,Add Product2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,10,True,,,Add Product3
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,11,True,,,Add Product4
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,12,True,,,Edit Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,13,True,,,Delete Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,14,False,assertion,,Add Purchase Record
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,15,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""add_purchase_record""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Add Purchase Record2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,16,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""add_purchase_record""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Add Purchase Record3
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,17,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""add_purchase_record""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Add Purchase Record4
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,18,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'30') or @value='30']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Edit Purchase Record
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,19,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'Lisa') or @value='Lisa']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Delete Purchase Record
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,20,False,assertion,,Add Preferred Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,21,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'Mike') or @value='Mike']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Edit Preferred Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,22,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'Jane') or @value='Jane']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Delete Preferred Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,23,True,,,Generate Sales Report
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,24,True,,,Product Performance Analysis
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,1,True,,,View Home
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,2,True,,,Add Customer
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,3,True,,,Add Customer2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,4,True,,,Add Customer3
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,5,True,,,Add Customer4
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,6,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'Joe') or @value='Joe']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Edit Customer
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,7,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'Amy') or @value='Amy']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Delete Customer
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,8,True,,,Add Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,9,True,,,Add Product2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,10,True,,,Add Product3
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,11,True,,,Add Product4
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,12,True,,,Edit Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,13,True,,,Delete Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,14,False,assertion,,Add Purchase Record
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,15,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""add_purchase_record""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Add Purchase Record2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,16,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""add_purchase_record""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Add Purchase Record3
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,17,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""add_purchase_record""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Add Purchase Record4
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,18,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'30') or @value='30']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Edit Purchase Record
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,19,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'Lisa') or @value='Lisa']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Delete Purchase Record
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,20,False,assertion,,Add Preferred Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,21,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'Mike') or @value='Mike']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Edit Preferred Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,22,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'Jane') or @value='Jane']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Delete Preferred Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,23,True,,,Generate Sales Report
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,24,False,runtime error,"Message: unknown error: net::ERR_CONNECTION_REFUSED
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff6019be421]
+	(No symbol) [0x0x7ff6019b23d9]
+	(No symbol) [0x0x7ff6019b3bf8]
+	(No symbol) [0x0x7ff6019b27d9]
+	(No symbol) [0x0x7ff6019b2235]
+	(No symbol) [0x0x7ff6019b1f81]
+	(No symbol) [0x0x7ff6019afeeb]
+	(No symbol) [0x0x7ff6019b051c]
+	(No symbol) [0x0x7ff6019c49aa]
+	(No symbol) [0x0x7ff601a4f92e]
+	(No symbol) [0x0x7ff601a3212a]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Product Performance Analysis
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,14,1,True,,,DisplayText
+renew_js,gpt-oss-20b,direct,20251018-123000,3,14,2,True,,,BasicStyling
+renew_js,gpt-oss-20b,direct,20251018-123000,3,14,3,True,,,PageTitle
+renew_js,gpt-oss-20b,direct,20251018-123000,3,14,4,True,,,MetaTags
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,15,1,True,,,Button to 'HelloWorld' page
+renew_js,gpt-oss-20b,direct,20251018-123000,3,15,2,True,,,Display 'HelloWorld' message
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,1,False,runtime error,'NoneType' object has no attribute 'splitlines',CheckFileExistence
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,2,False,runtime error,'NoneType' object has no attribute 'splitlines',ValidateNullValue
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,3,False,runtime error,[WinError 183] 当文件已存在时，无法创建该文件。: '17-Gamedata-Data Check 2.xlsx' -> 'Gamedata.xlsx',ValidateEmptyFile
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,4,False,runtime error,[WinError 183] 当文件已存在时，无法创建该文件。: '17-Gamedata-Standard.xlsx' -> 'Gamedata.xlsx',RunProject
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,5,False,runtime error,[Errno 2] No such file or directory: 'Logistic.xlsx',OutputFileCheck
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,1,False,runtime error,'NoneType' object has no attribute 'splitlines',CheckFileExistence
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,2,False,runtime error,'NoneType' object has no attribute 'splitlines',ValidateNullValue
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,3,False,runtime error,[WinError 183] 当文件已存在时，无法创建该文件。: '17-Gamedata-Data Check 2.xlsx' -> 'Gamedata.xlsx',ValidateEmptyFile
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,4,False,runtime error,[WinError 183] 当文件已存在时，无法创建该文件。: '17-Gamedata-Standard.xlsx' -> 'Gamedata.xlsx',RunProject
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,5,False,runtime error,[Errno 2] No such file or directory: 'Logistic.xlsx',OutputFileCheck
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,1,False,assertion,"Answer is not matching, stdout is Error: The file 'Gamedata.xlsx' does not exist., actually out is  and Traceback (most recent call last):
+File ""D:Multiagent ResearchProjectEvalPlustest2025102317logistic.py"", line 4, in <module>
+import statsmodels.api as sm
+ModuleNotFoundError: No module named 'statsmodels'
+Traceback (most recent call last):
+File ""D:Multiagent ResearchProjectEvalPlustest2025102317start.py"", line 6, in <module>
+subprocess.run([""node"", ""main.js""], check=True, shell=True)
+File ""C:UsersRyanAppDataLocalProgramsPythonPython312Libsubprocess.py"", line 571, in run
+raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['node', 'main.js']' returned nonzero exit status 1.",CheckFileExistence
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,2,False,assertion,"Answer is not matching, stdout is Dataset contains missing or invalid values. Please clean the data and try again., actually out is  and Traceback (most recent call last):
+File ""D:Multiagent ResearchProjectEvalPlustest2025102317logistic.py"", line 4, in <module>
+import statsmodels.api as sm
+ModuleNotFoundError: No module named 'statsmodels'
+Traceback (most recent call last):
+File ""D:Multiagent ResearchProjectEvalPlustest2025102317start.py"", line 6, in <module>
+subprocess.run([""node"", ""main.js""], check=True, shell=True)
+File ""C:UsersRyanAppDataLocalProgramsPythonPython312Libsubprocess.py"", line 571, in run
+raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['node', 'main.js']' returned nonzero exit status 1.",ValidateNullValue
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,3,False,assertion,"Answer is not matching, stdout is Feature matrix or target vector is empty. Check your input data., actually out is  and Traceback (most recent call last):
+File ""D:Multiagent ResearchProjectEvalPlustest2025102317logistic.py"", line 4, in <module>
+import statsmodels.api as sm
+ModuleNotFoundError: No module named 'statsmodels'
+Traceback (most recent call last):
+File ""D:Multiagent ResearchProjectEvalPlustest2025102317start.py"", line 6, in <module>
+subprocess.run([""node"", ""main.js""], check=True, shell=True)
+File ""C:UsersRyanAppDataLocalProgramsPythonPython312Libsubprocess.py"", line 571, in run
+raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['node', 'main.js']' returned nonzero exit status 1.",ValidateEmptyFile
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,4,True,,,RunProject
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,5,False,runtime error,[Errno 2] No such file or directory: 'Logistic.xlsx',OutputFileCheck
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,1,False,timeout,"Function test_CheckFileExistence (args=()) (kwargs={'entry': 'start.py', 'error_message': ""The file 'Deathlist.csv' was not found.""}) timed out after 5.000000 seconds.
+",CheckFileExistence
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,2,False,timeout,"Function test_ValidateHeaders (args=()) (kwargs={'entry': 'start.py', 'error_message': 'The dataset is missing the following required columns: Date of death'}) timed out after 5.000000 seconds.
+",ValidateHeaders
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,3,False,runtime error,[WinError 183] 当文件已存在时，无法创建该文件。: '19-Deathlist-Empty File.csv' -> 'Deathlist.csv',ValidateEmptyFile
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,4,False,runtime error,[WinError 183] 当文件已存在时，无法创建该文件。: '19-Deathlist-Data Check 2.csv' -> 'Deathlist.csv',ValidateTimeColumn
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,5,False,runtime error,[WinError 183] 当文件已存在时，无法创建该文件。: '19-Deathlist-Data Check 3.csv' -> 'Deathlist.csv',ValidateNullValue
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,6,False,runtime error,[WinError 183] 当文件已存在时，无法创建该文件。: '19-Deathlist-Standard 1.csv' -> 'Deathlist.csv',RunProject1
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,7,False,runtime error,[WinError 183] 当文件已存在时，无法创建该文件。: '19-Deathlist-Standard 2.csv' -> 'Deathlist.csv',RunProject2
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,1,False,assertion,"Answer is not matching, stdout is The file 'Deathlist.csv' was not found., actually out is added 43 packages in 2s
+9 packages are looking for funding
+run `npm fund` for details
+The file 'Deathlist.csv' was not found. and ",CheckFileExistence
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,2,False,assertion,"Answer is not matching, stdout is The dataset is missing the following required columns: Date of death, actually out is 9 packages are looking for funding
+run `npm fund` for details
+The dataset is missing the following required columns: Date of death and ",ValidateHeaders
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,3,False,runtime error,[WinError 2] 系统找不到指定的文件。: '19-Deathlist-Empty File.csv' -> 'Deathlist.csv',ValidateEmptyFile
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,4,False,runtime error,[WinError 2] 系统找不到指定的文件。: '19-Deathlist-Data Check 2.csv' -> 'Deathlist.csv',ValidateTimeColumn
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,5,False,runtime error,[WinError 2] 系统找不到指定的文件。: '19-Deathlist-Data Check 3.csv' -> 'Deathlist.csv',ValidateNullValue
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,6,False,runtime error,[WinError 2] 系统找不到指定的文件。: '19-Deathlist-Standard 1.csv' -> 'Deathlist.csv',RunProject1
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,7,False,runtime error,[WinError 2] 系统找不到指定的文件。: '19-Deathlist-Standard 2.csv' -> 'Deathlist.csv',RunProject2
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,1,False,assertion,"Answer is not matching, stdout is The file 'Deathlist.csv' was not found., actually out is  and C:UsersRyanAppDataLocalProgramsPythonPython312python.exe: can't open file 'D:Multiagent ResearchProjectEvalPlustest2025102319start.py': [Errno 2] No such file or directory",CheckFileExistence
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,2,False,assertion,"Answer is not matching, stdout is The dataset is missing the following required columns: Date of death, actually out is  and C:UsersRyanAppDataLocalProgramsPythonPython312python.exe: can't open file 'D:Multiagent ResearchProjectEvalPlustest2025102319start.py': [Errno 2] No such file or directory",ValidateHeaders
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,3,False,assertion,"Answer is not matching, stdout is The dataset is empty., actually out is  and C:UsersRyanAppDataLocalProgramsPythonPython312python.exe: can't open file 'D:Multiagent ResearchProjectEvalPlustest2025102319start.py': [Errno 2] No such file or directory",ValidateEmptyFile
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,4,False,assertion,"Answer is not matching, stdout is Warning: Found [number] non-date entries. These will be ignored.
+Histogram saved as 'weekly_deaths_histogram.png'., actually out is  and C:UsersRyanAppDataLocalProgramsPythonPython312python.exe: can't open file 'D:Multiagent ResearchProjectEvalPlustest2025102319start.py': [Errno 2] No such file or directory",ValidateTimeColumn
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,5,False,assertion,"Answer is not matching, stdout is Warning: Found [number] non-date entries. These will be ignored.
+Warning: 2 invalid date entries were found and will be ignored.
+Histogram saved as 'weekly_deaths_histogram.png'., actually out is  and C:UsersRyanAppDataLocalProgramsPythonPython312python.exe: can't open file 'D:Multiagent ResearchProjectEvalPlustest2025102319start.py': [Errno 2] No such file or directory",ValidateNullValue
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,6,False,runtime error,division by zero,RunProject1
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,7,False,runtime error,division by zero,RunProject2
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,1,False,assertion,"Answer is not matching, stdout is The file 'Deathlist.csv' was not found., actually out is added 43 packages in 2s
+9 packages are looking for funding
+run `npm fund` for details
+The file 'Deathlist.csv' was not found. and ",CheckFileExistence
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,2,False,assertion,"Answer is not matching, stdout is The dataset is missing the following required columns: Date of death, actually out is 9 packages are looking for funding
+run `npm fund` for details
+The dataset is missing the following required columns: Date of death and ",ValidateHeaders
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,3,False,assertion,"Answer is not matching, stdout is The dataset is empty., actually out is 9 packages are looking for funding
+run `npm fund` for details
+The dataset is empty. and ",ValidateEmptyFile
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,4,False,assertion,"Answer is not matching, stdout is Warning: Found [number] non-date entries. These will be ignored.
+Histogram saved as 'weekly_deaths_histogram.png'., actually out is 9 packages are looking for funding
+run `npm fund` for details
+Warning: Found 5000 nondate entries. These will be ignored.
+No valid date entries to plot. and ",ValidateTimeColumn
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,5,False,assertion,"Answer is not matching, stdout is Warning: Found [number] non-date entries. These will be ignored.
+Warning: 2 invalid date entries were found and will be ignored.
+Histogram saved as 'weekly_deaths_histogram.png'., actually out is 9 packages are looking for funding
+run `npm fund` for details
+Warning: Found 9998 nondate entries. These will be ignored.
+Warning: 2 invalid date entries were found and will be ignored.
+No valid date entries to plot. and ",ValidateNullValue
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,6,False,runtime error,division by zero,RunProject1
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,7,False,runtime error,division by zero,RunProject2
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,1,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_username""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Login as Owner
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,2,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""/html/body/div/div/main/div/div/ul/li/a""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Add Category
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,3,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""/html/body/div/div/main/div/div/ul/li/a""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Add Post
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,4,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""/html/body/div/header/div[2]/form/button""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Logout as Owner
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,5,False,assertion,No blog is shown in home,Display Latest Blogs
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,6,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""/html/body/main/section/form/input[3]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Search Bar
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,7,False,runtime error,"Can't find target article, maybe you forget to display it on home page?",Read Blog Content
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,8,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_author""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Comments Section
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,9,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_username""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Add Post 1
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,10,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_username""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Edit Post
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,11,False,runtime error,"Can't find target article, maybe you forget to display it on home page?",Read Update Blog
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,12,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_username""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Delete Post
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,13,True,,,Check Post Deleted
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,14,False,assertion,Failed to load categories.,List Blog Categories
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,15,False,runtime error,Can't find the target category.,Filter by Category
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,16,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_username""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Add Category
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,17,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[text()=""Blog posts""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Add Post 2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,18,False,runtime error,"Can't find target article, maybe you forget to display it on home page?",Read New Post with New Category
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,19,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_username""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Edit Category
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,20,False,runtime error,"Can't find target article, maybe you forget to display it on home page?",Check Category Changed
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,21,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_username""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Delete Category
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,22,False,assertion,Failed to delete category.,Check Category Deleted
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,23,False,runtime error,Can't find date filter.,Date Filter
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,24,True,,,Display Author Information
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,25,True,,,Contact Form
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,1,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_username""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Login as Owner
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,2,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""/html/body/div/div/main/div/div/ul/li/a""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Add Category
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,3,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""/html/body/div/div/main/div/div/ul/li/a""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Add Post
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,4,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""/html/body/div/header/div[2]/form/button""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Logout as Owner
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,5,False,assertion,No blog is shown in home,Display Latest Blogs
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,6,False,assertion,No blog is shown in home,Search Bar
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,7,False,runtime error,"Can't find target article, maybe you forget to display it on home page?",Read Blog Content
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,8,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_author""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Comments Section
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,9,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_username""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Add Post 1
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,10,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_username""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Edit Post
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,11,False,runtime error,"Can't find target article, maybe you forget to display it on home page?",Read Update Blog
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,12,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_username""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Delete Post
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,13,True,,,Check Post Deleted
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,14,False,assertion,Failed to load categories.,List Blog Categories
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,15,False,runtime error,Can't find the target category.,Filter by Category
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,16,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_username""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Add Category
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,17,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[text()=""Blog posts""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Add Post 2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,18,False,runtime error,"Can't find target article, maybe you forget to display it on home page?",Read New Post with New Category
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,19,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_username""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Edit Category
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,20,False,runtime error,"Can't find target article, maybe you forget to display it on home page?",Check Category Changed
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,21,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_username""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff601c52685+51877]
+	GetHandleVerifier [0x0x7ff601c526e4+51972]
+	GetHandleVerifier [0x0x7ff601e08c75+1847445]
+	(No symbol) [0x0x7ff601a1045b]
+	(No symbol) [0x0x7ff601a1071b]
+	(No symbol) [0x0x7ff601a51927]
+	(No symbol) [0x0x7ff601a3216f]
+	(No symbol) [0x0x7ff601a0667b]
+	(No symbol) [0x0x7ff601a4f3d2]
+	(No symbol) [0x0x7ff601a31df3]
+	(No symbol) [0x0x7ff601a05b36]
+	(No symbol) [0x0x7ff601a04d80]
+	(No symbol) [0x0x7ff601a05973]
+	(No symbol) [0x0x7ff601ace4a5]
+	(No symbol) [0x0x7ff601aca75d]
+	GetHandleVerifier [0x0x7ff601c7cec3+226019]
+	GetHandleVerifier [0x0x7ff601c6c091+156849]
+	GetHandleVerifier [0x0x7ff601c74589+190889]
+	GetHandleVerifier [0x0x7ff601c597c4+80868]
+	GetHandleVerifier [0x0x7ff601c59913+81203]
+	GetHandleVerifier [0x0x7ff601c47e96+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Delete Category
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,22,False,assertion,Failed to delete category.,Check Category Deleted
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,23,False,runtime error,Can't find date filter.,Date Filter
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,24,True,,,Display Author Information
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,25,True,,,Contact Form

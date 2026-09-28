@@ -1,0 +1,102 @@
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,1,11,11,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,2,0,9,"Failed to start the application.
+Failed to start the application.
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,2,0,9,"Failed to start the application.
+Failed to start the application.
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,2,0,9,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,2,0,9,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,2,0,9,"  File ""D:\Multiagent Research\ProjectEvalPlus\test\20251028\2\start.py"", line 1
+    import subprocess\nimport sys\n\n# This script starts the Java (Maven) Spring Boot project. It does not implement the solution logic.\n# It runs the Maven spring-boot:run command and keeps the process running so that tests can interact with the server.\n\nif __name__ == '__main__':\n    try:\n        # Use Popen so the process is spawned and this script stays alive while the server runs\n        p = subprocess.Popen('mvn spring-boot:run', shell=True)\n        # Wait for the server process to exit (keeps this script running as well)\n        p.wait()\n    except Exception as e:\n        print('Failed to start the application.', file=sys.stderr)\n        sys.exit(1)
+                      ^
+SyntaxError: unexpected character after line continuation character
+  File ""D:\Multiagent Research\ProjectEvalPlus\test\20251028\2\start.py"", line 1
+    import subprocess\nimport sys\n\n# This script starts the Java (Maven) Spring Boot project. It does not implement the solution logic.\n# It runs the Maven spring-boot:run command and keeps the process running so that tests can interact with the server.\n\nif __name__ == '__main__':\n    try:\n        # Use Popen so the process is spawned and this script stays alive while the server runs\n        p = subprocess.Popen('mvn spring-boot:run', shell=True)\n        # Wait for the server process to exit (keeps this script running as well)\n        p.wait()\n    except Exception as e:\n        print('Failed to start the application.', file=sys.stderr)\n        sys.exit(1)
+                      ^
+SyntaxError: unexpected character after line continuation character
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,3,0,16,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,3,0,16,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,3,0,16,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,3,0,16,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,3,0,16,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,4,15,17,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,4,0,17,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,4,17,17,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,5,0,13,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,5,0,13,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,5,0,13,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,5,0,13,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,5,0,13,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,6,13,20,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,6,17,20,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,6,18,20,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,7,0,24,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,7,0,24,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,7,0,24,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,7,0,24,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,7,0,24,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,8,13,18,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,8,13,18,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,8,13,18,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,8,13,18,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,8,13,18,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,9,13,13,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,10,7,21,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,10,7,21,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,10,16,21,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,10,16,21,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,10,16,21,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,11,2,8,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,11,2,8,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,11,2,8,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,11,4,8,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,11,4,8,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,12,0,18,The process was never started.
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,12,0,18,The process was never started.

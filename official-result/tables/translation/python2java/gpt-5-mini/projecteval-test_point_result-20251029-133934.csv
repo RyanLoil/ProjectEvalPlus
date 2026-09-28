@@ -1,0 +1,336 @@
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,1,True,,,CheckFileExistence
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,2,False,runtime error,[WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Column Check.xlsx' -> 'Spring Semester Subjects.xlsx',ValidateHeaders
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,3,False,runtime error,[WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Data Check 1.xlsx' -> 'Spring Semester Subjects.xlsx',ValidateNullValue
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,4,False,runtime error,[WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Data Check 2.xlsx' -> 'Spring Semester Subjects.xlsx',ValidateTimeColumn
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,5,False,runtime error,[WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Data Check 3.xlsx' -> 'Spring Semester Subjects.xlsx',ValidateDataIntegrity
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,6,False,runtime error,[WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Standard.xlsx' -> 'Spring Semester Subjects.xlsx',EmptyFileRun
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,7,False,runtime error,[WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Standard.xlsx' -> 'Spring Semester Subjects.xlsx',RunProject
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,8,False,runtime error,[Errno 2] No such file or directory: 'Processed Subjects Table.xlsx',OutputFileCheck
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,1,True,,,CheckFileExistence
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,2,False,runtime error,[WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Column Check.xlsx' -> 'Spring Semester Subjects.xlsx',ValidateHeaders
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,3,False,runtime error,[WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Data Check 1.xlsx' -> 'Spring Semester Subjects.xlsx',ValidateNullValue
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,4,False,runtime error,[WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Data Check 2.xlsx' -> 'Spring Semester Subjects.xlsx',ValidateTimeColumn
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,5,False,runtime error,[WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Data Check 3.xlsx' -> 'Spring Semester Subjects.xlsx',ValidateDataIntegrity
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,6,False,runtime error,[WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Standard.xlsx' -> 'Spring Semester Subjects.xlsx',EmptyFileRun
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,7,False,runtime error,[WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Standard.xlsx' -> 'Spring Semester Subjects.xlsx',RunProject
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,8,False,runtime error,[Errno 2] No such file or directory: 'Processed Subjects Table.xlsx',OutputFileCheck
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,1,True,,,CheckFileExistence
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,2,False,runtime error,[WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Column Check.xlsx' -> 'Spring Semester Subjects.xlsx',ValidateHeaders
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,3,False,runtime error,[WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Data Check 1.xlsx' -> 'Spring Semester Subjects.xlsx',ValidateNullValue
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,4,False,runtime error,[WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Data Check 2.xlsx' -> 'Spring Semester Subjects.xlsx',ValidateTimeColumn
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,5,False,runtime error,[WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Data Check 3.xlsx' -> 'Spring Semester Subjects.xlsx',ValidateDataIntegrity
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,6,False,runtime error,[WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Standard.xlsx' -> 'Spring Semester Subjects.xlsx',EmptyFileRun
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,7,False,runtime error,[WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Standard.xlsx' -> 'Spring Semester Subjects.xlsx',RunProject
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,8,False,runtime error,[Errno 2] No such file or directory: 'Processed Subjects Table.xlsx',OutputFileCheck
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,1,True,,,CheckFileExistence
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,2,False,runtime error,[WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Column Check.xlsx' -> 'Spring Semester Subjects.xlsx',ValidateHeaders
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,3,False,runtime error,[WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Data Check 1.xlsx' -> 'Spring Semester Subjects.xlsx',ValidateNullValue
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,4,False,runtime error,[WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Data Check 2.xlsx' -> 'Spring Semester Subjects.xlsx',ValidateTimeColumn
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,5,False,runtime error,[WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Data Check 3.xlsx' -> 'Spring Semester Subjects.xlsx',ValidateDataIntegrity
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,6,False,runtime error,[WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Standard.xlsx' -> 'Spring Semester Subjects.xlsx',EmptyFileRun
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,7,False,runtime error,[WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Standard.xlsx' -> 'Spring Semester Subjects.xlsx',RunProject
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,8,False,runtime error,[Errno 2] No such file or directory: 'Processed Subjects Table.xlsx',OutputFileCheck
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,1,True,,,CheckFileExistence
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,2,False,runtime error,[WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Column Check.xlsx' -> 'Spring Semester Subjects.xlsx',ValidateHeaders
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,3,False,runtime error,[WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Data Check 1.xlsx' -> 'Spring Semester Subjects.xlsx',ValidateNullValue
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,4,False,runtime error,[WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Data Check 2.xlsx' -> 'Spring Semester Subjects.xlsx',ValidateTimeColumn
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,5,False,runtime error,[WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Data Check 3.xlsx' -> 'Spring Semester Subjects.xlsx',ValidateDataIntegrity
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,6,False,runtime error,[WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Standard.xlsx' -> 'Spring Semester Subjects.xlsx',EmptyFileRun
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,7,False,runtime error,[WinError 2] 系统找不到指定的文件。: '16-Spring Semester Subjects-Standard.xlsx' -> 'Spring Semester Subjects.xlsx',RunProject
+renew_java,gpt-5-mini,direct,20251018-123000,3,16,8,False,runtime error,[Errno 2] No such file or directory: 'Processed Subjects Table.xlsx',OutputFileCheck
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_java,gpt-5-mini,direct,20251018-123000,3,17,1,True,,,CheckFileExistence
+renew_java,gpt-5-mini,direct,20251018-123000,3,17,2,True,,,ValidateNullValue
+renew_java,gpt-5-mini,direct,20251018-123000,3,17,3,True,,,ValidateEmptyFile
+renew_java,gpt-5-mini,direct,20251018-123000,3,17,4,True,,,RunProject
+renew_java,gpt-5-mini,direct,20251018-123000,3,17,5,True,,,OutputFileCheck
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,1,False,assertion,"Answer is not matching, stdout is 
+=== BashCrawl Main Menu ===
+1. Start Game
+2. Help
+3. Quit
+Choose an option (1, 2, or 3):, actually out is [ERROR] Failed to execute goal org.codehaus.mojo:exec-maven-plugin:3.0.0:java (default-cli) on project bashcrawl: An exception occured while executing the Java class. com.example.bashcrawl.BashCrawl -> [Help 1]
+
+[ERROR] 
+
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+
+[ERROR] 
+
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
+.",Welcome Message
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,2,False,runtime error,[Errno 22] Invalid argument,Help in Main Menu
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,3,False,runtime error,[Errno 22] Invalid argument,Wrong Selection Check
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,4,False,runtime error,[Errno 22] Invalid argument,Start Game
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,5,False,runtime error,[Errno 22] Invalid argument,Display Help
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,6,False,runtime error,[Errno 22] Invalid argument,Look Around
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,7,False,runtime error,[Errno 22] Invalid argument,Move Player
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,8,False,runtime error,[Errno 22] Invalid argument,Move Back
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,9,False,runtime error,[Errno 22] Invalid argument,Check Inventory 1
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,10,False,runtime error,[Errno 22] Invalid argument,Pick Item
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,11,False,runtime error,[Errno 22] Invalid argument,Check Inventory 2
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,12,False,runtime error,[Errno 22] Invalid argument,Win the Game
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,13,False,runtime error,[Errno 22] Invalid argument,Exit Game
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,1,False,assertion,"Answer is not matching, stdout is 
+=== BashCrawl Main Menu ===
+1. Start Game
+2. Help
+3. Quit
+Choose an option (1, 2, or 3):, actually out is [ERROR] Failed to execute goal org.codehaus.mojo:exec-maven-plugin:3.0.0:java (default-cli) on project bashcrawl: An exception occured while executing the Java class. com.example.bashcrawl.BashCrawl -> [Help 1]
+
+[ERROR] 
+
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+
+[ERROR] 
+
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
+.",Welcome Message
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,2,False,runtime error,[Errno 22] Invalid argument,Help in Main Menu
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,3,False,runtime error,[Errno 22] Invalid argument,Wrong Selection Check
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,4,False,runtime error,[Errno 22] Invalid argument,Start Game
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,5,False,runtime error,[Errno 22] Invalid argument,Display Help
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,6,False,runtime error,[Errno 22] Invalid argument,Look Around
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,7,False,runtime error,[Errno 22] Invalid argument,Move Player
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,8,False,runtime error,[Errno 22] Invalid argument,Move Back
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,9,False,runtime error,[Errno 22] Invalid argument,Check Inventory 1
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,10,False,runtime error,[Errno 22] Invalid argument,Pick Item
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,11,False,runtime error,[Errno 22] Invalid argument,Check Inventory 2
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,12,False,runtime error,[Errno 22] Invalid argument,Win the Game
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,13,False,runtime error,[Errno 22] Invalid argument,Exit Game
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,1,False,assertion,"Answer is not matching, stdout is 
+=== BashCrawl Main Menu ===
+1. Start Game
+2. Help
+3. Quit
+Choose an option (1, 2, or 3):, actually out is [ERROR] Failed to execute goal org.codehaus.mojo:exec-maven-plugin:3.0.0:java (default-cli) on project bashcrawl: An exception occured while executing the Java class. com.example.bashcrawl.BashCrawl -> [Help 1]
+
+[ERROR] 
+
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+
+[ERROR] 
+
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
+.",Welcome Message
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,2,False,runtime error,[Errno 22] Invalid argument,Help in Main Menu
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,3,False,runtime error,[Errno 22] Invalid argument,Wrong Selection Check
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,4,False,runtime error,[Errno 22] Invalid argument,Start Game
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,5,False,runtime error,[Errno 22] Invalid argument,Display Help
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,6,False,runtime error,[Errno 22] Invalid argument,Look Around
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,7,False,runtime error,[Errno 22] Invalid argument,Move Player
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,8,False,runtime error,[Errno 22] Invalid argument,Move Back
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,9,False,runtime error,[Errno 22] Invalid argument,Check Inventory 1
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,10,False,runtime error,[Errno 22] Invalid argument,Pick Item
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,11,False,runtime error,[Errno 22] Invalid argument,Check Inventory 2
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,12,False,runtime error,[Errno 22] Invalid argument,Win the Game
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,13,False,runtime error,[Errno 22] Invalid argument,Exit Game
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,1,False,assertion,"Answer is not matching, stdout is 
+=== BashCrawl Main Menu ===
+1. Start Game
+2. Help
+3. Quit
+Choose an option (1, 2, or 3):, actually out is [ERROR] Failed to execute goal org.codehaus.mojo:exec-maven-plugin:3.0.0:java (default-cli) on project bashcrawl: An exception occured while executing the Java class. BashCrawl -> [Help 1]
+
+[ERROR] 
+
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+
+[ERROR] 
+
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
+.",Welcome Message
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,2,False,runtime error,[Errno 22] Invalid argument,Help in Main Menu
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,3,False,runtime error,[Errno 22] Invalid argument,Wrong Selection Check
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,4,False,runtime error,[Errno 22] Invalid argument,Start Game
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,5,False,runtime error,[Errno 22] Invalid argument,Display Help
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,6,False,runtime error,[Errno 22] Invalid argument,Look Around
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,7,False,runtime error,[Errno 22] Invalid argument,Move Player
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,8,False,runtime error,[Errno 22] Invalid argument,Move Back
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,9,False,runtime error,[Errno 22] Invalid argument,Check Inventory 1
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,10,False,runtime error,[Errno 22] Invalid argument,Pick Item
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,11,False,runtime error,[Errno 22] Invalid argument,Check Inventory 2
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,12,False,runtime error,[Errno 22] Invalid argument,Win the Game
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,13,False,runtime error,[Errno 22] Invalid argument,Exit Game
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,1,False,assertion,"Answer is not matching, stdout is 
+=== BashCrawl Main Menu ===
+1. Start Game
+2. Help
+3. Quit
+Choose an option (1, 2, or 3):, actually out is [ERROR] Failed to execute goal org.codehaus.mojo:exec-maven-plugin:3.0.0:java (default-cli) on project bashcrawl: An exception occured while executing the Java class. BashCrawl -> [Help 1]
+
+[ERROR] 
+
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+
+[ERROR] 
+
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
+.",Welcome Message
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,2,False,runtime error,[Errno 22] Invalid argument,Help in Main Menu
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,3,False,runtime error,[Errno 22] Invalid argument,Wrong Selection Check
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,4,False,runtime error,[Errno 22] Invalid argument,Start Game
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,5,False,runtime error,[Errno 22] Invalid argument,Display Help
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,6,False,runtime error,[Errno 22] Invalid argument,Look Around
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,7,False,runtime error,[Errno 22] Invalid argument,Move Player
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,8,False,runtime error,[Errno 22] Invalid argument,Move Back
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,9,False,runtime error,[Errno 22] Invalid argument,Check Inventory 1
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,10,False,runtime error,[Errno 22] Invalid argument,Pick Item
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,11,False,runtime error,[Errno 22] Invalid argument,Check Inventory 2
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,12,False,runtime error,[Errno 22] Invalid argument,Win the Game
+renew_java,gpt-5-mini,direct,20251018-123000,3,18,13,False,runtime error,[Errno 22] Invalid argument,Exit Game
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,1,False,assertion,"Answer is not matching, stdout is The file 'Deathlist.csv' was not found., actually out is 符号:   方法 setHasAnnotations(boolean)
+位置: 类 org.knowm.xchart.style.CategoryStyler and ",CheckFileExistence
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,2,False,assertion,"Answer is not matching, stdout is The dataset is missing the following required columns: Date of death, actually out is 符号:   方法 setHasAnnotations(boolean)
+位置: 类 org.knowm.xchart.style.CategoryStyler and ",ValidateHeaders
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,3,False,assertion,"Answer is not matching, stdout is The dataset is empty., actually out is 符号:   方法 setHasAnnotations(boolean)
+位置: 类 org.knowm.xchart.style.CategoryStyler and ",ValidateEmptyFile
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,4,False,assertion,"Answer is not matching, stdout is Warning: Found [number] non-date entries. These will be ignored.
+Histogram saved as 'weekly_deaths_histogram.png'., actually out is 符号:   方法 setHasAnnotations(boolean)
+位置: 类 org.knowm.xchart.style.CategoryStyler and ",ValidateTimeColumn
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,5,False,assertion,"Answer is not matching, stdout is Warning: Found [number] non-date entries. These will be ignored.
+Warning: 2 invalid date entries were found and will be ignored.
+Histogram saved as 'weekly_deaths_histogram.png'., actually out is 符号:   方法 setHasAnnotations(boolean)
+位置: 类 org.knowm.xchart.style.CategoryStyler and ",ValidateNullValue
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,6,False,runtime error,division by zero,RunProject1
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,7,False,runtime error,division by zero,RunProject2
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,1,True,,,CheckFileExistence
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,2,True,,,ValidateHeaders
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,3,True,,,ValidateEmptyFile
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,4,False,assertion,"Answer is not matching, stdout is Warning: Found [number] non-date entries. These will be ignored.
+Histogram saved as 'weekly_deaths_histogram.png'., actually out is Warning: Found 5000 nondate entries. These will be ignored.
+The dataset contains no valid 'Date of death' entries after cleaning. and ",ValidateTimeColumn
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,5,False,assertion,"Answer is not matching, stdout is Warning: Found [number] non-date entries. These will be ignored.
+Warning: 2 invalid date entries were found and will be ignored.
+Histogram saved as 'weekly_deaths_histogram.png'., actually out is Warning: Found 10000 nondate entries. These will be ignored.
+The dataset contains no valid 'Date of death' entries after cleaning. and ",ValidateNullValue
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,6,False,timeout,"Function test_RunProject (args=()) (kwargs={'entry': 'start.py', 'image_name': 'weekly_deaths_histogram.png'}) timed out after 5.000000 seconds.
+",RunProject1
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,7,False,runtime error,[WinError 183] 当文件已存在时，无法创建该文件。: '19-Deathlist-Standard 2.csv' -> 'Deathlist.csv',RunProject2
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,1,True,,,CheckFileExistence
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,2,True,,,ValidateHeaders
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,3,True,,,ValidateEmptyFile
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,4,True,,,ValidateTimeColumn
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,5,False,assertion,"Answer is not matching, stdout is Warning: Found [number] non-date entries. These will be ignored.
+Warning: 2 invalid date entries were found and will be ignored.
+Histogram saved as 'weekly_deaths_histogram.png'., actually out is Warning: Found 2 nondate entries. These will be ignored.
+Histogram saved as 'weekly_deaths_histogram.png'. and ",ValidateNullValue
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,6,False,timeout,"Function test_RunProject (args=()) (kwargs={'entry': 'start.py', 'image_name': 'weekly_deaths_histogram.png'}) timed out after 5.000000 seconds.
+",RunProject1
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,7,False,runtime error,[WinError 183] 当文件已存在时，无法创建该文件。: '19-Deathlist-Standard 2.csv' -> 'Deathlist.csv',RunProject2
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,1,True,,,CheckFileExistence
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,2,True,,,ValidateHeaders
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,3,True,,,ValidateEmptyFile
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,4,True,,,ValidateTimeColumn
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,5,False,assertion,"Answer is not matching, stdout is Warning: Found [number] non-date entries. These will be ignored.
+Warning: 2 invalid date entries were found and will be ignored.
+Histogram saved as 'weekly_deaths_histogram.png'., actually out is Warning: Found 2 nondate entries. These will be ignored.
+Histogram saved as 'weekly_deaths_histogram.png'. and ",ValidateNullValue
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,6,False,timeout,"Function test_RunProject (args=()) (kwargs={'entry': 'start.py', 'image_name': 'weekly_deaths_histogram.png'}) timed out after 5.000000 seconds.
+",RunProject1
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,7,False,runtime error,[WinError 183] 当文件已存在时，无法创建该文件。: '19-Deathlist-Standard 2.csv' -> 'Deathlist.csv',RunProject2
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,1,False,assertion,"Answer is not matching, stdout is The file 'Deathlist.csv' was not found., actually out is java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配 and ",CheckFileExistence
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,2,False,assertion,"Answer is not matching, stdout is The dataset is missing the following required columns: Date of death, actually out is java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配 and ",ValidateHeaders
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,3,False,assertion,"Answer is not matching, stdout is The dataset is empty., actually out is java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配 and ",ValidateEmptyFile
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,4,False,assertion,"Answer is not matching, stdout is Warning: Found [number] non-date entries. These will be ignored.
+Histogram saved as 'weekly_deaths_histogram.png'., actually out is java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配 and ",ValidateTimeColumn
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,5,False,assertion,"Answer is not matching, stdout is Warning: Found [number] non-date entries. These will be ignored.
+Warning: 2 invalid date entries were found and will be ignored.
+Histogram saved as 'weekly_deaths_histogram.png'., actually out is java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配 and ",ValidateNullValue
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,6,False,runtime error,division by zero,RunProject1
+renew_java,gpt-5-mini,direct,20251018-123000,3,19,7,False,runtime error,division by zero,RunProject2

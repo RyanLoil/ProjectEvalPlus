@@ -1,0 +1,107 @@
+=============Project 1 Start===============
+=============Project 1 End===============
+=============Project 2 Start===============
+Failed to start the application.
+Failed to start the application.
+=============Project 2 End===============
+=============Project 2 Start===============
+Failed to start the application.
+Failed to start the application.
+=============Project 2 End===============
+=============Project 2 Start===============
+=============Project 2 End===============
+=============Project 2 Start===============
+=============Project 2 End===============
+=============Project 2 Start===============
+  File "D:\Multiagent Research\ProjectEvalPlus\test\20251028\2\start.py", line 1
+    import subprocess\nimport sys\n\n# This script starts the Java (Maven) Spring Boot project. It does not implement the solution logic.\n# It runs the Maven spring-boot:run command and keeps the process running so that tests can interact with the server.\n\nif __name__ == '__main__':\n    try:\n        # Use Popen so the process is spawned and this script stays alive while the server runs\n        p = subprocess.Popen('mvn spring-boot:run', shell=True)\n        # Wait for the server process to exit (keeps this script running as well)\n        p.wait()\n    except Exception as e:\n        print('Failed to start the application.', file=sys.stderr)\n        sys.exit(1)
+                      ^
+SyntaxError: unexpected character after line continuation character
+  File "D:\Multiagent Research\ProjectEvalPlus\test\20251028\2\start.py", line 1
+    import subprocess\nimport sys\n\n# This script starts the Java (Maven) Spring Boot project. It does not implement the solution logic.\n# It runs the Maven spring-boot:run command and keeps the process running so that tests can interact with the server.\n\nif __name__ == '__main__':\n    try:\n        # Use Popen so the process is spawned and this script stays alive while the server runs\n        p = subprocess.Popen('mvn spring-boot:run', shell=True)\n        # Wait for the server process to exit (keeps this script running as well)\n        p.wait()\n    except Exception as e:\n        print('Failed to start the application.', file=sys.stderr)\n        sys.exit(1)
+                      ^
+SyntaxError: unexpected character after line continuation character
+=============Project 2 End===============
+=============Project 3 Start===============
+=============Project 3 End===============
+=============Project 3 Start===============
+=============Project 3 End===============
+=============Project 3 Start===============
+=============Project 3 End===============
+=============Project 3 Start===============
+=============Project 3 End===============
+=============Project 3 Start===============
+=============Project 3 End===============
+=============Project 4 Start===============
+=============Project 4 End===============
+=============Project 4 Start===============
+=============Project 4 End===============
+=============Project 4 Start===============
+=============Project 4 End===============
+=============Project 5 Start===============
+=============Project 5 End===============
+=============Project 5 Start===============
+=============Project 5 End===============
+=============Project 5 Start===============
+=============Project 5 End===============
+=============Project 5 Start===============
+=============Project 5 End===============
+=============Project 5 Start===============
+=============Project 5 End===============
+=============Project 6 Start===============
+=============Project 6 End===============
+=============Project 6 Start===============
+=============Project 6 End===============
+=============Project 6 Start===============
+=============Project 6 End===============
+=============Project 7 Start===============
+=============Project 7 End===============
+=============Project 7 Start===============
+=============Project 7 End===============
+=============Project 7 Start===============
+=============Project 7 End===============
+=============Project 7 Start===============
+=============Project 7 End===============
+=============Project 7 Start===============
+=============Project 7 End===============
+=============Project 8 Start===============
+Failed to start application: Command 'mvn spring-boot:run' returned non-zero exit status 1.
+=============Project 8 End===============
+=============Project 8 Start===============
+Failed to start application: Command 'mvn spring-boot:run' returned non-zero exit status 1.
+=============Project 8 End===============
+=============Project 8 Start===============
+Failed to start application: Command 'mvn spring-boot:run' returned non-zero exit status 1.
+=============Project 8 End===============
+=============Project 8 Start===============
+Failed to start application: Command 'mvn spring-boot:run' returned non-zero exit status 1.
+=============Project 8 End===============
+=============Project 8 Start===============
+Failed to start application: Command 'mvn spring-boot:run' returned non-zero exit status 1.
+=============Project 8 End===============
+=============Project 9 Start===============
+=============Project 9 End===============
+=============Project 10 Start===============
+=============Project 10 End===============
+=============Project 10 Start===============
+=============Project 10 End===============
+=============Project 10 Start===============
+=============Project 10 End===============
+=============Project 10 Start===============
+=============Project 10 End===============
+=============Project 10 Start===============
+=============Project 10 End===============
+=============Project 11 Start===============
+=============Project 11 End===============
+=============Project 11 Start===============
+=============Project 11 End===============
+=============Project 11 Start===============
+=============Project 11 End===============
+=============Project 11 Start===============
+=============Project 11 End===============
+=============Project 11 Start===============
+=============Project 11 End===============
+=============Project 12 Start===============
+=============Project 12 End===============
+=============Project 12 Start===============
+=============Project 12 End===============

@@ -1,0 +1,410 @@
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,1,11,11,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,2,0,9,"npm ERR! code EJSONPARSE
+npm ERR! path D:\Multiagent Research\ProjectEvalPlus\test\20251027\2/package.json
+npm ERR! JSON.parse Expected property name or '}' in JSON at position 1 while parsing '{\n  \""name\"": \""currency-converter\"",\n'
+npm ERR! JSON.parse Failed to parse JSON data.
+npm ERR! JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+
+npm ERR! A complete log of this run can be found in: C:\Users\Ryan\AppData\Local\npm-cache\_logs\2025-10-27T03_12_12_014Z-debug-0.log
+  File ""D:\Multiagent Research\ProjectEvalPlus\test\20251027\2\start.py"", line 1
+    import subprocess, sys\nsubprocess.run(['npm', 'install'], shell=True)\nsubprocess.run(['node', 'server.js'], shell=True)
+                           ^
+SyntaxError: unexpected character after line continuation character
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,2,9,9,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,3,15,16,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,15,17,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,16,17,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,5,11,13,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,5,13,13,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,20,20,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,7,0,24,"npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
+npm WARN deprecated are-we-there-yet@2.0.0: This package is no longer supported.
+npm WARN deprecated gauge@3.0.2: This package is no longer supported.
+D:\Multiagent Research\ProjectEvalPlus\test\20251027\7\server.js:6
+const low = require('lowdb');
+
+            ^
+
+Error [ERR_REQUIRE_ESM]: require() of ES Module D:\Multiagent Research\ProjectEvalPlus\test\20251027\7\node_modules\lowdb\lib\index.js from D:\Multiagent Research\ProjectEvalPlus\test\20251027\7\server.js not supported.
+Instead change the require of index.js in D:\Multiagent Research\ProjectEvalPlus\test\20251027\7\server.js to a dynamic import() which is available in all CommonJS modules.
+    at Object.<anonymous> (D:\Multiagent Research\ProjectEvalPlus\test\20251027\7\server.js:6:13) {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v20.11.1
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,7,0,24,"npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
+npm WARN deprecated are-we-there-yet@2.0.0: This package is no longer supported.
+npm WARN deprecated gauge@3.0.2: This package is no longer supported.
+D:\Multiagent Research\ProjectEvalPlus\test\20251027\7\server.js:6
+const low = require('lowdb');
+
+            ^
+
+Error [ERR_REQUIRE_ESM]: require() of ES Module D:\Multiagent Research\ProjectEvalPlus\test\20251027\7\node_modules\lowdb\lib\index.js from D:\Multiagent Research\ProjectEvalPlus\test\20251027\7\server.js not supported.
+Instead change the require of index.js in D:\Multiagent Research\ProjectEvalPlus\test\20251027\7\server.js to a dynamic import() which is available in all CommonJS modules.
+    at Object.<anonymous> (D:\Multiagent Research\ProjectEvalPlus\test\20251027\7\server.js:6:13) {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v20.11.1
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,7,0,24,"npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
+npm WARN deprecated npmlog@5.0.1: This package is no longer supported.
+npm WARN deprecated rimraf@3.0.2: Rimraf versions prior to v4 are no longer supported
+npm WARN deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+npm WARN deprecated gauge@3.0.2: This package is no longer supported.
+D:\Multiagent Research\ProjectEvalPlus\test\20251027\7\server.js:6
+const low = require('lowdb');
+
+            ^
+
+Error [ERR_REQUIRE_ESM]: require() of ES Module D:\Multiagent Research\ProjectEvalPlus\test\20251027\7\node_modules\lowdb\lib\index.js from D:\Multiagent Research\ProjectEvalPlus\test\20251027\7\server.js not supported.
+Instead change the require of index.js in D:\Multiagent Research\ProjectEvalPlus\test\20251027\7\server.js to a dynamic import() which is available in all CommonJS modules.
+    at Object.<anonymous> (D:\Multiagent Research\ProjectEvalPlus\test\20251027\7\server.js:6:13) {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v20.11.1
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,7,15,24,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,7,15,24,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,8,18,18,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,9,0,13,"npm ERR! code EJSONPARSE
+npm ERR! path D:\Multiagent Research\ProjectEvalPlus\test\20251027\9/package.json
+npm ERR! JSON.parse Expected property name or '}' in JSON at position 1 while parsing '{\n  \""name\"": \""ai-chatbot-website\"",\n'
+npm ERR! JSON.parse Failed to parse JSON data.
+npm ERR! JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+
+npm ERR! A complete log of this run can be found in: C:\Users\Ryan\AppData\Local\npm-cache\_logs\2025-10-27T05_24_41_012Z-debug-0.log
+  File ""D:\Multiagent Research\ProjectEvalPlus\test\20251027\9\start.py"", line 1
+    import subprocess, sys, os\n\ndef main():\n    # Install dependencies\n    subprocess.run(['npm', 'install'], shell=True)\n    # Start server\n    subprocess.run(['node', 'server.js'], shell=True)\n\nif __name__ == ""__main__"":\n    main()
+                               ^
+SyntaxError: unexpected character after line continuation character
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,9,13,13,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,10,19,21,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,11,0,8,"npm ERR! code ETARGET
+npm ERR! notarget No matching version found for multer@^1.4.5.
+npm ERR! notarget In most cases you or one of your dependencies are requesting
+npm ERR! notarget a package version that doesn't exist.
+
+npm ERR! A complete log of this run can be found in: C:\Users\Ryan\AppData\Local\npm-cache\_logs\2025-10-27T05_31_22_525Z-debug-0.log
+npm ERR! code ETARGET
+npm ERR! notarget No matching version found for multer@^1.4.5.
+npm ERR! notarget In most cases you or one of your dependencies are requesting
+npm ERR! notarget a package version that doesn't exist.
+
+npm ERR! A complete log of this run can be found in: C:\Users\Ryan\AppData\Local\npm-cache\_logs\2025-10-27T05_32_04_030Z-debug-0.log
+node:internal/modules/cjs/loader:1147
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- D:\Multiagent Research\ProjectEvalPlus\test\20251027\11\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (D:\Multiagent Research\ProjectEvalPlus\test\20251027\11\server.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251027\\11\\server.js'
+  ]
+}
+
+Node.js v20.11.1
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,11,3,8,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,11,3,8,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,11,7,8,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,11,7,8,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,12,2,18,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,12,9,18,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,12,9,18,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,12,9,18,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,12,9,18,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,0,25,"D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\models\db.js:1
+const low = require('lowdb');
+
+            ^
+
+Error [ERR_REQUIRE_ESM]: require() of ES Module D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\node_modules\lowdb\lib\index.js from D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\models\db.js not supported.
+Instead change the require of index.js in D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\models\db.js to a dynamic import() which is available in all CommonJS modules.
+    at Object.<anonymous> (D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\models\db.js:1:13) {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v20.11.1
+D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\models\db.js:1
+const low = require('lowdb');
+
+            ^
+
+Error [ERR_REQUIRE_ESM]: require() of ES Module D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\node_modules\lowdb\lib\index.js from D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\models\db.js not supported.
+Instead change the require of index.js in D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\models\db.js to a dynamic import() which is available in all CommonJS modules.
+    at Object.<anonymous> (D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\models\db.js:1:13) {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v20.11.1
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,0,25,"D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\models\db.js:1
+const low = require('lowdb');
+
+            ^
+
+Error [ERR_REQUIRE_ESM]: require() of ES Module D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\node_modules\lowdb\lib\index.js from D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\models\db.js not supported.
+Instead change the require of index.js in D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\models\db.js to a dynamic import() which is available in all CommonJS modules.
+    at Object.<anonymous> (D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\models\db.js:1:13) {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v20.11.1
+D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\models\db.js:1
+const low = require('lowdb');
+
+            ^
+
+Error [ERR_REQUIRE_ESM]: require() of ES Module D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\node_modules\lowdb\lib\index.js from D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\models\db.js not supported.
+Instead change the require of index.js in D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\models\db.js to a dynamic import() which is available in all CommonJS modules.
+    at Object.<anonymous> (D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\models\db.js:1:13) {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v20.11.1
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,0,25,"npm ERR! code ETARGET
+npm ERR! notarget No matching version found for lowdb@2.0.6.
+npm ERR! notarget In most cases you or one of your dependencies are requesting
+npm ERR! notarget a package version that doesn't exist.
+
+npm ERR! A complete log of this run can be found in: C:\Users\Ryan\AppData\Local\npm-cache\_logs\2025-10-27T06_55_17_473Z-debug-0.log
+node:internal/modules/cjs/loader:1147
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\server.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251027\\13\\server.js'
+  ]
+}
+
+Node.js v20.11.1
+npm ERR! code ETARGET
+npm ERR! notarget No matching version found for lowdb@2.0.6.
+npm ERR! notarget In most cases you or one of your dependencies are requesting
+npm ERR! notarget a package version that doesn't exist.
+
+npm ERR! A complete log of this run can be found in: C:\Users\Ryan\AppData\Local\npm-cache\_logs\2025-10-27T06_55_53_687Z-debug-0.log
+node:internal/modules/cjs/loader:1147
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\server.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251027\\13\\server.js'
+  ]
+}
+
+Node.js v20.11.1
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,0,25,"node:internal/modules/cjs/loader:598
+      throw e;
+      ^
+
+Error: Cannot find module 'D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\node_modules\lowdb\lib\index.js'
+    at createEsmNotFoundErr (node:internal/modules/cjs/loader:1181:15)
+    at finalizeEsmResolution (node:internal/modules/cjs/loader:1169:15)
+    at resolveExports (node:internal/modules/cjs/loader:591:14)
+    at Module._findPath (node:internal/modules/cjs/loader:668:31)
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1130:27)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\models\db.js:1:13)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14) {
+  code: 'MODULE_NOT_FOUND',
+  path: 'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251027\\13\\node_modules\\lowdb\\package.json'
+}
+
+Node.js v20.11.1
+node:internal/modules/cjs/loader:598
+      throw e;
+      ^
+
+Error: Cannot find module 'D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\node_modules\lowdb\lib\index.js'
+    at createEsmNotFoundErr (node:internal/modules/cjs/loader:1181:15)
+    at finalizeEsmResolution (node:internal/modules/cjs/loader:1169:15)
+    at resolveExports (node:internal/modules/cjs/loader:591:14)
+    at Module._findPath (node:internal/modules/cjs/loader:668:31)
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1130:27)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\models\db.js:1:13)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14) {
+  code: 'MODULE_NOT_FOUND',
+  path: 'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251027\\13\\node_modules\\lowdb\\package.json'
+}
+
+Node.js v20.11.1
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,0,25,"D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\routes\customer.js:4
+const { v4: uuidv4 } = require('uuid');
+
+                       ^
+
+Error [ERR_REQUIRE_ESM]: require() of ES Module D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\node_modules\uuid\dist-node\index.js from D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\routes\customer.js not supported.
+Instead change the require of index.js in D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\routes\customer.js to a dynamic import() which is available in all CommonJS modules.
+    at Object.<anonymous> (D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\routes\customer.js:4:24) {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v20.11.1
+D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\routes\customer.js:4
+const { v4: uuidv4 } = require('uuid');
+
+                       ^
+
+Error [ERR_REQUIRE_ESM]: require() of ES Module D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\node_modules\uuid\dist-node\index.js from D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\routes\customer.js not supported.
+Instead change the require of index.js in D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\routes\customer.js to a dynamic import() which is available in all CommonJS modules.
+    at Object.<anonymous> (D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\routes\customer.js:4:24) {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v20.11.1
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,14,5,5,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,15,0,3,"npm ERR! code EJSONPARSE
+npm ERR! path D:\Multiagent Research\ProjectEvalPlus\test\20251027\15/package.json
+npm ERR! JSON.parse Expected property name or '}' in JSON at position 1 while parsing '{\n  \""name\"": \""helloworld-app\"",\n  \""'
+npm ERR! JSON.parse Failed to parse JSON data.
+npm ERR! JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+
+npm ERR! A complete log of this run can be found in: C:\Users\Ryan\AppData\Local\npm-cache\_logs\2025-10-27T07_10_25_341Z-debug-0.log
+  File ""D:\Multiagent Research\ProjectEvalPlus\test\20251027\15\start.py"", line 1
+    import subprocess\nimport sys\n\n# Install dependencies\nsubprocess.run(['npm', 'install'], shell=True)\n\n# Start the server\nsubprocess.run(['node', 'server.js'], shell=True)
+                      ^
+SyntaxError: unexpected character after line continuation character
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,15,3,3,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,1,9,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,2,9,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,4,9,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,4,9,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,4,9,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,3,6,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,1,6,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,2,6,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,1,6,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,2,6,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,18,8,14,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,18,11,14,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,18,11,14,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,18,11,14,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,18,14,14,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,1,8,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,1,8,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,1,8,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,1,8,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,1,8,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,2,26,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,2,26,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,2,26,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,2,26,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,2,26,N/A

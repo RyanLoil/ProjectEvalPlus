@@ -1,0 +1,92 @@
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,0,26,"[INFO] Scanning for projects...
+[ERROR] [ERROR] Some problems were encountered while processing the POMs:
+[FATAL] Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+ @ 
+[ERROR] The build could not read 1 project -> [Help 1]
+[ERROR]   
+[ERROR]   The project com.example:example-blog:1.0.0 (D:\Multiagent Research\ProjectEvalPlus\test\20251029\20\pom.xml) has 1 error
+[ERROR]     Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/ProjectBuildingException
+[INFO] Scanning for projects...
+[ERROR] [ERROR] Some problems were encountered while processing the POMs:
+[FATAL] Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+ @ 
+[ERROR] The build could not read 1 project -> [Help 1]
+[ERROR]   
+[ERROR]   The project com.example:example-blog:1.0.0 (D:\Multiagent Research\ProjectEvalPlus\test\20251029\20\pom.xml) has 1 error
+[ERROR]     Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/ProjectBuildingException
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,0,26,"[INFO] Scanning for projects...
+[INFO] 
+[INFO] ----------------------< com.example:example-blog >----------------------
+[INFO] Building example-blog 1.0.0
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- exec:3.1.0:java (default-cli) @ example-blog ---
+[WARNING] 
+java.lang.ClassNotFoundException: com.example.blog.Application
+    at org.codehaus.mojo.exec.URLClassLoaderBuilder$ExecJavaClassLoader.loadClass (URLClassLoaderBuilder.java:198)
+    at java.lang.ClassLoader.loadClass (ClassLoader.java:528)
+    at org.codehaus.mojo.exec.ExecJavaMojo$1.run (ExecJavaMojo.java:271)
+    at java.lang.Thread.run (Thread.java:1575)
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  0.351 s
+[INFO] Finished at: 2025-10-29T15:01:21+08:00
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.codehaus.mojo:exec-maven-plugin:3.1.0:java (default-cli) on project example-blog: An exception occurred while executing the Java class. com.example.blog.Application -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ----------------------< com.example:example-blog >----------------------
+[INFO] Building example-blog 1.0.0
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- exec:3.1.0:java (default-cli) @ example-blog ---
+[WARNING] 
+java.lang.ClassNotFoundException: com.example.blog.Application
+    at org.codehaus.mojo.exec.URLClassLoaderBuilder$ExecJavaClassLoader.loadClass (URLClassLoaderBuilder.java:198)
+    at java.lang.ClassLoader.loadClass (ClassLoader.java:528)
+    at org.codehaus.mojo.exec.ExecJavaMojo$1.run (ExecJavaMojo.java:271)
+    at java.lang.Thread.run (Thread.java:1575)
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  0.287 s
+[INFO] Finished at: 2025-10-29T15:01:23+08:00
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.codehaus.mojo:exec-maven-plugin:3.1.0:java (default-cli) on project example-blog: An exception occurred while executing the Java class. com.example.blog.Application -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,13,26,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,15,26,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,15,26,N/A

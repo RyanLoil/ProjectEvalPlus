@@ -1,0 +1,704 @@
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,1,True,,,Login as Owner
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,2,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_name""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Add Category
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,3,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_title""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Add Post
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,4,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""/html/body/div/header/div[2]/form/button""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Logout as Owner
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,5,True,,,Display Latest Blogs
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,6,True,,,Search Bar
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,7,True,,,Read Blog Content
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,8,True,,,Comments Section
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,9,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_username""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Add Post 1
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,10,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_username""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Edit Post
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,11,False,runtime error,"Can't find target article, maybe you forget to display it on home page?",Read Update Blog
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,12,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_username""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Delete Post
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,13,True,,,Check Post Deleted
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,14,True,,,List Blog Categories
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,15,True,,,Filter by Category
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,16,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_username""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Add Category
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,17,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[@id=""content-main""]/ul/li/a""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Add Post 2
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,18,False,runtime error,"Can't find target article, maybe you forget to display it on home page?",Read New Post with New Category
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,19,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_username""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Edit Category
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,20,False,runtime error,"Can't find target article, maybe you forget to display it on home page?",Check Category Changed
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,21,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_username""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Delete Category
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,22,True,,,Check Category Deleted
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,23,True,,,Date Filter
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,24,True,,,Display Author Information
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,25,True,,,Contact Form
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,1,True,,,Login as Owner
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,2,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_name""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Add Category
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,3,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_title""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Add Post
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,4,True,,,Logout as Owner
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,5,True,,,Display Latest Blogs
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,6,True,,,Search Bar
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,7,True,,,Read Blog Content
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,8,True,,,Comments Section
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,9,True,,,Dynamic Add Post 1
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,10,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_title""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Edit Post
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,11,False,runtime error,"Can't find target article, maybe you forget to display it on home page?",Read Update Blog
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,12,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_username""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Delete Post
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,13,True,,,Check Post Deleted
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,14,True,,,List Blog Categories
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,15,False,assertion,Wrong filter.,Filter by Category
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,16,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_username""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Add Category
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,17,True,,,Dynamic Add Post 2
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,18,False,assertion,Wrong category.,Read New Post with New Category
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,19,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[text()=""AI""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Edit Category
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,20,False,assertion,Edit category failed.,Check Category Changed
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,21,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_username""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Delete Category
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,22,True,,,Check Category Deleted
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,23,True,,,Date Filter
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,24,True,,,Display Author Information
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,25,True,,,Contact Form
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,1,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""/html/body/div/div/main/div/div/form/div[3]/input""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Login as Owner
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,2,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""/html/body/div/div/main/div/div/ul/li/a""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Add Category
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,3,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""/html/body/div/div/main/div/div/ul/li/a""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Add Post
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,4,True,,,Logout as Owner
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,5,True,,,Display Latest Blogs
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,6,True,,,Search Bar
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,7,True,,,Read Blog Content
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,8,True,,,Comments Section
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,9,True,,,Dynamic Add Post 1
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,10,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_title""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Edit Post
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,11,False,runtime error,"Can't find target article, maybe you forget to display it on home page?",Read Update Blog
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,12,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[text()=""ProjectEval is an awesome benchmark""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Delete Post
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,13,True,,,Check Post Deleted
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,14,True,,,List Blog Categories
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,15,False,assertion,Wrong filter.,Filter by Category
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,16,True,,,Dynamic Add Category
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,17,True,,,Dynamic Add Post 2
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,18,True,,,Read New Post with New Category
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,19,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_name""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Edit Category
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,20,False,assertion,Edit category failed.,Check Category Changed
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,21,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[text()=""Nier""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Delete Category
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,22,False,assertion,Failed to delete category.,Check Category Deleted
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,23,True,,,Date Filter
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,24,True,,,Display Author Information
+renew_java,gpt-5-mini,direct,20251018-123000,3,20,25,True,,,Contact Form

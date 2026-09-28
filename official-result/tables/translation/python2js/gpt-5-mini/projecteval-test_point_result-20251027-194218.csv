@@ -1,0 +1,34 @@
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-5-mini,direct,20251018-123000,3,16,1,True,,,CheckFileExistence
+renew_js,gpt-5-mini,direct,20251018-123000,3,16,2,True,,,ValidateHeaders
+renew_js,gpt-5-mini,direct,20251018-123000,3,16,3,True,,,ValidateNullValue
+renew_js,gpt-5-mini,direct,20251018-123000,3,16,4,True,,,ValidateTimeColumn
+renew_js,gpt-5-mini,direct,20251018-123000,3,16,5,True,,,ValidateDataIntegrity
+renew_js,gpt-5-mini,direct,20251018-123000,3,16,6,True,,,EmptyFileRun
+renew_js,gpt-5-mini,direct,20251018-123000,3,16,7,True,,,RunProject
+renew_js,gpt-5-mini,direct,20251018-123000,3,16,8,True,,,OutputFileCheck
+renew_js,gpt-5-mini,direct,20251018-123000,3,17,1,True,,,CheckFileExistence
+renew_js,gpt-5-mini,direct,20251018-123000,3,17,2,True,,,ValidateNullValue
+renew_js,gpt-5-mini,direct,20251018-123000,3,17,3,True,,,ValidateEmptyFile
+renew_js,gpt-5-mini,direct,20251018-123000,3,17,4,True,,,RunProject
+renew_js,gpt-5-mini,direct,20251018-123000,3,17,5,True,,,OutputFileCheck
+renew_js,gpt-5-mini,direct,20251018-123000,3,18,1,True,,,Welcome Message
+renew_js,gpt-5-mini,direct,20251018-123000,3,18,2,True,,,Help in Main Menu
+renew_js,gpt-5-mini,direct,20251018-123000,3,18,3,True,,,Wrong Selection Check
+renew_js,gpt-5-mini,direct,20251018-123000,3,18,4,True,,,Start Game
+renew_js,gpt-5-mini,direct,20251018-123000,3,18,5,True,,,Display Help
+renew_js,gpt-5-mini,direct,20251018-123000,3,18,6,True,,,Look Around
+renew_js,gpt-5-mini,direct,20251018-123000,3,18,7,True,,,Move Player
+renew_js,gpt-5-mini,direct,20251018-123000,3,18,8,True,,,Move Back
+renew_js,gpt-5-mini,direct,20251018-123000,3,18,9,True,,,Check Inventory 1
+renew_js,gpt-5-mini,direct,20251018-123000,3,18,10,True,,,Pick Item
+renew_js,gpt-5-mini,direct,20251018-123000,3,18,11,True,,,Check Inventory 2
+renew_js,gpt-5-mini,direct,20251018-123000,3,18,12,True,,,Win the Game
+renew_js,gpt-5-mini,direct,20251018-123000,3,18,13,True,,,Exit Game
+renew_js,gpt-5-mini,direct,20251018-123000,3,19,1,True,,,CheckFileExistence
+renew_js,gpt-5-mini,direct,20251018-123000,3,19,2,True,,,ValidateHeaders
+renew_js,gpt-5-mini,direct,20251018-123000,3,19,3,True,,,ValidateEmptyFile
+renew_js,gpt-5-mini,direct,20251018-123000,3,19,4,True,,,ValidateTimeColumn
+renew_js,gpt-5-mini,direct,20251018-123000,3,19,5,True,,,ValidateNullValue
+renew_js,gpt-5-mini,direct,20251018-123000,3,19,6,False,assertion,Image not match.,RunProject1
+renew_js,gpt-5-mini,direct,20251018-123000,3,19,7,True,,,RunProject2

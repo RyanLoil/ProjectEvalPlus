@@ -1,0 +1,9 @@
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251010-203300,3,2,1,True,,,Select Source Currency
+renew_js,gpt-oss-20b,direct,20251010-203300,3,2,2,True,,,Select Target Currency
+renew_js,gpt-oss-20b,direct,20251010-203300,3,2,3,True,,,Enter Amount
+renew_js,gpt-oss-20b,direct,20251010-203300,3,2,4,True,,,Convert Button
+renew_js,gpt-oss-20b,direct,20251010-203300,3,2,5,True,,,Display Conversion Result
+renew_js,gpt-oss-20b,direct,20251010-203300,3,2,6,True,,,Exchange Rate Info
+renew_js,gpt-oss-20b,direct,20251010-203300,3,2,7,True,,,Currency Information
+renew_js,gpt-oss-20b,direct,20251010-203300,3,2,8,True,,,Historical Exchange Rates

@@ -1,0 +1,358 @@
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,2,0,9,"[INFO] Scanning for projects...
+[ERROR] [ERROR] Some problems were encountered while processing the POMs:
+[ERROR] 'dependencies.dependency.version' for org.springframework.boot:spring-boot-starter-web:jar is missing. @ line 16, column 21
+[ERROR] 'dependencies.dependency.version' for org.springframework.boot:spring-boot-starter-thymeleaf:jar is missing. @ line 20, column 21
+ @ 
+[ERROR] The build could not read 1 project -> [Help 1]
+[ERROR]   
+[ERROR]   The project com.example:currency-converter:0.0.1-SNAPSHOT (D:\Multiagent Research\ProjectEvalPlus\test\20251029\2\pom.xml) has 2 errors
+[ERROR]     'dependencies.dependency.version' for org.springframework.boot:spring-boot-starter-web:jar is missing. @ line 16, column 21
+[ERROR]     'dependencies.dependency.version' for org.springframework.boot:spring-boot-starter-thymeleaf:jar is missing. @ line 20, column 21
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/ProjectBuildingException
+[INFO] Scanning for projects...
+[ERROR] [ERROR] Some problems were encountered while processing the POMs:
+[ERROR] 'dependencies.dependency.version' for org.springframework.boot:spring-boot-starter-web:jar is missing. @ line 16, column 21
+[ERROR] 'dependencies.dependency.version' for org.springframework.boot:spring-boot-starter-thymeleaf:jar is missing. @ line 20, column 21
+ @ 
+[ERROR] The build could not read 1 project -> [Help 1]
+[ERROR]   
+[ERROR]   The project com.example:currency-converter:0.0.1-SNAPSHOT (D:\Multiagent Research\ProjectEvalPlus\test\20251029\2\pom.xml) has 2 errors
+[ERROR]     'dependencies.dependency.version' for org.springframework.boot:spring-boot-starter-web:jar is missing. @ line 16, column 21
+[ERROR]     'dependencies.dependency.version' for org.springframework.boot:spring-boot-starter-thymeleaf:jar is missing. @ line 20, column 21
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/ProjectBuildingException
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,2,0,9,"[INFO] Scanning for projects...
+[ERROR] [ERROR] Some problems were encountered while processing the POMs:
+[FATAL] Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+ @ 
+[ERROR] The build could not read 1 project -> [Help 1]
+[ERROR]   
+[ERROR]   The project com.example:currency-converter:0.0.1-SNAPSHOT (D:\Multiagent Research\ProjectEvalPlus\test\20251029\2\pom.xml) has 1 error
+[ERROR]     Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/ProjectBuildingException
+[INFO] Scanning for projects...
+[ERROR] [ERROR] Some problems were encountered while processing the POMs:
+[FATAL] Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+ @ 
+[ERROR] The build could not read 1 project -> [Help 1]
+[ERROR]   
+[ERROR]   The project com.example:currency-converter:0.0.1-SNAPSHOT (D:\Multiagent Research\ProjectEvalPlus\test\20251029\2\pom.xml) has 1 error
+[ERROR]     Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/ProjectBuildingException
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,2,9,9,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,3,15,16,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,5,0,13,"Started Maven Spring Boot process (PID): 57532
+[INFO] Scanning for projects...
+[ERROR] [ERROR] Some problems were encountered while processing the POMs:
+[FATAL] Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+ @ 
+[ERROR] The build could not read 1 project -> [Help 1]
+[ERROR]   
+[ERROR]   The project com.example:markdown-converter:1.0.0 (D:\Multiagent Research\ProjectEvalPlus\test\20251029\5\pom.xml) has 1 error
+[ERROR]     Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/ProjectBuildingException
+Started Maven Spring Boot process (PID): 49240
+[INFO] Scanning for projects...
+[ERROR] [ERROR] Some problems were encountered while processing the POMs:
+[FATAL] Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+ @ 
+[ERROR] The build could not read 1 project -> [Help 1]
+[ERROR]   
+[ERROR]   The project com.example:markdown-converter:1.0.0 (D:\Multiagent Research\ProjectEvalPlus\test\20251029\5\pom.xml) has 1 error
+[ERROR]     Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/ProjectBuildingException
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,5,0,13,"Started Maven Spring Boot process (PID): 17708
+[INFO] Scanning for projects...
+[ERROR] [ERROR] Some problems were encountered while processing the POMs:
+[FATAL] Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+ @ 
+[ERROR] The build could not read 1 project -> [Help 1]
+[ERROR]   
+[ERROR]   The project com.example:markdown-converter:1.0.0 (D:\Multiagent Research\ProjectEvalPlus\test\20251029\5\pom.xml) has 1 error
+[ERROR]     Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/ProjectBuildingException
+Started Maven Spring Boot process (PID): 37344
+[INFO] Scanning for projects...
+[ERROR] [ERROR] Some problems were encountered while processing the POMs:
+[FATAL] Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+ @ 
+[ERROR] The build could not read 1 project -> [Help 1]
+[ERROR]   
+[ERROR]   The project com.example:markdown-converter:1.0.0 (D:\Multiagent Research\ProjectEvalPlus\test\20251029\5\pom.xml) has 1 error
+[ERROR]     Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/ProjectBuildingException
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,5,11,13,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,5,12,13,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,7,17,24,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,7,0,24,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,7,0,24,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,7,19,24,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,7,20,24,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,12,0,18,"Starting the Java Spring Boot application via Maven...
+Starting the Java Spring Boot application via Maven...
+[INFO] Scanning for projects...
+[ERROR] [ERROR] Some problems were encountered while processing the POMs:
+[ERROR] 'dependencies.dependency.version' for com.h2database:h2:jar is missing. @ line 31, column 21
+ @ 
+[ERROR] The build could not read 1 project -> [Help 1]
+[ERROR]   
+[ERROR]   The project com.example:accounting-app:1.0.0 (D:\Multiagent Research\ProjectEvalPlus\test\20251029\12\pom.xml) has 1 error
+[ERROR]     'dependencies.dependency.version' for com.h2database:h2:jar is missing. @ line 31, column 21
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/ProjectBuildingException
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,12,0,18,"Starting the Java Spring Boot application via Maven...
+Starting the Java Spring Boot application via Maven...
+[INFO] Scanning for projects...
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/$%7Bspring.boot.version%7D/spring-boot-starter-parent-$%7Bspring.boot.version%7D.pom
+[ERROR] [ERROR] Some problems were encountered while processing the POMs:
+[FATAL] Non-resolvable parent POM for com.example:accounting-app:1.0.0: The following artifacts could not be resolved: org.springframework.boot:spring-boot-starter-parent:pom:${spring.boot.version} (absent): Could not find artifact org.springframework.boot:spring-boot-starter-parent:pom:${spring.boot.version} in central (https://repo.maven.apache.org/maven2) and 'parent.relativePath' points at no local POM @ line 6, column 13
+ @ 
+[ERROR] The build could not read 1 project -> [Help 1]
+[ERROR]   
+[ERROR]   The project com.example:accounting-app:1.0.0 (D:\Multiagent Research\ProjectEvalPlus\test\20251029\12\pom.xml) has 1 error
+[ERROR]     Non-resolvable parent POM for com.example:accounting-app:1.0.0: The following artifacts could not be resolved: org.springframework.boot:spring-boot-starter-parent:pom:${spring.boot.version} (absent): Could not find artifact org.springframework.boot:spring-boot-starter-parent:pom:${spring.boot.version} in central (https://repo.maven.apache.org/maven2) and 'parent.relativePath' points at no local POM @ line 6, column 13 -> [Help 2]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/ProjectBuildingException
+[ERROR] [Help 2] http://cwiki.apache.org/confluence/display/MAVEN/UnresolvableModelException
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,12,10,18,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,12,13,18,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,12,13,18,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,13,0,25,"[ERROR] [ERROR] Some problems were encountered while processing the POMs:
+[FATAL] Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+ @ 
+[ERROR] The build could not read 1 project -> [Help 1]
+[ERROR]   
+[ERROR]   The project com.example:crm:1.0.0 (D:\Multiagent Research\ProjectEvalPlus\test\20251029\13\pom.xml) has 1 error
+[ERROR]     Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/ProjectBuildingException
+[ERROR] [ERROR] Some problems were encountered while processing the POMs:
+[FATAL] Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+ @ 
+[ERROR] The build could not read 1 project -> [Help 1]
+[ERROR]   
+[ERROR]   The project com.example:crm:1.0.0 (D:\Multiagent Research\ProjectEvalPlus\test\20251029\13\pom.xml) has 1 error
+[ERROR]     Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/ProjectBuildingException
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,13,16,25,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,13,0,25,"[ERROR] No plugin found for prefix 'spring-boot' in the current project and in the plugin groups [org.apache.maven.plugins, org.codehaus.mojo] available from the repositories [local (C:\Users\Ryan\.m2\repository), central (https://repo.maven.apache.org/maven2)] -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/NoPluginFoundForPrefixException
+[ERROR] No plugin found for prefix 'spring-boot' in the current project and in the plugin groups [org.apache.maven.plugins, org.codehaus.mojo] available from the repositories [local (C:\Users\Ryan\.m2\repository), central (https://repo.maven.apache.org/maven2)] -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/NoPluginFoundForPrefixException
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,13,0,25,"[ERROR] [ERROR] Some problems were encountered while processing the POMs:
+[FATAL] Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+ @ 
+[ERROR] The build could not read 1 project -> [Help 1]
+[ERROR]   
+[ERROR]   The project com.example:crm:0.0.1-SNAPSHOT (D:\Multiagent Research\ProjectEvalPlus\test\20251029\13\pom.xml) has 1 error
+[ERROR]     Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/ProjectBuildingException
+[ERROR] [ERROR] Some problems were encountered while processing the POMs:
+[FATAL] Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+ @ 
+[ERROR] The build could not read 1 project -> [Help 1]
+[ERROR]   
+[ERROR]   The project com.example:crm:0.0.1-SNAPSHOT (D:\Multiagent Research\ProjectEvalPlus\test\20251029\13\pom.xml) has 1 error
+[ERROR]     Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/ProjectBuildingException
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,13,0,25,"[ERROR] [ERROR] Some problems were encountered while processing the POMs:
+[FATAL] Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+ @ 
+[ERROR] The build could not read 1 project -> [Help 1]
+[ERROR]   
+[ERROR]   The project com.example:crm:0.0.1-SNAPSHOT (D:\Multiagent Research\ProjectEvalPlus\test\20251029\13\pom.xml) has 1 error
+[ERROR]     Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/ProjectBuildingException
+[ERROR] [ERROR] Some problems were encountered while processing the POMs:
+[FATAL] Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+ @ 
+[ERROR] The build could not read 1 project -> [Help 1]
+[ERROR]   
+[ERROR]   The project com.example:crm:0.0.1-SNAPSHOT (D:\Multiagent Research\ProjectEvalPlus\test\20251029\13\pom.xml) has 1 error
+[ERROR]     Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/ProjectBuildingException
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,14,0,5,"[INFO] Scanning for projects...
+[ERROR] [ERROR] Some problems were encountered while processing the POMs:
+[FATAL] Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+ @ 
+[ERROR] The build could not read 1 project -> [Help 1]
+[ERROR]   
+[ERROR]   The project com.example:helloworld:0.0.1-SNAPSHOT (D:\Multiagent Research\ProjectEvalPlus\test\20251029\14\pom.xml) has 1 error
+[ERROR]     Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/ProjectBuildingException
+[INFO] Scanning for projects...
+[ERROR] [ERROR] Some problems were encountered while processing the POMs:
+[FATAL] Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+ @ 
+[ERROR] The build could not read 1 project -> [Help 1]
+[ERROR]   
+[ERROR]   The project com.example:helloworld:0.0.1-SNAPSHOT (D:\Multiagent Research\ProjectEvalPlus\test\20251029\14\pom.xml) has 1 error
+[ERROR]     Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/ProjectBuildingException
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,14,5,5,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,15,0,3,"Building the project with Maven...
+[ERROR] [ERROR] Some problems were encountered while processing the POMs:
+[FATAL] Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+ @ 
+[ERROR] The build could not read 1 project -> [Help 1]
+[ERROR]   
+[ERROR]   The project com.example:demo:0.0.1-SNAPSHOT (D:\Multiagent Research\ProjectEvalPlus\test\20251029\15\pom.xml) has 1 error
+[ERROR]     Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/ProjectBuildingException
+No jar found in target/. Exiting.
+Building the project with Maven...
+[ERROR] [ERROR] Some problems were encountered while processing the POMs:
+[FATAL] Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+ @ 
+[ERROR] The build could not read 1 project -> [Help 1]
+[ERROR]   
+[ERROR]   The project com.example:demo:0.0.1-SNAPSHOT (D:\Multiagent Research\ProjectEvalPlus\test\20251029\15\pom.xml) has 1 error
+[ERROR]     Non-readable POM C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom: input contained no data @ C:\Users\Ryan\.m2\repository\org\springframework\spring-framework-bom\5.3.27\spring-framework-bom-5.3.27.pom
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/ProjectBuildingException
+No jar found in target/. Exiting.
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_java,gpt-5-mini,direct,20251018-123000,3,15,3,3,N/A

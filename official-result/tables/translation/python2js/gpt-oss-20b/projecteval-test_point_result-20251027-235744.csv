@@ -1,0 +1,372 @@
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,1,True,,,View Home
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,2,True,,,Add Customer
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,3,True,,,Add Customer2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,4,True,,,Add Customer3
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,5,True,,,Add Customer4
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,6,True,,,Edit Customer
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,7,True,,,Delete Customer
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,8,True,,,Add Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,9,True,,,Add Product2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,10,False,assertion,,Add Product3
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,11,True,,,Add Product4
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,12,True,,,Edit Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,13,True,,,Delete Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,14,False,assertion,,Add Purchase Record
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,15,False,assertion,,Add Purchase Record2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,16,False,assertion,,Add Purchase Record3
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,17,False,assertion,,Add Purchase Record4
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,18,True,,,Edit Purchase Record
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,19,True,,,Delete Purchase Record
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,20,True,,,Add Preferred Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,21,True,,,Edit Preferred Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,22,True,,,Delete Preferred Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,23,True,,,Generate Sales Report
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,24,True,,,Product Performance Analysis
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,1,True,,,View Home
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,2,True,,,Add Customer
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,3,True,,,Add Customer2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,4,True,,,Add Customer3
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,5,True,,,Add Customer4
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,6,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'Joe') or @value='Joe']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Edit Customer
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,7,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'Amy') or @value='Amy']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Delete Customer
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,8,True,,,Add Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,9,True,,,Add Product2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,10,False,assertion,,Add Product3
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,11,True,,,Add Product4
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,12,True,,,Edit Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,13,True,,,Delete Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,14,True,,,Add Purchase Record
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,15,True,,,Add Purchase Record2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,16,True,,,Add Purchase Record3
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,17,True,,,Add Purchase Record4
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,18,True,,,Edit Purchase Record
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,19,True,,,Delete Purchase Record
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,20,True,,,Add Preferred Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,21,True,,,Edit Preferred Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,22,True,,,Delete Preferred Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,23,True,,,Generate Sales Report
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,24,True,,,Product Performance Analysis
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,1,True,,,View Home
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,2,True,,,Add Customer
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,3,True,,,Add Customer2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,4,True,,,Add Customer3
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,5,True,,,Add Customer4
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,6,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'Joe') or @value='Joe']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Edit Customer
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,7,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'Amy') or @value='Amy']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Delete Customer
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,8,True,,,Add Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,9,True,,,Add Product2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,10,True,,,Add Product3
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,11,True,,,Add Product4
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,12,True,,,Edit Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,13,True,,,Delete Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,14,True,,,Add Purchase Record
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,15,True,,,Add Purchase Record2
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,16,True,,,Add Purchase Record3
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,17,False,assertion,,Add Purchase Record4
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,18,True,,,Edit Purchase Record
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,19,True,,,Delete Purchase Record
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,20,True,,,Add Preferred Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,21,True,,,Edit Preferred Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,22,True,,,Delete Preferred Product
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,23,True,,,Generate Sales Report
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,24,True,,,Product Performance Analysis
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,1,False,timeout,"Function test_CheckFileExistence (args=()) (kwargs={'entry': 'start.py', 'error_message': ""Error: The file 'Spring Semester Subjects.xlsx' does not exist.""}) timed out after 5.000000 seconds.
+",CheckFileExistence
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,2,True,,,ValidateHeaders
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,3,False,assertion,"Answer is not matching, stdout is Error: There are missing values in the input data. Please fill in all required fields., actually out is changed 1 package, and audited 10 packages in 1s
+a different dependency.
+Error: There are missing values in the input data. Please fill in all required fields. and ",ValidateNullValue
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,4,False,assertion,"Answer is not matching, stdout is Error: Invalid time values found: [...]. Valid options are ['First period', 'Second period', 'Third period', 'Fourth period']., actually out is a different dependency.
+Error: Invalid time values found: [""Fifth period"",""Sixth period""]. Valid options are [""First period"",""Second period"",""Third period"",""Fourth period""]. and ",ValidateTimeColumn
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,5,False,timeout,"Function test_ValidateDataIntegrity (args=()) (kwargs={'entry': 'start.py', 'error_message': ""Error: Invalid weekday values found: [...]. Valid options are ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'].""}) timed out after 5.000000 seconds.
+",ValidateDataIntegrity
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,6,False,runtime error,[WinError 183] 当文件已存在时，无法创建该文件。: '16-Spring Semester Subjects-Standard.xlsx' -> 'Spring Semester Subjects.xlsx',EmptyFileRun
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,7,False,runtime error,[WinError 183] 当文件已存在时，无法创建该文件。: '16-Spring Semester Subjects-Standard.xlsx' -> 'Spring Semester Subjects.xlsx',RunProject
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,8,False,runtime error,[Errno 2] No such file or directory: 'Processed Subjects Table.xlsx',OutputFileCheck
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,1,False,assertion,,CheckFileExistence
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,2,False,assertion,"Answer is not matching, stdout is Error: The input file is missing one or more required columns: ['#', 'Name', 'Weekday', 'Time'], actually out is  and C:UsersRyanAppDataLocalProgramsPythonPython312python.exe: can't open file 'D:Multiagent ResearchProjectEvalPlustest2025102716somepathstart.py': [Errno 2] No such file or directory",ValidateHeaders
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,3,False,assertion,"Answer is not matching, stdout is Error: There are missing values in the input data. Please fill in all required fields., actually out is  and C:UsersRyanAppDataLocalProgramsPythonPython312python.exe: can't open file 'D:Multiagent ResearchProjectEvalPlustest2025102716somepathstart.py': [Errno 2] No such file or directory",ValidateNullValue
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,4,False,assertion,"Answer is not matching, stdout is Error: Invalid time values found: [...]. Valid options are ['First period', 'Second period', 'Third period', 'Fourth period']., actually out is  and C:UsersRyanAppDataLocalProgramsPythonPython312python.exe: can't open file 'D:Multiagent ResearchProjectEvalPlustest2025102716somepathstart.py': [Errno 2] No such file or directory",ValidateTimeColumn
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,5,False,assertion,"Answer is not matching, stdout is Error: Invalid weekday values found: [...]. Valid options are ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']., actually out is  and C:UsersRyanAppDataLocalProgramsPythonPython312python.exe: can't open file 'D:Multiagent ResearchProjectEvalPlustest2025102716somepathstart.py': [Errno 2] No such file or directory",ValidateDataIntegrity
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,6,True,,,EmptyFileRun
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,7,True,,,RunProject
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,8,False,runtime error,[Errno 2] No such file or directory: 'Processed Subjects Table.xlsx',OutputFileCheck
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,1,False,assertion,,CheckFileExistence
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,2,False,assertion,"Answer is not matching, stdout is Error: The input file is missing one or more required columns: ['#', 'Name', 'Weekday', 'Time'], actually out is  and C:UsersRyanAppDataLocalProgramsPythonPython312python.exe: can't open file 'D:Multiagent ResearchProjectEvalPlustest2025102716somepathstart.py': [Errno 2] No such file or directory",ValidateHeaders
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,3,False,assertion,"Answer is not matching, stdout is Error: There are missing values in the input data. Please fill in all required fields., actually out is  and C:UsersRyanAppDataLocalProgramsPythonPython312python.exe: can't open file 'D:Multiagent ResearchProjectEvalPlustest2025102716somepathstart.py': [Errno 2] No such file or directory",ValidateNullValue
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,4,False,assertion,"Answer is not matching, stdout is Error: Invalid time values found: [...]. Valid options are ['First period', 'Second period', 'Third period', 'Fourth period']., actually out is  and C:UsersRyanAppDataLocalProgramsPythonPython312python.exe: can't open file 'D:Multiagent ResearchProjectEvalPlustest2025102716somepathstart.py': [Errno 2] No such file or directory",ValidateTimeColumn
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,5,False,assertion,"Answer is not matching, stdout is Error: Invalid weekday values found: [...]. Valid options are ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']., actually out is  and C:UsersRyanAppDataLocalProgramsPythonPython312python.exe: can't open file 'D:Multiagent ResearchProjectEvalPlustest2025102716somepathstart.py': [Errno 2] No such file or directory",ValidateDataIntegrity
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,6,True,,,EmptyFileRun
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,7,True,,,RunProject
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,8,False,runtime error,[Errno 2] No such file or directory: 'Processed Subjects Table.xlsx',OutputFileCheck
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,1,False,assertion,,CheckFileExistence
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,2,False,assertion,"Answer is not matching, stdout is Error: The input file is missing one or more required columns: ['#', 'Name', 'Weekday', 'Time'], actually out is  and C:UsersRyanAppDataLocalProgramsPythonPython312python.exe: can't open file 'D:Multiagent ResearchProjectEvalPlustest2025102716somepathstart.py': [Errno 2] No such file or directory",ValidateHeaders
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,3,False,assertion,"Answer is not matching, stdout is Error: There are missing values in the input data. Please fill in all required fields., actually out is  and C:UsersRyanAppDataLocalProgramsPythonPython312python.exe: can't open file 'D:Multiagent ResearchProjectEvalPlustest2025102716somepathstart.py': [Errno 2] No such file or directory",ValidateNullValue
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,4,False,assertion,"Answer is not matching, stdout is Error: Invalid time values found: [...]. Valid options are ['First period', 'Second period', 'Third period', 'Fourth period']., actually out is  and C:UsersRyanAppDataLocalProgramsPythonPython312python.exe: can't open file 'D:Multiagent ResearchProjectEvalPlustest2025102716somepathstart.py': [Errno 2] No such file or directory",ValidateTimeColumn
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,5,False,assertion,"Answer is not matching, stdout is Error: Invalid weekday values found: [...]. Valid options are ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']., actually out is  and C:UsersRyanAppDataLocalProgramsPythonPython312python.exe: can't open file 'D:Multiagent ResearchProjectEvalPlustest2025102716somepathstart.py': [Errno 2] No such file or directory",ValidateDataIntegrity
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,6,True,,,EmptyFileRun
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,7,True,,,RunProject
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,8,False,runtime error,[Errno 2] No such file or directory: 'Processed Subjects Table.xlsx',OutputFileCheck
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,1,False,assertion,,CheckFileExistence
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,2,False,assertion,"Answer is not matching, stdout is Error: The input file is missing one or more required columns: ['#', 'Name', 'Weekday', 'Time'], actually out is  and C:UsersRyanAppDataLocalProgramsPythonPython312python.exe: can't open file 'D:Multiagent ResearchProjectEvalPlustest2025102716somepathstart.py': [Errno 2] No such file or directory",ValidateHeaders
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,3,False,assertion,"Answer is not matching, stdout is Error: There are missing values in the input data. Please fill in all required fields., actually out is  and C:UsersRyanAppDataLocalProgramsPythonPython312python.exe: can't open file 'D:Multiagent ResearchProjectEvalPlustest2025102716somepathstart.py': [Errno 2] No such file or directory",ValidateNullValue
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,4,False,assertion,"Answer is not matching, stdout is Error: Invalid time values found: [...]. Valid options are ['First period', 'Second period', 'Third period', 'Fourth period']., actually out is  and C:UsersRyanAppDataLocalProgramsPythonPython312python.exe: can't open file 'D:Multiagent ResearchProjectEvalPlustest2025102716somepathstart.py': [Errno 2] No such file or directory",ValidateTimeColumn
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,5,False,assertion,"Answer is not matching, stdout is Error: Invalid weekday values found: [...]. Valid options are ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']., actually out is  and C:UsersRyanAppDataLocalProgramsPythonPython312python.exe: can't open file 'D:Multiagent ResearchProjectEvalPlustest2025102716somepathstart.py': [Errno 2] No such file or directory",ValidateDataIntegrity
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,6,True,,,EmptyFileRun
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,7,True,,,RunProject
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,8,False,runtime error,[Errno 2] No such file or directory: 'Processed Subjects Table.xlsx',OutputFileCheck
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,1,False,timeout,"Function test_CheckFileExistence (args=()) (kwargs={'entry': 'start.py', 'error_message': ""Error: The file 'Gamedata.xlsx' does not exist.""}) timed out after 5.000000 seconds.
+",CheckFileExistence
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,2,False,assertion,"Answer is not matching, stdout is Dataset contains missing or invalid values. Please clean the data and try again., actually out is  and node:internalmodulescjsloader:1147
+throw err;
+^
+Error: Cannot find module '.distcpexcel.js'
+Require stack:
+D:Multiagent ResearchProjectEvalPlustest2025102717node_modulesxlsxxlsx.js
+D:Multiagent ResearchProjectEvalPlustest2025102717main.js
+at Module._resolveFilename (node:internalmodulescjsloader:1144:15)
+at Module._load (node:internalmodulescjsloader:985:27)
+at Module.require (node:internalmodulescjsloader:1235:19)
+at require (node:internalmoduleshelpers:176:18)
+at make_xlsx_lib (D:Multiagent ResearchProjectEvalPlustest2025102717node_modulesxlsxxlsx.js:13:13)
+at Object.<anonymous> (D:Multiagent ResearchProjectEvalPlustest2025102717node_modulesxlsxxlsx.js:24481:36)
+at Module._compile (node:internalmodulescjsloader:1376:14)
+at Module._extensions..js (node:internalmodulescjsloader:1435:10)
+at Module.load (node:internalmodulescjsloader:1207:32)
+at Module._load (node:internalmodulescjsloader:1023:12) {
+code: 'MODULE_NOT_FOUND',
+requireStack: [
+'D:Multiagent ResearchProjectEvalPlustest2025102717node_modulesxlsxxlsx.js',
+'D:Multiagent ResearchProjectEvalPlustest2025102717main.js'
+]
+}
+Node.js v20.11.1",ValidateNullValue
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,3,False,assertion,"Answer is not matching, stdout is Feature matrix or target vector is empty. Check your input data., actually out is a different dependency. and node:internalmodulescjsloader:1147
+throw err;
+^
+Error: Cannot find module '.distcpexcel.js'
+Require stack:
+D:Multiagent ResearchProjectEvalPlustest2025102717node_modulesxlsxxlsx.js
+D:Multiagent ResearchProjectEvalPlustest2025102717main.js
+at Module._resolveFilename (node:internalmodulescjsloader:1144:15)
+at Module._load (node:internalmodulescjsloader:985:27)
+at Module.require (node:internalmodulescjsloader:1235:19)
+at require (node:internalmoduleshelpers:176:18)
+at make_xlsx_lib (D:Multiagent ResearchProjectEvalPlustest2025102717node_modulesxlsxxlsx.js:13:13)
+at Object.<anonymous> (D:Multiagent ResearchProjectEvalPlustest2025102717node_modulesxlsxxlsx.js:24481:36)
+at Module._compile (node:internalmodulescjsloader:1376:14)
+at Module._extensions..js (node:internalmodulescjsloader:1435:10)
+at Module.load (node:internalmodulescjsloader:1207:32)
+at Module._load (node:internalmodulescjsloader:1023:12) {
+code: 'MODULE_NOT_FOUND',
+requireStack: [
+'D:Multiagent ResearchProjectEvalPlustest2025102717node_modulesxlsxxlsx.js',
+'D:Multiagent ResearchProjectEvalPlustest2025102717main.js'
+]
+}
+Node.js v20.11.1",ValidateEmptyFile
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,4,True,,,RunProject
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,5,False,runtime error,[Errno 2] No such file or directory: 'Logistic.xlsx',OutputFileCheck
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,1,True,,,CheckFileExistence
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,2,False,timeout,"Function test_ValidateNullValue (args=()) (kwargs={'entry': 'start.py', 'error_message': 'Dataset contains missing or invalid values. Please clean the data and try again.'}) timed out after 5.000000 seconds.
+",ValidateNullValue
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,3,False,runtime error,[WinError 183] 当文件已存在时，无法创建该文件。: '17-Gamedata-Data Check 2.xlsx' -> 'Gamedata.xlsx',ValidateEmptyFile
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,4,False,runtime error,[WinError 183] 当文件已存在时，无法创建该文件。: '17-Gamedata-Standard.xlsx' -> 'Gamedata.xlsx',RunProject
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,5,False,runtime error,[Errno 2] No such file or directory: 'Logistic.xlsx',OutputFileCheck
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,1,False,timeout,"Function test_CheckFileExistence (args=()) (kwargs={'entry': 'start.py', 'error_message': ""Error: The file 'Gamedata.xlsx' does not exist.""}) timed out after 5.000000 seconds.
+",CheckFileExistence
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,2,True,,,ValidateNullValue
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,3,True,,,ValidateEmptyFile
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,4,True,,,RunProject
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,5,False,runtime error,[Errno 2] No such file or directory: 'Logistic.xlsx',OutputFileCheck
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,1,True,,,CheckFileExistence
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,2,False,timeout,"Function test_ValidateNullValue (args=()) (kwargs={'entry': 'start.py', 'error_message': 'Dataset contains missing or invalid values. Please clean the data and try again.'}) timed out after 5.000000 seconds.
+",ValidateNullValue
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,3,False,runtime error,[WinError 183] 当文件已存在时，无法创建该文件。: '17-Gamedata-Data Check 2.xlsx' -> 'Gamedata.xlsx',ValidateEmptyFile
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,4,False,runtime error,[WinError 183] 当文件已存在时，无法创建该文件。: '17-Gamedata-Standard.xlsx' -> 'Gamedata.xlsx',RunProject
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,5,False,runtime error,[Errno 2] No such file or directory: 'Logistic.xlsx',OutputFileCheck
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,1,True,,,CheckFileExistence
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,2,True,,,ValidateNullValue
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,3,False,timeout,"Function test_ValidateEmptyFile (args=()) (kwargs={'entry': 'start.py', 'error_message': 'Feature matrix or target vector is empty. Check your input data.'}) timed out after 5.000000 seconds.
+",ValidateEmptyFile
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,4,False,runtime error,[WinError 183] 当文件已存在时，无法创建该文件。: '17-Gamedata-Standard.xlsx' -> 'Gamedata.xlsx',RunProject
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,5,False,runtime error,[Errno 2] No such file or directory: 'Logistic.xlsx',OutputFileCheck
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,1,False,timeout,"Function test_CheckFileExistence (args=()) (kwargs={'entry': 'start.py', 'error_message': ""The file 'Deathlist.csv' was not found.""}) timed out after 5.000000 seconds.
+",CheckFileExistence
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,2,False,timeout,"Function test_ValidateHeaders (args=()) (kwargs={'entry': 'start.py', 'error_message': 'The dataset is missing the following required columns: Date of death'}) timed out after 5.000000 seconds.
+",ValidateHeaders
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,3,False,runtime error,[WinError 183] 当文件已存在时，无法创建该文件。: '19-Deathlist-Empty File.csv' -> 'Deathlist.csv',ValidateEmptyFile
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,4,False,runtime error,[WinError 183] 当文件已存在时，无法创建该文件。: '19-Deathlist-Data Check 2.csv' -> 'Deathlist.csv',ValidateTimeColumn
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,5,False,runtime error,[WinError 183] 当文件已存在时，无法创建该文件。: '19-Deathlist-Data Check 3.csv' -> 'Deathlist.csv',ValidateNullValue
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,6,False,runtime error,[WinError 183] 当文件已存在时，无法创建该文件。: '19-Deathlist-Standard 1.csv' -> 'Deathlist.csv',RunProject1
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,7,False,runtime error,[WinError 183] 当文件已存在时，无法创建该文件。: '19-Deathlist-Standard 2.csv' -> 'Deathlist.csv',RunProject2
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,1,True,,,CheckFileExistence
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,2,True,,,ValidateHeaders
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,3,True,,,ValidateEmptyFile
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,4,False,assertion,"Answer is not matching, stdout is Warning: Found [number] non-date entries. These will be ignored.
+Histogram saved as 'weekly_deaths_histogram.png'., actually out is 9 packages are looking for funding
+run `npm fund` for details
+Warning: Found 5000 nondate entries. These will be ignored. and The dataset contains no valid ""Date of death"" entries after cleaning.",ValidateTimeColumn
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,5,False,assertion,"Answer is not matching, stdout is Warning: Found [number] non-date entries. These will be ignored.
+Warning: 2 invalid date entries were found and will be ignored.
+Histogram saved as 'weekly_deaths_histogram.png'., actually out is 9 packages are looking for funding
+run `npm fund` for details
+Warning: Found 10000 nondate entries. These will be ignored. and The dataset contains no valid ""Date of death"" entries after cleaning.",ValidateNullValue
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,6,False,runtime error,division by zero,RunProject1
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,7,False,runtime error,division by zero,RunProject2
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,1,True,,,CheckFileExistence
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,2,True,,,ValidateHeaders
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,3,True,,,ValidateEmptyFile
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,4,False,assertion,"Answer is not matching, stdout is Warning: Found [number] non-date entries. These will be ignored.
+Histogram saved as 'weekly_deaths_histogram.png'., actually out is Warning: Found 5000 nondate entries. These will be ignored. and The dataset contains no valid ""Date of death"" entries after cleaning.",ValidateTimeColumn
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,5,False,assertion,"Answer is not matching, stdout is Warning: Found [number] non-date entries. These will be ignored.
+Warning: 2 invalid date entries were found and will be ignored.
+Histogram saved as 'weekly_deaths_histogram.png'., actually out is Warning: Found 10000 nondate entries. These will be ignored. and The dataset contains no valid ""Date of death"" entries after cleaning.",ValidateNullValue
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,6,False,runtime error,division by zero,RunProject1
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,7,False,runtime error,division by zero,RunProject2
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,1,True,,,CheckFileExistence
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,2,True,,,ValidateHeaders
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,3,True,,,ValidateEmptyFile
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,4,False,assertion,"Answer is not matching, stdout is Warning: Found [number] non-date entries. These will be ignored.
+Histogram saved as 'weekly_deaths_histogram.png'., actually out is Warning: 5000 invalid date entries were found and will be ignored. and The dataset contains no valid ""Date of death"" entries after cleaning.",ValidateTimeColumn
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,5,False,assertion,"Answer is not matching, stdout is Warning: Found [number] non-date entries. These will be ignored.
+Warning: 2 invalid date entries were found and will be ignored.
+Histogram saved as 'weekly_deaths_histogram.png'., actually out is Warning: Found 2 nondate entries. These will be ignored.
+Warning: 9998 invalid date entries were found and will be ignored. and The dataset contains no valid ""Date of death"" entries after cleaning.",ValidateNullValue
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,6,False,runtime error,division by zero,RunProject1
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,7,False,runtime error,division by zero,RunProject2
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,1,True,,,CheckFileExistence
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,2,True,,,ValidateHeaders
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,3,True,,,ValidateEmptyFile
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,4,False,assertion,"Answer is not matching, stdout is Warning: Found [number] non-date entries. These will be ignored.
+Histogram saved as 'weekly_deaths_histogram.png'., actually out is Warning: 5000 invalid date entries were found and will be ignored. and The dataset contains no valid ""Date of death"" entries after cleaning.",ValidateTimeColumn
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,5,False,assertion,"Answer is not matching, stdout is Warning: Found [number] non-date entries. These will be ignored.
+Warning: 2 invalid date entries were found and will be ignored.
+Histogram saved as 'weekly_deaths_histogram.png'., actually out is Warning: Found 2 nondate entries. These will be ignored.
+Warning: 9998 invalid date entries were found and will be ignored. and The dataset contains no valid ""Date of death"" entries after cleaning.",ValidateNullValue
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,6,False,runtime error,division by zero,RunProject1
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,7,False,runtime error,division by zero,RunProject2

@@ -1,0 +1,857 @@
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-5-mini,direct,20251018-123000,3,1,1,True,,,View Introduction
+renew_js,gpt-5-mini,direct,20251018-123000,3,1,2,True,,,Navigation to Calculator
+renew_js,gpt-5-mini,direct,20251018-123000,3,1,3,True,,,Input Height
+renew_js,gpt-5-mini,direct,20251018-123000,3,1,4,True,,,Input Weight
+renew_js,gpt-5-mini,direct,20251018-123000,3,1,5,True,,,Submit Data
+renew_js,gpt-5-mini,direct,20251018-123000,3,1,6,True,,,Display BMI Result
+renew_js,gpt-5-mini,direct,20251018-123000,3,1,7,True,,,Display BMI Category
+renew_js,gpt-5-mini,direct,20251018-123000,3,1,8,True,,,Provide Interpretation
+renew_js,gpt-5-mini,direct,20251018-123000,3,1,9,True,,,Reset Form
+renew_js,gpt-5-mini,direct,20251018-123000,3,1,10,True,,,Link to Health Advice
+renew_js,gpt-5-mini,direct,20251018-123000,3,2,1,True,,,Select Source Currency
+renew_js,gpt-5-mini,direct,20251018-123000,3,2,2,True,,,Select Target Currency
+renew_js,gpt-5-mini,direct,20251018-123000,3,2,3,True,,,Enter Amount
+renew_js,gpt-5-mini,direct,20251018-123000,3,2,4,True,,,Convert Button
+renew_js,gpt-5-mini,direct,20251018-123000,3,2,5,True,,,Display Conversion Result
+renew_js,gpt-5-mini,direct,20251018-123000,3,2,6,True,,,Exchange Rate Info
+renew_js,gpt-5-mini,direct,20251018-123000,3,2,7,True,,,Currency Information
+renew_js,gpt-5-mini,direct,20251018-123000,3,2,8,True,,,Historical Exchange Rates
+renew_js,gpt-5-mini,direct,20251018-123000,3,3,1,True,,,Display Welcome Message
+renew_js,gpt-5-mini,direct,20251018-123000,3,3,2,True,,,Navigation Button
+renew_js,gpt-5-mini,direct,20251018-123000,3,3,3,True,,,Length Input
+renew_js,gpt-5-mini,direct,20251018-123000,3,3,4,True,,,Include Uppercase
+renew_js,gpt-5-mini,direct,20251018-123000,3,3,5,True,,,Include Lowercase
+renew_js,gpt-5-mini,direct,20251018-123000,3,3,6,True,,,Include Numbers
+renew_js,gpt-5-mini,direct,20251018-123000,3,3,7,True,,,Include Symbols
+renew_js,gpt-5-mini,direct,20251018-123000,3,3,8,True,,,Generate Button
+renew_js,gpt-5-mini,direct,20251018-123000,3,3,9,True,,,Display Password
+renew_js,gpt-5-mini,direct,20251018-123000,3,3,10,True,,,Rule Check 1
+renew_js,gpt-5-mini,direct,20251018-123000,3,3,11,False,runtime error,Copy failed.,Copy to Clipboard
+renew_js,gpt-5-mini,direct,20251018-123000,3,3,12,True,,,Generate Another Password
+renew_js,gpt-5-mini,direct,20251018-123000,3,3,13,True,,,Rule Check 2
+renew_js,gpt-5-mini,direct,20251018-123000,3,3,14,True,,,About Link
+renew_js,gpt-5-mini,direct,20251018-123000,3,3,15,True,,,Description
+renew_js,gpt-5-mini,direct,20251018-123000,3,4,1,True,,,Introduction
+renew_js,gpt-5-mini,direct,20251018-123000,3,4,2,True,,,Generate QR Code Navigate Button
+renew_js,gpt-5-mini,direct,20251018-123000,3,4,3,True,,,Text Input Field
+renew_js,gpt-5-mini,direct,20251018-123000,3,4,4,True,,,Enter Box Size
+renew_js,gpt-5-mini,direct,20251018-123000,3,4,5,True,,,Enter Border Size
+renew_js,gpt-5-mini,direct,20251018-123000,3,4,6,True,,,Select Fill Color
+renew_js,gpt-5-mini,direct,20251018-123000,3,4,7,True,,,Select Back Color
+renew_js,gpt-5-mini,direct,20251018-123000,3,4,8,True,,,Select Error Correction Rate
+renew_js,gpt-5-mini,direct,20251018-123000,3,4,9,True,,,Generate Button
+renew_js,gpt-5-mini,direct,20251018-123000,3,4,10,True,,,QR Code Display Area
+renew_js,gpt-5-mini,direct,20251018-123000,3,4,11,True,,,Download QR Code Button
+renew_js,gpt-5-mini,direct,20251018-123000,3,4,12,True,,,Error Handling
+renew_js,gpt-5-mini,direct,20251018-123000,3,4,13,True,,,Description
+renew_js,gpt-5-mini,direct,20251018-123000,3,4,14,True,,,Common Questions
+renew_js,gpt-5-mini,direct,20251018-123000,3,4,15,True,,,Privacy Policy
+renew_js,gpt-5-mini,direct,20251018-123000,3,4,16,True,,,Terms of Service
+renew_js,gpt-5-mini,direct,20251018-123000,3,5,1,True,,,Welcome Message
+renew_js,gpt-5-mini,direct,20251018-123000,3,5,2,True,,,Introduction to Converter
+renew_js,gpt-5-mini,direct,20251018-123000,3,5,3,True,,,Navigation Links
+renew_js,gpt-5-mini,direct,20251018-123000,3,5,4,True,,,Markdown Input Area
+renew_js,gpt-5-mini,direct,20251018-123000,3,5,5,True,,,Convert Button
+renew_js,gpt-5-mini,direct,20251018-123000,3,5,6,True,,,HTML Output Area
+renew_js,gpt-5-mini,direct,20251018-123000,3,5,7,True,,,Rule Check 1
+renew_js,gpt-5-mini,direct,20251018-123000,3,5,8,True,,,Upload File
+renew_js,gpt-5-mini,direct,20251018-123000,3,5,9,True,,,Download HTML
+renew_js,gpt-5-mini,direct,20251018-123000,3,5,10,True,,,Rule Check 2
+renew_js,gpt-5-mini,direct,20251018-123000,3,5,11,True,,,Team Information
+renew_js,gpt-5-mini,direct,20251018-123000,3,5,12,True,,,FAQ Section
+renew_js,gpt-5-mini,direct,20251018-123000,3,7,1,True,,,View Home
+renew_js,gpt-5-mini,direct,20251018-123000,3,7,2,True,,,User Check 1
+renew_js,gpt-5-mini,direct,20251018-123000,3,7,3,True,,,View Dashboard 1
+renew_js,gpt-5-mini,direct,20251018-123000,3,7,4,True,,,View Settings
+renew_js,gpt-5-mini,direct,20251018-123000,3,7,5,True,,,View Chart
+renew_js,gpt-5-mini,direct,20251018-123000,3,7,6,True,,,Sign Up
+renew_js,gpt-5-mini,direct,20251018-123000,3,7,7,True,,,User Login
+renew_js,gpt-5-mini,direct,20251018-123000,3,7,8,True,,,View Dashboard 2
+renew_js,gpt-5-mini,direct,20251018-123000,3,7,9,True,,,Add Category
+renew_js,gpt-5-mini,direct,20251018-123000,3,7,10,True,,,Edit Category
+renew_js,gpt-5-mini,direct,20251018-123000,3,7,11,True,,,Delete Category
+renew_js,gpt-5-mini,direct,20251018-123000,3,7,12,True,,,List Category
+renew_js,gpt-5-mini,direct,20251018-123000,3,7,13,False,assertion,No result detected. Notice that the test case uses yyyy-mm-dd as date format.,Add Transaction
+renew_js,gpt-5-mini,direct,20251018-123000,3,7,14,True,,,Edit Transaction
+renew_js,gpt-5-mini,direct,20251018-123000,3,7,15,True,,,Delete Transaction
+renew_js,gpt-5-mini,direct,20251018-123000,3,7,16,True,,,Filter Transactions
+renew_js,gpt-5-mini,direct,20251018-123000,3,7,17,True,,,View Balance Chart
+renew_js,gpt-5-mini,direct,20251018-123000,3,7,18,True,,,View Balance Structure Chart
+renew_js,gpt-5-mini,direct,20251018-123000,3,7,19,True,,,Generate Monthly Report
+renew_js,gpt-5-mini,direct,20251018-123000,3,7,20,True,,,Export Data
+renew_js,gpt-5-mini,direct,20251018-123000,3,7,21,True,,,Update Profile
+renew_js,gpt-5-mini,direct,20251018-123000,3,7,22,True,,,View FAQs
+renew_js,gpt-5-mini,direct,20251018-123000,3,7,23,True,,,Contact Support
+renew_js,gpt-5-mini,direct,20251018-123000,3,8,1,True,,,View Current Date
+renew_js,gpt-5-mini,direct,20251018-123000,3,8,2,True,,,Quick Access to Calendar
+renew_js,gpt-5-mini,direct,20251018-123000,3,8,3,True,,,View Calendar
+renew_js,gpt-5-mini,direct,20251018-123000,3,8,4,True,,,Add Event
+renew_js,gpt-5-mini,direct,20251018-123000,3,8,5,True,,,Switch Month
+renew_js,gpt-5-mini,direct,20251018-123000,3,8,6,True,,,Add Event Page Back Home
+renew_js,gpt-5-mini,direct,20251018-123000,3,8,7,True,,,List All Events
+renew_js,gpt-5-mini,direct,20251018-123000,3,8,8,True,,,Edit Event
+renew_js,gpt-5-mini,direct,20251018-123000,3,8,9,True,,,Delete Event
+renew_js,gpt-5-mini,direct,20251018-123000,3,8,10,True,,,Search Events
+renew_js,gpt-5-mini,direct,20251018-123000,3,8,11,True,,,View Event Details 1
+renew_js,gpt-5-mini,direct,20251018-123000,3,8,12,True,,,View Event Details 2
+renew_js,gpt-5-mini,direct,20251018-123000,3,8,13,True,,,Event Detail Page Back
+renew_js,gpt-5-mini,direct,20251018-123000,3,8,14,True,,,FAQ
+renew_js,gpt-5-mini,direct,20251018-123000,3,8,15,True,,,FAQs Back Home
+renew_js,gpt-5-mini,direct,20251018-123000,3,8,16,True,,,User Guide
+renew_js,gpt-5-mini,direct,20251018-123000,3,8,17,True,,,User Guide Back Home Test
+renew_js,gpt-5-mini,direct,20251018-123000,3,9,1,True,,,Read Product Overview
+renew_js,gpt-5-mini,direct,20251018-123000,3,9,2,True,,,List Key Features
+renew_js,gpt-5-mini,direct,20251018-123000,3,9,3,True,,,Features Back Home
+renew_js,gpt-5-mini,direct,20251018-123000,3,9,4,True,,,View Pricing Plans
+renew_js,gpt-5-mini,direct,20251018-123000,3,9,5,True,,,Contact Sales
+renew_js,gpt-5-mini,direct,20251018-123000,3,9,6,True,,,Contact Sales Back
+renew_js,gpt-5-mini,direct,20251018-123000,3,9,7,True,,,Pricing Back Home
+renew_js,gpt-5-mini,direct,20251018-123000,3,9,8,True,,,Company Background
+renew_js,gpt-5-mini,direct,20251018-123000,3,9,9,True,,,About Back Home
+renew_js,gpt-5-mini,direct,20251018-123000,3,9,10,True,,,FAQ
+renew_js,gpt-5-mini,direct,20251018-123000,3,9,11,True,,,Support Message
+renew_js,gpt-5-mini,direct,20251018-123000,3,9,12,True,,,Support Back Home
+renew_js,gpt-5-mini,direct,20251018-123000,3,10,1,True,,,Welcome Message
+renew_js,gpt-5-mini,direct,20251018-123000,3,10,2,True,,,View Dashboard 1
+renew_js,gpt-5-mini,direct,20251018-123000,3,10,3,True,,,Sign Up
+renew_js,gpt-5-mini,direct,20251018-123000,3,10,4,True,,,Log In
+renew_js,gpt-5-mini,direct,20251018-123000,3,10,5,True,,,User Check 1
+renew_js,gpt-5-mini,direct,20251018-123000,3,10,6,True,,,Add Meal
+renew_js,gpt-5-mini,direct,20251018-123000,3,10,7,True,,,Add Meal2
+renew_js,gpt-5-mini,direct,20251018-123000,3,10,8,True,,,Daily Calorie Intake
+renew_js,gpt-5-mini,direct,20251018-123000,3,10,9,True,,,Recent Meals
+renew_js,gpt-5-mini,direct,20251018-123000,3,10,10,True,,,Add Activity
+renew_js,gpt-5-mini,direct,20251018-123000,3,10,11,True,,,Add Activity2
+renew_js,gpt-5-mini,direct,20251018-123000,3,10,12,True,,,Recent Activities
+renew_js,gpt-5-mini,direct,20251018-123000,3,10,13,True,,,Meal Search
+renew_js,gpt-5-mini,direct,20251018-123000,3,10,14,True,,,Activity Search
+renew_js,gpt-5-mini,direct,20251018-123000,3,10,15,True,,,Calorie Intake Chart
+renew_js,gpt-5-mini,direct,20251018-123000,3,10,16,True,,,Profile
+renew_js,gpt-5-mini,direct,20251018-123000,3,10,17,True,,,Preferences
+renew_js,gpt-5-mini,direct,20251018-123000,3,10,18,True,,,Contact Support
+renew_js,gpt-5-mini,direct,20251018-123000,3,10,19,True,,,FAQ
+renew_js,gpt-5-mini,direct,20251018-123000,3,10,20,True,,,Tutorials
+renew_js,gpt-5-mini,direct,20251018-123000,3,11,1,True,,,Display Welcome Message
+renew_js,gpt-5-mini,direct,20251018-123000,3,11,2,True,,,Navigation Link
+renew_js,gpt-5-mini,direct,20251018-123000,3,11,3,True,,,Upload File1
+renew_js,gpt-5-mini,direct,20251018-123000,3,11,4,True,,,Upload File2
+renew_js,gpt-5-mini,direct,20251018-123000,3,11,5,True,,,Test Code Review1
+renew_js,gpt-5-mini,direct,20251018-123000,3,11,6,False,runtime error,"Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a5c4b66]
+	(No symbol) [0x0x7ff61a5c37ad]
+	(No symbol) [0x0x7ff61a5c4f7f]
+	(No symbol) [0x0x7ff61a5b872a]
+	(No symbol) [0x0x7ff61a5b6b7c]
+	(No symbol) [0x0x7ff61a5ba54f]
+	(No symbol) [0x0x7ff61a5ba60f]
+	(No symbol) [0x0x7ff61a5fffde]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a5f66cc]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a5f652d]
+	(No symbol) [0x0x7ff61a6223e0]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Test Code Review2
+renew_js,gpt-5-mini,direct,20251018-123000,3,11,7,True,,,Test Description
+renew_js,gpt-5-mini,direct,20251018-123000,3,12,1,True,,,View Home
+renew_js,gpt-5-mini,direct,20251018-123000,3,12,2,True,,,View Dashboard
+renew_js,gpt-5-mini,direct,20251018-123000,3,12,3,True,,,Sign Up
+renew_js,gpt-5-mini,direct,20251018-123000,3,12,4,True,,,Log In
+renew_js,gpt-5-mini,direct,20251018-123000,3,12,5,True,,,Submit Claim
+renew_js,gpt-5-mini,direct,20251018-123000,3,12,6,True,,,Submit Claim2
+renew_js,gpt-5-mini,direct,20251018-123000,3,12,7,True,,,Submit Claim3
+renew_js,gpt-5-mini,direct,20251018-123000,3,12,8,True,,,View Claim Status
+renew_js,gpt-5-mini,direct,20251018-123000,3,12,9,False,assertion,,Edit Submitted Claim
+renew_js,gpt-5-mini,direct,20251018-123000,3,12,10,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[text()=""Log out""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Approve Claim
+renew_js,gpt-5-mini,direct,20251018-123000,3,12,11,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[text()=""Log out""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Reject Claim with Reason
+renew_js,gpt-5-mini,direct,20251018-123000,3,12,12,True,,,View Claim Details
+renew_js,gpt-5-mini,direct,20251018-123000,3,12,13,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[@id=""example_app-claim""]/a""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Search and Filter Claims
+renew_js,gpt-5-mini,direct,20251018-123000,3,12,14,True,,,Add Budget
+renew_js,gpt-5-mini,direct,20251018-123000,3,12,15,True,,,Analyze Expense Balances
+renew_js,gpt-5-mini,direct,20251018-123000,3,12,16,True,,,Generate Reports
+renew_js,gpt-5-mini,direct,20251018-123000,3,12,17,False,assertion,travel management balance over budget calculation wrong.,Send Budget Alerts
+renew_js,gpt-5-mini,direct,20251018-123000,3,13,1,True,,,View Home
+renew_js,gpt-5-mini,direct,20251018-123000,3,13,2,False,assertion,,Add Customer
+renew_js,gpt-5-mini,direct,20251018-123000,3,13,3,False,assertion,,Add Customer2
+renew_js,gpt-5-mini,direct,20251018-123000,3,13,4,False,assertion,,Add Customer3
+renew_js,gpt-5-mini,direct,20251018-123000,3,13,5,False,assertion,,Add Customer4
+renew_js,gpt-5-mini,direct,20251018-123000,3,13,6,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'Joe') or @value='Joe']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Edit Customer
+renew_js,gpt-5-mini,direct,20251018-123000,3,13,7,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'Amy') or @value='Amy']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Delete Customer
+renew_js,gpt-5-mini,direct,20251018-123000,3,13,8,True,,,Add Product
+renew_js,gpt-5-mini,direct,20251018-123000,3,13,9,True,,,Add Product2
+renew_js,gpt-5-mini,direct,20251018-123000,3,13,10,True,,,Add Product3
+renew_js,gpt-5-mini,direct,20251018-123000,3,13,11,True,,,Add Product4
+renew_js,gpt-5-mini,direct,20251018-123000,3,13,12,True,,,Edit Product
+renew_js,gpt-5-mini,direct,20251018-123000,3,13,13,True,,,Delete Product
+renew_js,gpt-5-mini,direct,20251018-123000,3,13,14,False,assertion,,Add Purchase Record
+renew_js,gpt-5-mini,direct,20251018-123000,3,13,15,False,assertion,,Add Purchase Record2
+renew_js,gpt-5-mini,direct,20251018-123000,3,13,16,False,assertion,,Add Purchase Record3
+renew_js,gpt-5-mini,direct,20251018-123000,3,13,17,False,assertion,,Add Purchase Record4
+renew_js,gpt-5-mini,direct,20251018-123000,3,13,18,False,assertion,,Edit Purchase Record
+renew_js,gpt-5-mini,direct,20251018-123000,3,13,19,True,,,Delete Purchase Record
+renew_js,gpt-5-mini,direct,20251018-123000,3,13,20,False,assertion,,Add Preferred Product
+renew_js,gpt-5-mini,direct,20251018-123000,3,13,21,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'Mike') or @value='Mike']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Edit Preferred Product
+renew_js,gpt-5-mini,direct,20251018-123000,3,13,22,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(),'Jane') or @value='Jane']""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Delete Preferred Product
+renew_js,gpt-5-mini,direct,20251018-123000,3,13,23,True,,,Generate Sales Report
+renew_js,gpt-5-mini,direct,20251018-123000,3,13,24,True,,,Product Performance Analysis
+renew_js,gpt-5-mini,direct,20251018-123000,3,14,1,True,,,DisplayText
+renew_js,gpt-5-mini,direct,20251018-123000,3,14,2,True,,,BasicStyling
+renew_js,gpt-5-mini,direct,20251018-123000,3,14,3,True,,,PageTitle
+renew_js,gpt-5-mini,direct,20251018-123000,3,14,4,True,,,MetaTags
+renew_js,gpt-5-mini,direct,20251018-123000,3,15,1,True,,,Button to 'HelloWorld' page
+renew_js,gpt-5-mini,direct,20251018-123000,3,15,2,True,,,Display 'HelloWorld' message
+renew_js,gpt-5-mini,direct,20251018-123000,3,16,1,False,assertion,,CheckFileExistence
+renew_js,gpt-5-mini,direct,20251018-123000,3,16,2,False,assertion,"Answer is not matching, stdout is Error: The input file is missing one or more required columns: ['#', 'Name', 'Weekday', 'Time'], actually out is  and ",ValidateHeaders
+renew_js,gpt-5-mini,direct,20251018-123000,3,16,3,False,assertion,"Answer is not matching, stdout is Error: There are missing values in the input data. Please fill in all required fields., actually out is  and ",ValidateNullValue
+renew_js,gpt-5-mini,direct,20251018-123000,3,16,4,False,assertion,"Answer is not matching, stdout is Error: Invalid time values found: [...]. Valid options are ['First period', 'Second period', 'Third period', 'Fourth period']., actually out is  and ",ValidateTimeColumn
+renew_js,gpt-5-mini,direct,20251018-123000,3,16,5,False,assertion,"Answer is not matching, stdout is Error: Invalid weekday values found: [...]. Valid options are ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']., actually out is  and ",ValidateDataIntegrity
+renew_js,gpt-5-mini,direct,20251018-123000,3,16,6,True,,,EmptyFileRun
+renew_js,gpt-5-mini,direct,20251018-123000,3,16,7,True,,,RunProject
+renew_js,gpt-5-mini,direct,20251018-123000,3,16,8,True,,,OutputFileCheck
+renew_js,gpt-5-mini,direct,20251018-123000,3,17,1,False,assertion,"Answer is not matching, stdout is Error: The file 'Gamedata.xlsx' does not exist., actually out is  and ",CheckFileExistence
+renew_js,gpt-5-mini,direct,20251018-123000,3,17,2,False,assertion,"Answer is not matching, stdout is Dataset contains missing or invalid values. Please clean the data and try again., actually out is  and ",ValidateNullValue
+renew_js,gpt-5-mini,direct,20251018-123000,3,17,3,False,assertion,"Answer is not matching, stdout is Feature matrix or target vector is empty. Check your input data., actually out is  and ",ValidateEmptyFile
+renew_js,gpt-5-mini,direct,20251018-123000,3,17,4,True,,,RunProject
+renew_js,gpt-5-mini,direct,20251018-123000,3,17,5,True,,,OutputFileCheck
+renew_js,gpt-5-mini,direct,20251018-123000,3,18,1,True,,,Welcome Message
+renew_js,gpt-5-mini,direct,20251018-123000,3,18,2,True,,,Help in Main Menu
+renew_js,gpt-5-mini,direct,20251018-123000,3,18,3,True,,,Wrong Selection Check
+renew_js,gpt-5-mini,direct,20251018-123000,3,18,4,True,,,Start Game
+renew_js,gpt-5-mini,direct,20251018-123000,3,18,5,True,,,Display Help
+renew_js,gpt-5-mini,direct,20251018-123000,3,18,6,True,,,Look Around
+renew_js,gpt-5-mini,direct,20251018-123000,3,18,7,True,,,Move Player
+renew_js,gpt-5-mini,direct,20251018-123000,3,18,8,True,,,Move Back
+renew_js,gpt-5-mini,direct,20251018-123000,3,18,9,True,,,Check Inventory 1
+renew_js,gpt-5-mini,direct,20251018-123000,3,18,10,True,,,Pick Item
+renew_js,gpt-5-mini,direct,20251018-123000,3,18,11,True,,,Check Inventory 2
+renew_js,gpt-5-mini,direct,20251018-123000,3,18,12,True,,,Win the Game
+renew_js,gpt-5-mini,direct,20251018-123000,3,18,13,True,,,Exit Game
+renew_js,gpt-5-mini,direct,20251018-123000,3,19,1,False,assertion,"Answer is not matching, stdout is The file 'Deathlist.csv' was not found., actually out is  and ",CheckFileExistence
+renew_js,gpt-5-mini,direct,20251018-123000,3,19,2,False,assertion,"Answer is not matching, stdout is The dataset is missing the following required columns: Date of death, actually out is  and ",ValidateHeaders
+renew_js,gpt-5-mini,direct,20251018-123000,3,19,3,False,assertion,"Answer is not matching, stdout is The dataset is empty., actually out is  and ",ValidateEmptyFile
+renew_js,gpt-5-mini,direct,20251018-123000,3,19,4,False,assertion,"Answer is not matching, stdout is Warning: Found [number] non-date entries. These will be ignored.
+Histogram saved as 'weekly_deaths_histogram.png'., actually out is  and ",ValidateTimeColumn
+renew_js,gpt-5-mini,direct,20251018-123000,3,19,5,False,assertion,"Answer is not matching, stdout is Warning: Found [number] non-date entries. These will be ignored.
+Warning: 2 invalid date entries were found and will be ignored.
+Histogram saved as 'weekly_deaths_histogram.png'., actually out is  and ",ValidateNullValue
+renew_js,gpt-5-mini,direct,20251018-123000,3,19,6,False,assertion,Image not match.,RunProject1
+renew_js,gpt-5-mini,direct,20251018-123000,3,19,7,True,,,RunProject2
+renew_js,gpt-5-mini,direct,20251018-123000,3,20,1,True,,,Login as Owner
+renew_js,gpt-5-mini,direct,20251018-123000,3,20,2,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""/html/body/div/div/main/div/div/form/div/div/input[1]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Add Category
+renew_js,gpt-5-mini,direct,20251018-123000,3,20,3,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""/html/body/div/div/main/div/div/form/div/div/input[1]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Add Post
+renew_js,gpt-5-mini,direct,20251018-123000,3,20,4,True,,,Logout as Owner
+renew_js,gpt-5-mini,direct,20251018-123000,3,20,5,True,,,Display Latest Blogs
+renew_js,gpt-5-mini,direct,20251018-123000,3,20,6,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""/html/body/main/section/form/input[3]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Search Bar
+renew_js,gpt-5-mini,direct,20251018-123000,3,20,7,True,,,Read Blog Content
+renew_js,gpt-5-mini,direct,20251018-123000,3,20,8,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""/html/body/main/section/form/button""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Comments Section
+renew_js,gpt-5-mini,direct,20251018-123000,3,20,9,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[@id=""content-main""]/ul/li/a""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Add Post 1
+renew_js,gpt-5-mini,direct,20251018-123000,3,20,10,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_username""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Edit Post
+renew_js,gpt-5-mini,direct,20251018-123000,3,20,11,False,runtime error,"Can't find target article, maybe you forget to display it on home page?",Read Update Blog
+renew_js,gpt-5-mini,direct,20251018-123000,3,20,12,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_username""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Delete Post
+renew_js,gpt-5-mini,direct,20251018-123000,3,20,13,True,,,Check Post Deleted
+renew_js,gpt-5-mini,direct,20251018-123000,3,20,14,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""/html/body/header/nav/a[2]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",List Blog Categories
+renew_js,gpt-5-mini,direct,20251018-123000,3,20,15,False,runtime error,Can't find the target category.,Filter by Category
+renew_js,gpt-5-mini,direct,20251018-123000,3,20,16,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_username""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Add Category
+renew_js,gpt-5-mini,direct,20251018-123000,3,20,17,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[@id=""content-main""]/ul/li/a""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Add Post 2
+renew_js,gpt-5-mini,direct,20251018-123000,3,20,18,False,runtime error,"Can't find target article, maybe you forget to display it on home page?",Read New Post with New Category
+renew_js,gpt-5-mini,direct,20251018-123000,3,20,19,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_username""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Edit Category
+renew_js,gpt-5-mini,direct,20251018-123000,3,20,20,False,runtime error,"Can't find target article, maybe you forget to display it on home page?",Check Category Changed
+renew_js,gpt-5-mini,direct,20251018-123000,3,20,21,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""[id=""id_username""]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Dynamic Delete Category
+renew_js,gpt-5-mini,direct,20251018-123000,3,20,22,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""/html/body/header/nav/a[2]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Check Category Deleted
+renew_js,gpt-5-mini,direct,20251018-123000,3,20,23,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""/html/body/header/nav/a[3]""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Date Filter
+renew_js,gpt-5-mini,direct,20251018-123000,3,20,24,False,runtime error,"Message: no such element: Unable to locate element: {""method"":""link text"",""selector"":""About""}
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61a842605+51877]
+	GetHandleVerifier [0x0x7ff61a842664+51972]
+	GetHandleVerifier [0x0x7ff61a9f8bf5+1847445]
+	(No symbol) [0x0x7ff61a60045b]
+	(No symbol) [0x0x7ff61a60071b]
+	(No symbol) [0x0x7ff61a641927]
+	(No symbol) [0x0x7ff61a62216f]
+	(No symbol) [0x0x7ff61a5f667b]
+	(No symbol) [0x0x7ff61a63f3d2]
+	(No symbol) [0x0x7ff61a621df3]
+	(No symbol) [0x0x7ff61a5f5b36]
+	(No symbol) [0x0x7ff61a5f4d80]
+	(No symbol) [0x0x7ff61a5f5973]
+	(No symbol) [0x0x7ff61a6be4a5]
+	(No symbol) [0x0x7ff61a6ba75d]
+	GetHandleVerifier [0x0x7ff61a86ce43+226019]
+	GetHandleVerifier [0x0x7ff61a85c011+156849]
+	GetHandleVerifier [0x0x7ff61a864509+190889]
+	GetHandleVerifier [0x0x7ff61a849744+80868]
+	GetHandleVerifier [0x0x7ff61a849893+81203]
+	GetHandleVerifier [0x0x7ff61a837e16+8886]
+	BaseThreadInitThunk [0x0x7ffae89fe8d7+23]
+	RtlUserThreadStart [0x0x7ffaeac8c53c+44]
+",Display Author Information
+renew_js,gpt-5-mini,direct,20251018-123000,3,20,25,True,,,Contact Form

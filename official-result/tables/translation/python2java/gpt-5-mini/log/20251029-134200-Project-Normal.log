@@ -1,0 +1,619 @@
+=============Project 16 Start===============
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -------------------< com.example:subject-processor >--------------------
+[INFO] Building subject-processor 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- clean:3.2.0:clean (default-clean) @ subject-processor ---
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ subject-processor ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory D:\Multiagent Research\ProjectEvalPlus\test\20251029\16\src\main\resources
+[INFO] 
+[INFO] --- compiler:3.13.0:compile (default-compile) @ subject-processor ---
+[INFO] Recompiling the module because of changed source code.
+[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[INFO] Compiling 1 source file with javac [debug target 1.8] to target\classes
+[WARNING] 未与 -source 8 一起设置引导类路径
+  不设置引导类路径可能会导致类文件无法在 JDK 8 上运行
+    建议使用 --release 8 而不是 -source 8 -target 1.8，因为它会自动设置引导类路径
+[WARNING] 源值 8 已过时，将在未来发行版中删除
+[WARNING] 目标值 8 已过时，将在未来发行版中删除
+[WARNING] 要隐藏有关已过时选项的警告, 请使用 -Xlint:-options。
+[INFO] 
+[INFO] --- resources:3.3.1:testResources (default-testResources) @ subject-processor ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory D:\Multiagent Research\ProjectEvalPlus\test\20251029\16\src\test\resources
+[INFO] 
+[INFO] --- compiler:3.13.0:testCompile (default-testCompile) @ subject-processor ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- surefire:3.2.5:test (default-test) @ subject-processor ---
+[INFO] No tests to run.
+[INFO] 
+[INFO] --- jar:3.4.1:jar (default-jar) @ subject-processor ---
+[INFO] Building jar: D:\Multiagent Research\ProjectEvalPlus\test\20251029\16\target\subject-processor-1.0-SNAPSHOT.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  1.432 s
+[INFO] Finished at: 2025-10-29T13:42:03+08:00
+[INFO] ------------------------------------------------------------------------
+=============Project 16 End===============
+=============Project 16 Start===============
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -------------------< com.example:subject-processor >--------------------
+[INFO] Building subject-processor 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- clean:3.2.0:clean (default-clean) @ subject-processor ---
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ subject-processor ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory D:\Multiagent Research\ProjectEvalPlus\test\20251029\16\src\main\resources
+[INFO] 
+[INFO] --- compiler:3.13.0:compile (default-compile) @ subject-processor ---
+[INFO] Recompiling the module because of changed source code.
+[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[INFO] Compiling 1 source file with javac [debug target 1.8] to target\classes
+[WARNING] 未与 -source 8 一起设置引导类路径
+  不设置引导类路径可能会导致类文件无法在 JDK 8 上运行
+    建议使用 --release 8 而不是 -source 8 -target 1.8，因为它会自动设置引导类路径
+[WARNING] 源值 8 已过时，将在未来发行版中删除
+[WARNING] 目标值 8 已过时，将在未来发行版中删除
+[WARNING] 要隐藏有关已过时选项的警告, 请使用 -Xlint:-options。
+[INFO] 
+[INFO] --- resources:3.3.1:testResources (default-testResources) @ subject-processor ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory D:\Multiagent Research\ProjectEvalPlus\test\20251029\16\src\test\resources
+[INFO] 
+[INFO] --- compiler:3.13.0:testCompile (default-testCompile) @ subject-processor ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- surefire:3.2.5:test (default-test) @ subject-processor ---
+[INFO] No tests to run.
+[INFO] 
+[INFO] --- jar:3.4.1:jar (default-jar) @ subject-processor ---
+[INFO] Building jar: D:\Multiagent Research\ProjectEvalPlus\test\20251029\16\target\subject-processor-1.0-SNAPSHOT.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  1.400 s
+[INFO] Finished at: 2025-10-29T13:43:58+08:00
+[INFO] ------------------------------------------------------------------------
+=============Project 16 End===============
+=============Project 16 Start===============
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -------------------< com.example:subject-processor >--------------------
+[INFO] Building subject-processor 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- clean:3.2.0:clean (default-clean) @ subject-processor ---
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ subject-processor ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory D:\Multiagent Research\ProjectEvalPlus\test\20251029\16\src\main\resources
+[INFO] 
+[INFO] --- compiler:3.8.1:compile (default-compile) @ subject-processor ---
+[INFO] Changes detected - recompiling the module!
+[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[INFO] Compiling 1 source file to D:\Multiagent Research\ProjectEvalPlus\test\20251029\16\target\classes
+[INFO] 
+[INFO] --- resources:3.3.1:testResources (default-testResources) @ subject-processor ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory D:\Multiagent Research\ProjectEvalPlus\test\20251029\16\src\test\resources
+[INFO] 
+[INFO] --- compiler:3.8.1:testCompile (default-testCompile) @ subject-processor ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- surefire:3.2.5:test (default-test) @ subject-processor ---
+[INFO] No tests to run.
+[INFO] 
+[INFO] --- jar:3.4.1:jar (default-jar) @ subject-processor ---
+[INFO] Building jar: D:\Multiagent Research\ProjectEvalPlus\test\20251029\16\target\subject-processor-1.0-SNAPSHOT.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  1.634 s
+[INFO] Finished at: 2025-10-29T13:46:07+08:00
+[INFO] ------------------------------------------------------------------------
+=============Project 16 End===============
+=============Project 16 Start===============
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -------------------< com.example:subject-processor >--------------------
+[INFO] Building subject-processor 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- clean:3.2.0:clean (default-clean) @ subject-processor ---
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ subject-processor ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory D:\Multiagent Research\ProjectEvalPlus\test\20251029\16\src\main\resources
+[INFO] 
+[INFO] --- compiler:3.8.1:compile (default-compile) @ subject-processor ---
+[INFO] Changes detected - recompiling the module!
+[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[INFO] Compiling 1 source file to D:\Multiagent Research\ProjectEvalPlus\test\20251029\16\target\classes
+[INFO] 
+[INFO] --- resources:3.3.1:testResources (default-testResources) @ subject-processor ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory D:\Multiagent Research\ProjectEvalPlus\test\20251029\16\src\test\resources
+[INFO] 
+[INFO] --- compiler:3.8.1:testCompile (default-testCompile) @ subject-processor ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- surefire:3.2.5:test (default-test) @ subject-processor ---
+[INFO] No tests to run.
+[INFO] 
+[INFO] --- jar:3.4.1:jar (default-jar) @ subject-processor ---
+[INFO] Building jar: D:\Multiagent Research\ProjectEvalPlus\test\20251029\16\target\subject-processor-1.0-SNAPSHOT.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  1.703 s
+[INFO] Finished at: 2025-10-29T13:48:16+08:00
+[INFO] ------------------------------------------------------------------------
+=============Project 16 End===============
+=============Project 16 Start===============
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -------------------< com.example:subject-processor >--------------------
+[INFO] Building subject-processor 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- clean:3.2.0:clean (default-clean) @ subject-processor ---
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ subject-processor ---
+[INFO] skip non existing resourceDirectory D:\Multiagent Research\ProjectEvalPlus\test\20251029\16\src\main\resources
+[INFO] 
+[INFO] --- compiler:3.8.1:compile (default-compile) @ subject-processor ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 1 source file to D:\Multiagent Research\ProjectEvalPlus\test\20251029\16\target\classes
+[INFO] 
+[INFO] --- resources:3.3.1:testResources (default-testResources) @ subject-processor ---
+[INFO] skip non existing resourceDirectory D:\Multiagent Research\ProjectEvalPlus\test\20251029\16\src\test\resources
+[INFO] 
+[INFO] --- compiler:3.8.1:testCompile (default-testCompile) @ subject-processor ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- surefire:3.2.5:test (default-test) @ subject-processor ---
+[INFO] No tests to run.
+[INFO] 
+[INFO] --- jar:3.4.1:jar (default-jar) @ subject-processor ---
+[INFO] Building jar: D:\Multiagent Research\ProjectEvalPlus\test\20251029\16\target\subject-processor-1.0-SNAPSHOT.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  1.581 s
+[INFO] Finished at: 2025-10-29T13:50:30+08:00
+[INFO] ------------------------------------------------------------------------
+=============Project 16 End===============
+=============Project 17 Start===============
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] --------------------< com.example:logistic-runner >---------------------
+[INFO] Building logistic-runner 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- clean:3.2.0:clean (default-clean) @ logistic-runner ---
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ logistic-runner ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory D:\Multiagent Research\ProjectEvalPlus\test\20251029\17\src\main\resources
+[INFO] 
+[INFO] --- compiler:3.13.0:compile (default-compile) @ logistic-runner ---
+[INFO] Recompiling the module because of changed source code.
+[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[INFO] Compiling 1 source file with javac [debug target 1.8] to target\classes
+[WARNING] 未与 -source 8 一起设置引导类路径
+  不设置引导类路径可能会导致类文件无法在 JDK 8 上运行
+    建议使用 --release 8 而不是 -source 8 -target 1.8，因为它会自动设置引导类路径
+[WARNING] 源值 8 已过时，将在未来发行版中删除
+[WARNING] 目标值 8 已过时，将在未来发行版中删除
+[WARNING] 要隐藏有关已过时选项的警告, 请使用 -Xlint:-options。
+[INFO] 
+[INFO] --- resources:3.3.1:testResources (default-testResources) @ logistic-runner ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory D:\Multiagent Research\ProjectEvalPlus\test\20251029\17\src\test\resources
+[INFO] 
+[INFO] --- compiler:3.13.0:testCompile (default-testCompile) @ logistic-runner ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- surefire:3.2.5:test (default-test) @ logistic-runner ---
+[INFO] No tests to run.
+[INFO] 
+[INFO] --- jar:3.4.1:jar (default-jar) @ logistic-runner ---
+[INFO] Building jar: D:\Multiagent Research\ProjectEvalPlus\test\20251029\17\target\logistic-runner-1.0-SNAPSHOT.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  1.133 s
+[INFO] Finished at: 2025-10-29T13:51:26+08:00
+[INFO] ------------------------------------------------------------------------
+=============Project 17 End===============
+=============Project 18 Start===============
+2025-10-29T13:53:01.134171 Sending command: 2
+2025-10-29T13:53:01.135172 Sending command: abc
+2025-10-29T13:53:01.136172 Sending command: 1
+2025-10-29T13:53:01.136172 Sending command: help
+2025-10-29T13:53:01.137172 Sending command: ls
+2025-10-29T13:53:01.137172 Sending command: cd home
+2025-10-29T13:53:01.138636 Sending command: cd ..
+2025-10-29T13:53:01.139640 Sending command: inventory
+2025-10-29T13:53:01.139640 Sending command: cd cave
+2025-10-29T13:53:01.140640 Sending command: inventory
+2025-10-29T13:53:01.140640 Sending command: cd ..
+2025-10-29T13:53:01.141640 Sending command: 3
+=============Project 18 End===============
+=============Project 18 Start===============
+2025-10-29T13:55:18.661391 Sending command: 2
+2025-10-29T13:55:18.661391 Sending command: abc
+2025-10-29T13:55:18.662784 Sending command: 1
+2025-10-29T13:55:18.662784 Sending command: help
+2025-10-29T13:55:18.663994 Sending command: ls
+2025-10-29T13:55:18.663994 Sending command: cd home
+2025-10-29T13:55:18.665489 Sending command: cd ..
+2025-10-29T13:55:18.666493 Sending command: inventory
+2025-10-29T13:55:18.667601 Sending command: cd cave
+2025-10-29T13:55:18.667601 Sending command: inventory
+2025-10-29T13:55:18.669114 Sending command: cd ..
+2025-10-29T13:55:18.669114 Sending command: 3
+=============Project 18 End===============
+=============Project 18 Start===============
+2025-10-29T13:58:59.394493 Sending command: 2
+2025-10-29T13:58:59.394493 Sending command: abc
+2025-10-29T13:58:59.395734 Sending command: 1
+2025-10-29T13:58:59.396733 Sending command: help
+2025-10-29T13:58:59.396733 Sending command: ls
+2025-10-29T13:58:59.397734 Sending command: cd home
+2025-10-29T13:58:59.397734 Sending command: cd ..
+2025-10-29T13:58:59.398735 Sending command: inventory
+2025-10-29T13:58:59.398735 Sending command: cd cave
+2025-10-29T13:58:59.398735 Sending command: inventory
+2025-10-29T13:58:59.400238 Sending command: cd ..
+2025-10-29T13:58:59.400748 Sending command: 3
+=============Project 18 End===============
+=============Project 18 Start===============
+2025-10-29T14:01:24.324467 Sending command: 2
+2025-10-29T14:01:24.324467 Sending command: abc
+2025-10-29T14:01:24.325466 Sending command: 1
+2025-10-29T14:01:24.325466 Sending command: help
+2025-10-29T14:01:24.325466 Sending command: ls
+2025-10-29T14:01:24.326970 Sending command: cd home
+2025-10-29T14:01:24.326970 Sending command: cd ..
+2025-10-29T14:01:24.327974 Sending command: inventory
+2025-10-29T14:01:24.328974 Sending command: cd cave
+2025-10-29T14:01:24.330103 Sending command: inventory
+2025-10-29T14:01:24.331103 Sending command: cd ..
+2025-10-29T14:01:24.331103 Sending command: 3
+=============Project 18 End===============
+=============Project 18 Start===============
+2025-10-29T14:05:23.483756 Sending command: 2
+2025-10-29T14:05:23.484760 Sending command: abc
+2025-10-29T14:05:23.485759 Sending command: 1
+2025-10-29T14:05:23.486758 Sending command: help
+2025-10-29T14:05:23.487880 Sending command: ls
+2025-10-29T14:05:23.487880 Sending command: cd home
+2025-10-29T14:05:23.488880 Sending command: cd ..
+2025-10-29T14:05:23.488880 Sending command: inventory
+2025-10-29T14:05:23.491231 Sending command: cd cave
+2025-10-29T14:05:23.491735 Sending command: inventory
+2025-10-29T14:05:23.493241 Sending command: cd ..
+2025-10-29T14:05:23.493241 Sending command: 3
+=============Project 18 End===============
+=============Project 19 Start===============
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------------< com.example:deathlist-histogram >-------------------
+[INFO] Building deathlist-histogram 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+Downloading from central: https://repo.maven.apache.org/maven2/com/opencsv/opencsv/5.7.1/opencsv-5.7.1.pom
+Progress (1): 1.1 kBProgress (1): 3.2 kBProgress (1): 5.0 kBProgress (1): 10 kB Progress (1): 15 kBProgress (1): 17 kBProgress (1): 23 kBProgress (1): 27 kBProgress (1): 31 kBProgress (1): 32 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/com/opencsv/opencsv/5.7.1/opencsv-5.7.1.pom (32 kB at 68 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.10.0/commons-text-1.10.0.pom
+Progress (1): 755 BProgress (1): 2.2 kBProgress (1): 3.3 kBProgress (1): 6.1 kBProgress (1): 8.9 kBProgress (1): 11 kB Progress (1): 15 kBProgress (1): 17 kBProgress (1): 19 kBProgress (1): 21 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.10.0/commons-text-1.10.0.pom (21 kB at 175 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/54/commons-parent-54.pom
+Progress (1): 719 BProgress (1): 1.9 kBProgress (1): 2.7 kBProgress (1): 4.2 kBProgress (1): 5.7 kBProgress (1): 7.3 kBProgress (1): 8.7 kBProgress (1): 11 kB Progress (1): 12 kBProgress (1): 15 kBProgress (1): 17 kBProgress (1): 19 kBProgress (1): 22 kBProgress (1): 24 kBProgress (1): 26 kBProgress (1): 30 kBProgress (1): 33 kBProgress (1): 36 kBProgress (1): 40 kBProgress (1): 43 kBProgress (1): 45 kBProgress (1): 48 kBProgress (1): 50 kBProgress (1): 52 kBProgress (1): 55 kBProgress (1): 59 kBProgress (1): 60 kBProgress (1): 63 kBProgress (1): 66 kBProgress (1): 69 kBProgress (1): 75 kBProgress (1): 78 kBProgress (1): 80 kBProgress (1): 82 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/54/commons-parent-54.pom (82 kB at 512 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.9.4/commons-beanutils-1.9.4.pom
+Progress (1): 764 BProgress (1): 2.1 kBProgress (1): 3.1 kBProgress (1): 5.5 kBProgress (1): 9.7 kBProgress (1): 12 kB Progress (1): 14 kBProgress (1): 17 kBProgress (1): 18 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.9.4/commons-beanutils-1.9.4.pom (18 kB at 138 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.pom
+Progress (1): 799 BProgress (1): 1.8 kBProgress (1): 5.0 kBProgress (1): 8.8 kBProgress (1): 10 kB Progress (1): 12 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.pom (12 kB at 107 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/knowm/xchart/xchart/3.8.1/xchart-3.8.1.pom
+Progress (1): 918 B                   Downloaded from central: https://repo.maven.apache.org/maven2/org/knowm/xchart/xchart/3.8.1/xchart-3.8.1.pom (918 B at 7.1 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/knowm/xchart/xchart-parent/3.8.1/xchart-parent-3.8.1.pom
+Progress (1): 1.1 kBProgress (1): 2.4 kBProgress (1): 4.6 kBProgress (1): 7.6 kBProgress (1): 7.6 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/knowm/xchart/xchart-parent/3.8.1/xchart-parent-3.8.1.pom (7.6 kB at 61 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/de/erichseifert/vectorgraphics2d/VectorGraphics2D/0.13/VectorGraphics2D-0.13.pom
+Progress (1): 1.1 kBProgress (1): 2.6 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/de/erichseifert/vectorgraphics2d/VectorGraphics2D/0.13/VectorGraphics2D-0.13.pom (2.6 kB at 18 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/madgag/animated-gif-lib/1.4/animated-gif-lib-1.4.pom
+Progress (1): 1.2 kBProgress (1): 2.7 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/com/madgag/animated-gif-lib/1.4/animated-gif-lib-1.4.pom (2.7 kB at 22 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/opencsv/opencsv/5.7.1/opencsv-5.7.1.jar
+Progress (1): 3.8/239 kBProgress (1): 8.0/239 kBProgress (1): 12/239 kB Progress (1): 16/239 kBProgress (1): 21/239 kBProgress (1): 25/239 kBProgress (1): 29/239 kBProgress (1): 33/239 kBProgress (1): 38/239 kBProgress (1): 42/239 kBProgress (1): 46/239 kBProgress (1): 50/239 kBProgress (1): 55/239 kBProgress (1): 57/239 kBProgress (1): 62/239 kBProgress (1): 66/239 kBProgress (1): 70/239 kBProgress (1): 74/239 kBProgress (1): 78/239 kBProgress (1): 83/239 kBProgress (1): 87/239 kBProgress (1): 91/239 kBProgress (1): 95/239 kBProgress (1): 100/239 kBProgress (1): 104/239 kBProgress (1): 108/239 kBProgress (1): 112/239 kBProgress (1): 117/239 kBProgress (1): 121/239 kBProgress (1): 125/239 kBProgress (1): 129/239 kBProgress (1): 133/239 kBProgress (1): 138/239 kBProgress (1): 142/239 kBProgress (1): 158/239 kBProgress (1): 175/239 kBProgress (1): 188/239 kBProgress (1): 205/239 kBProgress (1): 221/239 kBProgress (1): 238/239 kBProgress (1): 239 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/com/opencsv/opencsv/5.7.1/opencsv-5.7.1.jar (239 kB at 823 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.10.0/commons-text-1.10.0.jar
+Downloading from central: https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.9.4/commons-beanutils-1.9.4.jar
+Downloading from central: https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/knowm/xchart/xchart/3.8.1/xchart-3.8.1.jar
+Downloading from central: https://repo.maven.apache.org/maven2/de/erichseifert/vectorgraphics2d/VectorGraphics2D/0.13/VectorGraphics2D-0.13.jar
+Progress (1): 7.7/588 kBProgress (1): 16/588 kB Progress (1): 25/588 kBProgress (1): 41/588 kBProgress (1): 57/588 kBProgress (1): 74/588 kBProgress (1): 90/588 kBProgress (1): 106/588 kBProgress (1): 123/588 kBProgress (1): 139/588 kBProgress (1): 156/588 kBProgress (1): 172/588 kBProgress (1): 188/588 kBProgress (1): 205/588 kBProgress (1): 221/588 kBProgress (1): 238/588 kBProgress (1): 254/588 kBProgress (1): 270/588 kBProgress (1): 287/588 kBProgress (1): 303/588 kBProgress (1): 319/588 kBProgress (1): 329/588 kBProgress (1): 345/588 kBProgress (1): 362/588 kBProgress (1): 378/588 kBProgress (1): 394/588 kBProgress (1): 411/588 kBProgress (1): 427/588 kBProgress (1): 443/588 kBProgress (1): 456/588 kBProgress (1): 472/588 kBProgress (1): 489/588 kBProgress (1): 493/588 kBProgress (1): 509/588 kBProgress (1): 525/588 kBProgress (1): 542/588 kBProgress (1): 546/588 kBProgress (1): 558/588 kBProgress (1): 566/588 kBProgress (1): 575/588 kBProgress (1): 588 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar (588 kB at 2.0 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/madgag/animated-gif-lib/1.4/animated-gif-lib-1.4.jar
+Progress (1): 0.9/238 kBProgress (1): 2.3/238 kBProgress (1): 3.6/238 kBProgress (1): 5.0/238 kBProgress (1): 6.4/238 kBProgress (2): 6.4/238 kB | 0.9/247 kBProgress (2): 6.4/238 kB | 2.3/247 kBProgress (2): 6.4/238 kB | 3.6/247 kBProgress (2): 6.4/238 kB | 5.0/247 kBProgress (2): 6.4/238 kB | 6.4/247 kBProgress (2): 6.4/238 kB | 7.7/247 kBProgress (2): 6.4/238 kB | 9.1/247 kBProgress (3): 6.4/238 kB | 9.1/247 kB | 1.4/365 kBProgress (3): 6.4/238 kB | 9.1/247 kB | 2.7/365 kBProgress (3): 6.4/238 kB | 9.1/247 kB | 4.1/365 kBProgress (3): 6.4/238 kB | 9.1/247 kB | 5.5/365 kBProgress (3): 6.4/238 kB | 9.1/247 kB | 6.8/365 kBProgress (3): 6.4/238 kB | 9.1/247 kB | 8.2/365 kBProgress (3): 6.4/238 kB | 9.1/247 kB | 9.6/365 kBProgress (4): 6.4/238 kB | 9.1/247 kB | 9.6/365 kB | 0.9/94 kBProgress (4): 6.4/238 kB | 9.1/247 kB | 9.6/365 kB | 2.3/94 kBProgress (4): 6.4/238 kB | 9.1/247 kB | 9.6/365 kB | 3.7/94 kBProgress (4): 6.4/238 kB | 9.1/247 kB | 9.6/365 kB | 5.0/94 kBProgress (4): 6.4/238 kB | 9.1/247 kB | 9.6/365 kB | 6.4/94 kBProgress (4): 6.4/238 kB | 9.1/247 kB | 9.6/365 kB | 7.8/94 kBProgress (4): 7.3/238 kB | 9.1/247 kB | 9.6/365 kB | 7.8/94 kBProgress (4): 8.6/238 kB | 9.1/247 kB | 9.6/365 kB | 7.8/94 kBProgress (4): 10/238 kB | 9.1/247 kB | 9.6/365 kB | 7.8/94 kB Progress (4): 11/238 kB | 9.1/247 kB | 9.6/365 kB | 7.8/94 kBProgress (4): 13/238 kB | 9.1/247 kB | 9.6/365 kB | 7.8/94 kBProgress (4): 14/238 kB | 9.1/247 kB | 9.6/365 kB | 7.8/94 kBProgress (4): 15/238 kB | 9.1/247 kB | 9.6/365 kB | 7.8/94 kBProgress (4): 17/238 kB | 9.1/247 kB | 9.6/365 kB | 7.8/94 kBProgress (4): 18/238 kB | 9.1/247 kB | 9.6/365 kB | 7.8/94 kBProgress (4): 20/238 kB | 9.1/247 kB | 9.6/365 kB | 7.8/94 kBProgress (4): 21/238 kB | 9.1/247 kB | 9.6/365 kB | 7.8/94 kBProgress (4): 22/238 kB | 9.1/247 kB | 9.6/365 kB | 7.8/94 kBProgress (4): 24/238 kB | 9.1/247 kB | 9.6/365 kB | 7.8/94 kBProgress (4): 25/238 kB | 9.1/247 kB | 9.6/365 kB | 7.8/94 kBProgress (4): 26/238 kB | 9.1/247 kB | 9.6/365 kB | 7.8/94 kBProgress (4): 28/238 kB | 9.1/247 kB | 9.6/365 kB | 7.8/94 kBProgress (4): 28/238 kB | 9.1/247 kB | 11/365 kB | 7.8/94 kB Progress (4): 28/238 kB | 10/247 kB | 11/365 kB | 7.8/94 kB Progress (4): 28/238 kB | 10/247 kB | 11/365 kB | 9.1/94 kBProgress (4): 28/238 kB | 10/247 kB | 11/365 kB | 11/94 kB Progress (4): 28/238 kB | 12/247 kB | 11/365 kB | 11/94 kBProgress (4): 28/238 kB | 12/247 kB | 12/365 kB | 11/94 kBProgress (4): 28/238 kB | 12/247 kB | 12/365 kB | 12/94 kBProgress (4): 28/238 kB | 13/247 kB | 12/365 kB | 12/94 kBProgress (4): 28/238 kB | 13/247 kB | 12/365 kB | 13/94 kBProgress (4): 28/238 kB | 15/247 kB | 12/365 kB | 13/94 kBProgress (4): 28/238 kB | 16/247 kB | 12/365 kB | 13/94 kBProgress (4): 28/238 kB | 17/247 kB | 12/365 kB | 13/94 kBProgress (4): 28/238 kB | 19/247 kB | 12/365 kB | 13/94 kBProgress (4): 28/238 kB | 20/247 kB | 12/365 kB | 13/94 kBProgress (4): 28/238 kB | 20/247 kB | 14/365 kB | 13/94 kBProgress (4): 28/238 kB | 21/247 kB | 14/365 kB | 13/94 kBProgress (4): 28/238 kB | 21/247 kB | 15/365 kB | 13/94 kBProgress (4): 28/238 kB | 23/247 kB | 15/365 kB | 13/94 kBProgress (4): 28/238 kB | 24/247 kB | 15/365 kB | 13/94 kBProgress (4): 28/238 kB | 24/247 kB | 16/365 kB | 13/94 kBProgress (4): 28/238 kB | 26/247 kB | 16/365 kB | 13/94 kBProgress (4): 28/238 kB | 26/247 kB | 18/365 kB | 13/94 kBProgress (4): 28/238 kB | 26/247 kB | 19/365 kB | 13/94 kBProgress (4): 28/238 kB | 26/247 kB | 19/365 kB | 15/94 kBProgress (4): 28/238 kB | 26/247 kB | 19/365 kB | 16/94 kBProgress (4): 28/238 kB | 26/247 kB | 19/365 kB | 17/94 kBProgress (4): 28/238 kB | 26/247 kB | 19/365 kB | 19/94 kBProgress (4): 28/238 kB | 26/247 kB | 19/365 kB | 20/94 kBProgress (4): 28/238 kB | 26/247 kB | 21/365 kB | 20/94 kBProgress (4): 28/238 kB | 27/247 kB | 21/365 kB | 20/94 kBProgress (4): 28/238 kB | 27/247 kB | 22/365 kB | 20/94 kBProgress (4): 28/238 kB | 28/247 kB | 22/365 kB | 20/94 kBProgress (4): 28/238 kB | 28/247 kB | 23/365 kB | 20/94 kBProgress (4): 28/238 kB | 28/247 kB | 25/365 kB | 20/94 kBProgress (4): 28/238 kB | 30/247 kB | 25/365 kB | 20/94 kBProgress (4): 28/238 kB | 30/247 kB | 26/365 kB | 20/94 kBProgress (4): 28/238 kB | 31/247 kB | 26/365 kB | 20/94 kBProgress (4): 28/238 kB | 31/247 kB | 27/365 kB | 20/94 kBProgress (4): 28/238 kB | 32/247 kB | 27/365 kB | 20/94 kBProgress (4): 28/238 kB | 32/247 kB | 29/365 kB | 20/94 kBProgress (4): 28/238 kB | 34/247 kB | 29/365 kB | 20/94 kBProgress (4): 28/238 kB | 34/247 kB | 30/365 kB | 20/94 kBProgress (4): 28/238 kB | 34/247 kB | 31/365 kB | 20/94 kBProgress (4): 29/238 kB | 34/247 kB | 31/365 kB | 20/94 kBProgress (4): 31/238 kB | 34/247 kB | 31/365 kB | 20/94 kBProgress (4): 32/238 kB | 34/247 kB | 31/365 kB | 20/94 kBProgress (4): 32/238 kB | 34/247 kB | 31/365 kB | 21/94 kBProgress (4): 32/238 kB | 34/247 kB | 31/365 kB | 23/94 kBProgress (4): 32/238 kB | 34/247 kB | 31/365 kB | 24/94 kBProgress (4): 33/238 kB | 34/247 kB | 31/365 kB | 24/94 kBProgress (4): 33/238 kB | 34/247 kB | 31/365 kB | 26/94 kBProgress (4): 33/238 kB | 34/247 kB | 31/365 kB | 27/94 kBProgress (4): 33/238 kB | 34/247 kB | 31/365 kB | 28/94 kBProgress (4): 35/238 kB | 34/247 kB | 31/365 kB | 28/94 kBProgress (4): 35/238 kB | 35/247 kB | 31/365 kB | 28/94 kBProgress (4): 36/238 kB | 35/247 kB | 31/365 kB | 28/94 kBProgress (4): 37/238 kB | 35/247 kB | 31/365 kB | 28/94 kBProgress (4): 39/238 kB | 35/247 kB | 31/365 kB | 28/94 kBProgress (4): 40/238 kB | 35/247 kB | 31/365 kB | 28/94 kBProgress (4): 40/238 kB | 36/247 kB | 31/365 kB | 28/94 kBProgress (4): 42/238 kB | 36/247 kB | 31/365 kB | 28/94 kBProgress (4): 42/238 kB | 38/247 kB | 31/365 kB | 28/94 kBProgress (4): 43/238 kB | 38/247 kB | 31/365 kB | 28/94 kBProgress (4): 43/238 kB | 39/247 kB | 31/365 kB | 28/94 kBProgress (4): 44/238 kB | 39/247 kB | 31/365 kB | 28/94 kBProgress (4): 46/238 kB | 39/247 kB | 31/365 kB | 28/94 kBProgress (4): 47/238 kB | 39/247 kB | 31/365 kB | 28/94 kBProgress (4): 48/238 kB | 39/247 kB | 31/365 kB | 28/94 kBProgress (4): 50/238 kB | 39/247 kB | 31/365 kB | 28/94 kBProgress (4): 51/238 kB | 39/247 kB | 31/365 kB | 28/94 kBProgress (4): 52/238 kB | 39/247 kB | 31/365 kB | 28/94 kBProgress (4): 54/238 kB | 39/247 kB | 31/365 kB | 28/94 kBProgress (4): 55/238 kB | 39/247 kB | 31/365 kB | 28/94 kBProgress (5): 55/238 kB | 39/247 kB | 31/365 kB | 28/94 kB | 3.8/21 kBProgress (5): 55/238 kB | 39/247 kB | 31/365 kB | 28/94 kB | 20/21 kB Progress (5): 59/238 kB | 39/247 kB | 31/365 kB | 28/94 kB | 20/21 kBProgress (5): 59/238 kB | 41/247 kB | 31/365 kB | 28/94 kB | 20/21 kBProgress (5): 59/238 kB | 42/247 kB | 31/365 kB | 28/94 kB | 20/21 kBProgress (5): 64/238 kB | 42/247 kB | 31/365 kB | 28/94 kB | 20/21 kBProgress (5): 64/238 kB | 43/247 kB | 31/365 kB | 28/94 kB | 20/21 kBProgress (5): 64/238 kB | 45/247 kB | 31/365 kB | 28/94 kB | 20/21 kBProgress (5): 64/238 kB | 45/247 kB | 33/365 kB | 28/94 kB | 20/21 kBProgress (5): 64/238 kB | 46/247 kB | 33/365 kB | 28/94 kB | 20/21 kBProgress (5): 64/238 kB | 46/247 kB | 34/365 kB | 28/94 kB | 20/21 kBProgress (5): 64/238 kB | 47/247 kB | 34/365 kB | 28/94 kB | 20/21 kBProgress (5): 64/238 kB | 47/247 kB | 36/365 kB | 28/94 kB | 20/21 kBProgress (5): 64/238 kB | 49/247 kB | 36/365 kB | 28/94 kB | 20/21 kBProgress (5): 64/238 kB | 49/247 kB | 37/365 kB | 28/94 kB | 20/21 kBProgress (5): 64/238 kB | 49/247 kB | 37/365 kB | 28/94 kB | 21 kB   Progress (5): 64/238 kB | 50/247 kB | 37/365 kB | 28/94 kB | 21 kBProgress (5): 64/238 kB | 52/247 kB | 37/365 kB | 28/94 kB | 21 kBProgress (5): 68/238 kB | 52/247 kB | 37/365 kB | 28/94 kB | 21 kBProgress (5): 68/238 kB | 53/247 kB | 37/365 kB | 28/94 kB | 21 kBProgress (5): 68/238 kB | 54/247 kB | 37/365 kB | 28/94 kB | 21 kBProgress (5): 72/238 kB | 54/247 kB | 37/365 kB | 28/94 kB | 21 kB                                                                  Downloaded from central: https://repo.maven.apache.org/maven2/com/madgag/animated-gif-lib/1.4/animated-gif-lib-1.4.jar (21 kB at 47 kB/s)
+Progress (4): 72/238 kB | 56/247 kB | 37/365 kB | 28/94 kBProgress (4): 72/238 kB | 56/247 kB | 37/365 kB | 30/94 kBProgress (4): 76/238 kB | 56/247 kB | 37/365 kB | 30/94 kBProgress (4): 76/238 kB | 56/247 kB | 37/365 kB | 31/94 kBProgress (4): 76/238 kB | 56/247 kB | 37/365 kB | 32/94 kBProgress (4): 76/238 kB | 56/247 kB | 37/365 kB | 34/94 kBProgress (4): 76/238 kB | 56/247 kB | 37/365 kB | 35/94 kBProgress (4): 76/238 kB | 56/247 kB | 37/365 kB | 37/94 kBProgress (4): 81/238 kB | 56/247 kB | 37/365 kB | 37/94 kBProgress (4): 81/238 kB | 56/247 kB | 38/365 kB | 37/94 kBProgress (4): 81/238 kB | 56/247 kB | 40/365 kB | 37/94 kBProgress (4): 81/238 kB | 56/247 kB | 41/365 kB | 37/94 kBProgress (4): 81/238 kB | 56/247 kB | 42/365 kB | 37/94 kBProgress (4): 81/238 kB | 56/247 kB | 44/365 kB | 37/94 kBProgress (4): 85/238 kB | 56/247 kB | 44/365 kB | 37/94 kBProgress (4): 85/238 kB | 60/247 kB | 44/365 kB | 37/94 kBProgress (4): 85/238 kB | 60/247 kB | 45/365 kB | 37/94 kBProgress (4): 85/238 kB | 60/247 kB | 47/365 kB | 37/94 kBProgress (4): 85/238 kB | 60/247 kB | 48/365 kB | 37/94 kBProgress (4): 85/238 kB | 60/247 kB | 49/365 kB | 37/94 kBProgress (4): 85/238 kB | 60/247 kB | 49/365 kB | 38/94 kBProgress (4): 85/238 kB | 64/247 kB | 49/365 kB | 38/94 kBProgress (4): 85/238 kB | 64/247 kB | 49/365 kB | 39/94 kBProgress (4): 85/238 kB | 64/247 kB | 49/365 kB | 41/94 kBProgress (4): 85/238 kB | 64/247 kB | 49/365 kB | 42/94 kBProgress (4): 85/238 kB | 64/247 kB | 49/365 kB | 43/94 kBProgress (4): 89/238 kB | 64/247 kB | 49/365 kB | 43/94 kBProgress (4): 89/238 kB | 64/247 kB | 51/365 kB | 43/94 kBProgress (4): 89/238 kB | 68/247 kB | 51/365 kB | 43/94 kBProgress (4): 89/238 kB | 68/247 kB | 52/365 kB | 43/94 kBProgress (4): 89/238 kB | 68/247 kB | 53/365 kB | 43/94 kBProgress (4): 89/238 kB | 68/247 kB | 55/365 kB | 43/94 kBProgress (4): 89/238 kB | 68/247 kB | 57/365 kB | 43/94 kBProgress (4): 93/238 kB | 68/247 kB | 57/365 kB | 43/94 kBProgress (4): 93/238 kB | 68/247 kB | 62/365 kB | 43/94 kBProgress (4): 93/238 kB | 68/247 kB | 62/365 kB | 45/94 kBProgress (4): 93/238 kB | 73/247 kB | 62/365 kB | 45/94 kBProgress (4): 93/238 kB | 73/247 kB | 62/365 kB | 46/94 kBProgress (4): 93/238 kB | 73/247 kB | 62/365 kB | 47/94 kBProgress (4): 93/238 kB | 73/247 kB | 62/365 kB | 49/94 kBProgress (4): 93/238 kB | 73/247 kB | 62/365 kB | 50/94 kBProgress (4): 93/238 kB | 73/247 kB | 62/365 kB | 52/94 kBProgress (4): 97/238 kB | 73/247 kB | 62/365 kB | 52/94 kBProgress (4): 102/238 kB | 73/247 kB | 62/365 kB | 52/94 kBProgress (4): 102/238 kB | 73/247 kB | 66/365 kB | 52/94 kBProgress (4): 102/238 kB | 73/247 kB | 66/365 kB | 53/94 kBProgress (4): 106/238 kB | 73/247 kB | 66/365 kB | 53/94 kBProgress (4): 106/238 kB | 73/247 kB | 70/365 kB | 53/94 kBProgress (4): 106/238 kB | 77/247 kB | 70/365 kB | 53/94 kBProgress (4): 106/238 kB | 77/247 kB | 70/365 kB | 54/94 kBProgress (4): 106/238 kB | 77/247 kB | 70/365 kB | 56/94 kBProgress (4): 110/238 kB | 77/247 kB | 70/365 kB | 56/94 kBProgress (4): 110/238 kB | 81/247 kB | 70/365 kB | 56/94 kBProgress (4): 110/238 kB | 81/247 kB | 70/365 kB | 60/94 kBProgress (4): 114/238 kB | 81/247 kB | 70/365 kB | 60/94 kBProgress (4): 114/238 kB | 81/247 kB | 74/365 kB | 60/94 kBProgress (4): 114/238 kB | 85/247 kB | 74/365 kB | 60/94 kBProgress (4): 114/238 kB | 85/247 kB | 74/365 kB | 64/94 kBProgress (4): 119/238 kB | 85/247 kB | 74/365 kB | 64/94 kBProgress (4): 123/238 kB | 85/247 kB | 74/365 kB | 64/94 kBProgress (4): 123/238 kB | 89/247 kB | 74/365 kB | 64/94 kBProgress (4): 123/238 kB | 94/247 kB | 74/365 kB | 64/94 kBProgress (4): 123/238 kB | 98/247 kB | 74/365 kB | 64/94 kBProgress (4): 123/238 kB | 98/247 kB | 78/365 kB | 64/94 kBProgress (4): 123/238 kB | 98/247 kB | 83/365 kB | 64/94 kBProgress (4): 123/238 kB | 102/247 kB | 83/365 kB | 64/94 kBProgress (4): 127/238 kB | 102/247 kB | 83/365 kB | 64/94 kBProgress (4): 131/238 kB | 102/247 kB | 83/365 kB | 64/94 kBProgress (4): 136/238 kB | 102/247 kB | 83/365 kB | 64/94 kBProgress (4): 138/238 kB | 102/247 kB | 83/365 kB | 64/94 kBProgress (4): 138/238 kB | 106/247 kB | 83/365 kB | 64/94 kBProgress (4): 143/238 kB | 106/247 kB | 83/365 kB | 64/94 kBProgress (4): 143/238 kB | 106/247 kB | 87/365 kB | 64/94 kBProgress (4): 147/238 kB | 106/247 kB | 87/365 kB | 64/94 kBProgress (4): 147/238 kB | 106/247 kB | 91/365 kB | 64/94 kBProgress (4): 151/238 kB | 106/247 kB | 91/365 kB | 64/94 kBProgress (4): 155/238 kB | 106/247 kB | 91/365 kB | 64/94 kBProgress (4): 155/238 kB | 111/247 kB | 91/365 kB | 64/94 kBProgress (4): 159/238 kB | 111/247 kB | 91/365 kB | 64/94 kBProgress (4): 159/238 kB | 115/247 kB | 91/365 kB | 64/94 kBProgress (4): 159/238 kB | 115/247 kB | 91/365 kB | 68/94 kBProgress (4): 164/238 kB | 115/247 kB | 91/365 kB | 68/94 kBProgress (4): 164/238 kB | 115/247 kB | 91/365 kB | 73/94 kBProgress (4): 164/238 kB | 115/247 kB | 95/365 kB | 73/94 kBProgress (4): 164/238 kB | 115/247 kB | 95/365 kB | 77/94 kBProgress (4): 164/238 kB | 119/247 kB | 95/365 kB | 77/94 kBProgress (4): 164/238 kB | 123/247 kB | 95/365 kB | 77/94 kBProgress (4): 164/238 kB | 128/247 kB | 95/365 kB | 77/94 kBProgress (4): 168/238 kB | 128/247 kB | 95/365 kB | 77/94 kBProgress (4): 168/238 kB | 128/247 kB | 100/365 kB | 77/94 kBProgress (4): 168/238 kB | 128/247 kB | 104/365 kB | 77/94 kBProgress (4): 172/238 kB | 128/247 kB | 104/365 kB | 77/94 kBProgress (4): 172/238 kB | 128/247 kB | 104/365 kB | 81/94 kBProgress (4): 176/238 kB | 128/247 kB | 104/365 kB | 81/94 kBProgress (4): 181/238 kB | 128/247 kB | 104/365 kB | 81/94 kBProgress (4): 181/238 kB | 128/247 kB | 104/365 kB | 85/94 kBProgress (4): 185/238 kB | 128/247 kB | 104/365 kB | 85/94 kBProgress (4): 185/238 kB | 128/247 kB | 108/365 kB | 85/94 kBProgress (4): 189/238 kB | 128/247 kB | 108/365 kB | 85/94 kBProgress (4): 193/238 kB | 128/247 kB | 108/365 kB | 85/94 kBProgress (4): 193/238 kB | 128/247 kB | 108/365 kB | 90/94 kBProgress (4): 193/238 kB | 128/247 kB | 108/365 kB | 94/94 kBProgress (4): 193/238 kB | 128/247 kB | 108/365 kB | 94 kB                                                             Downloaded from central: https://repo.maven.apache.org/maven2/de/erichseifert/vectorgraphics2d/VectorGraphics2D/0.13/VectorGraphics2D-0.13.jar (94 kB at 185 kB/s)
+Progress (3): 193/238 kB | 131/247 kB | 108/365 kBProgress (3): 198/238 kB | 131/247 kB | 108/365 kBProgress (3): 202/238 kB | 131/247 kB | 108/365 kBProgress (3): 202/238 kB | 135/247 kB | 108/365 kBProgress (3): 202/238 kB | 139/247 kB | 108/365 kBProgress (3): 202/238 kB | 139/247 kB | 112/365 kBProgress (3): 202/238 kB | 139/247 kB | 117/365 kBProgress (3): 202/238 kB | 139/247 kB | 121/365 kBProgress (3): 206/238 kB | 139/247 kB | 121/365 kBProgress (3): 210/238 kB | 139/247 kB | 121/365 kBProgress (3): 214/238 kB | 139/247 kB | 121/365 kBProgress (3): 218/238 kB | 139/247 kB | 121/365 kBProgress (3): 223/238 kB | 139/247 kB | 121/365 kBProgress (3): 223/238 kB | 139/247 kB | 125/365 kBProgress (3): 231/238 kB | 139/247 kB | 125/365 kBProgress (3): 238 kB | 139/247 kB | 125/365 kB    Progress (3): 238 kB | 139/247 kB | 129/365 kBProgress (3): 238 kB | 139/247 kB | 133/365 kBProgress (3): 238 kB | 143/247 kB | 133/365 kBProgress (3): 238 kB | 147/247 kB | 133/365 kBProgress (3): 238 kB | 152/247 kB | 133/365 kBProgress (3): 238 kB | 156/247 kB | 133/365 kBProgress (3): 238 kB | 156/247 kB | 138/365 kBProgress (3): 238 kB | 160/247 kB | 138/365 kBProgress (3): 238 kB | 160/247 kB | 142/365 kBProgress (3): 238 kB | 160/247 kB | 146/365 kBProgress (3): 238 kB | 164/247 kB | 146/365 kBProgress (3): 238 kB | 169/247 kB | 146/365 kBProgress (3): 238 kB | 173/247 kB | 146/365 kBProgress (3): 238 kB | 177/247 kB | 146/365 kBProgress (3): 238 kB | 179/247 kB | 146/365 kBProgress (3): 238 kB | 184/247 kB | 146/365 kBProgress (3): 238 kB | 184/247 kB | 150/365 kBProgress (3): 238 kB | 188/247 kB | 150/365 kBProgress (3): 238 kB | 188/247 kB | 155/365 kBProgress (3): 238 kB | 188/247 kB | 156/365 kBProgress (3): 238 kB | 192/247 kB | 156/365 kBProgress (3): 238 kB | 192/247 kB | 160/365 kBProgress (3): 238 kB | 196/247 kB | 160/365 kBProgress (3): 238 kB | 200/247 kB | 160/365 kB                                              Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.10.0/commons-text-1.10.0.jar (238 kB at 445 kB/s)
+Progress (2): 205/247 kB | 160/365 kBProgress (2): 209/247 kB | 160/365 kBProgress (2): 213/247 kB | 160/365 kBProgress (2): 213/247 kB | 164/365 kBProgress (2): 213/247 kB | 168/365 kBProgress (2): 213/247 kB | 173/365 kBProgress (2): 213/247 kB | 177/365 kBProgress (2): 217/247 kB | 177/365 kBProgress (2): 222/247 kB | 177/365 kBProgress (2): 222/247 kB | 181/365 kBProgress (2): 222/247 kB | 185/365 kBProgress (2): 222/247 kB | 189/365 kBProgress (2): 222/247 kB | 194/365 kBProgress (2): 238/247 kB | 194/365 kBProgress (2): 238/247 kB | 198/365 kBProgress (2): 247 kB | 198/365 kB    Progress (2): 247 kB | 202/365 kBProgress (2): 247 kB | 206/365 kBProgress (2): 247 kB | 211/365 kB                                 Downloaded from central: https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.9.4/commons-beanutils-1.9.4.jar (247 kB at 451 kB/s)
+Progress (1): 215/365 kBProgress (1): 219/365 kBProgress (1): 233/365 kBProgress (1): 235/365 kBProgress (1): 252/365 kBProgress (1): 268/365 kBProgress (1): 285/365 kBProgress (1): 301/365 kBProgress (1): 317/365 kBProgress (1): 334/365 kBProgress (1): 350/365 kBProgress (1): 364/365 kBProgress (1): 365 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/knowm/xchart/xchart/3.8.1/xchart-3.8.1.jar (365 kB at 593 kB/s)
+[INFO] 
+[INFO] --- clean:3.2.0:clean (default-clean) @ deathlist-histogram ---
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ deathlist-histogram ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory D:\Multiagent Research\ProjectEvalPlus\test\20251029\19\src\main\resources
+[INFO] 
+[INFO] --- compiler:3.13.0:compile (default-compile) @ deathlist-histogram ---
+[INFO] Recompiling the module because of changed dependency.
+[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[INFO] Compiling 1 source file with javac [debug target 11] to target\classes
+[INFO] -------------------------------------------------------------
+[WARNING] COMPILATION WARNING : 
+[INFO] -------------------------------------------------------------
+[WARNING] 未与 -source 11 一起设置系统模块的位置
+  不设置系统模块的位置可能会导致类文件无法在 JDK 11 上运行
+    建议使用 --release 11 而不是 -source 11 -target 11，因为它会自动设置系统模块的位置
+[INFO] 1 warning
+[INFO] -------------------------------------------------------------
+[INFO] -------------------------------------------------------------
+[ERROR] COMPILATION ERROR : 
+[INFO] -------------------------------------------------------------
+[ERROR] /D:/Multiagent Research/ProjectEvalPlus/test/20251029/19/src/main/java/com/example/Main.java:[156,30] 找不到符号
+  符号:   方法 setHasAnnotations(boolean)
+  位置: 类 org.knowm.xchart.style.CategoryStyler
+[INFO] 1 error
+[INFO] -------------------------------------------------------------
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  3.488 s
+[INFO] Finished at: 2025-10-29T14:06:34+08:00
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.13.0:compile (default-compile) on project deathlist-histogram: Compilation failure
+[ERROR] /D:/Multiagent Research/ProjectEvalPlus/test/20251029/19/src/main/java/com/example/Main.java:[156,30] 找不到符号
+[ERROR]   符号:   方法 setHasAnnotations(boolean)
+[ERROR]   位置: 类 org.knowm.xchart.style.CategoryStyler
+[ERROR] 
+[ERROR] -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+=============Project 19 End===============
+=============Project 19 Start===============
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------------< com.example:deathlist-histogram >-------------------
+[INFO] Building deathlist-histogram 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- clean:3.2.0:clean (default-clean) @ deathlist-histogram ---
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ deathlist-histogram ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory D:\Multiagent Research\ProjectEvalPlus\test\20251029\19\src\main\resources
+[INFO] 
+[INFO] --- compiler:3.13.0:compile (default-compile) @ deathlist-histogram ---
+[INFO] Recompiling the module because of changed source code.
+[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[INFO] Compiling 1 source file with javac [debug target 11] to target\classes
+[WARNING] 未与 -source 11 一起设置系统模块的位置
+  不设置系统模块的位置可能会导致类文件无法在 JDK 11 上运行
+    建议使用 --release 11 而不是 -source 11 -target 11，因为它会自动设置系统模块的位置
+[INFO] 
+[INFO] --- resources:3.3.1:testResources (default-testResources) @ deathlist-histogram ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory D:\Multiagent Research\ProjectEvalPlus\test\20251029\19\src\test\resources
+[INFO] 
+[INFO] --- compiler:3.13.0:testCompile (default-testCompile) @ deathlist-histogram ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- surefire:3.2.5:test (default-test) @ deathlist-histogram ---
+[INFO] No tests to run.
+[INFO] 
+[INFO] --- jar:3.4.1:jar (default-jar) @ deathlist-histogram ---
+[INFO] Building jar: D:\Multiagent Research\ProjectEvalPlus\test\20251029\19\target\deathlist-histogram-1.0-SNAPSHOT.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  1.370 s
+[INFO] Finished at: 2025-10-29T14:08:56+08:00
+[INFO] ------------------------------------------------------------------------
+=============Project 19 End===============
+=============Project 19 Start===============
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------------< com.example:deathlist-histogram >-------------------
+[INFO] Building deathlist-histogram 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- clean:3.2.0:clean (default-clean) @ deathlist-histogram ---
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ deathlist-histogram ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory D:\Multiagent Research\ProjectEvalPlus\test\20251029\19\src\main\resources
+[INFO] 
+[INFO] --- compiler:3.13.0:compile (default-compile) @ deathlist-histogram ---
+[INFO] Recompiling the module because of changed source code.
+[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[INFO] Compiling 1 source file with javac [debug target 11] to target\classes
+[WARNING] 未与 -source 11 一起设置系统模块的位置
+  不设置系统模块的位置可能会导致类文件无法在 JDK 11 上运行
+    建议使用 --release 11 而不是 -source 11 -target 11，因为它会自动设置系统模块的位置
+[INFO] 
+[INFO] --- resources:3.3.1:testResources (default-testResources) @ deathlist-histogram ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory D:\Multiagent Research\ProjectEvalPlus\test\20251029\19\src\test\resources
+[INFO] 
+[INFO] --- compiler:3.13.0:testCompile (default-testCompile) @ deathlist-histogram ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- surefire:3.2.5:test (default-test) @ deathlist-histogram ---
+[INFO] No tests to run.
+[INFO] 
+[INFO] --- jar:3.4.1:jar (default-jar) @ deathlist-histogram ---
+[INFO] Building jar: D:\Multiagent Research\ProjectEvalPlus\test\20251029\19\target\deathlist-histogram-1.0-SNAPSHOT.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  1.392 s
+[INFO] Finished at: 2025-10-29T14:11:18+08:00
+[INFO] ------------------------------------------------------------------------
+=============Project 19 End===============
+=============Project 19 Start===============
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------------< com.example:deathlist-histogram >-------------------
+[INFO] Building deathlist-histogram 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- clean:3.2.0:clean (default-clean) @ deathlist-histogram ---
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ deathlist-histogram ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory D:\Multiagent Research\ProjectEvalPlus\test\20251029\19\src\main\resources
+[INFO] 
+[INFO] --- compiler:3.13.0:compile (default-compile) @ deathlist-histogram ---
+[INFO] Recompiling the module because of changed source code.
+[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[INFO] Compiling 1 source file with javac [debug target 11] to target\classes
+[WARNING] 未与 -source 11 一起设置系统模块的位置
+  不设置系统模块的位置可能会导致类文件无法在 JDK 11 上运行
+    建议使用 --release 11 而不是 -source 11 -target 11，因为它会自动设置系统模块的位置
+[INFO] 
+[INFO] --- resources:3.3.1:testResources (default-testResources) @ deathlist-histogram ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory D:\Multiagent Research\ProjectEvalPlus\test\20251029\19\src\test\resources
+[INFO] 
+[INFO] --- compiler:3.13.0:testCompile (default-testCompile) @ deathlist-histogram ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- surefire:3.2.5:test (default-test) @ deathlist-histogram ---
+[INFO] No tests to run.
+[INFO] 
+[INFO] --- jar:3.4.1:jar (default-jar) @ deathlist-histogram ---
+[INFO] Building jar: D:\Multiagent Research\ProjectEvalPlus\test\20251029\19\target\deathlist-histogram-1.0-SNAPSHOT.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  1.310 s
+[INFO] Finished at: 2025-10-29T14:14:45+08:00
+[INFO] ------------------------------------------------------------------------
+=============Project 19 End===============
+=============Project 19 Start===============
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------------< com.example:deathlist-histogram >-------------------
+[INFO] Building deathlist-histogram 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- clean:3.2.0:clean (default-clean) @ deathlist-histogram ---
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ deathlist-histogram ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory D:\Multiagent Research\ProjectEvalPlus\test\20251029\19\src\main\resources
+[INFO] 
+[INFO] --- compiler:3.13.0:compile (default-compile) @ deathlist-histogram ---
+[INFO] Recompiling the module because of changed source code.
+[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[INFO] Compiling 1 source file with javac [debug target 11] to target\classes
+[INFO] -------------------------------------------------------------
+[WARNING] COMPILATION WARNING : 
+[INFO] -------------------------------------------------------------
+[WARNING] 未与 -source 11 一起设置系统模块的位置
+  不设置系统模块的位置可能会导致类文件无法在 JDK 11 上运行
+    建议使用 --release 11 而不是 -source 11 -target 11，因为它会自动设置系统模块的位置
+[INFO] 1 warning
+[INFO] -------------------------------------------------------------
+[INFO] -------------------------------------------------------------
+[ERROR] COMPILATION ERROR : 
+[INFO] -------------------------------------------------------------
+[ERROR] /D:/Multiagent Research/ProjectEvalPlus/test/20251029/19/src/main/java/com/example/Main.java:[163,20] 对List的引用不明确
+  java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+[ERROR] /D:/Multiagent Research/ProjectEvalPlus/test/20251029/19/src/main/java/com/example/Main.java:[179,20] 对List的引用不明确
+  java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+[ERROR] /D:/Multiagent Research/ProjectEvalPlus/test/20251029/19/src/main/java/com/example/Main.java:[204,42] 对List的引用不明确
+  java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+[ERROR] /D:/Multiagent Research/ProjectEvalPlus/test/20251029/19/src/main/java/com/example/Main.java:[204,61] 对List的引用不明确
+  java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+[ERROR] /D:/Multiagent Research/ProjectEvalPlus/test/20251029/19/src/main/java/com/example/Main.java:[37,9] 对List的引用不明确
+  java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+[ERROR] /D:/Multiagent Research/ProjectEvalPlus/test/20251029/19/src/main/java/com/example/Main.java:[51,9] 对List的引用不明确
+  java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+[ERROR] /D:/Multiagent Research/ProjectEvalPlus/test/20251029/19/src/main/java/com/example/Main.java:[75,9] 对List的引用不明确
+  java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+[ERROR] /D:/Multiagent Research/ProjectEvalPlus/test/20251029/19/src/main/java/com/example/Main.java:[77,9] 对List的引用不明确
+  java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+[ERROR] /D:/Multiagent Research/ProjectEvalPlus/test/20251029/19/src/main/java/com/example/Main.java:[83,13] 对List的引用不明确
+  java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+[ERROR] /D:/Multiagent Research/ProjectEvalPlus/test/20251029/19/src/main/java/com/example/Main.java:[139,9] 对List的引用不明确
+  java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+[ERROR] /D:/Multiagent Research/ProjectEvalPlus/test/20251029/19/src/main/java/com/example/Main.java:[140,9] 对List的引用不明确
+  java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+[ERROR] /D:/Multiagent Research/ProjectEvalPlus/test/20251029/19/src/main/java/com/example/Main.java:[164,9] 对List的引用不明确
+  java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+[ERROR] /D:/Multiagent Research/ProjectEvalPlus/test/20251029/19/src/main/java/com/example/Main.java:[181,9] 对List的引用不明确
+  java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+[INFO] 13 errors 
+[INFO] -------------------------------------------------------------
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  0.790 s
+[INFO] Finished at: 2025-10-29T14:17:20+08:00
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.13.0:compile (default-compile) on project deathlist-histogram: Compilation failure: Compilation failure: 
+[ERROR] /D:/Multiagent Research/ProjectEvalPlus/test/20251029/19/src/main/java/com/example/Main.java:[163,20] 对List的引用不明确
+[ERROR]   java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+[ERROR] /D:/Multiagent Research/ProjectEvalPlus/test/20251029/19/src/main/java/com/example/Main.java:[179,20] 对List的引用不明确
+[ERROR]   java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+[ERROR] /D:/Multiagent Research/ProjectEvalPlus/test/20251029/19/src/main/java/com/example/Main.java:[204,42] 对List的引用不明确
+[ERROR]   java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+[ERROR] /D:/Multiagent Research/ProjectEvalPlus/test/20251029/19/src/main/java/com/example/Main.java:[204,61] 对List的引用不明确
+[ERROR]   java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+[ERROR] /D:/Multiagent Research/ProjectEvalPlus/test/20251029/19/src/main/java/com/example/Main.java:[37,9] 对List的引用不明确
+[ERROR]   java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+[ERROR] /D:/Multiagent Research/ProjectEvalPlus/test/20251029/19/src/main/java/com/example/Main.java:[51,9] 对List的引用不明确
+[ERROR]   java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+[ERROR] /D:/Multiagent Research/ProjectEvalPlus/test/20251029/19/src/main/java/com/example/Main.java:[75,9] 对List的引用不明确
+[ERROR]   java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+[ERROR] /D:/Multiagent Research/ProjectEvalPlus/test/20251029/19/src/main/java/com/example/Main.java:[77,9] 对List的引用不明确
+[ERROR]   java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+[ERROR] /D:/Multiagent Research/ProjectEvalPlus/test/20251029/19/src/main/java/com/example/Main.java:[83,13] 对List的引用不明确
+[ERROR]   java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+[ERROR] /D:/Multiagent Research/ProjectEvalPlus/test/20251029/19/src/main/java/com/example/Main.java:[139,9] 对List的引用不明确
+[ERROR]   java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+[ERROR] /D:/Multiagent Research/ProjectEvalPlus/test/20251029/19/src/main/java/com/example/Main.java:[140,9] 对List的引用不明确
+[ERROR]   java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+[ERROR] /D:/Multiagent Research/ProjectEvalPlus/test/20251029/19/src/main/java/com/example/Main.java:[164,9] 对List的引用不明确
+[ERROR]   java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+[ERROR] /D:/Multiagent Research/ProjectEvalPlus/test/20251029/19/src/main/java/com/example/Main.java:[181,9] 对List的引用不明确
+[ERROR]   java.util 中的接口 java.util.List 和 java.awt 中的类 java.awt.List 都匹配
+[ERROR] -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+=============Project 19 End===============

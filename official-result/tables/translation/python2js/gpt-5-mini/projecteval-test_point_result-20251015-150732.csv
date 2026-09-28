@@ -1,0 +1,11 @@
+date,model,mode,timestamp,level,project_id,index,status,result,reason,function
+renew_js,gpt-oss-20b,direct,20251010-203300,3,1,1,True,,,View Introduction
+renew_js,gpt-oss-20b,direct,20251010-203300,3,1,2,True,,,Navigation to Calculator
+renew_js,gpt-oss-20b,direct,20251010-203300,3,1,3,True,,,Input Height
+renew_js,gpt-oss-20b,direct,20251010-203300,3,1,4,True,,,Input Weight
+renew_js,gpt-oss-20b,direct,20251010-203300,3,1,5,True,,,Submit Data
+renew_js,gpt-oss-20b,direct,20251010-203300,3,1,6,True,,,Display BMI Result
+renew_js,gpt-oss-20b,direct,20251010-203300,3,1,7,True,,,Display BMI Category
+renew_js,gpt-oss-20b,direct,20251010-203300,3,1,8,True,,,Provide Interpretation
+renew_js,gpt-oss-20b,direct,20251010-203300,3,1,9,True,,,Reset Form
+renew_js,gpt-oss-20b,direct,20251010-203300,3,1,10,True,,,Link to Health Advice

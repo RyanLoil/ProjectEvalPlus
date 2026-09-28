@@ -1,0 +1,5 @@
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-5-mini,direct,20251018-123000,3,16,9,9,N/A
+renew_js,gpt-5-mini,direct,20251018-123000,3,17,6,6,N/A
+renew_js,gpt-5-mini,direct,20251018-123000,3,18,14,14,N/A
+renew_js,gpt-5-mini,direct,20251018-123000,3,19,7,8,N/A

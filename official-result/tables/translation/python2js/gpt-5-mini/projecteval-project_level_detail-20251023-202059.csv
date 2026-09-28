@@ -1,0 +1,326 @@
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,1,11,11,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,2,9,9,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,3,15,16,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,15,17,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,4,17,17,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,5,0,13,"npm ERR! code EJSONPARSE
+npm ERR! path D:\Multiagent Research\ProjectEvalPlus\test\20251023\5/package.json
+npm ERR! JSON.parse Bad control character in string literal in JSON at position 149 while parsing '{
+npm ERR! JSON.parse   ""name"": ""markdown-html-converter"",
+'
+npm ERR! JSON.parse Failed to parse JSON data.
+npm ERR! JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+
+npm ERR! A complete log of this run can be found in: C:\Users\Ryan\AppData\Local\npm-cache\_logs\2025-10-23T12_31_56_008Z-debug-0.log
+node:internal/modules/package_json_reader:93
+        throw error;
+        ^
+
+SyntaxError: Error parsing D:\Multiagent Research\ProjectEvalPlus\test\20251023\5\package.json: Bad control character in string literal in JSON at position 149
+    at parse (<anonymous>)
+    at read (node:internal/modules/package_json_reader:80:16)
+    at readPackage (node:internal/modules/package_json_reader:141:10)
+    at readPackageScope (node:internal/modules/package_json_reader:164:19)
+    at shouldUseESMLoader (node:internal/modules/run_main:72:15)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:129:24)
+    at node:internal/main/run_main_module:28:49 {
+  path: 'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251023\\5\\package.json'
+}
+
+Node.js v20.11.1
+npm ERR! code EJSONPARSE
+npm ERR! path D:\Multiagent Research\ProjectEvalPlus\test\20251023\5/package.json
+npm ERR! JSON.parse Bad control character in string literal in JSON at position 149 while parsing '{
+npm ERR! JSON.parse   ""name"": ""markdown-html-converter"",
+'
+npm ERR! JSON.parse Failed to parse JSON data.
+npm ERR! JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+
+npm ERR! A complete log of this run can be found in: C:\Users\Ryan\AppData\Local\npm-cache\_logs\2025-10-23T12_31_57_394Z-debug-0.log
+node:internal/modules/package_json_reader:93
+        throw error;
+        ^
+
+SyntaxError: Error parsing D:\Multiagent Research\ProjectEvalPlus\test\20251023\5\package.json: Bad control character in string literal in JSON at position 149
+    at parse (<anonymous>)
+    at read (node:internal/modules/package_json_reader:80:16)
+    at readPackage (node:internal/modules/package_json_reader:141:10)
+    at readPackageScope (node:internal/modules/package_json_reader:164:19)
+    at shouldUseESMLoader (node:internal/modules/run_main:72:15)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:129:24)
+    at node:internal/main/run_main_module:28:49 {
+  path: 'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251023\\5\\package.json'
+}
+
+Node.js v20.11.1
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,5,11,13,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,5,0,13,"  File ""D:\Multiagent Research\ProjectEvalPlus\test\20251023\5\start.py"", line 1
+    import subprocess\n\n# Install Node.js dependencies\nsubprocess.run(['npm', 'install'], shell=True)\n\n# Start the Node.js server\nsubprocess.run(['node', 'server.js'], shell=True)
+                      ^
+SyntaxError: unexpected character after line continuation character
+  File ""D:\Multiagent Research\ProjectEvalPlus\test\20251023\5\start.py"", line 1
+    import subprocess\n\n# Install Node.js dependencies\nsubprocess.run(['npm', 'install'], shell=True)\n\n# Start the Node.js server\nsubprocess.run(['node', 'server.js'], shell=True)
+                      ^
+SyntaxError: unexpected character after line continuation character
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,1,20,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,6,20,20,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,7,17,24,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,7,0,24,"C:\Users\Ryan\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251023\\7\\start.py': [Errno 2] No such file or directory
+C:\Users\Ryan\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251023\\7\\start.py': [Errno 2] No such file or directory
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,8,18,18,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,9,13,13,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,11,3,8,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,11,0,8,"undefined:61
+                        ""test"": ""def test_navigation_links(driver, test_url, home_link_id, about_link_id,about_expected_url,home_expected_url):\r\n\t    driver.get(test_url)\r\n\t    links = driver.find_elements(By.TAG_NAME, 'a')\r\n\t    assert any(['Home' in link.text for link in links]),""page has home link""\r\n\t    assert any(['About' in link.text for link in links]),""page has about link""\r\n\t    about_link = driver.find_element(By.ID, about_link_id)\r\n\t    about_link.click()\r\n\t    assert driver.current_url == about_expected_url,""page turned into about page""\r\n\t    home_link = driver.find_element(By.ID, home_link_id)\r\n\t    home_link.click()\r\n\t    assert driver.current_url == home_expected_url,""page turned back to home page'"",
+                                                                                                                                                                                                                                                                                                    ^
+
+SyntaxError: Expected ',' or '}' after property value in JSON at position 2609
+    at JSON.parse (<anonymous>)
+    at Object.<anonymous> (D:\Multiagent Research\ProjectEvalPlus\test\20251023\11\routes\index.js:16:19)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (D:\Multiagent Research\ProjectEvalPlus\test\20251023\11\server.js:4:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+
+Node.js v20.11.1
+undefined:61
+                        ""test"": ""def test_navigation_links(driver, test_url, home_link_id, about_link_id,about_expected_url,home_expected_url):\r\n\t    driver.get(test_url)\r\n\t    links = driver.find_elements(By.TAG_NAME, 'a')\r\n\t    assert any(['Home' in link.text for link in links]),""page has home link""\r\n\t    assert any(['About' in link.text for link in links]),""page has about link""\r\n\t    about_link = driver.find_element(By.ID, about_link_id)\r\n\t    about_link.click()\r\n\t    assert driver.current_url == about_expected_url,""page turned into about page""\r\n\t    home_link = driver.find_element(By.ID, home_link_id)\r\n\t    home_link.click()\r\n\t    assert driver.current_url == home_expected_url,""page turned back to home page'"",
+                                                                                                                                                                                                                                                                                                    ^
+
+SyntaxError: Expected ',' or '}' after property value in JSON at position 2609
+    at JSON.parse (<anonymous>)
+    at Object.<anonymous> (D:\Multiagent Research\ProjectEvalPlus\test\20251023\11\routes\index.js:16:19)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (D:\Multiagent Research\ProjectEvalPlus\test\20251023\11\server.js:4:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+
+Node.js v20.11.1
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,11,0,8,"npm WARN deprecated multer@1.4.5-lts.2: Multer 1.x is impacted by a number of vulnerabilities, which have been patched in 2.x. You should upgrade to the latest 2.x version.
+undefined:1
+[\n    {\n        \""project_id\"": \""11\"",\n        \""project_type\"": \""website\"",\n        \""nl_prompt\"": \""Create a website for a password generator.\"",\n        \""framework_technical_stack\"": [\n            {\n                \""language\"": \""Python\"",\n                \""technical_stack\"": \""Django\""\n            }\n        ],\n        \""nl_checklist\"": [\n            {\n                \""page\"": \""Home\"",\n                \""required\"": true,\n                \""function\"": [\n                    {\n                        \""function\"": \""Display Welcome Message\"",\n                        \""description\"": \""Show a welcome message or introduction to the password generator.\"",\n                        \""required\"": false\n                    },\n                    {\n                        \""function\"": \""Navigation Button\"",\n                        \""description\"": \""Button to the password generator page.\"",\n                        \""required\"": true\n                    }\n                ]\n            },\n            {\n                \""page\"": \""About\"",\n                \""required\"": false,\n                \""function\"": [\n                    {\n                        \""function\"": \""Description\"",\n                        \""description\"": \""Provide information about the purpose and functionality of the website.\"",\n                        \""required\"": false\n                    }\n                ]\n            }\n        ],\n        \""testcode\"": [\n            {\n                \""page\"": \""Home\"",\n                \""function\"": [\n                    {\n                        \""function\"": \""Display Welcome Message\"",\n                        \""test\"": \""def test_display_welcome_message(driver, test_url,title_text): pass\"",\n                        \""parameter\"": [\n                            {\n                                \""name\"": \""test_url\"",\n                                \""description\"": \""the URL for test\""\n                            },\n                            {\n                                \""name\"": \""title_text\"",\n                                \""description\"": \""the expected title text of welcome page\""\n                            }\n                        ]\n                    },\n                    {\n                        \""function\"": \""Navigation Link\"",\n                        \""test\"": \""def test_navigation_links(driver, test_url, home_link_id, about_link_id,about_expected_url,home_expected_url): pass\"",\n                        \""parameter\"": [\n                            {\n                                \""name\"": \""test_url\"",\n                                \""description\"": \""the URL for test\""\n                            },\n                            {\n                                \""name\"": \""home_link_id\"",\n                                \""description\"": \""the element id that link to the home page\""\n                            },\n                            {\n                                \""name\"": \""about_link_id\"",\n                                \""description\"": \""the element id that link to the about page\""\n                            },\n                            {\n                                \""name\"": \""about_expected_url\"",\n                                \""description\"": \""the about page URL\""\n                            },\n                            {\n                                \""name\"": \""home_expected_url\"",\n                                \""description\"": \""the home page URL\""\n                            }\n                        ]\n                    }\n                ]\n            }\n        ]\n    }\n]
+ ^
+
+SyntaxError: Unexpected token '\', ""[\n    {\n ""... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.<anonymous> (D:\Multiagent Research\ProjectEvalPlus\test\20251023\11\routes\index.js:16:19)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (D:\Multiagent Research\ProjectEvalPlus\test\20251023\11\server.js:4:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+
+Node.js v20.11.1
+undefined:1
+[\n    {\n        \""project_id\"": \""11\"",\n        \""project_type\"": \""website\"",\n        \""nl_prompt\"": \""Create a website for a password generator.\"",\n        \""framework_technical_stack\"": [\n            {\n                \""language\"": \""Python\"",\n                \""technical_stack\"": \""Django\""\n            }\n        ],\n        \""nl_checklist\"": [\n            {\n                \""page\"": \""Home\"",\n                \""required\"": true,\n                \""function\"": [\n                    {\n                        \""function\"": \""Display Welcome Message\"",\n                        \""description\"": \""Show a welcome message or introduction to the password generator.\"",\n                        \""required\"": false\n                    },\n                    {\n                        \""function\"": \""Navigation Button\"",\n                        \""description\"": \""Button to the password generator page.\"",\n                        \""required\"": true\n                    }\n                ]\n            },\n            {\n                \""page\"": \""About\"",\n                \""required\"": false,\n                \""function\"": [\n                    {\n                        \""function\"": \""Description\"",\n                        \""description\"": \""Provide information about the purpose and functionality of the website.\"",\n                        \""required\"": false\n                    }\n                ]\n            }\n        ],\n        \""testcode\"": [\n            {\n                \""page\"": \""Home\"",\n                \""function\"": [\n                    {\n                        \""function\"": \""Display Welcome Message\"",\n                        \""test\"": \""def test_display_welcome_message(driver, test_url,title_text): pass\"",\n                        \""parameter\"": [\n                            {\n                                \""name\"": \""test_url\"",\n                                \""description\"": \""the URL for test\""\n                            },\n                            {\n                                \""name\"": \""title_text\"",\n                                \""description\"": \""the expected title text of welcome page\""\n                            }\n                        ]\n                    },\n                    {\n                        \""function\"": \""Navigation Link\"",\n                        \""test\"": \""def test_navigation_links(driver, test_url, home_link_id, about_link_id,about_expected_url,home_expected_url): pass\"",\n                        \""parameter\"": [\n                            {\n                                \""name\"": \""test_url\"",\n                                \""description\"": \""the URL for test\""\n                            },\n                            {\n                                \""name\"": \""home_link_id\"",\n                                \""description\"": \""the element id that link to the home page\""\n                            },\n                            {\n                                \""name\"": \""about_link_id\"",\n                                \""description\"": \""the element id that link to the about page\""\n                            },\n                            {\n                                \""name\"": \""about_expected_url\"",\n                                \""description\"": \""the about page URL\""\n                            },\n                            {\n                                \""name\"": \""home_expected_url\"",\n                                \""description\"": \""the home page URL\""\n                            }\n                        ]\n                    }\n                ]\n            }\n        ]\n    }\n]
+ ^
+
+SyntaxError: Unexpected token '\', ""[\n    {\n ""... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.<anonymous> (D:\Multiagent Research\ProjectEvalPlus\test\20251023\11\routes\index.js:16:19)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (D:\Multiagent Research\ProjectEvalPlus\test\20251023\11\server.js:4:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+
+Node.js v20.11.1
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,11,0,8,"  File ""D:\Multiagent Research\ProjectEvalPlus\test\20251023\11\start.py"", line 1
+    import subprocess\n\nif __name__ == ""__main__"":\n    subprocess.run(['npm', 'install'], shell=True)\n    subprocess.run(['node', 'server.js'], shell=True)\n
+                      ^
+SyntaxError: unexpected character after line continuation character
+  File ""D:\Multiagent Research\ProjectEvalPlus\test\20251023\11\start.py"", line 1
+    import subprocess\n\nif __name__ == ""__main__"":\n    subprocess.run(['npm', 'install'], shell=True)\n    subprocess.run(['node', 'server.js'], shell=True)\n
+                      ^
+SyntaxError: unexpected character after line continuation character
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,11,5,8,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,12,0,18,"D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\node_modules\bindings\bindings.js:135
+  throw err;
+  ^
+
+Error: Could not locate the bindings file. Tried:
+ → D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\node_modules\better-sqlite3\build\better_sqlite3.node
+ → D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\node_modules\better-sqlite3\build\Debug\better_sqlite3.node
+ → D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\node_modules\better-sqlite3\build\Release\better_sqlite3.node
+ → D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\node_modules\better-sqlite3\out\Debug\better_sqlite3.node
+ → D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\node_modules\better-sqlite3\Debug\better_sqlite3.node
+ → D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\node_modules\better-sqlite3\out\Release\better_sqlite3.node
+ → D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\node_modules\better-sqlite3\Release\better_sqlite3.node
+ → D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\node_modules\better-sqlite3\build\default\better_sqlite3.node
+ → D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\node_modules\better-sqlite3\compiled\20.11.1\win32\x64\better_sqlite3.node
+ → D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\node_modules\better-sqlite3\addon-build\release\install-root\better_sqlite3.node
+ → D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\node_modules\better-sqlite3\addon-build\debug\install-root\better_sqlite3.node
+ → D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\node_modules\better-sqlite3\addon-build\default\install-root\better_sqlite3.node
+ → D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\node_modules\better-sqlite3\lib\binding\node-v115-win32-x64\better_sqlite3.node
+    at bindings (D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\node_modules\bindings\bindings.js:126:9)
+    at new Database (D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\node_modules\better-sqlite3\lib\database.js:48:64)
+    at Object.<anonymous> (D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\models.js:2:12)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\routes.js:3:12) {
+  tries: [
+    'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251023\\12\\node_modules\\better-sqlite3\\build\\better_sqlite3.node',
+    'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251023\\12\\node_modules\\better-sqlite3\\build\\Debug\\better_sqlite3.node',
+    'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251023\\12\\node_modules\\better-sqlite3\\build\\Release\\better_sqlite3.node',
+    'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251023\\12\\node_modules\\better-sqlite3\\out\\Debug\\better_sqlite3.node',
+    'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251023\\12\\node_modules\\better-sqlite3\\Debug\\better_sqlite3.node',
+    'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251023\\12\\node_modules\\better-sqlite3\\out\\Release\\better_sqlite3.node',
+    'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251023\\12\\node_modules\\better-sqlite3\\Release\\better_sqlite3.node',
+    'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251023\\12\\node_modules\\better-sqlite3\\build\\default\\better_sqlite3.node',
+    'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251023\\12\\node_modules\\better-sqlite3\\compiled\\20.11.1\\win32\\x64\\better_sqlite3.node',
+    'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251023\\12\\node_modules\\better-sqlite3\\addon-build\\release\\install-root\\better_sqlite3.node',
+    'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251023\\12\\node_modules\\better-sqlite3\\addon-build\\debug\\install-root\\better_sqlite3.node',
+    'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251023\\12\\node_modules\\better-sqlite3\\addon-build\\default\\install-root\\better_sqlite3.node',
+    'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251023\\12\\node_modules\\better-sqlite3\\lib\\binding\\node-v115-win32-x64\\better_sqlite3.node'
+  ]
+}
+
+Node.js v20.11.1
+D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\node_modules\bindings\bindings.js:135
+  throw err;
+  ^
+
+Error: Could not locate the bindings file. Tried:
+ → D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\node_modules\better-sqlite3\build\better_sqlite3.node
+ → D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\node_modules\better-sqlite3\build\Debug\better_sqlite3.node
+ → D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\node_modules\better-sqlite3\build\Release\better_sqlite3.node
+ → D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\node_modules\better-sqlite3\out\Debug\better_sqlite3.node
+ → D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\node_modules\better-sqlite3\Debug\better_sqlite3.node
+ → D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\node_modules\better-sqlite3\out\Release\better_sqlite3.node
+ → D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\node_modules\better-sqlite3\Release\better_sqlite3.node
+ → D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\node_modules\better-sqlite3\build\default\better_sqlite3.node
+ → D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\node_modules\better-sqlite3\compiled\20.11.1\win32\x64\better_sqlite3.node
+ → D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\node_modules\better-sqlite3\addon-build\release\install-root\better_sqlite3.node
+ → D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\node_modules\better-sqlite3\addon-build\debug\install-root\better_sqlite3.node
+ → D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\node_modules\better-sqlite3\addon-build\default\install-root\better_sqlite3.node
+ → D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\node_modules\better-sqlite3\lib\binding\node-v115-win32-x64\better_sqlite3.node
+    at bindings (D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\node_modules\bindings\bindings.js:126:9)
+    at new Database (D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\node_modules\better-sqlite3\lib\database.js:48:64)
+    at Object.<anonymous> (D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\models.js:2:12)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (D:\Multiagent Research\ProjectEvalPlus\test\20251023\12\routes.js:3:12) {
+  tries: [
+    'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251023\\12\\node_modules\\better-sqlite3\\build\\better_sqlite3.node',
+    'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251023\\12\\node_modules\\better-sqlite3\\build\\Debug\\better_sqlite3.node',
+    'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251023\\12\\node_modules\\better-sqlite3\\build\\Release\\better_sqlite3.node',
+    'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251023\\12\\node_modules\\better-sqlite3\\out\\Debug\\better_sqlite3.node',
+    'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251023\\12\\node_modules\\better-sqlite3\\Debug\\better_sqlite3.node',
+    'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251023\\12\\node_modules\\better-sqlite3\\out\\Release\\better_sqlite3.node',
+    'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251023\\12\\node_modules\\better-sqlite3\\Release\\better_sqlite3.node',
+    'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251023\\12\\node_modules\\better-sqlite3\\build\\default\\better_sqlite3.node',
+    'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251023\\12\\node_modules\\better-sqlite3\\compiled\\20.11.1\\win32\\x64\\better_sqlite3.node',
+    'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251023\\12\\node_modules\\better-sqlite3\\addon-build\\release\\install-root\\better_sqlite3.node',
+    'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251023\\12\\node_modules\\better-sqlite3\\addon-build\\debug\\install-root\\better_sqlite3.node',
+    'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251023\\12\\node_modules\\better-sqlite3\\addon-build\\default\\install-root\\better_sqlite3.node',
+    'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251023\\12\\node_modules\\better-sqlite3\\lib\\binding\\node-v115-win32-x64\\better_sqlite3.node'
+  ]
+}
+
+Node.js v20.11.1
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,0,25,"node:internal/modules/cjs/loader:1147
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- D:\Multiagent Research\ProjectEvalPlus\test\20251023\13\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (D:\Multiagent Research\ProjectEvalPlus\test\20251023\13\server.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'D:\\Multiagent Research\\ProjectEvalPlus\\test\\20251023\\13\\server.js'
+  ]
+}
+
+Node.js v20.11.1
+npm WARN deprecated @npmcli/move-file@1.1.2: This functionality has been moved to @npmcli/fs
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,10,25,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,10,25,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,10,25,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,13,25,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,14,5,5,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,15,3,3,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,1,6,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,1,6,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,2,6,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,1,8,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,1,8,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,1,8,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,1,8,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,4,26,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,20,4,26,N/A

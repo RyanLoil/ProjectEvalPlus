@@ -1,0 +1,88 @@
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,0,25,"D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\models\db.js:1
+const low = require('lowdb');
+
+            ^
+
+Error [ERR_REQUIRE_ESM]: require() of ES Module D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\node_modules\lowdb\lib\index.js from D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\models\db.js not supported.
+Instead change the require of index.js in D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\models\db.js to a dynamic import() which is available in all CommonJS modules.
+    at Object.<anonymous> (D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\models\db.js:1:13) {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v20.11.1
+D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\models\db.js:1
+const low = require('lowdb');
+
+            ^
+
+Error [ERR_REQUIRE_ESM]: require() of ES Module D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\node_modules\lowdb\lib\index.js from D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\models\db.js not supported.
+Instead change the require of index.js in D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\models\db.js to a dynamic import() which is available in all CommonJS modules.
+    at Object.<anonymous> (D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\models\db.js:1:13) {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v20.11.1
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,0,25,"D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\routes\customer.js:4
+const { v4: uuidv4 } = require('uuid');
+
+                       ^
+
+Error [ERR_REQUIRE_ESM]: require() of ES Module D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\node_modules\uuid\dist-node\index.js from D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\routes\customer.js not supported.
+Instead change the require of index.js in D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\routes\customer.js to a dynamic import() which is available in all CommonJS modules.
+    at Object.<anonymous> (D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\routes\customer.js:4:24) {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v20.11.1
+D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\routes\customer.js:4
+const { v4: uuidv4 } = require('uuid');
+
+                       ^
+
+Error [ERR_REQUIRE_ESM]: require() of ES Module D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\node_modules\uuid\dist-node\index.js from D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\routes\customer.js not supported.
+Instead change the require of index.js in D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\routes\customer.js to a dynamic import() which is available in all CommonJS modules.
+    at Object.<anonymous> (D:\Multiagent Research\ProjectEvalPlus\test\20251027\13\routes\customer.js:4:24) {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v20.11.1
+"
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,20,25,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,22,25,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,13,22,25,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,2,9,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,3,9,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,3,9,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,3,9,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,16,3,9,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,2,6,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,2,6,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,4,6,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,2,6,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,17,3,6,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,1,8,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,4,8,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,4,8,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,4,8,N/A
+date,model,mode,timestamp,level,project_id,pass,total,reason
+renew_js,gpt-oss-20b,direct,20251018-123000,3,19,4,8,N/A

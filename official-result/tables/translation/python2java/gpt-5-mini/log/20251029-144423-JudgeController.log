@@ -1,0 +1,176 @@
+2025-10-29 14:44:24,376 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 14:44:24,377 - JudgeController - INFO - Evaluating project id 20
+2025-10-29 14:45:35,349 - JudgeController - WARNING - Preprocessing failed with False.
+2025-10-29 14:45:35,349 - JudgeController - INFO - 20 scored 0.
+2025-10-29 14:45:35,470 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 0, 'failed': 0, 'score': 0, 'testcase': 0}
+2025-10-29 15:00:02,000 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 15:00:02,001 - JudgeController - INFO - Evaluating project id 20
+2025-10-29 15:01:17,015 - JudgeController - WARNING - No process is using D:\Multiagent Research\ProjectEvalPlus\test\20251029\20
+2025-10-29 15:02:25,835 - JudgeController - WARNING - Preprocessing failed with False.
+2025-10-29 15:02:25,835 - JudgeController - INFO - 20 scored 0.
+2025-10-29 15:02:25,975 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 0, 'failed': 0, 'score': 0, 'testcase': 0}
+2025-10-29 15:16:24,485 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 15:16:24,504 - JudgeController - INFO - Evaluating project id 20
+2025-10-29 15:17:56,134 - JudgeController - WARNING - No process is using D:\Multiagent Research\ProjectEvalPlus\test\20251029\20
+2025-10-29 15:18:21,260 - JudgeController - INFO - Evaluating function 20_1 Login as Owner
+2025-10-29 15:18:21,796 - JudgeController - INFO - Function 20_1 passed.
+2025-10-29 15:18:21,796 - JudgeController - INFO - Evaluating function 20_2 Add Category
+2025-10-29 15:18:22,356 - JudgeController - INFO - Function 20_2 failed.
+2025-10-29 15:18:22,356 - JudgeController - INFO - Evaluating function 20_3 Add Post
+2025-10-29 15:18:22,951 - JudgeController - INFO - Function 20_3 failed.
+2025-10-29 15:18:22,951 - JudgeController - INFO - Evaluating function 20_4 Logout as Owner
+2025-10-29 15:18:23,028 - JudgeController - INFO - Function 20_4 failed.
+2025-10-29 15:18:23,028 - JudgeController - INFO - Evaluating function 20_5 Display Latest Blogs
+2025-10-29 15:18:23,406 - JudgeController - INFO - Function 20_5 passed.
+2025-10-29 15:18:23,406 - JudgeController - INFO - Evaluating function 20_6 Search Bar
+2025-10-29 15:18:23,934 - JudgeController - INFO - Function 20_6 passed.
+2025-10-29 15:18:23,934 - JudgeController - INFO - Evaluating function 20_7 Read Blog Content
+2025-10-29 15:18:24,422 - JudgeController - INFO - Function 20_7 passed.
+2025-10-29 15:18:24,422 - JudgeController - INFO - Evaluating function 20_8 Comments Section
+2025-10-29 15:18:24,916 - JudgeController - INFO - Function 20_8 passed.
+2025-10-29 15:18:24,916 - JudgeController - INFO - Evaluating function 20_9 Dynamic Add Post 1
+2025-10-29 15:18:24,986 - JudgeController - INFO - Function 20_9 failed.
+2025-10-29 15:18:24,986 - JudgeController - INFO - Evaluating function 20_10 Dynamic Edit Post
+2025-10-29 15:18:25,025 - JudgeController - INFO - Function 20_10 failed.
+2025-10-29 15:18:25,025 - JudgeController - INFO - Evaluating function 20_11 Read Update Blog
+2025-10-29 15:18:25,085 - JudgeController - INFO - Function 20_11 failed.
+2025-10-29 15:18:25,085 - JudgeController - INFO - Evaluating function 20_12 Dynamic Delete Post
+2025-10-29 15:18:25,142 - JudgeController - INFO - Function 20_12 failed.
+2025-10-29 15:18:25,142 - JudgeController - INFO - Evaluating function 20_13 Check Post Deleted
+2025-10-29 15:18:25,493 - JudgeController - INFO - Function 20_13 passed.
+2025-10-29 15:18:25,493 - JudgeController - INFO - Evaluating function 20_14 List Blog Categories
+2025-10-29 15:18:25,967 - JudgeController - INFO - Function 20_14 passed.
+2025-10-29 15:18:25,967 - JudgeController - INFO - Evaluating function 20_15 Filter by Category
+2025-10-29 15:18:26,406 - JudgeController - INFO - Function 20_15 passed.
+2025-10-29 15:18:26,406 - JudgeController - INFO - Evaluating function 20_16 Dynamic Add Category
+2025-10-29 15:18:26,464 - JudgeController - INFO - Function 20_16 failed.
+2025-10-29 15:18:26,464 - JudgeController - INFO - Evaluating function 20_17 Dynamic Add Post 2
+2025-10-29 15:18:26,634 - JudgeController - INFO - Function 20_17 failed.
+2025-10-29 15:18:26,634 - JudgeController - INFO - Evaluating function 20_18 Read New Post with New Category
+2025-10-29 15:18:26,691 - JudgeController - INFO - Function 20_18 failed.
+2025-10-29 15:18:26,691 - JudgeController - INFO - Evaluating function 20_19 Dynamic Edit Category
+2025-10-29 15:18:26,747 - JudgeController - INFO - Function 20_19 failed.
+2025-10-29 15:18:26,747 - JudgeController - INFO - Evaluating function 20_20 Check Category Changed
+2025-10-29 15:18:26,802 - JudgeController - INFO - Function 20_20 failed.
+2025-10-29 15:18:26,802 - JudgeController - INFO - Evaluating function 20_21 Dynamic Delete Category
+2025-10-29 15:18:26,859 - JudgeController - INFO - Function 20_21 failed.
+2025-10-29 15:18:26,859 - JudgeController - INFO - Evaluating function 20_22 Check Category Deleted
+2025-10-29 15:18:27,394 - JudgeController - INFO - Function 20_22 passed.
+2025-10-29 15:18:27,394 - JudgeController - INFO - Evaluating function 20_23 Date Filter
+2025-10-29 15:18:28,008 - JudgeController - INFO - Function 20_23 passed.
+2025-10-29 15:18:28,008 - JudgeController - INFO - Evaluating function 20_24 Display Author Information
+2025-10-29 15:18:28,489 - JudgeController - INFO - Function 20_24 passed.
+2025-10-29 15:18:28,489 - JudgeController - INFO - Evaluating function 20_25 Contact Form
+2025-10-29 15:18:28,802 - JudgeController - INFO - Function 20_25 passed.
+2025-10-29 15:18:28,802 - JudgeController - INFO - Project id 20 scored 0.5
+2025-10-29 15:18:29,363 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 13, 'failed': 13, 'score': 0.5, 'testcase': 26}
+2025-10-29 15:26:56,214 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 15:26:56,235 - JudgeController - INFO - Evaluating project id 20
+2025-10-29 15:28:22,820 - JudgeController - WARNING - No process is using D:\Multiagent Research\ProjectEvalPlus\test\20251029\20
+2025-10-29 15:28:47,700 - JudgeController - INFO - Evaluating function 20_1 Login as Owner
+2025-10-29 15:28:48,280 - JudgeController - INFO - Function 20_1 passed.
+2025-10-29 15:28:48,280 - JudgeController - INFO - Evaluating function 20_2 Add Category
+2025-10-29 15:28:48,802 - JudgeController - INFO - Function 20_2 failed.
+2025-10-29 15:28:48,802 - JudgeController - INFO - Evaluating function 20_3 Add Post
+2025-10-29 15:28:49,476 - JudgeController - INFO - Function 20_3 failed.
+2025-10-29 15:28:49,477 - JudgeController - INFO - Evaluating function 20_4 Logout as Owner
+2025-10-29 15:28:49,929 - JudgeController - INFO - Function 20_4 passed.
+2025-10-29 15:28:49,929 - JudgeController - INFO - Evaluating function 20_5 Display Latest Blogs
+2025-10-29 15:28:50,278 - JudgeController - INFO - Function 20_5 passed.
+2025-10-29 15:28:50,278 - JudgeController - INFO - Evaluating function 20_6 Search Bar
+2025-10-29 15:28:50,770 - JudgeController - INFO - Function 20_6 passed.
+2025-10-29 15:28:50,770 - JudgeController - INFO - Evaluating function 20_7 Read Blog Content
+2025-10-29 15:28:51,227 - JudgeController - INFO - Function 20_7 passed.
+2025-10-29 15:28:51,227 - JudgeController - INFO - Evaluating function 20_8 Comments Section
+2025-10-29 15:28:51,707 - JudgeController - INFO - Function 20_8 passed.
+2025-10-29 15:28:51,707 - JudgeController - INFO - Evaluating function 20_9 Dynamic Add Post 1
+2025-10-29 15:28:52,973 - JudgeController - INFO - Function 20_9 passed.
+2025-10-29 15:28:52,973 - JudgeController - INFO - Evaluating function 20_10 Dynamic Edit Post
+2025-10-29 15:28:53,493 - JudgeController - INFO - Function 20_10 failed.
+2025-10-29 15:28:53,493 - JudgeController - INFO - Evaluating function 20_11 Read Update Blog
+2025-10-29 15:28:53,547 - JudgeController - INFO - Function 20_11 failed.
+2025-10-29 15:28:53,547 - JudgeController - INFO - Evaluating function 20_12 Dynamic Delete Post
+2025-10-29 15:28:53,601 - JudgeController - INFO - Function 20_12 failed.
+2025-10-29 15:28:53,601 - JudgeController - INFO - Evaluating function 20_13 Check Post Deleted
+2025-10-29 15:28:53,955 - JudgeController - INFO - Function 20_13 passed.
+2025-10-29 15:28:53,955 - JudgeController - INFO - Evaluating function 20_14 List Blog Categories
+2025-10-29 15:28:54,421 - JudgeController - INFO - Function 20_14 passed.
+2025-10-29 15:28:54,421 - JudgeController - INFO - Evaluating function 20_15 Filter by Category
+2025-10-29 15:28:54,545 - JudgeController - INFO - Function 20_15 failed.
+2025-10-29 15:28:54,545 - JudgeController - INFO - Evaluating function 20_16 Dynamic Add Category
+2025-10-29 15:28:54,602 - JudgeController - INFO - Function 20_16 failed.
+2025-10-29 15:28:54,602 - JudgeController - INFO - Evaluating function 20_17 Dynamic Add Post 2
+2025-10-29 15:28:55,680 - JudgeController - INFO - Function 20_17 passed.
+2025-10-29 15:28:55,680 - JudgeController - INFO - Evaluating function 20_18 Read New Post with New Category
+2025-10-29 15:28:55,851 - JudgeController - INFO - Function 20_18 failed.
+2025-10-29 15:28:55,851 - JudgeController - INFO - Evaluating function 20_19 Dynamic Edit Category
+2025-10-29 15:28:56,244 - JudgeController - INFO - Function 20_19 failed.
+2025-10-29 15:28:56,244 - JudgeController - INFO - Evaluating function 20_20 Check Category Changed
+2025-10-29 15:28:56,417 - JudgeController - INFO - Function 20_20 failed.
+2025-10-29 15:28:56,418 - JudgeController - INFO - Evaluating function 20_21 Dynamic Delete Category
+2025-10-29 15:28:56,486 - JudgeController - INFO - Function 20_21 failed.
+2025-10-29 15:28:56,486 - JudgeController - INFO - Evaluating function 20_22 Check Category Deleted
+2025-10-29 15:28:56,967 - JudgeController - INFO - Function 20_22 passed.
+2025-10-29 15:28:56,967 - JudgeController - INFO - Evaluating function 20_23 Date Filter
+2025-10-29 15:28:57,569 - JudgeController - INFO - Function 20_23 passed.
+2025-10-29 15:28:57,569 - JudgeController - INFO - Evaluating function 20_24 Display Author Information
+2025-10-29 15:28:58,047 - JudgeController - INFO - Function 20_24 passed.
+2025-10-29 15:28:58,047 - JudgeController - INFO - Evaluating function 20_25 Contact Form
+2025-10-29 15:28:58,367 - JudgeController - INFO - Function 20_25 passed.
+2025-10-29 15:28:58,367 - JudgeController - INFO - Project id 20 scored 0.5769230769230769
+2025-10-29 15:28:58,908 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 15, 'failed': 11, 'score': 0.5769230769230769, 'testcase': 26}
+2025-10-29 15:37:51,599 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 15:37:51,600 - JudgeController - INFO - Evaluating project id 20
+2025-10-29 15:39:10,538 - JudgeController - WARNING - No process is using D:\Multiagent Research\ProjectEvalPlus\test\20251029\20
+2025-10-29 15:39:35,418 - JudgeController - INFO - Evaluating function 20_1 Login as Owner
+2025-10-29 15:39:35,582 - JudgeController - INFO - Function 20_1 failed.
+2025-10-29 15:39:35,582 - JudgeController - INFO - Evaluating function 20_2 Add Category
+2025-10-29 15:39:35,635 - JudgeController - INFO - Function 20_2 failed.
+2025-10-29 15:39:35,635 - JudgeController - INFO - Evaluating function 20_3 Add Post
+2025-10-29 15:39:35,685 - JudgeController - INFO - Function 20_3 failed.
+2025-10-29 15:39:35,685 - JudgeController - INFO - Evaluating function 20_4 Logout as Owner
+2025-10-29 15:39:36,136 - JudgeController - INFO - Function 20_4 passed.
+2025-10-29 15:39:36,136 - JudgeController - INFO - Evaluating function 20_5 Display Latest Blogs
+2025-10-29 15:39:36,478 - JudgeController - INFO - Function 20_5 passed.
+2025-10-29 15:39:36,478 - JudgeController - INFO - Evaluating function 20_6 Search Bar
+2025-10-29 15:39:36,969 - JudgeController - INFO - Function 20_6 passed.
+2025-10-29 15:39:36,969 - JudgeController - INFO - Evaluating function 20_7 Read Blog Content
+2025-10-29 15:39:37,471 - JudgeController - INFO - Function 20_7 passed.
+2025-10-29 15:39:37,471 - JudgeController - INFO - Evaluating function 20_8 Comments Section
+2025-10-29 15:39:37,956 - JudgeController - INFO - Function 20_8 passed.
+2025-10-29 15:39:37,956 - JudgeController - INFO - Evaluating function 20_9 Dynamic Add Post 1
+2025-10-29 15:39:39,235 - JudgeController - INFO - Function 20_9 passed.
+2025-10-29 15:39:39,235 - JudgeController - INFO - Evaluating function 20_10 Dynamic Edit Post
+2025-10-29 15:39:39,825 - JudgeController - INFO - Function 20_10 failed.
+2025-10-29 15:39:39,825 - JudgeController - INFO - Evaluating function 20_11 Read Update Blog
+2025-10-29 15:39:39,880 - JudgeController - INFO - Function 20_11 failed.
+2025-10-29 15:39:39,880 - JudgeController - INFO - Evaluating function 20_12 Dynamic Delete Post
+2025-10-29 15:39:40,346 - JudgeController - INFO - Function 20_12 failed.
+2025-10-29 15:39:40,346 - JudgeController - INFO - Evaluating function 20_13 Check Post Deleted
+2025-10-29 15:39:40,700 - JudgeController - INFO - Function 20_13 passed.
+2025-10-29 15:39:40,700 - JudgeController - INFO - Evaluating function 20_14 List Blog Categories
+2025-10-29 15:39:41,192 - JudgeController - INFO - Function 20_14 passed.
+2025-10-29 15:39:41,192 - JudgeController - INFO - Evaluating function 20_15 Filter by Category
+2025-10-29 15:39:41,330 - JudgeController - INFO - Function 20_15 failed.
+2025-10-29 15:39:41,330 - JudgeController - INFO - Evaluating function 20_16 Dynamic Add Category
+2025-10-29 15:39:42,342 - JudgeController - INFO - Function 20_16 passed.
+2025-10-29 15:39:42,342 - JudgeController - INFO - Evaluating function 20_17 Dynamic Add Post 2
+2025-10-29 15:39:43,398 - JudgeController - INFO - Function 20_17 passed.
+2025-10-29 15:39:43,398 - JudgeController - INFO - Evaluating function 20_18 Read New Post with New Category
+2025-10-29 15:39:43,896 - JudgeController - INFO - Function 20_18 passed.
+2025-10-29 15:39:43,896 - JudgeController - INFO - Evaluating function 20_19 Dynamic Edit Category
+2025-10-29 15:39:44,549 - JudgeController - INFO - Function 20_19 failed.
+2025-10-29 15:39:44,549 - JudgeController - INFO - Evaluating function 20_20 Check Category Changed
+2025-10-29 15:39:44,723 - JudgeController - INFO - Function 20_20 failed.
+2025-10-29 15:39:44,723 - JudgeController - INFO - Evaluating function 20_21 Dynamic Delete Category
+2025-10-29 15:39:45,218 - JudgeController - INFO - Function 20_21 failed.
+2025-10-29 15:39:45,218 - JudgeController - INFO - Evaluating function 20_22 Check Category Deleted
+2025-10-29 15:39:45,402 - JudgeController - INFO - Function 20_22 failed.
+2025-10-29 15:39:45,402 - JudgeController - INFO - Evaluating function 20_23 Date Filter
+2025-10-29 15:39:46,020 - JudgeController - INFO - Function 20_23 passed.
+2025-10-29 15:39:46,020 - JudgeController - INFO - Evaluating function 20_24 Display Author Information
+2025-10-29 15:39:46,514 - JudgeController - INFO - Function 20_24 passed.
+2025-10-29 15:39:46,514 - JudgeController - INFO - Evaluating function 20_25 Contact Form
+2025-10-29 15:39:46,824 - JudgeController - INFO - Function 20_25 passed.
+2025-10-29 15:39:46,824 - JudgeController - INFO - Project id 20 scored 0.5769230769230769
+2025-10-29 15:39:47,426 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 15, 'failed': 11, 'score': 0.5769230769230769, 'testcase': 26}

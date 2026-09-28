@@ -1,0 +1,400 @@
+2025-10-29 13:42:00,351 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 13:42:00,352 - JudgeController - INFO - Evaluating project id 16
+2025-10-29 13:42:03,341 - JudgeController - INFO - Evaluating function 16_1 CheckFileExistence
+2025-10-29 13:42:05,508 - JudgeController - INFO - Function 16_1 passed.
+2025-10-29 13:42:05,508 - JudgeController - INFO - Evaluating function 16_2 ValidateHeaders
+2025-10-29 13:42:05,509 - JudgeController - INFO - Function 16_2 failed.
+2025-10-29 13:42:05,509 - JudgeController - INFO - Evaluating function 16_3 ValidateNullValue
+2025-10-29 13:42:05,509 - JudgeController - INFO - Function 16_3 failed.
+2025-10-29 13:42:05,509 - JudgeController - INFO - Evaluating function 16_4 ValidateTimeColumn
+2025-10-29 13:42:05,511 - JudgeController - INFO - Function 16_4 failed.
+2025-10-29 13:42:05,511 - JudgeController - INFO - Evaluating function 16_5 ValidateDataIntegrity
+2025-10-29 13:42:05,511 - JudgeController - INFO - Function 16_5 failed.
+2025-10-29 13:42:05,511 - JudgeController - INFO - Evaluating function 16_6 EmptyFileRun
+2025-10-29 13:42:05,512 - JudgeController - INFO - Function 16_6 failed.
+2025-10-29 13:42:05,512 - JudgeController - INFO - Evaluating function 16_7 RunProject
+2025-10-29 13:42:05,512 - JudgeController - INFO - Function 16_7 failed.
+2025-10-29 13:42:05,512 - JudgeController - INFO - Evaluating function 16_8 OutputFileCheck
+2025-10-29 13:42:05,514 - JudgeController - INFO - Function 16_8 failed.
+2025-10-29 13:42:05,514 - JudgeController - INFO - Project id 16 scored 0.2222222222222222
+2025-10-29 13:42:05,543 - JudgeController - CRITICAL - Error:process PID not found (pid=17968) | Traceback:Traceback (most recent call last):
+  File "D:\Multiagent Research\ProjectEvalPlus\controller.py", line 667, in evaluate
+    judge.clean()
+  File "D:\Multiagent Research\ProjectEvalPlus\openjudge.py", line 770, in clean
+    self.subprocess.stop()
+  File "D:\Multiagent Research\ProjectEvalPlus\openjudge.py", line 128, in stop
+    for child in parent.children(recursive=True):
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Multiagent Research\ProjectAgents\.venv\ProjectEvalPlus\Lib\site-packages\psutil\__init__.py", line 983, in children
+    proc_ctime = Process(self.pid).create_time()
+                 ^^^^^^^^^^^^^^^^^
+  File "D:\Multiagent Research\ProjectAgents\.venv\ProjectEvalPlus\Lib\site-packages\psutil\__init__.py", line 315, in __init__
+    self._init(pid)
+  File "D:\Multiagent Research\ProjectAgents\.venv\ProjectEvalPlus\Lib\site-packages\psutil\__init__.py", line 361, in _init
+    raise NoSuchProcess(pid, msg=msg) from None
+psutil.NoSuchProcess: process PID not found (pid=17968)
+
+2025-10-29 13:42:05,544 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 2, 'failed': 7, 'score': 0.2222222222222222, 'testcase': 9}
+2025-10-29 13:43:02,139 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 13:43:02,140 - JudgeController - INFO - Evaluating project id 16
+2025-10-29 13:43:55,264 - JudgeController - WARNING - No process is using D:\Multiagent Research\ProjectEvalPlus\test\20251029\16
+2025-10-29 13:43:58,212 - JudgeController - INFO - Evaluating function 16_1 CheckFileExistence
+2025-10-29 13:44:00,459 - JudgeController - INFO - Function 16_1 passed.
+2025-10-29 13:44:00,459 - JudgeController - INFO - Evaluating function 16_2 ValidateHeaders
+2025-10-29 13:44:00,461 - JudgeController - INFO - Function 16_2 failed.
+2025-10-29 13:44:00,461 - JudgeController - INFO - Evaluating function 16_3 ValidateNullValue
+2025-10-29 13:44:00,462 - JudgeController - INFO - Function 16_3 failed.
+2025-10-29 13:44:00,462 - JudgeController - INFO - Evaluating function 16_4 ValidateTimeColumn
+2025-10-29 13:44:00,463 - JudgeController - INFO - Function 16_4 failed.
+2025-10-29 13:44:00,463 - JudgeController - INFO - Evaluating function 16_5 ValidateDataIntegrity
+2025-10-29 13:44:00,464 - JudgeController - INFO - Function 16_5 failed.
+2025-10-29 13:44:00,466 - JudgeController - INFO - Evaluating function 16_6 EmptyFileRun
+2025-10-29 13:44:00,467 - JudgeController - INFO - Function 16_6 failed.
+2025-10-29 13:44:00,467 - JudgeController - INFO - Evaluating function 16_7 RunProject
+2025-10-29 13:44:00,468 - JudgeController - INFO - Function 16_7 failed.
+2025-10-29 13:44:00,468 - JudgeController - INFO - Evaluating function 16_8 OutputFileCheck
+2025-10-29 13:44:00,471 - JudgeController - INFO - Function 16_8 failed.
+2025-10-29 13:44:00,471 - JudgeController - INFO - Project id 16 scored 0.2222222222222222
+2025-10-29 13:44:00,472 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 2, 'failed': 7, 'score': 0.2222222222222222, 'testcase': 9}
+2025-10-29 13:45:08,742 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 13:45:08,743 - JudgeController - INFO - Evaluating project id 16
+2025-10-29 13:46:04,511 - JudgeController - WARNING - No process is using D:\Multiagent Research\ProjectEvalPlus\test\20251029\16
+2025-10-29 13:46:07,702 - JudgeController - INFO - Evaluating function 16_1 CheckFileExistence
+2025-10-29 13:46:09,663 - JudgeController - INFO - Function 16_1 passed.
+2025-10-29 13:46:09,663 - JudgeController - INFO - Evaluating function 16_2 ValidateHeaders
+2025-10-29 13:46:09,664 - JudgeController - INFO - Function 16_2 failed.
+2025-10-29 13:46:09,664 - JudgeController - INFO - Evaluating function 16_3 ValidateNullValue
+2025-10-29 13:46:09,664 - JudgeController - INFO - Function 16_3 failed.
+2025-10-29 13:46:09,664 - JudgeController - INFO - Evaluating function 16_4 ValidateTimeColumn
+2025-10-29 13:46:09,665 - JudgeController - INFO - Function 16_4 failed.
+2025-10-29 13:46:09,665 - JudgeController - INFO - Evaluating function 16_5 ValidateDataIntegrity
+2025-10-29 13:46:09,665 - JudgeController - INFO - Function 16_5 failed.
+2025-10-29 13:46:09,665 - JudgeController - INFO - Evaluating function 16_6 EmptyFileRun
+2025-10-29 13:46:09,666 - JudgeController - INFO - Function 16_6 failed.
+2025-10-29 13:46:09,666 - JudgeController - INFO - Evaluating function 16_7 RunProject
+2025-10-29 13:46:09,667 - JudgeController - INFO - Function 16_7 failed.
+2025-10-29 13:46:09,667 - JudgeController - INFO - Evaluating function 16_8 OutputFileCheck
+2025-10-29 13:46:09,668 - JudgeController - INFO - Function 16_8 failed.
+2025-10-29 13:46:09,668 - JudgeController - INFO - Project id 16 scored 0.2222222222222222
+2025-10-29 13:46:09,680 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 2, 'failed': 7, 'score': 0.2222222222222222, 'testcase': 9}
+2025-10-29 13:47:15,811 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 13:47:15,812 - JudgeController - INFO - Evaluating project id 16
+2025-10-29 13:48:13,190 - JudgeController - WARNING - No process is using D:\Multiagent Research\ProjectEvalPlus\test\20251029\16
+2025-10-29 13:48:16,505 - JudgeController - INFO - Evaluating function 16_1 CheckFileExistence
+2025-10-29 13:48:18,496 - JudgeController - INFO - Function 16_1 passed.
+2025-10-29 13:48:18,496 - JudgeController - INFO - Evaluating function 16_2 ValidateHeaders
+2025-10-29 13:48:18,497 - JudgeController - INFO - Function 16_2 failed.
+2025-10-29 13:48:18,497 - JudgeController - INFO - Evaluating function 16_3 ValidateNullValue
+2025-10-29 13:48:18,498 - JudgeController - INFO - Function 16_3 failed.
+2025-10-29 13:48:18,498 - JudgeController - INFO - Evaluating function 16_4 ValidateTimeColumn
+2025-10-29 13:48:18,498 - JudgeController - INFO - Function 16_4 failed.
+2025-10-29 13:48:18,498 - JudgeController - INFO - Evaluating function 16_5 ValidateDataIntegrity
+2025-10-29 13:48:18,499 - JudgeController - INFO - Function 16_5 failed.
+2025-10-29 13:48:18,499 - JudgeController - INFO - Evaluating function 16_6 EmptyFileRun
+2025-10-29 13:48:18,499 - JudgeController - INFO - Function 16_6 failed.
+2025-10-29 13:48:18,499 - JudgeController - INFO - Evaluating function 16_7 RunProject
+2025-10-29 13:48:18,500 - JudgeController - INFO - Function 16_7 failed.
+2025-10-29 13:48:18,500 - JudgeController - INFO - Evaluating function 16_8 OutputFileCheck
+2025-10-29 13:48:18,503 - JudgeController - INFO - Function 16_8 failed.
+2025-10-29 13:48:18,503 - JudgeController - INFO - Project id 16 scored 0.2222222222222222
+2025-10-29 13:48:18,518 - JudgeController - CRITICAL - Error:process PID not found (pid=52936) | Traceback:Traceback (most recent call last):
+  File "D:\Multiagent Research\ProjectEvalPlus\controller.py", line 667, in evaluate
+    judge.clean()
+  File "D:\Multiagent Research\ProjectEvalPlus\openjudge.py", line 770, in clean
+    self.subprocess.stop()
+  File "D:\Multiagent Research\ProjectEvalPlus\openjudge.py", line 128, in stop
+    for child in parent.children(recursive=True):
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Multiagent Research\ProjectAgents\.venv\ProjectEvalPlus\Lib\site-packages\psutil\__init__.py", line 983, in children
+    proc_ctime = Process(self.pid).create_time()
+                 ^^^^^^^^^^^^^^^^^
+  File "D:\Multiagent Research\ProjectAgents\.venv\ProjectEvalPlus\Lib\site-packages\psutil\__init__.py", line 315, in __init__
+    self._init(pid)
+  File "D:\Multiagent Research\ProjectAgents\.venv\ProjectEvalPlus\Lib\site-packages\psutil\__init__.py", line 361, in _init
+    raise NoSuchProcess(pid, msg=msg) from None
+psutil.NoSuchProcess: process PID not found (pid=52936)
+
+2025-10-29 13:48:18,518 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 2, 'failed': 7, 'score': 0.2222222222222222, 'testcase': 9}
+2025-10-29 13:49:29,482 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 13:49:29,483 - JudgeController - INFO - Evaluating project id 16
+2025-10-29 13:50:27,139 - JudgeController - WARNING - No process is using D:\Multiagent Research\ProjectEvalPlus\test\20251029\16
+2025-10-29 13:50:30,273 - JudgeController - INFO - Evaluating function 16_1 CheckFileExistence
+2025-10-29 13:50:32,235 - JudgeController - INFO - Function 16_1 passed.
+2025-10-29 13:50:32,235 - JudgeController - INFO - Evaluating function 16_2 ValidateHeaders
+2025-10-29 13:50:32,236 - JudgeController - INFO - Function 16_2 failed.
+2025-10-29 13:50:32,236 - JudgeController - INFO - Evaluating function 16_3 ValidateNullValue
+2025-10-29 13:50:32,237 - JudgeController - INFO - Function 16_3 failed.
+2025-10-29 13:50:32,237 - JudgeController - INFO - Evaluating function 16_4 ValidateTimeColumn
+2025-10-29 13:50:32,237 - JudgeController - INFO - Function 16_4 failed.
+2025-10-29 13:50:32,237 - JudgeController - INFO - Evaluating function 16_5 ValidateDataIntegrity
+2025-10-29 13:50:32,238 - JudgeController - INFO - Function 16_5 failed.
+2025-10-29 13:50:32,238 - JudgeController - INFO - Evaluating function 16_6 EmptyFileRun
+2025-10-29 13:50:32,238 - JudgeController - INFO - Function 16_6 failed.
+2025-10-29 13:50:32,238 - JudgeController - INFO - Evaluating function 16_7 RunProject
+2025-10-29 13:50:32,240 - JudgeController - INFO - Function 16_7 failed.
+2025-10-29 13:50:32,240 - JudgeController - INFO - Evaluating function 16_8 OutputFileCheck
+2025-10-29 13:50:32,241 - JudgeController - INFO - Function 16_8 failed.
+2025-10-29 13:50:32,241 - JudgeController - INFO - Project id 16 scored 0.2222222222222222
+2025-10-29 13:50:32,252 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 2, 'failed': 7, 'score': 0.2222222222222222, 'testcase': 9}
+2025-10-29 13:51:24,207 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 13:51:24,208 - JudgeController - INFO - Evaluating project id 17
+2025-10-29 13:51:27,415 - JudgeController - INFO - Evaluating function 17_1 CheckFileExistence
+2025-10-29 13:51:31,429 - JudgeController - INFO - Function 17_1 passed.
+2025-10-29 13:51:31,429 - JudgeController - INFO - Evaluating function 17_2 ValidateNullValue
+2025-10-29 13:51:34,966 - JudgeController - INFO - Function 17_2 passed.
+2025-10-29 13:51:34,966 - JudgeController - INFO - Evaluating function 17_3 ValidateEmptyFile
+2025-10-29 13:51:38,516 - JudgeController - INFO - Function 17_3 passed.
+2025-10-29 13:51:38,516 - JudgeController - INFO - Evaluating function 17_4 RunProject
+2025-10-29 13:51:42,090 - JudgeController - INFO - Function 17_4 passed.
+2025-10-29 13:51:42,090 - JudgeController - INFO - Evaluating function 17_5 OutputFileCheck
+2025-10-29 13:51:42,109 - JudgeController - INFO - Function 17_5 passed.
+2025-10-29 13:51:42,109 - JudgeController - INFO - Project id 17 scored 1.0
+2025-10-29 13:51:42,111 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 6, 'failed': 0, 'score': 1.0, 'testcase': 6}
+2025-10-29 13:52:58,606 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 13:52:58,607 - JudgeController - INFO - Evaluating project id 18
+2025-10-29 13:52:59,125 - JudgeController - INFO - Evaluating function 18_1 Welcome Message
+2025-10-29 13:53:01,134 - JudgeController - INFO - Function 18_1 failed.
+2025-10-29 13:53:01,134 - JudgeController - INFO - Evaluating function 18_2 Help in Main Menu
+2025-10-29 13:53:01,135 - JudgeController - INFO - Function 18_2 failed.
+2025-10-29 13:53:01,135 - JudgeController - INFO - Evaluating function 18_3 Wrong Selection Check
+2025-10-29 13:53:01,135 - JudgeController - INFO - Function 18_3 failed.
+2025-10-29 13:53:01,135 - JudgeController - INFO - Evaluating function 18_4 Start Game
+2025-10-29 13:53:01,136 - JudgeController - INFO - Function 18_4 failed.
+2025-10-29 13:53:01,136 - JudgeController - INFO - Evaluating function 18_5 Display Help
+2025-10-29 13:53:01,137 - JudgeController - INFO - Function 18_5 failed.
+2025-10-29 13:53:01,137 - JudgeController - INFO - Evaluating function 18_6 Look Around
+2025-10-29 13:53:01,137 - JudgeController - INFO - Function 18_6 failed.
+2025-10-29 13:53:01,137 - JudgeController - INFO - Evaluating function 18_7 Move Player
+2025-10-29 13:53:01,138 - JudgeController - INFO - Function 18_7 failed.
+2025-10-29 13:53:01,138 - JudgeController - INFO - Evaluating function 18_8 Move Back
+2025-10-29 13:53:01,138 - JudgeController - INFO - Function 18_8 failed.
+2025-10-29 13:53:01,138 - JudgeController - INFO - Evaluating function 18_9 Check Inventory 1
+2025-10-29 13:53:01,139 - JudgeController - INFO - Function 18_9 failed.
+2025-10-29 13:53:01,139 - JudgeController - INFO - Evaluating function 18_10 Pick Item
+2025-10-29 13:53:01,139 - JudgeController - INFO - Function 18_10 failed.
+2025-10-29 13:53:01,139 - JudgeController - INFO - Evaluating function 18_11 Check Inventory 2
+2025-10-29 13:53:01,140 - JudgeController - INFO - Function 18_11 failed.
+2025-10-29 13:53:01,140 - JudgeController - INFO - Evaluating function 18_12 Win the Game
+2025-10-29 13:53:01,140 - JudgeController - INFO - Function 18_12 failed.
+2025-10-29 13:53:01,140 - JudgeController - INFO - Evaluating function 18_13 Exit Game
+2025-10-29 13:53:01,141 - JudgeController - INFO - Function 18_13 failed.
+2025-10-29 13:53:01,141 - JudgeController - INFO - Project id 18 scored 0.07142857142857142
+2025-10-29 13:53:01,141 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 1, 'failed': 13, 'score': 0.07142857142857142, 'testcase': 14}
+2025-10-29 13:54:20,747 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 13:54:20,748 - JudgeController - INFO - Evaluating project id 18
+2025-10-29 13:55:15,927 - JudgeController - WARNING - No process is using D:\Multiagent Research\ProjectEvalPlus\test\20251029\18
+2025-10-29 13:55:16,449 - JudgeController - INFO - Evaluating function 18_1 Welcome Message
+2025-10-29 13:55:18,660 - JudgeController - INFO - Function 18_1 failed.
+2025-10-29 13:55:18,660 - JudgeController - INFO - Evaluating function 18_2 Help in Main Menu
+2025-10-29 13:55:18,661 - JudgeController - INFO - Function 18_2 failed.
+2025-10-29 13:55:18,661 - JudgeController - INFO - Evaluating function 18_3 Wrong Selection Check
+2025-10-29 13:55:18,661 - JudgeController - INFO - Function 18_3 failed.
+2025-10-29 13:55:18,661 - JudgeController - INFO - Evaluating function 18_4 Start Game
+2025-10-29 13:55:18,662 - JudgeController - INFO - Function 18_4 failed.
+2025-10-29 13:55:18,662 - JudgeController - INFO - Evaluating function 18_5 Display Help
+2025-10-29 13:55:18,662 - JudgeController - INFO - Function 18_5 failed.
+2025-10-29 13:55:18,662 - JudgeController - INFO - Evaluating function 18_6 Look Around
+2025-10-29 13:55:18,663 - JudgeController - INFO - Function 18_6 failed.
+2025-10-29 13:55:18,663 - JudgeController - INFO - Evaluating function 18_7 Move Player
+2025-10-29 13:55:18,663 - JudgeController - INFO - Function 18_7 failed.
+2025-10-29 13:55:18,663 - JudgeController - INFO - Evaluating function 18_8 Move Back
+2025-10-29 13:55:18,665 - JudgeController - INFO - Function 18_8 failed.
+2025-10-29 13:55:18,665 - JudgeController - INFO - Evaluating function 18_9 Check Inventory 1
+2025-10-29 13:55:18,667 - JudgeController - INFO - Function 18_9 failed.
+2025-10-29 13:55:18,667 - JudgeController - INFO - Evaluating function 18_10 Pick Item
+2025-10-29 13:55:18,667 - JudgeController - INFO - Function 18_10 failed.
+2025-10-29 13:55:18,667 - JudgeController - INFO - Evaluating function 18_11 Check Inventory 2
+2025-10-29 13:55:18,669 - JudgeController - INFO - Function 18_11 failed.
+2025-10-29 13:55:18,669 - JudgeController - INFO - Evaluating function 18_12 Win the Game
+2025-10-29 13:55:18,669 - JudgeController - INFO - Function 18_12 failed.
+2025-10-29 13:55:18,669 - JudgeController - INFO - Evaluating function 18_13 Exit Game
+2025-10-29 13:55:18,670 - JudgeController - INFO - Function 18_13 failed.
+2025-10-29 13:55:18,670 - JudgeController - INFO - Project id 18 scored 0.07142857142857142
+2025-10-29 13:55:18,670 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 1, 'failed': 13, 'score': 0.07142857142857142, 'testcase': 14}
+2025-10-29 13:58:01,595 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 13:58:01,597 - JudgeController - INFO - Evaluating project id 18
+2025-10-29 13:58:56,866 - JudgeController - WARNING - No process is using D:\Multiagent Research\ProjectEvalPlus\test\20251029\18
+2025-10-29 13:58:57,384 - JudgeController - INFO - Evaluating function 18_1 Welcome Message
+2025-10-29 13:58:59,393 - JudgeController - INFO - Function 18_1 failed.
+2025-10-29 13:58:59,393 - JudgeController - INFO - Evaluating function 18_2 Help in Main Menu
+2025-10-29 13:58:59,394 - JudgeController - INFO - Function 18_2 failed.
+2025-10-29 13:58:59,394 - JudgeController - INFO - Evaluating function 18_3 Wrong Selection Check
+2025-10-29 13:58:59,395 - JudgeController - INFO - Function 18_3 failed.
+2025-10-29 13:58:59,395 - JudgeController - INFO - Evaluating function 18_4 Start Game
+2025-10-29 13:58:59,395 - JudgeController - INFO - Function 18_4 failed.
+2025-10-29 13:58:59,395 - JudgeController - INFO - Evaluating function 18_5 Display Help
+2025-10-29 13:58:59,396 - JudgeController - INFO - Function 18_5 failed.
+2025-10-29 13:58:59,396 - JudgeController - INFO - Evaluating function 18_6 Look Around
+2025-10-29 13:58:59,396 - JudgeController - INFO - Function 18_6 failed.
+2025-10-29 13:58:59,396 - JudgeController - INFO - Evaluating function 18_7 Move Player
+2025-10-29 13:58:59,397 - JudgeController - INFO - Function 18_7 failed.
+2025-10-29 13:58:59,397 - JudgeController - INFO - Evaluating function 18_8 Move Back
+2025-10-29 13:58:59,397 - JudgeController - INFO - Function 18_8 failed.
+2025-10-29 13:58:59,397 - JudgeController - INFO - Evaluating function 18_9 Check Inventory 1
+2025-10-29 13:58:59,398 - JudgeController - INFO - Function 18_9 failed.
+2025-10-29 13:58:59,398 - JudgeController - INFO - Evaluating function 18_10 Pick Item
+2025-10-29 13:58:59,398 - JudgeController - INFO - Function 18_10 failed.
+2025-10-29 13:58:59,398 - JudgeController - INFO - Evaluating function 18_11 Check Inventory 2
+2025-10-29 13:58:59,398 - JudgeController - INFO - Function 18_11 failed.
+2025-10-29 13:58:59,398 - JudgeController - INFO - Evaluating function 18_12 Win the Game
+2025-10-29 13:58:59,400 - JudgeController - INFO - Function 18_12 failed.
+2025-10-29 13:58:59,400 - JudgeController - INFO - Evaluating function 18_13 Exit Game
+2025-10-29 13:58:59,400 - JudgeController - INFO - Function 18_13 failed.
+2025-10-29 13:58:59,400 - JudgeController - INFO - Project id 18 scored 0.07142857142857142
+2025-10-29 13:58:59,400 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 1, 'failed': 13, 'score': 0.07142857142857142, 'testcase': 14}
+2025-10-29 14:00:24,939 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 14:00:24,941 - JudgeController - INFO - Evaluating project id 18
+2025-10-29 14:01:21,798 - JudgeController - WARNING - No process is using D:\Multiagent Research\ProjectEvalPlus\test\20251029\18
+2025-10-29 14:01:22,314 - JudgeController - INFO - Evaluating function 18_1 Welcome Message
+2025-10-29 14:01:24,323 - JudgeController - INFO - Function 18_1 failed.
+2025-10-29 14:01:24,323 - JudgeController - INFO - Evaluating function 18_2 Help in Main Menu
+2025-10-29 14:01:24,324 - JudgeController - INFO - Function 18_2 failed.
+2025-10-29 14:01:24,324 - JudgeController - INFO - Evaluating function 18_3 Wrong Selection Check
+2025-10-29 14:01:24,324 - JudgeController - INFO - Function 18_3 failed.
+2025-10-29 14:01:24,325 - JudgeController - INFO - Evaluating function 18_4 Start Game
+2025-10-29 14:01:24,325 - JudgeController - INFO - Function 18_4 failed.
+2025-10-29 14:01:24,325 - JudgeController - INFO - Evaluating function 18_5 Display Help
+2025-10-29 14:01:24,325 - JudgeController - INFO - Function 18_5 failed.
+2025-10-29 14:01:24,325 - JudgeController - INFO - Evaluating function 18_6 Look Around
+2025-10-29 14:01:24,326 - JudgeController - INFO - Function 18_6 failed.
+2025-10-29 14:01:24,326 - JudgeController - INFO - Evaluating function 18_7 Move Player
+2025-10-29 14:01:24,326 - JudgeController - INFO - Function 18_7 failed.
+2025-10-29 14:01:24,326 - JudgeController - INFO - Evaluating function 18_8 Move Back
+2025-10-29 14:01:24,327 - JudgeController - INFO - Function 18_8 failed.
+2025-10-29 14:01:24,327 - JudgeController - INFO - Evaluating function 18_9 Check Inventory 1
+2025-10-29 14:01:24,327 - JudgeController - INFO - Function 18_9 failed.
+2025-10-29 14:01:24,327 - JudgeController - INFO - Evaluating function 18_10 Pick Item
+2025-10-29 14:01:24,328 - JudgeController - INFO - Function 18_10 failed.
+2025-10-29 14:01:24,328 - JudgeController - INFO - Evaluating function 18_11 Check Inventory 2
+2025-10-29 14:01:24,330 - JudgeController - INFO - Function 18_11 failed.
+2025-10-29 14:01:24,330 - JudgeController - INFO - Evaluating function 18_12 Win the Game
+2025-10-29 14:01:24,331 - JudgeController - INFO - Function 18_12 failed.
+2025-10-29 14:01:24,331 - JudgeController - INFO - Evaluating function 18_13 Exit Game
+2025-10-29 14:01:24,331 - JudgeController - INFO - Function 18_13 failed.
+2025-10-29 14:01:24,331 - JudgeController - INFO - Project id 18 scored 0.07142857142857142
+2025-10-29 14:01:24,332 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 1, 'failed': 13, 'score': 0.07142857142857142, 'testcase': 14}
+2025-10-29 14:04:26,412 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 14:04:26,416 - JudgeController - INFO - Evaluating project id 18
+2025-10-29 14:05:20,954 - JudgeController - WARNING - No process is using D:\Multiagent Research\ProjectEvalPlus\test\20251029\18
+2025-10-29 14:05:21,475 - JudgeController - INFO - Evaluating function 18_1 Welcome Message
+2025-10-29 14:05:23,482 - JudgeController - INFO - Function 18_1 failed.
+2025-10-29 14:05:23,482 - JudgeController - INFO - Evaluating function 18_2 Help in Main Menu
+2025-10-29 14:05:23,484 - JudgeController - INFO - Function 18_2 failed.
+2025-10-29 14:05:23,484 - JudgeController - INFO - Evaluating function 18_3 Wrong Selection Check
+2025-10-29 14:05:23,485 - JudgeController - INFO - Function 18_3 failed.
+2025-10-29 14:05:23,485 - JudgeController - INFO - Evaluating function 18_4 Start Game
+2025-10-29 14:05:23,485 - JudgeController - INFO - Function 18_4 failed.
+2025-10-29 14:05:23,486 - JudgeController - INFO - Evaluating function 18_5 Display Help
+2025-10-29 14:05:23,486 - JudgeController - INFO - Function 18_5 failed.
+2025-10-29 14:05:23,486 - JudgeController - INFO - Evaluating function 18_6 Look Around
+2025-10-29 14:05:23,487 - JudgeController - INFO - Function 18_6 failed.
+2025-10-29 14:05:23,487 - JudgeController - INFO - Evaluating function 18_7 Move Player
+2025-10-29 14:05:23,488 - JudgeController - INFO - Function 18_7 failed.
+2025-10-29 14:05:23,488 - JudgeController - INFO - Evaluating function 18_8 Move Back
+2025-10-29 14:05:23,488 - JudgeController - INFO - Function 18_8 failed.
+2025-10-29 14:05:23,488 - JudgeController - INFO - Evaluating function 18_9 Check Inventory 1
+2025-10-29 14:05:23,490 - JudgeController - INFO - Function 18_9 failed.
+2025-10-29 14:05:23,490 - JudgeController - INFO - Evaluating function 18_10 Pick Item
+2025-10-29 14:05:23,491 - JudgeController - INFO - Function 18_10 failed.
+2025-10-29 14:05:23,491 - JudgeController - INFO - Evaluating function 18_11 Check Inventory 2
+2025-10-29 14:05:23,491 - JudgeController - INFO - Function 18_11 failed.
+2025-10-29 14:05:23,491 - JudgeController - INFO - Evaluating function 18_12 Win the Game
+2025-10-29 14:05:23,493 - JudgeController - INFO - Function 18_12 failed.
+2025-10-29 14:05:23,493 - JudgeController - INFO - Evaluating function 18_13 Exit Game
+2025-10-29 14:05:23,494 - JudgeController - INFO - Function 18_13 failed.
+2025-10-29 14:05:23,494 - JudgeController - INFO - Project id 18 scored 0.07142857142857142
+2025-10-29 14:05:23,494 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 1, 'failed': 13, 'score': 0.07142857142857142, 'testcase': 14}
+2025-10-29 14:06:29,326 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 14:06:29,327 - JudgeController - INFO - Evaluating project id 19
+2025-10-29 14:06:35,053 - JudgeController - INFO - Evaluating function 19_1 CheckFileExistence
+2025-10-29 14:06:37,502 - JudgeController - INFO - Function 19_1 failed.
+2025-10-29 14:06:37,502 - JudgeController - INFO - Evaluating function 19_2 ValidateHeaders
+2025-10-29 14:06:39,917 - JudgeController - INFO - Function 19_2 failed.
+2025-10-29 14:06:39,917 - JudgeController - INFO - Evaluating function 19_3 ValidateEmptyFile
+2025-10-29 14:06:42,414 - JudgeController - INFO - Function 19_3 failed.
+2025-10-29 14:06:42,415 - JudgeController - INFO - Evaluating function 19_4 ValidateTimeColumn
+2025-10-29 14:06:45,004 - JudgeController - INFO - Function 19_4 failed.
+2025-10-29 14:06:45,006 - JudgeController - INFO - Evaluating function 19_5 ValidateNullValue
+2025-10-29 14:06:47,357 - JudgeController - INFO - Function 19_5 failed.
+2025-10-29 14:06:47,357 - JudgeController - INFO - Evaluating function 19_6 RunProject1
+2025-10-29 14:06:49,867 - JudgeController - INFO - Function 19_6 failed.
+2025-10-29 14:06:49,867 - JudgeController - INFO - Evaluating function 19_7 RunProject2
+2025-10-29 14:06:52,278 - JudgeController - INFO - Function 19_7 failed.
+2025-10-29 14:06:52,278 - JudgeController - INFO - Project id 19 scored 0.125
+2025-10-29 14:06:52,279 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 1, 'failed': 7, 'score': 0.125, 'testcase': 8}
+2025-10-29 14:07:56,779 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 14:07:56,779 - JudgeController - INFO - Evaluating project id 19
+2025-10-29 14:08:53,614 - JudgeController - WARNING - No process is using D:\Multiagent Research\ProjectEvalPlus\test\20251029\19
+2025-10-29 14:08:57,041 - JudgeController - INFO - Evaluating function 19_1 CheckFileExistence
+2025-10-29 14:08:59,011 - JudgeController - INFO - Function 19_1 passed.
+2025-10-29 14:08:59,011 - JudgeController - INFO - Evaluating function 19_2 ValidateHeaders
+2025-10-29 14:09:01,083 - JudgeController - INFO - Function 19_2 passed.
+2025-10-29 14:09:01,083 - JudgeController - INFO - Evaluating function 19_3 ValidateEmptyFile
+2025-10-29 14:09:03,128 - JudgeController - INFO - Function 19_3 passed.
+2025-10-29 14:09:03,128 - JudgeController - INFO - Evaluating function 19_4 ValidateTimeColumn
+2025-10-29 14:09:05,219 - JudgeController - INFO - Function 19_4 failed.
+2025-10-29 14:09:05,219 - JudgeController - INFO - Evaluating function 19_5 ValidateNullValue
+2025-10-29 14:09:07,494 - JudgeController - INFO - Function 19_5 failed.
+2025-10-29 14:09:07,494 - JudgeController - INFO - Evaluating function 19_6 RunProject1
+2025-10-29 14:09:12,603 - JudgeController - INFO - Function 19_6 failed.
+2025-10-29 14:09:12,603 - JudgeController - INFO - Evaluating function 19_7 RunProject2
+2025-10-29 14:09:12,604 - JudgeController - INFO - Function 19_7 failed.
+2025-10-29 14:09:12,604 - JudgeController - INFO - Project id 19 scored 0.5
+2025-10-29 14:09:12,604 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 4, 'failed': 4, 'score': 0.5, 'testcase': 8}
+2025-10-29 14:10:17,397 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 14:10:17,398 - JudgeController - INFO - Evaluating project id 19
+2025-10-29 14:11:15,167 - JudgeController - WARNING - No process is using D:\Multiagent Research\ProjectEvalPlus\test\20251029\19
+2025-10-29 14:11:18,638 - JudgeController - INFO - Evaluating function 19_1 CheckFileExistence
+2025-10-29 14:11:20,707 - JudgeController - INFO - Function 19_1 passed.
+2025-10-29 14:11:20,707 - JudgeController - INFO - Evaluating function 19_2 ValidateHeaders
+2025-10-29 14:11:22,804 - JudgeController - INFO - Function 19_2 passed.
+2025-10-29 14:11:22,804 - JudgeController - INFO - Evaluating function 19_3 ValidateEmptyFile
+2025-10-29 14:11:24,832 - JudgeController - INFO - Function 19_3 passed.
+2025-10-29 14:11:24,832 - JudgeController - INFO - Evaluating function 19_4 ValidateTimeColumn
+2025-10-29 14:11:27,263 - JudgeController - INFO - Function 19_4 passed.
+2025-10-29 14:11:27,263 - JudgeController - INFO - Evaluating function 19_5 ValidateNullValue
+2025-10-29 14:11:30,007 - JudgeController - INFO - Function 19_5 failed.
+2025-10-29 14:11:30,007 - JudgeController - INFO - Evaluating function 19_6 RunProject1
+2025-10-29 14:11:35,119 - JudgeController - INFO - Function 19_6 failed.
+2025-10-29 14:11:35,119 - JudgeController - INFO - Evaluating function 19_7 RunProject2
+2025-10-29 14:11:35,120 - JudgeController - INFO - Function 19_7 failed.
+2025-10-29 14:11:35,120 - JudgeController - INFO - Project id 19 scored 0.625
+2025-10-29 14:11:35,120 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 5, 'failed': 3, 'score': 0.625, 'testcase': 8}
+2025-10-29 14:13:46,126 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 14:13:46,126 - JudgeController - INFO - Evaluating project id 19
+2025-10-29 14:14:42,655 - JudgeController - WARNING - No process is using D:\Multiagent Research\ProjectEvalPlus\test\20251029\19
+2025-10-29 14:14:46,031 - JudgeController - INFO - Evaluating function 19_1 CheckFileExistence
+2025-10-29 14:14:48,043 - JudgeController - INFO - Function 19_1 passed.
+2025-10-29 14:14:48,044 - JudgeController - INFO - Evaluating function 19_2 ValidateHeaders
+2025-10-29 14:14:50,104 - JudgeController - INFO - Function 19_2 passed.
+2025-10-29 14:14:50,104 - JudgeController - INFO - Evaluating function 19_3 ValidateEmptyFile
+2025-10-29 14:14:52,208 - JudgeController - INFO - Function 19_3 passed.
+2025-10-29 14:14:52,208 - JudgeController - INFO - Evaluating function 19_4 ValidateTimeColumn
+2025-10-29 14:14:54,517 - JudgeController - INFO - Function 19_4 passed.
+2025-10-29 14:14:54,517 - JudgeController - INFO - Evaluating function 19_5 ValidateNullValue
+2025-10-29 14:14:57,204 - JudgeController - INFO - Function 19_5 failed.
+2025-10-29 14:14:57,204 - JudgeController - INFO - Evaluating function 19_6 RunProject1
+2025-10-29 14:15:02,326 - JudgeController - INFO - Function 19_6 failed.
+2025-10-29 14:15:02,326 - JudgeController - INFO - Evaluating function 19_7 RunProject2
+2025-10-29 14:15:02,327 - JudgeController - INFO - Function 19_7 failed.
+2025-10-29 14:15:02,327 - JudgeController - INFO - Project id 19 scored 0.625
+2025-10-29 14:15:02,327 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 5, 'failed': 3, 'score': 0.625, 'testcase': 8}
+2025-10-29 14:16:21,966 - JudgeController - INFO - Start:renew_java-gpt-5-mini-direct-3
+2025-10-29 14:16:21,967 - JudgeController - INFO - Evaluating project id 19
+2025-10-29 14:17:18,480 - JudgeController - WARNING - No process is using D:\Multiagent Research\ProjectEvalPlus\test\20251029\19
+2025-10-29 14:17:21,360 - JudgeController - INFO - Evaluating function 19_1 CheckFileExistence
+2025-10-29 14:17:23,684 - JudgeController - INFO - Function 19_1 failed.
+2025-10-29 14:17:23,684 - JudgeController - INFO - Evaluating function 19_2 ValidateHeaders
+2025-10-29 14:17:25,965 - JudgeController - INFO - Function 19_2 failed.
+2025-10-29 14:17:25,965 - JudgeController - INFO - Evaluating function 19_3 ValidateEmptyFile
+2025-10-29 14:17:28,287 - JudgeController - INFO - Function 19_3 failed.
+2025-10-29 14:17:28,287 - JudgeController - INFO - Evaluating function 19_4 ValidateTimeColumn
+2025-10-29 14:17:30,965 - JudgeController - INFO - Function 19_4 failed.
+2025-10-29 14:17:30,965 - JudgeController - INFO - Evaluating function 19_5 ValidateNullValue
+2025-10-29 14:17:33,776 - JudgeController - INFO - Function 19_5 failed.
+2025-10-29 14:17:33,776 - JudgeController - INFO - Evaluating function 19_6 RunProject1
+2025-10-29 14:17:36,720 - JudgeController - INFO - Function 19_6 failed.
+2025-10-29 14:17:36,720 - JudgeController - INFO - Evaluating function 19_7 RunProject2
+2025-10-29 14:17:39,850 - JudgeController - INFO - Function 19_7 failed.
+2025-10-29 14:17:39,850 - JudgeController - INFO - Project id 19 scored 0.125
+2025-10-29 14:17:39,850 - JudgeController - INFO - Finished. Report: {'total': 284, 'pass': 1, 'failed': 7, 'score': 0.125, 'testcase': 8}
