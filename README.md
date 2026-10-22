@@ -23,7 +23,7 @@
 
 📄Paper: [https://dl.acm.org/doi/10.1145/3817119](https://dl.acm.org/doi/10.1145/3817119)
 
-🏆Leaderboard: Coming Soon
+🏆Leaderboard: [ProjectEval LeaderBoard](https://ryanloil.github.io/ProjectEval/)
 
 📫Contact: [Kaiyuan Liu](mailto:1171000408@stu.hit.edu.cn)
 
